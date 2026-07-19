@@ -1,4 +1,2 @@
-export function GET() { return new Response(`User-agent: *
-Allow: /
-Sitemap: https://bestvirtualassistantservices.com/sitemap.xml
-`, { headers: { 'content-type': 'text/plain' } }); }
+import { site } from '../data';
+export function GET() { return new Response(`User-agent: *\nAllow: /\nSitemap: ${site.url}/sitemap.xml\n`, { headers: { 'content-type': 'text/plain' } }); }

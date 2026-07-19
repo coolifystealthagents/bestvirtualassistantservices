@@ -27,7 +27,13 @@ p { margin:0 0 16px; }
 .stat { border-left:4px solid var(--brand); padding-left:14px; }
 .callout { background:linear-gradient(135deg,var(--brand),var(--accent)); color:white; border-radius:28px; padding:34px; }
 .footer { padding:40px 0; border-top:1px solid var(--line); color:var(--muted); }
+.footer-grid { display:grid; grid-template-columns:2fr 1fr 1fr; gap:24px; }
+.footer a { color:#233044; font-weight:700; }
 .quote { font-size:20px; font-weight:800; color:#233044; }
 .table { display:grid; gap:10px; }
 .row { display:grid; grid-template-columns: 1fr 1fr 1fr; gap:10px; padding:14px; border:1px solid var(--line); border-radius:16px; background:#fff; }
-@media (max-width: 800px) { .grid,.two,.cards { grid-template-columns:1fr; } .links { display:none; } .row { grid-template-columns:1fr; } }
+.article-section { margin:28px 0; }
+.source-note { margin-top:18px; color:var(--muted); font-size:14px; }
+.source-note a { text-decoration:underline; }
+input, textarea { border:1px solid var(--line); border-radius:12px; font:inherit; }
+@media (max-width: 800px) { .grid,.two,.cards,.footer-grid { grid-template-columns:1fr; } .links { display:none; } .row { grid-template-columns:1fr; } }

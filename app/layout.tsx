@@ -1,14 +1,17 @@
 import './globals.css';
 import type { Metadata } from 'next';
+import { JsonLd } from './components';
 import { site } from './data';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://bestvirtualassistantservices.com'),
-  title: { default: 'Best Virtual Assistant Services | Simple virtual assistant hiring guides', template: '%s | Best Virtual Assistant Services' },
-  description: 'Simple, practical guides for hiring, pricing, onboarding, and managing best virtual assistant services support.',
-  openGraph: { title: 'Best Virtual Assistant Services', description: 'Practical virtual assistant hiring guides for busy teams.', url: 'https://bestvirtualassistantservices.com', siteName: 'Best Virtual Assistant Services', type: 'website' },
+  metadataBase: new URL(site.url),
+  title: { default: 'Best Virtual Assistant Services | Compare VA pricing, providers, and tasks', template: '%s | Best Virtual Assistant Services' },
+  description: 'Simple, practical guides for comparing virtual assistant services, pricing, onboarding, provider vetting, and safe first tasks.',
+  openGraph: { title: 'Best Virtual Assistant Services', description: 'Practical virtual assistant service comparisons for busy teams.', url: site.url, siteName: site.brand, type: 'website' },
+  twitter: { card: 'summary_large_image', title: site.brand, description: 'Compare virtual assistant services, pricing, and provider fit in plain English.' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="en"><body>{children}</body></html>;
+  const schema = [{ '@context': 'https://schema.org', '@type': 'Organization', '@id': `${site.url}/#organization`, name: site.brand, url: site.url }, { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${site.url}/#website`, name: site.brand, url: site.url, publisher: { '@id': `${site.url}/#organization` } }];
+  return <html lang="en"><body><JsonLd data={schema}/>{children}</body></html>;
 }
