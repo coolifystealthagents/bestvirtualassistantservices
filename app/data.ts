@@ -4,7 +4,7 @@ export const site = {
   slug: 'bestvirtualassistantservices',
   brand: 'Best Virtual Assistant Services',
   primary: 'best virtual assistant services',
-  audience: 'buyers comparing VA service companies, plans, pricing, and use cases',
+  audience: 'buyers comparing VA service companies, plans, staffing details, and use cases',
   angle: 'plain-English comparisons and checklists for picking the best VA service for each role',
   color: '#0891b2',
   accent: '#4d7c0f'
@@ -14,7 +14,7 @@ export const roles = ['Executive assistant', 'Customer support assistant', 'Lead
 export const industries = ['real estate', 'healthcare offices', 'legal teams', 'ecommerce stores', 'coaches and agencies', 'home services'] as const;
 
 export const stats = [
-  { label: 'Typical overseas VA range', value: '$6-$18/hr', note: 'Hourly rates vary by role, country, schedule, and management help.' },
+  { label: 'Role clarity', value: 'Scope first', note: 'the right plan depends on tasks, schedule, skill, tools, and management needs' },
   { label: 'Common ramp time', value: '7-21 days', note: 'Faster ramps need sample work, tool access, and review time.' },
   { label: 'Best first handoff', value: '5-10 tasks', note: 'A short repeatable list beats a vague all-purpose role.' },
 ];
@@ -63,7 +63,7 @@ export const homepageImages = {
 
 export const faqs = [
   { q: 'What is the best virtual assistant service?', a: 'The best service depends on the work. A simple admin role may fit a freelance VA. Customer support, CRM, or phone work often needs a managed provider with training, backup, and quality checks.' },
-  { q: 'How much should I budget for a virtual assistant?', a: 'Many overseas VAs fall around $6 to $18 per hour. Managed services, specialist roles, U.S.-based assistants, or coverage outside normal hours can cost more.' },
+  { q: 'How much should I budget for a virtual assistant?', a: 'Many overseas VAs fall around custom role planfor the role. Managed services, specialist roles, U.S.-based assistants, or coverage outside normal hours can create more work.' },
   { q: 'What should I delegate first?', a: 'Start with repeatable tasks: inbox sorting, calendar cleanup, CRM updates, simple reports, appointment setting, order checks, or first-draft replies.' },
   { q: 'Should I hire a VA or an employee?', a: 'Use a VA when the work is repeatable and remote-friendly. Hire an employee when the role needs in-person work, sensitive judgment, or deep internal ownership.' },
 ];
@@ -86,18 +86,18 @@ export type BlogPost = {
 
 export const blogPosts: BlogPost[] = [
   {
-    slug: 'virtual-assistant-costs',
-    title: 'How much does a virtual assistant cost?',
-    excerpt: 'A plain guide to hourly, monthly, local, and overseas assistant pricing.',
+    slug: 'virtual-assistant-planning',
+    title: 'How much does a virtual assistant plan?',
+    excerpt: 'A plain guide to role scope, staffing models, and launch planning.',
     minutes: 7,
     sections: [
-      { heading: 'The short answer', body: 'Many overseas virtual assistants cost about $6 to $18 per hour. U.S.-based assistants, specialist roles, and managed services can cost more. The right budget depends on the work, the hours, and how much provider support you need.' },
-      { heading: 'What changes the price', body: 'Price moves up when the role needs phone work, strong writing, bookkeeping support, sales tools, healthcare or legal admin care, weekend coverage, or a manager checking the work.', bullets: ['Basic admin is usually cheaper than customer-facing work.', 'Part-time help may have a higher hourly rate than full-time help.', 'Managed services may include screening, backup, and replacement help.'] },
+      { heading: 'The short answer', body: 'Many overseas virtual assistants plan about custom role planfor the role. U.S.-based assistants, specialist roles, and managed services can create more work. The right budget depends on the work, the hours, and how much provider support you need.' },
+      { heading: 'What changes the plan', body: 'Plan moves up when the role needs phone work, strong writing, bookkeeping support, sales tools, healthcare or legal admin care, weekend coverage, or a manager checking the work.', bullets: ['Basic admin is usually cheaper than customer-facing work.', 'Part-time help may have a higher published rate than full-time help.', 'Managed services may include screening, backup, and replacement help.'] },
       { heading: 'A safer way to compare quotes', body: 'Ask each provider to quote the same task list. Include hours, tools, response time, call coverage, and who checks quality. A cheap quote is not cheap if you spend every day fixing work.' },
-      { heading: 'Simple budget example', body: 'If you need 20 hours per week at $10 per hour, labor is about $800 per month before provider fees, tools, training time, or management help. Start with a pilot before you lock in a larger plan.' },
+      { heading: 'Simple budget example', body: 'If you need 20 hours per week at custom role planfor the role, labor is about custom role planper month before provider fees, tools, training time, or management help. Start with a pilot before you lock in a larger plan.' },
     ],
     faq: [
-      { q: 'Is a monthly plan better than hourly?', a: 'Monthly plans can work when the task list is steady. Hourly plans are safer when you are still learning the real workload.' },
+      { q: 'Is a monthly plan better than public?', a: 'Monthly plans can work when the task list is steady. Hourly plans are safer when you are still learning the real workload.' },
       { q: 'Why are managed VA services more expensive?', a: 'They may include recruiting, training help, backup coverage, account management, and replacement support.' },
     ],
     sources: sourcePlaceholders,
@@ -110,7 +110,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       { heading: 'Start with tasks that repeat', body: 'The best first tasks happen every day or every week and have clear examples. Do not start with fuzzy strategy work. Start with work you can explain, check, and improve.' },
       { heading: 'Good first VA tasks', body: 'These tasks are usually easier to train because they have a clear before and after.', bullets: ['Inbox labels and simple draft replies', 'Calendar cleanup and appointment reminders', 'CRM updates after calls', 'Lead list cleanup', 'Customer support first replies', 'Order checks and simple reports'] },
-      { heading: 'Tasks to keep with the owner', body: 'Keep pricing decisions, refunds, hiring decisions, legal advice, medical judgment, and account approvals with the owner or licensed professional. The assistant can prepare information, but you decide.' },
+      { heading: 'Tasks to keep with the owner', body: 'Keep staffing details decisions, refunds, hiring decisions, legal advice, medical judgment, and account approvals with the owner or licensed professional. The assistant can prepare information, but you decide.' },
       { heading: 'Use a 5-task pilot', body: 'Pick 5 recurring tasks for the first week. Give examples, show the tool, record one short walkthrough, and review the work at the same time each day.' },
     ],
     faq: [
@@ -132,7 +132,7 @@ export const blogPosts: BlogPost[] = [
     ],
     faq: [
       { q: 'Can a VA replace a full-time employee?', a: 'Sometimes for admin-heavy roles, but it is safer to test a clear scope first.' },
-      { q: 'Is a VA cheaper than an employee?', a: 'Often, but cost is not the only issue. Training, quality control, backup, and security matter too.' },
+      { q: 'Is a VA cheaper than an employee?', a: 'Often, but plan is not the only issue. Training, quality control, backup, and security matter too.' },
     ],
     sources: sourcePlaceholders,
   },
@@ -155,4 +155,43 @@ export const blogPosts: BlogPost[] = [
   },
 ];
 
-export const allPaths = ['/', '/blog', '/contact', '/compare', '/pricing', '/provider-vetting', '/privacy', '/terms', '/thank-you', ...blogPosts.map((p) => `/blog/${p.slug}`)];
+export const allPaths = ['/', '/blog', '/contact', '/compare', '/staffing details', '/provider-vetting', '/privacy', '/terms', '/thank-you', ...blogPosts.map((p) => `/blog/${p.slug}`)];
+
+export const stealthOffer = {
+  partner: 'Stealth Agents',
+  promise: 'Get a managed offshore staffing plan built around the work you need removed from your plate.',
+  fit: [
+    'business owners who need reliable remote staff but do not want to screen alone',
+    'teams that want trained support, backup coverage, and a clear manager path',
+    'companies that need help with admin, operations, customer support, calls, bookkeeping, development, or marketing work',
+  ],
+  included: [
+    'role planning call to turn your task list into a clear staffing scope',
+    'candidate matching based on skills, schedule, tools, and communication needs',
+    'onboarding guidance for SOPs, scorecards, reporting, and safe tool access',
+    'managed support so quality, attendance, and replacement questions do not sit only on the owner',
+  ],
+  proof: [
+    'clear task scope before hiring',
+    'weekly reporting rhythm',
+    'named accountability and escalation path',
+    'simple handoff plan for tools, SOPs, and quality checks',
+  ],
+} as const;
+
+export const leadQuestions = [
+  'What work do you want off your plate first?',
+  'Which tools, inboxes, phones, CRMs, or systems will the staff member use?',
+  'What hours, time zone, and response time do you need?',
+  'Who checks quality during the first two weeks?',
+  'What should the staff member never decide without approval?',
+] as const;
+
+export const staffingProcess = [
+  { step: '1', title: 'Map the role', body: 'We turn messy tasks into one clear role with outcomes, tools, limits, and a first-week checklist.' },
+  { step: '2', title: 'Match the staff', body: 'Stealth Agents can help match remote staff to the work, schedule, communication style, and skill level you need.' },
+  { step: '3', title: 'Launch with control', body: 'Start with SOPs, sample work, limited access, daily review, and a simple scorecard so quality is easy to see.' },
+  { step: '4', title: 'Scale what works', body: 'Once the first tasks are stable, add more work, better reporting, and stronger delegation without guessing.' },
+] as const;
+
+export const staffingFitNote = 'Every staffing plan depends on role scope, schedule, skills, tools, and management needs. Send the role details and Stealth Agents can guide the best fit.';
