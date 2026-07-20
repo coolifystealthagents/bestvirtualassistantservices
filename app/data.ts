@@ -42,6 +42,25 @@ export const providerQuestions = [
   'What reports or scorecards do we see each week?',
 ];
 
+export const reviewCriteria = [
+  { label: 'Screening', score: '25%', note: 'Role tests, writing samples, reference checks, and tool comfort.' },
+  { label: 'Management help', score: '25%', note: 'Who checks the work, handles misses, and replaces a poor fit.' },
+  { label: 'Security basics', score: '20%', note: 'Password sharing rules, least-access setup, and customer-data boundaries.' },
+  { label: 'Role match', score: '20%', note: 'Proof the provider has staffed the same kind of assistant before.' },
+  { label: 'Pilot terms', score: '10%', note: 'A small paid test before a long contract or bigger hour block.' },
+] as const;
+
+export const homepageImages = {
+  hero: {
+    url: 'https://images.unsplash.com/photo-1551836022-deb4988cc6c0?auto=format&fit=crop&w=900&q=80',
+    alt: 'Business owner reviewing virtual assistant service notes on a laptop',
+  },
+  scorecard: {
+    url: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=900&q=80',
+    alt: 'Editorial team comparing provider scorecards on a conference table',
+  },
+} as const;
+
 export const faqs = [
   { q: 'What is the best virtual assistant service?', a: 'The best service depends on the work. A simple admin role may fit a freelance VA. Customer support, CRM, or phone work often needs a managed provider with training, backup, and quality checks.' },
   { q: 'How much should I budget for a virtual assistant?', a: 'Many overseas VAs fall around $6 to $18 per hour. Managed services, specialist roles, U.S.-based assistants, or coverage outside normal hours can cost more.' },
