@@ -4,7 +4,7 @@ export const site = {
   slug: 'bestvirtualassistantservices',
   brand: 'Best Virtual Assistant Services',
   primary: 'best virtual assistant services',
-  audience: 'buyers comparing VA service companies, plans, staffing details, and use cases',
+  audience: 'buyers comparing VA service companies, plans, role scope, and use cases',
   angle: 'plain-English comparisons and checklists for picking the best VA service for each role',
   color: '#0891b2',
   accent: '#4d7c0f'
@@ -59,11 +59,42 @@ export const homepageImages = {
     url: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=900&q=80',
     alt: 'Editorial team comparing provider scorecards on a conference table',
   },
+  comparisonDesk: {
+    url: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=80',
+    alt: 'Review desk with notes, rating sheets, and laptop used to compare assistant providers',
+  },
 } as const;
+
+export const shortlistCards = [
+  {
+    rank: 'Best for busy owners',
+    title: 'Managed VA service',
+    score: '4.8',
+    fit: 'Recurring admin, inbox, calendar, calls, and follow-up when you want help with matching and backup.',
+    proof: 'Ask for the manager path, replacement terms, weekly reports, and a small pilot before a long agreement.',
+    href: '/provider-vetting',
+  },
+  {
+    rank: 'Best for simple projects',
+    title: 'Freelance VA',
+    score: '4.1',
+    fit: 'Short task lists, cleanup work, research, data entry, and owners who can train the assistant directly.',
+    proof: 'Use sample tasks, time limits, and shared examples. Keep account access narrow at first.',
+    href: '/blog/tasks-to-delegate-first',
+  },
+  {
+    rank: 'Best for customer work',
+    title: 'Specialist assistant team',
+    score: '4.5',
+    fit: 'Support tickets, ecommerce replies, lead follow-up, real estate admin, or phone-heavy roles.',
+    proof: 'Look for scripts, escalation rules, coverage plans, and examples from the same type of role.',
+    href: '/compare',
+  },
+] as const;
 
 export const faqs = [
   { q: 'What is the best virtual assistant service?', a: 'The best service depends on the work. A simple admin role may fit a freelance VA. Customer support, CRM, or phone work often needs a managed provider with training, backup, and quality checks.' },
-  { q: 'How much should I budget for a virtual assistant?', a: 'Many overseas VAs fall around custom role planfor the role. Managed services, specialist roles, U.S.-based assistants, or coverage outside normal hours can create more work.' },
+  { q: 'How much should I budget for a virtual assistant?', a: 'Budget depends on the role, hours, country, management help, and coverage needs. Compare the task scope and support model before you compare price.' },
   { q: 'What should I delegate first?', a: 'Start with repeatable tasks: inbox sorting, calendar cleanup, CRM updates, simple reports, appointment setting, order checks, or first-draft replies.' },
   { q: 'Should I hire a VA or an employee?', a: 'Use a VA when the work is repeatable and remote-friendly. Hire an employee when the role needs in-person work, sensitive judgment, or deep internal ownership.' },
 ];
@@ -87,14 +118,14 @@ export type BlogPost = {
 export const blogPosts: BlogPost[] = [
   {
     slug: 'virtual-assistant-planning',
-    title: 'How much does a virtual assistant plan?',
+    title: 'How much should you budget for a virtual assistant?',
     excerpt: 'A plain guide to role scope, staffing models, and launch planning.',
     minutes: 7,
     sections: [
-      { heading: 'The short answer', body: 'Many overseas virtual assistants plan about custom role planfor the role. U.S.-based assistants, specialist roles, and managed services can create more work. The right budget depends on the work, the hours, and how much provider support you need.' },
+      { heading: 'The short answer', body: 'Budget depends on the role, hours, country, management help, and coverage needs. U.S.-based assistants, specialist roles, and managed services usually need a larger budget than simple overseas admin help.' },
       { heading: 'What changes the plan', body: 'Plan moves up when the role needs phone work, strong writing, bookkeeping support, sales tools, healthcare or legal admin care, weekend coverage, or a manager checking the work.', bullets: ['Basic admin is usually cheaper than customer-facing work.', 'Part-time help may have a higher published rate than full-time help.', 'Managed services may include screening, backup, and replacement help.'] },
       { heading: 'A safer way to compare quotes', body: 'Ask each provider to quote the same task list. Include hours, tools, response time, call coverage, and who checks quality. A cheap quote is not cheap if you spend every day fixing work.' },
-      { heading: 'Simple budget example', body: 'If you need 20 hours per week at custom role planfor the role, labor is about custom role planper month before provider fees, tools, training time, or management help. Start with a pilot before you lock in a larger plan.' },
+      { heading: 'Simple budget example', body: 'If you need 20 hours per week, ask each provider to quote the same task list. Separate labor, management fees, tools, training time, and backup coverage. Start with a pilot before you lock in a larger plan.' },
     ],
     faq: [
       { q: 'Is a monthly plan better than public?', a: 'Monthly plans can work when the task list is steady. Hourly plans are safer when you are still learning the real workload.' },
@@ -110,7 +141,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       { heading: 'Start with tasks that repeat', body: 'The best first tasks happen every day or every week and have clear examples. Do not start with fuzzy strategy work. Start with work you can explain, check, and improve.' },
       { heading: 'Good first VA tasks', body: 'These tasks are usually easier to train because they have a clear before and after.', bullets: ['Inbox labels and simple draft replies', 'Calendar cleanup and appointment reminders', 'CRM updates after calls', 'Lead list cleanup', 'Customer support first replies', 'Order checks and simple reports'] },
-      { heading: 'Tasks to keep with the owner', body: 'Keep staffing details decisions, refunds, hiring decisions, legal advice, medical judgment, and account approvals with the owner or licensed professional. The assistant can prepare information, but you decide.' },
+      { heading: 'Tasks to keep with the owner', body: 'Keep pricing decisions, refunds, hiring choices, legal advice, medical judgment, and account approvals with the owner or licensed professional. The assistant can prepare information, but you decide.' },
       { heading: 'Use a 5-task pilot', body: 'Pick 5 recurring tasks for the first week. Give examples, show the tool, record one short walkthrough, and review the work at the same time each day.' },
     ],
     faq: [
@@ -155,7 +186,7 @@ export const blogPosts: BlogPost[] = [
   },
 ];
 
-export const allPaths = ['/', '/blog', '/contact', '/compare', '/staffing details', '/provider-vetting', '/privacy', '/terms', '/thank-you', ...blogPosts.map((p) => `/blog/${p.slug}`)];
+export const allPaths = ['/', '/blog', '/contact', '/compare', '/provider-vetting', '/privacy', '/terms', '/thank-you', ...blogPosts.map((p) => `/blog/${p.slug}`)];
 
 export const stealthOffer = {
   partner: 'Stealth Agents',

@@ -5,10 +5,10 @@ import { site } from './data';
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
-  title: { default: 'Best Virtual Assistant Services | Compare VA staffing details, providers, and tasks', template: '%s | Best Virtual Assistant Services' },
-  description: 'Simple, practical guides for comparing virtual assistant services, staffing details, onboarding, provider vetting, and safe first tasks.',
+  title: { default: 'Best Virtual Assistant Services | Compare VA providers, roles, and tasks', template: '%s | Best Virtual Assistant Services' },
+  description: 'Simple, practical guides for comparing virtual assistant services, role scope, onboarding, provider vetting, and safe first tasks.',
   openGraph: { title: 'Best Virtual Assistant Services', description: 'Practical virtual assistant service comparisons for busy teams.', url: site.url, siteName: site.brand, type: 'website' },
-  twitter: { card: 'summary_large_image', title: site.brand, description: 'Compare virtual assistant services, staffing details, and provider fit in plain English.' },
+  twitter: { card: 'summary_large_image', title: site.brand, description: 'Compare virtual assistant services, role scope, and provider fit in plain English.' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
