@@ -22,17 +22,17 @@ export default function Home() {
         <div className="container research-hero-grid">
           <div className="research-copy">
             <p className="issue-label"><span>Independent buyer's guide</span><span>2026 edition</span></p>
-            <h1>Find the virtual assistant service that fits the work.</h1>
+            <h1>Find a virtual assistant service that fits.</h1>
             <p className="research-lead">A good VA match starts with the role, not a sales pitch. Compare managed services, specialist teams, freelancers, and local hires with one clear scorecard.</p>
             <div className="actions">
               <a className="btn primary" href="/contact">Build my shortlist</a>
               <a className="text-action" href="/compare">Compare service models <span aria-hidden="true">↗</span></a>
             </div>
-            <p className="cta-note">"Build my shortlist" opens a two-minute intake. If a staffing partner fits the request, we may share the details so they can follow up.</p>
+            <p className="cta-note">The intake asks about the role, tools, schedule, and review needs. If a staffing partner fits the request, we may share the details so they can follow up.</p>
             <div className="planning-notes" aria-label="Planning guidance">
               <div><strong>4</strong><span>service models compared</span></div>
-              <div><strong>5–10</strong><span>tasks for a useful first pilot</span></div>
-              <div><strong>7–21 days</strong><span>common planning range for a simple ramp</span></div>
+              <div><strong>Small</strong><span>first task list</span></div>
+              <div><strong>Daily</strong><span>review during the first week</span></div>
             </div>
           </div>
 
@@ -99,7 +99,7 @@ export default function Home() {
 
       <section className="container editorial-section launch-section">
         <div className="section-intro compact">
-          <div><p className="section-number">03 / First week</p><h2>A small pilot tells you more than a long proposal.</h2></div>
+          <div><p className="section-number">03 / First week</p><h2>Test the handoff with a small piece of real work.</h2></div>
           <p>Use real work, keep access narrow, and review at the same time each day. You are testing the handoff as much as the assistant.</p>
         </div>
         <div className="steps-grid">
