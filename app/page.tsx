@@ -9,7 +9,7 @@ export default function Home() {
     '@type': 'WebSite',
     name: site.brand,
     url: site.url,
-    description: 'Independent guides for comparing virtual assistant services, support models, and provider fit.',
+    description: 'Independent guides for comparing Philippines-based virtual assistant services, support models, and provider fit.',
   };
 
   return <>
@@ -21,32 +21,32 @@ export default function Home() {
         <div className="hero-rule" aria-hidden="true" />
         <div className="container research-hero-grid">
           <div className="research-copy">
-            <p className="issue-label"><span>Independent buyer's guide</span><span>2026 edition</span></p>
-            <h1>Find a virtual assistant service that fits.</h1>
-            <p className="research-lead">A good VA match starts with the role, not a sales pitch. Compare managed services, specialist teams, freelancers, and local hires with one clear scorecard.</p>
+            <p className="issue-label"><span>Independent buyer's guide</span><span>Philippines-only talent</span></p>
+            <h1>Compare Filipino virtual assistant services with a clearer scorecard.</h1>
+            <p className="research-lead">Start with the role, not a sales pitch. Use the same questions to compare managed services, specialist teams, and freelance Filipino assistants.</p>
             <div className="actions">
-              <a className="btn primary" href="/contact">Build my shortlist</a>
+              <a className="btn primary" href="/contact">Build my Filipino VA shortlist</a>
               <a className="text-action" href="/compare">Compare service models <span aria-hidden="true">↗</span></a>
             </div>
-            <p className="cta-note">The intake asks about the role, tools, schedule, and review needs. If a staffing partner fits the request, we may share the details so they can follow up.</p>
+            <p className="cta-note">Every staffing path on this site recruits in the Philippines. The intake asks about the role, tools, schedule, and review needs before a Filipino staffing partner follows up.</p>
             <div className="planning-notes" aria-label="Planning guidance">
+              <div><strong>PH</strong><span>only recruiting market</span></div>
               <div><strong>4</strong><span>service models compared</span></div>
-              <div><strong>Small</strong><span>first task list</span></div>
-              <div><strong>Daily</strong><span>review during the first week</span></div>
+              <div><strong>100</strong><span>points in the vetting scorecard</span></div>
             </div>
           </div>
 
           <div className="editorial-visual">
             <div className="image-frame">
-              <img src="/va-comparison-team.jpg" alt="Team reviewing notes together while comparing virtual assistant support options" />
-              <span className="photo-index">Comparison desk</span>
+              <img src="/va-comparison-team.jpg" alt="Filipino support team reviewing notes for a virtual assistant service comparison" />
+              <span className="photo-index">Philippines review desk</span>
             </div>
             <aside className="quick-pick" aria-label="Management load by service model">
               <p>Planning lens</p>
               <h2>Management load by service model</h2>
-              <div><span>Less</span><b>Managed service</b></div>
-              <div><span>Some</span><b>Specialist team</b></div>
-              <div><span>More</span><b>Freelance VA</b></div>
+              <div><span>Less</span><b>Managed Filipino service</b></div>
+              <div><span>Some</span><b>Filipino specialist team</b></div>
+              <div><span>More</span><b>Freelance Filipino VA</b></div>
             </aside>
           </div>
         </div>
@@ -55,7 +55,7 @@ export default function Home() {
       <section className="signal-strip" aria-label="What this guide helps compare">
         <div className="container">
           <span>Screening</span><i />
-          <span>Role fit</span><i />
+          <span>Filipino role fit</span><i />
           <span>Management</span><i />
           <span>Backup</span><i />
           <span>Security</span>
