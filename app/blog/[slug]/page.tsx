@@ -1,26 +1,3 @@
-import { Header, Footer, CTA, JsonLd } from '../../components';
-import { blogPosts, site } from '../../data';
-
-export function generateStaticParams() { return blogPosts.map((p)=>({ slug: p.slug })); }
-
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
-  const post = blogPosts.find((p)=>p.slug===slug);
-  return { title: post?.title || 'Guide', description: post?.excerpt };
-}
-
-export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
- const { slug } = await params;
- const post = blogPosts.find((p)=>p.slug===slug) || blogPosts[0];
- const related = blogPosts.filter((p)=>p.slug !== post.slug).slice(0,3);
- const schema = [{
-  '@context': 'https://schema.org', '@type': 'Article', headline: post.title, description: post.excerpt, url: `${site.url}/blog/${post.slug}`,
-  publisher: { '@type': 'Organization', name: site.brand, url: site.url },
-  mainEntityOfPage: `${site.url}/blog/${post.slug}`,
-  citation: post.sources?.map((s)=>s.url),
-  hasPart: post.sections.map((s, i)=>({ '@type': 'WebPageElement', position: i + 1, name: s.heading }))
- }, {
-  '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: post.faq.map((f)=>({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } }))
- }];
- return <><Header/><main className="section"><JsonLd data={schema}/><article className="container" style={{maxWidth:900}}><p className="eyebrow">{site.brand} guide</p><h1>{post.title}</h1><p className="lead">{post.excerpt}</p><div className="card"><h2>Key takeaways</h2><ul className="list">{post.keyTakeaways.map((item)=><li key={item}>{item}</li>)}</ul></div>{post.sections.map((section)=><section className="article-section" key={section.heading}><h2>{section.heading}</h2><p>{section.body}</p>{section.bullets ? <ul className="list">{section.bullets.map((b)=><li key={b}>{b}</li>)}</ul> : null}</section>)}<section className="card"><h2>Question to use on a provider call</h2><p className="quote">"Here is the work we need help with. How would you screen, train, provide backup, and check quality for this role?"</p><p>Share a few real tasks and ask the provider to talk through the first week.</p></section><section className="article-section"><h2>FAQ</h2>{post.faq.map((f)=><div key={f.q}><h3>{f.q}</h3><p>{f.a}</p></div>)}</section>{post.sources?.length ? <section className="article-section"><h2>Sources and context</h2><div className="cards">{post.sources.map((s)=><a className="card" href={s.url} key={s.name}><h3>{s.name}</h3><p>{s.note}</p></a>)}</div></section> : null}<section className="article-section"><h2>Related guides</h2><div className="cards">{related.map((p)=><a className="card" href={`/blog/${p.slug}`} key={p.slug}><h3>{p.title}</h3><p>{p.excerpt}</p></a>)}</div></section></article><CTA/></main><Footer/></>;
-}
+import {notFound} from 'next/navigation'; import {Header,Footer,CTA} from '../../components'; import {blogPosts,site} from '../../data';
+export function generateStaticParams(){return blogPosts.map(p=>({slug:p.slug}))}
+export default async function Post({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const p=blogPosts.find(x=>x.slug===slug);if(!p)notFound();return <><Header/><main><article className="section"><div className="container article-shell"><p className="eyebrow">{site.brand} blog</p><h1>{p.title}</h1><p className="lead">{p.excerpt}</p><section className="card"><h2>Start with a defined workflow</h2><p>For Philippines-based staffing, document the work, tools, schedule, and desired outcome before candidate matching. Keep business judgment and final approvals with a named manager.</p><h2>Prepare representative examples</h2><p>Use real, appropriately redacted examples to explain quality. Review early work together and update the written process when an exception appears.</p><h2>Plan access and handoffs</h2><p>Provide only the access needed for the position and use named accounts where possible. Write down which questions must be escalated and who receives them.</p></section></div></article><CTA/></main><Footer/></>}
