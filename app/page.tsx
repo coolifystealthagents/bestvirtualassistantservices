@@ -1,5 +1,6 @@
 import { Header, Footer, JsonLd } from './components';
 import { site, comparisonRows, reviewCriteria, vettingSteps, faqs, blogPosts } from './data';
+import { researchPosts } from './fleet-data';
 
 const modelLabel = (option: string) => option.replace(' virtual assistant', '').replace(' assistant', '');
 
@@ -114,6 +115,19 @@ export default function Home() {
       <section className="reading-room">
         <div className="container">
           <div className="reading-head"><div><p className="section-number light">04 / Reading room</p><h2>Do the homework before the sales call.</h2></div><a href="/blog">Browse all guides →</a></div>
+          {researchPosts[0] ? <a className="featured-report" href={`/research/${researchPosts[0].slug}`}>
+            <div>
+              <span className="featured-report-label">New Philippines evidence report</span>
+              <h3>{researchPosts[0].title}</h3>
+              <p>{researchPosts[0].excerpt}</p>
+              <b>Read the sourced report →</b>
+            </div>
+            <dl aria-label="Report details">
+              <div><dt>Sources</dt><dd>{researchPosts[0].sources.length}</dd></div>
+              <div><dt>Buyer checks</dt><dd>{researchPosts[0].keyTakeaways.length}</dd></div>
+              <div><dt>Read time</dt><dd>{researchPosts[0].readingMinutes} min</dd></div>
+            </dl>
+          </a> : null}
           <div className="article-grid">
             {blogPosts.slice(0, 3).map((post, index) => <a href={`/blog/${post.slug}`} key={post.slug}>
               <span>{String(index + 1).padStart(2, '0')} · {post.minutes} min read</span>
