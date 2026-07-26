@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { Header, Footer, JsonLd } from '../../components';
 import { researchPosts, ResearchPost, ResearchParagraph } from '../../fleet-data';
 import { site } from '../../data';
+import { RichResearchArticle } from './rich-report';
 
 const baseUrl = site.url;
 
@@ -49,7 +50,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
   const canonical = `${baseUrl}/research/${post.slug}`;
   const reportSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Report',
+    '@type': post.primaryKeyword ? 'BlogPosting' : 'Report',
     '@id': `${canonical}#report`,
     headline: post.title,
     description: post.excerpt,
@@ -61,7 +62,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
     publisher: { '@id': `${baseUrl}/#organization` },
     isPartOf: { '@id': `${baseUrl}/#website` },
     about: [
-      { '@type': 'Thing', name: 'Filipino virtual assistants' },
+      { '@type': 'Thing', name: post.primaryKeyword || 'Filipino virtual assistants' },
       { '@type': 'Country', name: 'Philippines' },
       { '@type': 'Thing', name: 'Remote staffing buyer research' },
     ],
@@ -86,6 +87,10 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
       acceptedAnswer: { '@type': 'Answer', text: item.a },
     })),
   };
+
+  if (post.primaryKeyword) {
+    return <RichResearchArticle post={post} schemas={[reportSchema, breadcrumbSchema, faqSchema]}/>;
+  }
 
   return <>
     <Header/>

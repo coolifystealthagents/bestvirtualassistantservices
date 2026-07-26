@@ -1,3 +1,5 @@
+import { hireVirtualAssistantPhilippinesPost } from './research/hire-virtual-assistant-philippines-data';
+
 export type FleetService = { slug: string; title: string; desc: string; tasks: readonly string[]; controls: readonly string[]; firstWeek: readonly string[] };
 export type ResearchSource = { id: number; name: string; title: string; url: string; scope: 'Philippines evidence' | 'Global comparison' | 'Buyer security standard' };
 export type ResearchParagraph = { text: string; citations?: readonly number[] };
@@ -17,6 +19,12 @@ export type ResearchPost = {
   faq: readonly { q: string; a: string; citations?: readonly number[] }[];
   relatedLinks: readonly { title: string; description: string; href: string }[];
   sources: readonly ResearchSource[];
+  primaryKeyword?: string;
+  noPricing?: boolean;
+  expertQuote?: { quote: string; person: string; title: string; sourceId: number };
+  chart?: { title: string; unit: string; method: string; items: readonly { label: string; value: number; display: string; year: string; citation: number }[] };
+  graphic?: { title: string; steps: readonly { label: string; detail: string }[]; note: string };
+  banners?: readonly { eyebrow: string; title: string; text: string; href: string; linkLabel: string }[];
 };
 
 export const fleetServices: readonly FleetService[] = [
@@ -183,7 +191,8 @@ export const researchPosts: readonly ResearchPost[] = [
       { id: 9, name: 'National Institute of Standards and Technology', title: 'Guide to Enterprise Telework, Remote Access, and Bring Your Own Device Security', url: 'https://csrc.nist.gov/pubs/sp/800/46/r2/final', scope: 'Buyer security standard' },
       { id: 10, name: 'Cybersecurity and Infrastructure Security Agency', title: 'Multi-Factor Authentication (MFA)', url: 'https://www.cisa.gov/resources-tools/resources/multi-factor-authentication-mfa', scope: 'Buyer security standard' }
     ]
-  }
+  },
+  hireVirtualAssistantPhilippinesPost
 ];
 
 export const postsPerPage = 20;
