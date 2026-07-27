@@ -20,8 +20,9 @@ function ArticleBanner({ banner, number }: { banner: NonNullable<ResearchPost['b
 
 function EvidenceChart({ chart }: { chart: NonNullable<ResearchPost['chart']> }) {
   const max = 100;
-  return <figure className="publisher-visual" id="evidence-chart">
+  return <figure className="publisher-visual" id="evidence-chart" tabIndex={0} aria-label={`${chart.title}. Scroll sideways to read the full chart.`}>
     <figcaption><strong>{chart.title}</strong><span>{chart.unit}</span></figcaption>
+    <p className="visual-scroll-cue">Swipe sideways to read the chart.</p>
     <svg viewBox="0 0 760 390" role="img" aria-labelledby="chart-title chart-desc">
       <title id="chart-title">{chart.title}</title>
       <desc id="chart-desc">Horizontal bar chart of four Philippine indicators. Each bar is labeled with its percentage and year.</desc>
@@ -49,8 +50,9 @@ function EvidenceChart({ chart }: { chart: NonNullable<ResearchPost['chart']> })
 }
 
 function ControlGraphic({ graphic }: { graphic: NonNullable<ResearchPost['graphic']> }) {
-  return <figure className="publisher-visual publisher-control-map" id="control-map">
+  return <figure className="publisher-visual publisher-control-map" id="control-map" tabIndex={0} aria-label={`${graphic.title}. Scroll sideways to read the full graphic.`}>
     <figcaption><strong>{graphic.title}</strong><span>Task ownership guide</span></figcaption>
+    <p className="visual-scroll-cue">Swipe sideways to read the graphic.</p>
     <svg viewBox="0 0 900 350" role="img" aria-labelledby="control-title control-desc">
       <title id="control-title">{graphic.title}</title>
       <desc id="control-desc">Three connected boxes show that the assistant prepares work, the manager reviews it, and the owner keeps final decisions.</desc>
@@ -75,6 +77,7 @@ function ControlGraphic({ graphic }: { graphic: NonNullable<ResearchPost['graphi
 export function RichResearchArticle({ post, schemas }: { post: ResearchPost; schemas: readonly unknown[] }) {
   const canonical = `${site.url}/research/${post.slug}`;
   const banners = post.banners || [];
+  const publishedLabel = new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${post.published}T00:00:00Z`));
   const firstSections = post.sections.slice(0, 2);
   const middleSections = post.sections.slice(2, 5);
   const lastSections = post.sections.slice(5);
@@ -92,7 +95,7 @@ export function RichResearchArticle({ post, schemas }: { post: ResearchPost; sch
               <h1>{post.title}</h1>
               <p className="research-report-lead">{post.excerpt}</p>
               <div className="research-report-meta" aria-label="Article details">
-                <span>Published <time dateTime={post.published}>July 24, 2026</time></span>
+                <span>Published <time dateTime={post.published}>{publishedLabel}</time></span>
                 <span>{post.readingMinutes} minute read</span>
                 <span>{post.sources.length} numbered sources</span>
               </div>
