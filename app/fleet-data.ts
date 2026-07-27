@@ -174,8 +174,8 @@ export const researchPosts: readonly ResearchPost[] = [
       { q: 'Can a Filipino virtual assistant safely handle customer data?', a: 'Remote access can be managed safely only when the buyer sets proper controls and the assistant follows them. Use named accounts, least privilege, multi-factor authentication, written escalation rules, activity review, and an offboarding checklist before sharing sensitive data.', citations: [7, 9, 10] }
     ],
     relatedLinks: [
-      { title: 'Virtual assistant budget planning', description: 'Compare role scope, staffing models, and the parts of a quote that change the real cost.', href: '/blog/virtual-assistant-planning' },
-      { title: 'Assistant onboarding checklist', description: 'Turn the first week into a clear sequence for access, examples, reviews, and scorecards.', href: '/blog/assistant-onboarding-checklist' },
+      { title: 'Virtual assistant budget planning', description: 'Compare role scope, staffing models, and the parts of a quote that change the real cost.', href: '/blog' },
+      { title: 'Assistant onboarding checklist', description: 'Turn the first week into a clear sequence for access, examples, reviews, and scorecards.', href: '/blog' },
       { title: 'Provider vetting guide', description: 'Use role examples, a paid test, security questions, and replacement terms to compare providers.', href: '/provider-vetting' },
       { title: 'Research library', description: 'Browse reviewed reports about Philippines-based virtual assistant operations.', href: '/research' }
     ],

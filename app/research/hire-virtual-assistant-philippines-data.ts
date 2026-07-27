@@ -128,7 +128,7 @@ export const hireVirtualAssistantPhilippinesPost = {
   banners: [
     { eyebrow: 'Role brief', title: 'Turn the task list into one job', text: 'Bring the tools, volume, work hours, and owner-only decisions. A staffing specialist can help shape a Philippines-based role around that scope.', href: '/contact', linkLabel: 'Discuss the role' },
     { eyebrow: 'Work test', title: 'Compare candidates on the same real task', text: 'Use dummy records, a short paid exercise, and one scorecard. Keep live customer data and sensitive account access out of the test.', href: '/provider-vetting', linkLabel: 'Use the provider vetting guide' },
-    { eyebrow: 'First month', title: 'Prepare the review plan before day one', text: 'Set review times, approval limits, and the access removal list while the role is still small. Add work only after the first task set stays accurate.', href: '/blog/assistant-onboarding-checklist', linkLabel: 'Open the onboarding checklist' }
+    { eyebrow: 'First month', title: 'Prepare the review plan before day one', text: 'Set review times, approval limits, and the access removal list while the role is still small. Add work only after the first task set stays accurate.', href: '/blog', linkLabel: 'Open the onboarding checklist' }
   ],
   methodology: [
     { text: 'Authenticated Ahrefs data captured on July 22, 2026, selected the phrase "hire virtual assistant philippines" from a US keyword comparison. The factual review then used World Bank series, Philippine law, NIST guidance, and CISA guidance rather than search snippets.' },
@@ -144,8 +144,8 @@ export const hireVirtualAssistantPhilippinesPost = {
   ],
   relatedLinks: [
     { title: 'Provider vetting guide', description: 'Compare work examples, paid tests, security answers, and support terms.', href: '/provider-vetting' },
-    { title: 'Assistant onboarding checklist', description: 'Plan access, examples, early reviews, and a first-week scorecard.', href: '/blog/assistant-onboarding-checklist' },
-    { title: 'Tasks to delegate first', description: 'Choose repeatable work with clear examples and owner boundaries.', href: '/blog/tasks-to-delegate-first' },
+    { title: 'Assistant onboarding checklist', description: 'Plan access, examples, early reviews, and a first-week scorecard.', href: '/blog' },
+    { title: 'Tasks to delegate first', description: 'Choose repeatable work with clear examples and owner boundaries.', href: '/blog' },
     { title: 'Philippines virtual assistant services', description: 'Review role pages built around Philippines-based support.', href: '/services' }
   ],
   sources: [
