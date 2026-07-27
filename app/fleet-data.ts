@@ -1,6 +1,7 @@
 import { hireVirtualAssistantPhilippinesPost } from './research/hire-virtual-assistant-philippines-data';
 import { philippinesVirtualAssistantDataEntryQualityControlPost } from './research/philippines-virtual-assistant-data-entry-quality-control-data';
 import { virtualAssistantPhilippinesCustomerInboxSupportPost } from './research/virtual-assistant-philippines-customer-inbox-support-data';
+import { virtualAssistantPhilippinesExecutiveCalendarManagementPost } from './research/virtual-assistant-philippines-executive-calendar-management-data';
 
 export type FleetService = { slug: string; title: string; desc: string; tasks: readonly string[]; controls: readonly string[]; firstWeek: readonly string[] };
 export type ResearchSource = { id: number; name: string; title: string; url: string; scope: 'Philippines evidence' | 'Global comparison' | 'Buyer security standard' };
@@ -196,7 +197,8 @@ export const researchPosts: readonly ResearchPost[] = [
   },
   hireVirtualAssistantPhilippinesPost,
   philippinesVirtualAssistantDataEntryQualityControlPost,
-  virtualAssistantPhilippinesCustomerInboxSupportPost
+  virtualAssistantPhilippinesCustomerInboxSupportPost,
+  virtualAssistantPhilippinesExecutiveCalendarManagementPost
 ];
 
 export const postsPerPage = 20;
