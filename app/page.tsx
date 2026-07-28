@@ -15,7 +15,7 @@ export default function Home() {
 
   return <>
     <Header />
-    <main className="research-home" data-design="comparison-desk-2026-07">
+    <main className="research-home" data-design="comparison-desk-2026-07" data-gi-rollout="two-illustration-packs-one-icon-pack">
       <JsonLd data={schema} />
 
       <section className="research-hero">
@@ -39,7 +39,7 @@ export default function Home() {
 
           <div className="editorial-visual">
             <div className="image-frame">
-              <img src="/va-comparison-team.jpg" alt="Filipino support team reviewing notes for a virtual assistant service comparison" />
+              <img src="/illustrations/getillustrations/goodle-business-illustrations-svg/va-service-comparison.svg" alt="Illustration of strategic planning for a Filipino virtual assistant service comparison" />
               <span className="photo-index">Philippines review desk</span>
             </div>
             <aside className="quick-pick" aria-label="Management load by service model">
@@ -55,9 +55,9 @@ export default function Home() {
 
       <section className="signal-strip" aria-label="What this guide helps compare">
         <div className="container">
-          <span>Screening</span><i />
-          <span>Filipino role fit</span><i />
-          <span>Management</span><i />
+          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/screening-check.svg" alt="" width="28" height="28" /> Screening</span><i />
+          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/role-fit-target.svg" alt="" width="28" height="28" /> Filipino role fit</span><i />
+          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/review-scorecard.svg" alt="" width="28" height="28" /> Management</span><i />
           <span>Backup</span><i />
           <span>Security</span>
         </div>
@@ -85,6 +85,7 @@ export default function Home() {
             <p className="section-number light">02 / Shortlist scorecard</p>
             <h2>Make the provider earn the shortlist.</h2>
             <p>Use the same questions in every call. A polished intro means less than clear answers about screening, supervision, access, and replacement support.</p>
+            <img src="/illustrations/getillustrations/goodle-team-illustrations-svg/provider-scorecard-review.svg" alt="" style={{ width: '100%', maxWidth: 360, marginTop: '1.5rem' }} loading="lazy" />
             <a className="btn paper-btn" href="/provider-vetting">Open the vetting guide</a>
           </div>
           <div className="score-sheet" aria-label="Provider review criteria">
