@@ -94,6 +94,7 @@ export function RichResearchArticle({ post, schemas }: { post: ResearchPost; sch
               <p className="eyebrow">Philippines hiring guide · 2026</p>
               <h1>{post.title}</h1>
               <p className="research-report-lead">{post.excerpt}</p>
+              {post.thumbnail ? <img src={post.thumbnail} alt="" width="760" height="420" loading="eager"/> : null}
               <div className="research-report-meta" aria-label="Article details">
                 <span>Published <time dateTime={post.published}>{publishedLabel}</time></span>
                 <span>{post.readingMinutes} minute read</span>

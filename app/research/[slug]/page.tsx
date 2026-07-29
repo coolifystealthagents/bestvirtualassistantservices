@@ -30,6 +30,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       modifiedTime: post.modified,
     },
     twitter: { card: 'summary', title: post.title, description: post.excerpt },
+    ...(post.thumbnail ? { openGraph: {
+      title: post.title, description: post.excerpt, url: canonical, siteName: site.brand,
+      type: 'article', publishedTime: post.published, modifiedTime: post.modified,
+      images: [{ url: `${baseUrl}${post.thumbnail}`, alt: post.title }],
+    }} : {}),
   };
 }
 
@@ -68,6 +73,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
     ],
     citation: post.sources.map((source) => source.url),
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+    ...(post.thumbnail ? { image: `${baseUrl}${post.thumbnail}` } : {}),
   };
   const breadcrumbSchema = {
     '@context': 'https://schema.org',

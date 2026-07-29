@@ -4,6 +4,7 @@ import { virtualAssistantPhilippinesCustomerInboxSupportPost } from './research/
 import { virtualAssistantPhilippinesExecutiveCalendarManagementPost } from './research/virtual-assistant-philippines-executive-calendar-management-data';
 import { virtualAssistantPhilippinesTravelPlanningAssistancePost } from './research/virtual-assistant-philippines-travel-planning-assistance-data';
 import { virtualAssistantPhilippinesCrmAdministrationPost } from './research/virtual-assistant-philippines-crm-administration-data';
+import { researchBatch20260729Posts } from './research/research-batch-2026-07-29-data';
 
 export type FleetService = { slug: string; title: string; desc: string; tasks: readonly string[]; controls: readonly string[]; firstWeek: readonly string[] };
 export type ResearchSource = { id: number; name: string; title: string; url: string; scope: 'Philippines evidence' | 'Global comparison' | 'Buyer security standard' };
@@ -30,6 +31,7 @@ export type ResearchPost = {
   chart?: { title: string; unit: string; method: string; items: readonly { label: string; value: number; display: string; year: string; citation: number }[] };
   graphic?: { title: string; steps: readonly { label: string; detail: string }[]; note: string };
   banners?: readonly { eyebrow: string; title: string; text: string; href: string; linkLabel: string }[];
+  thumbnail?: string;
 };
 
 export const fleetServices: readonly FleetService[] = [
@@ -46,6 +48,7 @@ export const fleetServices: readonly FleetService[] = [
 ];
 
 export const researchPosts: readonly ResearchPost[] = [
+  ...researchBatch20260729Posts,
   {
     slug: 'filipino-virtual-assistant-evidence-report',
     title: "Filipino Virtual Assistant: A 2026 Buyer's Evidence Report",
