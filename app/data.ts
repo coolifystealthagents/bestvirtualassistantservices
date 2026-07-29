@@ -87,7 +87,7 @@ export type BlogPost = {
 
 export const blogPosts: BlogPost[] = [];
 
-export const allPaths = ['/', '/blog', '/contact', '/compare', '/provider-vetting', '/privacy', '/terms', '/thank-you', ...blogPosts.map((p) => `/blog/${p.slug}`)];
+export const allPaths = ['/', '/blog', '/contact', '/compare', '/provider-vetting', '/privacy', '/terms', '/thank-you', '/alternatives', ...blogPosts.map((p) => `/blog/${p.slug}`)];
 
 export const staffingOffer = {
   fit: [
