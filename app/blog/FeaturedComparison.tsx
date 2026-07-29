@@ -1,5 +1,5 @@
 export function FeaturedComparison() {
-  return <section aria-label="Featured comparison" style={{padding:'18px 16px',background:'#0d2946',color:'#fff',textAlign:'center'}}>
-    <a href="/blog/top-50-virtual-assistant-companies" style={{display:'inline-block',maxWidth:980,color:'#fff',fontWeight:800,textDecoration:'none'}}>Featured guide: Top 50 Virtual Assistant Companies for Managed Remote Support · Compare 50 companies →</a>
+  return <section aria-label="Best Virtual Assistant Services featured comparison" style={{padding:'14px 16px',background:'#071b2d',borderBottom:'2px solid #0b6e99',textAlign:'left'}}>
+    <a href="/blog/top-50-virtual-assistant-companies" style={{display:'inline-block',maxWidth:820,color:'#fff',fontWeight:700,textDecoration:'none'}}>Best Virtual Assistant Services editor pick for managed virtual assistant: compare 50 Philippines-focused providers →</a>
   </section>;
 }
