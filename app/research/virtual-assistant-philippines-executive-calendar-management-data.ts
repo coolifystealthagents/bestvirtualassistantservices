@@ -124,7 +124,7 @@ export const virtualAssistantPhilippinesExecutiveCalendarManagementPost = {
     note: 'A meeting moves forward only when its purpose, guests, time zone, rule, approval state, and next action are clear.'
   },
   banners: [
-    { eyebrow: 'Role scope', title: 'Write the calendar job before you hire', text: 'Bring one calendar, meeting types, protected blocks, time zones, and owner decisions. We can help shape a Philippines-based role.', href: '/contact', linkLabel: 'Discuss the calendar role' },
+    { eyebrow: 'Role scope', title: 'Write the calendar job before you hire', text: 'Bring one calendar, meeting types, protected blocks, time zones, and owner decisions. We can help shape a Philippines-based role.', href: '/contact-us', linkLabel: 'Discuss the calendar role' },
     { eyebrow: 'Provider check', title: 'Ask how scheduling work is tested and reviewed', text: 'Use the same questions to compare work tests, account limits, quality checks, manager support, and replacement handling.', href: '/provider-vetting', linkLabel: 'Open the vetting guide' },
     { eyebrow: 'Related service', title: 'See the executive calendar task lane', text: 'Review a Philippines-based service page with recurring tasks, access controls, and a first-week plan.', href: '/services/executive-calendar-management', linkLabel: 'Review calendar support' }
   ],

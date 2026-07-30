@@ -123,7 +123,7 @@ export const philippinesVirtualAssistantDataEntryQualityControlPost = {
     note: 'A record moves forward only when its source, required fields, review status, and unresolved exceptions are visible.'
   },
   banners: [
-    { eyebrow: 'Role scope', title: 'Write the data-entry job before you hire', text: 'Bring one record type, the source files, field rules, weekly volume, and owner-only actions. A staffing specialist can help turn them into a Philippines-based role.', href: '/contact', linkLabel: 'Discuss the role' },
+    { eyebrow: 'Role scope', title: 'Write the data-entry job before you hire', text: 'Bring one record type, the source files, field rules, weekly volume, and owner-only actions. A staffing specialist can help turn them into a Philippines-based role.', href: '/contact-us', linkLabel: 'Discuss the role' },
     { eyebrow: 'Provider check', title: 'Ask how work is tested and reviewed', text: 'Compare the work sample, account controls, quality checks, exception process, and replacement support with the same questions.', href: '/provider-vetting', linkLabel: 'Open the vetting guide' },
     { eyebrow: 'Related role', title: 'See the CRM administration task lane', text: 'Review a Philippines-based CRM support page with written responsibilities, access limits, and a first-week plan.', href: '/services/crm-administration', linkLabel: 'Review CRM support' }
   ],

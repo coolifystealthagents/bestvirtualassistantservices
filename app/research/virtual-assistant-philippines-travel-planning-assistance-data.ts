@@ -118,7 +118,7 @@ export const virtualAssistantPhilippinesTravelPlanningAssistancePost = {
     note: 'A trip moves forward only when the traveler, route, local times, source checks, approval state, and next owner are clear.'
   },
   banners: [
-    { eyebrow: 'Role scope', title: 'Write the travel job before you hire', text: 'Bring one common trip, traveler rules, source list, fixed meetings, approval steps, and owner decisions. We can help shape a Philippines-based role.', href: '/contact', linkLabel: 'Discuss the travel role' },
+    { eyebrow: 'Role scope', title: 'Write the travel job before you hire', text: 'Bring one common trip, traveler rules, source list, fixed meetings, approval steps, and owner decisions. We can help shape a Philippines-based role.', href: '/contact-us', linkLabel: 'Discuss the travel role' },
     { eyebrow: 'Provider check', title: 'Ask how travel research is tested and reviewed', text: 'Use the same questions to compare work tests, account limits, source checks, manager support, and replacement handling.', href: '/provider-vetting', linkLabel: 'Open the vetting guide' },
     { eyebrow: 'Related service', title: 'See the travel planning task lane', text: 'Review a Philippines-based service page with recurring tasks, access controls, and a first-week plan.', href: '/services/travel-planning-assistance', linkLabel: 'Review travel support' }
   ],

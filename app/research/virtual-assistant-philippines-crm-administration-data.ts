@@ -114,7 +114,7 @@ export const virtualAssistantPhilippinesCrmAdministrationPost = {
     note: 'A record moves forward only when its source, match check, allowed edits, review state, and next owner are clear.'
   },
   banners: [
-    { eyebrow: 'Role scope', title: 'Write the CRM job before you hire', text: 'Bring one record type, source list, field map, duplicate rules, review steps, and owner-only decisions. We can help shape a Philippines-based role.', href: '/contact', linkLabel: 'Discuss the CRM role' },
+    { eyebrow: 'Role scope', title: 'Write the CRM job before you hire', text: 'Bring one record type, source list, field map, duplicate rules, review steps, and owner-only decisions. We can help shape a Philippines-based role.', href: '/contact-us', linkLabel: 'Discuss the CRM role' },
     { eyebrow: 'Provider check', title: 'Ask how CRM work is tested and reviewed', text: 'Use the same questions to compare work samples, account limits, quality checks, manager support, and replacement handling.', href: '/provider-vetting', linkLabel: 'Open the vetting guide' },
     { eyebrow: 'Related service', title: 'See the CRM administration task lane', text: 'Review a Philippines-based service page with recurring record tasks, access controls, and a first-week plan.', href: '/services/crm-administration', linkLabel: 'Review CRM support' }
   ],

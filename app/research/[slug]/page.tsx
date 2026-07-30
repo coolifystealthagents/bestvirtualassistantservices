@@ -118,7 +118,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
                 <span>{post.sources.length} direct sources</span>
               </div>
               <div className="research-hero-actions">
-                <a className="btn primary" href="/contact">Discuss a Philippines-based role</a>
+                <a className="btn primary" href="/contact-us">Discuss a Philippines-based role</a>
                 <a className="research-text-link" href="#methodology">Read the method</a>
               </div>
             </div>
@@ -190,7 +190,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
               </div>
               <div>
                 <p>Tell us the tasks, tools, hours, and decisions that must stay with your team. We can help you shape a Philippines-based role and choose the right public pricing tier without promising an outcome before the work is tested.</p>
-                <a className="btn primary" href="/contact">Contact a staffing specialist</a>
+                <a className="btn primary" href="/contact-us">Contact a staffing specialist</a>
               </div>
             </aside>
 

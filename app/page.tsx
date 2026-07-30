@@ -26,7 +26,7 @@ export default function Home() {
             <h1>Compare Filipino virtual assistant services with a clearer scorecard.</h1>
             <p className="research-lead">Start with the role, not a sales pitch. Use the same questions to compare managed services, specialist teams, and freelance Filipino assistants.</p>
             <div className="actions">
-              <a className="btn primary" href="/contact">Build my Filipino VA shortlist</a>
+              <a className="btn primary" href="/contact-us">Build my Filipino VA shortlist</a>
               <a className="text-action" href="/compare">Compare service models <span aria-hidden="true">↗</span></a>
             </div>
             <p className="cta-note">Every staffing path on this site recruits in the Philippines. The intake asks about the role, tools, schedule, and review needs before a Filipino staffing partner follows up.</p>
@@ -152,7 +152,7 @@ export default function Home() {
 
       <section className="container shortlist-cta">
         <div><p className="section-number">A useful next step</p><h2>Bring the task list. Leave with a sharper shortlist.</h2></div>
-        <div><p>Tell us what repeats, which tools are involved, and where mistakes would hurt. We will help narrow the service model before you start interviewing.</p><a className="btn primary" href="/contact">Build my shortlist</a></div>
+        <div><p>Tell us what repeats, which tools are involved, and where mistakes would hurt. We will help narrow the service model before you start interviewing.</p><a className="btn primary" href="/contact-us">Build my shortlist</a></div>
       </section>
     </main>
     <Footer />

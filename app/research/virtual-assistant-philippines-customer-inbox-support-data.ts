@@ -125,7 +125,7 @@ export const virtualAssistantPhilippinesCustomerInboxSupportPost = {
     note: 'A message moves forward only when the customer, approved source, allowed action, status, and unresolved question are visible.'
   },
   banners: [
-    { eyebrow: 'Role scope', title: 'Write the inbox job before you hire', text: 'Bring one queue, recent request types, approved sources, response windows, and owner-only decisions. A staffing specialist can help shape them into a Philippines-based role.', href: '/contact', linkLabel: 'Discuss the inbox role' },
+    { eyebrow: 'Role scope', title: 'Write the inbox job before you hire', text: 'Bring one queue, recent request types, approved sources, response windows, and owner-only decisions. A staffing specialist can help shape them into a Philippines-based role.', href: '/contact-us', linkLabel: 'Discuss the inbox role' },
     { eyebrow: 'Provider check', title: 'Ask how replies and access are reviewed', text: 'Use the same questions to compare work tests, account limits, quality checks, manager support, and replacement handling.', href: '/provider-vetting', linkLabel: 'Open the vetting guide' },
     { eyebrow: 'Related service', title: 'See the customer inbox support task lane', text: 'Review a Philippines-based service page with recurring tasks, access controls, and a first-week plan.', href: '/services/customer-inbox-support', linkLabel: 'Review inbox support' }
   ],

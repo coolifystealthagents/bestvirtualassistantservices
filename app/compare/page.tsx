@@ -117,7 +117,7 @@ export default function ComparePage(){
 
       <section className="container compare-final-cta">
         <div><p>Need a second set of eyes?</p><h2>Bring us the role, tools, and hours.</h2></div>
-        <div><p>We will help you choose a service model and build a tighter provider shortlist.</p><a href="/contact">Build my shortlist</a></div>
+        <div><p>We will help you choose a service model and build a tighter provider shortlist.</p><a href="/contact-us">Build my shortlist</a></div>
       </section>
     </main>
     <Footer/>

@@ -126,7 +126,7 @@ export const hireVirtualAssistantPhilippinesPost = {
     note: 'Move a task to the assistant only when the expected output, access limit, and review point are written.'
   },
   banners: [
-    { eyebrow: 'Role brief', title: 'Turn the task list into one job', text: 'Bring the tools, volume, work hours, and owner-only decisions. A staffing specialist can help shape a Philippines-based role around that scope.', href: '/contact', linkLabel: 'Discuss the role' },
+    { eyebrow: 'Role brief', title: 'Turn the task list into one job', text: 'Bring the tools, volume, work hours, and owner-only decisions. A staffing specialist can help shape a Philippines-based role around that scope.', href: '/contact-us', linkLabel: 'Discuss the role' },
     { eyebrow: 'Work test', title: 'Compare candidates on the same real task', text: 'Use dummy records, a short paid exercise, and one scorecard. Keep live customer data and sensitive account access out of the test.', href: '/provider-vetting', linkLabel: 'Use the provider vetting guide' },
     { eyebrow: 'First month', title: 'Prepare the review plan before day one', text: 'Set review times, approval limits, and the access removal list while the role is still small. Add work only after the first task set stays accurate.', href: '/blog', linkLabel: 'Open the onboarding checklist' }
   ],

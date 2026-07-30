@@ -113,7 +113,7 @@ function makePost(topic: typeof topics[number], index: number) {
       note: 'Expand scope only after the output, access boundary, and review record remain stable.'
     },
     banners: [
-      { eyebrow: 'Role brief', title: `Define the ${role} routine`, text: 'Bring the tools, volume, examples, and decisions that must stay with your business.', href: '/contact', linkLabel: 'Discuss the role' },
+      { eyebrow: 'Role brief', title: `Define the ${role} routine`, text: 'Bring the tools, volume, examples, and decisions that must stay with your business.', href: '/contact-us', linkLabel: 'Discuss the role' },
       { eyebrow: 'Provider check', title: 'Compare the same evidence', text: 'Use one work test and scorecard across every provider or finalist.', href: '/provider-vetting', linkLabel: 'Open the vetting guide' },
       { eyebrow: 'Service lane', title: `Review ${role} support`, text: 'See the related responsibilities, controls, and first-week plan.', href: serviceHref, linkLabel: 'Review the service' }
     ],
