@@ -1,7 +1,7 @@
 export const virtualAssistantPhilippinesTravelPlanningAssistancePost = {
   slug: 'virtual-assistant-philippines-travel-planning-assistance-guide',
   primaryKeyword: 'virtual assistant philippines travel planning assistance',
-  noPricing: true,
+  noScope: true,
   title: 'Virtual Assistant Philippines: Travel Planning Assistance Guide',
   excerpt: 'A guide to managing a Philippines-based virtual assistant for business travel research, itinerary checks, access limits, traveler approvals, and first-month review.',
   published: '2026-07-27',

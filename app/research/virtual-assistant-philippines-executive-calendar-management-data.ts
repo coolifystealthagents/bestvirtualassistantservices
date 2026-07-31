@@ -1,7 +1,7 @@
 export const virtualAssistantPhilippinesExecutiveCalendarManagementPost = {
   slug: 'virtual-assistant-philippines-executive-calendar-management-guide',
   primaryKeyword: 'virtual assistant philippines executive calendar management',
-  noPricing: true,
+  noScope: true,
   title: 'Virtual Assistant Philippines: Executive Calendar Management Guide',
   excerpt: 'A plain guide to hiring and managing a Philippines-based virtual assistant for an executive calendar, with scheduling rules, time-zone checks, access limits, meeting briefs, and owner-only decisions.',
   published: '2026-07-27',

@@ -1,7 +1,7 @@
 export const virtualAssistantPhilippinesCustomerInboxSupportPost = {
   slug: 'virtual-assistant-philippines-customer-inbox-support-guide',
   primaryKeyword: 'virtual assistant philippines',
-  noPricing: true,
+  noScope: true,
   title: 'Virtual Assistant Philippines: Customer Inbox Support Guide',
   excerpt: 'A plain guide to hiring and managing a Philippines-based virtual assistant for a shared customer inbox, with clear reply rules, access limits, review checks, and owner-only decisions.',
   published: '2026-07-27',

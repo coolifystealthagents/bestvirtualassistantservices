@@ -63,7 +63,7 @@ export const homepageImages = {
 
 export const faqs = [
   { q: 'What is the best virtual assistant service?', a: 'The best service depends on the work. A simple admin role may fit a freelance VA. Customer support, CRM, or phone work often needs a managed provider with training, backup, and quality checks.' },
-  { q: 'How much should I budget for a virtual assistant?', a: 'Budget depends on the role, hours, country, management help, and coverage needs. Compare the task scope and support model before you compare price.' },
+  { q: 'How much should I budget for a virtual assistant?', a: 'Budget depends on the role, hours, country, management help, and coverage needs. Compare the task scope and support model before you compare terms.' },
   { q: 'What should I delegate first?', a: 'Start with repeatable tasks: inbox sorting, calendar cleanup, CRM updates, simple reports, appointment setting, order checks, or first-draft replies.' },
   { q: 'Should I hire a VA or an employee?', a: 'Use a VA when the work is repeatable and remote-friendly. Hire an employee when the role needs in-person work, sensitive judgment, or deep internal ownership.' },
 ];

@@ -179,7 +179,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
                 <h2>{section.heading}</h2>
                 {section.paragraphs.map((paragraph) => <Paragraph paragraph={paragraph} key={paragraph.text}/>)}
                 {section.bullets?.length ? <ul className="research-check-list">{section.bullets.map((item) => <li key={item}>{item}</li>)}</ul> : null}
-                {section.heading.startsWith('How to compare cost') ? <a className="research-inline-cta" href="/pricing">See the published Philippines-based pricing tiers <span>→</span></a> : null}
+                {section.heading.startsWith('How to compare cost') ? <a className="research-inline-cta" href="/contact-us">Discuss the Philippines-based role scope <span>→</span></a> : null}
               </section>;
             })}
 
@@ -189,7 +189,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
                 <h2>Turn the evidence into a hiring brief</h2>
               </div>
               <div>
-                <p>Tell us the tasks, tools, hours, and decisions that must stay with your team. We can help you shape a Philippines-based role and choose the right public pricing tier without promising an outcome before the work is tested.</p>
+                <p>Tell us the tasks, tools, hours, and decisions that must stay with your team. We can help you shape a Philippines-based role and choose the right public scope tier without promising an outcome before the work is tested.</p>
                 <a className="btn primary" href="/contact-us">Contact a staffing specialist</a>
               </div>
             </aside>

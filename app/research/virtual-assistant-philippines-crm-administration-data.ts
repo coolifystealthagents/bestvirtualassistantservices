@@ -1,7 +1,7 @@
 export const virtualAssistantPhilippinesCrmAdministrationPost = {
   slug: 'virtual-assistant-philippines-crm-administration-guide',
   primaryKeyword: 'virtual assistant philippines crm administration',
-  noPricing: true,
+  noScope: true,
   title: 'Virtual Assistant Philippines: CRM Administration Guide',
   excerpt: 'A practical guide to testing and managing a Philippines-based virtual assistant for CRM records, duplicate checks, sales handoffs, access limits, and first-month review.',
   published: '2026-07-28',

@@ -1,7 +1,7 @@
 export const philippinesVirtualAssistantDataEntryQualityControlPost = {
   slug: 'philippines-virtual-assistant-data-entry-quality-control',
   primaryKeyword: 'philippines virtual assistant data entry quality control',
-  noPricing: true,
+  noScope: true,
   title: 'Philippines Virtual Assistant Data Entry Quality Control Guide',
   excerpt: 'A practical system for hiring and managing a Philippines-based virtual assistant who enters CRM, order, customer, or operations data without turning small mistakes into a large cleanup job.',
   published: '2026-07-27',

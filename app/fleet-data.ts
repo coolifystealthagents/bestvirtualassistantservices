@@ -26,7 +26,7 @@ export type ResearchPost = {
   relatedLinks: readonly { title: string; description: string; href: string }[];
   sources: readonly ResearchSource[];
   primaryKeyword?: string;
-  noPricing?: boolean;
+  noScope?: boolean;
   expertQuote?: { quote: string; person: string; title: string; sourceId: number };
   chart?: { title: string; unit: string; method: string; items: readonly { label: string; value: number; display: string; year: string; citation: number }[] };
   graphic?: { title: string; steps: readonly { label: string; detail: string }[]; note: string };
@@ -62,7 +62,7 @@ export const researchPosts: readonly ResearchPost[] = [
       'A role-specific paid test, reference checks, and a written first-month scorecard are stronger buying signals than a broad national statistic.',
       'Named accounts, limited access, multi-factor authentication, review logs, and a clear offboarding plan should be set before customer data is shared.',
       'Compare the whole service package instead of an hourly number alone, including screening, management, tools, backup, replacement, and schedule coverage.',
-      'The safest first hire owns repeatable work while a client-side manager keeps pricing, refunds, legal judgment, money movement, and final approvals.'
+      'The safest first hire owns repeatable work while a client-side manager keeps scope, refunds, legal judgment, money movement, and final approvals.'
     ],
     stats: [
       { value: '67.3%', label: 'Internet use', note: 'Share of people in the Philippines using the internet in 2024; the world value was 71.2%.', citation: 1 },
@@ -134,8 +134,8 @@ export const researchPosts: readonly ResearchPost[] = [
       {
         heading: 'How to compare cost without hiding the real bill',
         paragraphs: [
-          { text: 'An hourly number is not a complete service price. Ask whether the quote includes recruiting, screening, management, replacement support, backup coverage, software, equipment, overtime, local holidays, payment costs, and any minimum term.' },
-          { text: 'This site publishes three Philippines-based hourly tiers: $10 for executive-assistant support, $15 for senior-assistant support, and $18 for C-suite or operations support. Review the current scope on the pricing page, then use the same task brief when comparing any other quote so the numbers describe similar work.' },
+          { text: 'An hourly number is not a complete service terms. Ask whether the quote includes recruiting, screening, management, replacement support, backup coverage, software, equipment, overtime, local holidays, payment costs, and any minimum term.' },
+          { text: 'This site publishes three Philippines-based support levels: entry support level for executive-assistant support, senior support level for senior-assistant support, and operations support level for C-suite or operations support. Review the current scope on the scope page, then use the same task brief when comparing any other quote so the numbers describe similar work.' },
           { text: "Do not compare a worker's possible pay with a managed service fee as if they were the same product. A provider fee may cover screening, management, tools, or backup, but the buyer should ask for those items in writing." },
           { text: 'The best first contract is usually narrow enough to review and change. Set the tasks, schedule, billing unit, review date, replacement terms, data rules, and exit steps before adding more hours.' }
         ]
@@ -177,7 +177,7 @@ export const researchPosts: readonly ResearchPost[] = [
     faq: [
       { q: 'What is a Filipino virtual assistant?', a: 'A Filipino virtual assistant is a remote worker based in the Philippines who supports a business with agreed digital tasks. The role can cover admin, inboxes, customer support, CRM, scheduling, research, or operations, but the exact authority should be written before work begins.' },
       { q: 'Why hire a Filipino virtual assistant?', a: 'The Philippines has a large service-sector workforce, broad education participation, and public support for digital skills. Those factors create a useful talent market, but the hiring decision should still rest on a paid test, references, work-setting checks, and fit for the exact role.', citations: [2, 3, 6] },
-      { q: 'How much does a Filipino virtual assistant cost?', a: "The answer depends on role level, schedule, management, tools, backup, and replacement support. This site's current Philippines-based tiers are $10, $15, and $18 per hour. Compare the full written scope rather than one rate." },
+      { q: 'How much does a Filipino virtual assistant cost?', a: "The answer depends on role level, schedule, management, tools, backup, and replacement support. This site's current Philippines-based tiers are entry support level, senior support level, and operations support level per hour. Compare the full written scope rather than one rate." },
       { q: 'How do I vet a Filipino virtual assistant?', a: "Start with one written role, ask for matching examples, and run a short paid test with dummy data. Then verify the candidate's connection, power backup, device, schedule, references, access rules, and first-month review plan." },
       { q: 'Can a Filipino virtual assistant safely handle customer data?', a: 'Remote access can be managed safely only when the buyer sets proper controls and the assistant follows them. Use named accounts, least privilege, multi-factor authentication, written escalation rules, activity review, and an offboarding checklist before sharing sensitive data.', citations: [7, 9, 10] }
     ],

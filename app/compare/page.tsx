@@ -60,7 +60,7 @@ export default function ComparePage(){
           </div>
           <figure className="compare-cover">
             <img src={homepageImages.comparisonDesk.url} alt={homepageImages.comparisonDesk.alt}/>
-            <figcaption><span>Editor&apos;s desk</span><strong>Fit before price</strong></figcaption>
+            <figcaption><span>Editor&apos;s desk</span><strong>Fit before terms</strong></figcaption>
           </figure>
         </div>
       </section>

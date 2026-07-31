@@ -1,7 +1,7 @@
 export const hireVirtualAssistantPhilippinesPost = {
   slug: 'hire-virtual-assistant-philippines-guide',
   primaryKeyword: 'hire virtual assistant philippines',
-  noPricing: true,
+  noScope: true,
   title: 'Hire Virtual Assistant Philippines: A Role-First Buyer Guide',
   excerpt: 'A practical guide to hiring Philippines-based virtual assistant talent with a clear role, a fair work test, safe account access, and a first-month review plan.',
   published: '2026-07-24',

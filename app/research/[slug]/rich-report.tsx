@@ -83,7 +83,7 @@ export function RichResearchArticle({ post, schemas }: { post: ResearchPost; sch
   const lastSections = post.sections.slice(5);
 
   return <>
-    <Header hidePricing={post.noPricing}/>
+    <Header hideScope={post.noScope}/>
     <main className="research-report publisher-report" data-article-revision={post.revision} data-primary-keyword={post.primaryKeyword}>
       <JsonLd data={schemas}/>
       <article data-publisher-article="true">
@@ -188,6 +188,6 @@ export function RichResearchArticle({ post, schemas }: { post: ResearchPost; sch
         </div>
       </article>
     </main>
-    <Footer hidePricing={post.noPricing}/>
+    <Footer hideScope={post.noScope}/>
   </>;
 }
