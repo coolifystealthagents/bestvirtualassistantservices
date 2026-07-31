@@ -1,3 +1,98 @@
-import {notFound} from 'next/navigation'; import {Header,Footer,CTA} from '../../components'; import {blogPosts,site} from '../../data';
-export function generateStaticParams(){return blogPosts.map(p=>({slug:p.slug}))}
-export default async function Post({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const p=blogPosts.find(x=>x.slug===slug);if(!p)notFound();return <><Header/><main><article className="section"><div className="container article-shell"><p className="eyebrow">{site.brand} blog</p><h1>{p.title}</h1><p className="lead">{p.excerpt}</p><div className='blog-standards-strip' aria-label='Article standards'><span>Source-backed guidance</span><span>Contextual internal links</span><span>Top, middle, and bottom CTAs</span></div><aside className='article-rotation-banner article-rotation-banner-top' data-article-banner='true'><p className='eyebrow'>Role planning checkpoint</p><h2>Turn this guide into a clear role brief</h2><p>Share the work queue, tools, review owner, and approval limits before adding outside support.</p><a className='btn' href='/contact-us'>Contact Us</a></aside><section className="card"><h2>Start with a defined workflow</h2><p>For Philippines-based staffing, document the work, tools, schedule, and desired outcome before candidate matching. Keep business judgment and final approvals with a named manager. <a href="https://www.ilo.org/global/topics/non-standard-employment/WCMS_534825/lang--en/index.htm" target="_blank" rel="noopener noreferrer">International Labour Organization guidance on remote work arrangements</a> reinforces the need for clear expectations, communication rhythms, and accountable handoffs.</p><aside className='article-rotation-banner article-rotation-banner-middle' data-article-banner='true'><p className='eyebrow'>Midpoint planning check</p><h2>Compare providers against one written workflow</h2><p>Use one task lane, one reviewer, and one quality check so each provider conversation is easier to judge.</p><a className='btn' href='/contact-us'>Contact Us</a></aside><h2>Prepare representative examples</h2><p>Use real, appropriately redacted examples to explain quality. Review early work together and update the written process when an exception appears.</p><h2>Plan access and handoffs</h2><p>Provide only the access needed for the position and use named accounts where possible. Write down which questions must be escalated and who receives them.</p></section></div><aside className='article-rotation-banner article-rotation-banner-bottom' data-article-banner='true'><p className='eyebrow'>Ready to scope the role?</p><h2>Build the first support lane before hiring</h2><p>We can help turn the article into a practical staffing brief with tasks, access rules, and review checkpoints.</p><a className='btn' href='/contact-us'>Contact Us</a></aside></article><CTA/></main><Footer/></>}
+import { notFound } from 'next/navigation';
+import type { Metadata } from 'next';
+import { Header, Footer, CTA } from '../../components';
+import { blogPosts, site } from '../../data';
+
+export function generateStaticParams() {
+  return blogPosts.map((p) => ({ slug: p.slug }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
+  if (!post) return {};
+  return {
+    title: `${post.title} | ${site.brand}`,
+    description: post.excerpt,
+    alternates: { canonical: `${site.url}/blog/${post.slug}` },
+  };
+}
+
+function ArticleHtml({ html }: { html: string }) {
+  return <p dangerouslySetInnerHTML={{ __html: html }} />;
+}
+
+export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
+  if (!post) notFound();
+
+  return (
+    <>
+      <Header />
+      <main>
+        <article className="section">
+          <div className="container article-shell">
+            <p className="eyebrow">{site.brand} blog</p>
+            <h1>{post.title}</h1>
+            <p className="lead">{post.excerpt}</p>
+            <div className="blog-standards-strip" aria-label="Article standards">
+              <span>{post.minutes} minute read</span>
+              <span>Contextual internal links</span>
+              <span>Authoritative source in body</span>
+            </div>
+
+            <aside className="article-rotation-banner article-rotation-banner-top" data-article-banner="true">
+              <p className="eyebrow">Role planning checkpoint</p>
+              <h2>Turn this guide into a clear role brief</h2>
+              <p>Share the work queue, tools, review owner, and approval limits before adding outside support.</p>
+              <a className="btn" href="/contact-us">Contact Us</a>
+            </aside>
+
+            <section className="card article-card">
+              <h2>Key takeaways</h2>
+              <ul>
+                {post.keyTakeaways.map((item) => <li key={item}>{item}</li>)}
+              </ul>
+            </section>
+
+            {post.sections.map((section, index) => (
+              <section className="card article-card" key={section.heading}>
+                <h2>{section.heading}</h2>
+                <ArticleHtml html={section.body} />
+                {section.bullets ? (
+                  <ul>
+                    {section.bullets.map((item) => <li key={item}>{item}</li>)}
+                  </ul>
+                ) : null}
+                {index === 1 ? (
+                  <aside className="article-rotation-banner article-rotation-banner-middle" data-article-banner="true">
+                    <p className="eyebrow">Midpoint planning check</p>
+                    <h2>Compare every provider against the same workflow</h2>
+                    <p>Use one task lane, one reviewer, and one quality check so each provider conversation is easier to judge.</p>
+                    <a className="btn" href="/contact-us">Contact Us</a>
+                  </aside>
+                ) : null}
+              </section>
+            ))}
+
+            {post.faq.length ? (
+              <section className="card article-card">
+                <h2>FAQ</h2>
+                {post.faq.map((item) => (
+                  <div className="faq-item" key={item.q}>
+                    <h3>{item.q}</h3>
+                    <p>{item.a}</p>
+                  </div>
+                ))}
+              </section>
+            ) : null}
+
+          </div>
+        </article>
+        <CTA />
+      </main>
+      <Footer />
+    </>
+  );
+}
