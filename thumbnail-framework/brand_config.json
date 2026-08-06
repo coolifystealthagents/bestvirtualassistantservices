@@ -1,0 +1,9 @@
+{
+  "brand": "BestVirtualAssistantServices.com",
+  "niche": "virtual assistant services",
+  "canvas": { "width": 1200, "height": 630 },
+  "colors": { "background": "#09243A", "accent": "#36C5F0", "text": "#FFFFFF", "secondary": "#C8E8F4", "overlay": "#061522" },
+  "logo_path": "public/logo.svg",
+  "concepts": ["diagonal blocks", "dot grid", "network nodes", "ascending cubes", "flowing traces", "soft waves", "dashboard cards", "concentric rings", "layered ridges", "hex mesh", "spotlight beams", "blueprint lines", "bokeh orbs", "split duotone", "particle stream", "topographic contours", "aurora haze", "folded planes", "liquid bands", "halftone dots", "floating spheres", "circuit traces", "rising bars", "globe dots", "light streaks", "low-poly facets", "neon horizon", "calm clouds", "interlocking rings", "star field"],
+  "assignment": { "algorithm": "stable-hash-with-balanced-round-robin", "version": 1 }
+}

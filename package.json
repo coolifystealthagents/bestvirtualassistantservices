@@ -2,6 +2,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "prebuild": "python3 scripts/content_contract.py --write-index && python3 scripts/generate-thumbnails.py",
+    "validate:content": "python3 scripts/content_contract.py --check",
+    "thumbnails": "python3 scripts/generate-thumbnails.py",
     "start": "next start -H 0.0.0.0 -p 3000",
     "lint": "next lint"
   },
