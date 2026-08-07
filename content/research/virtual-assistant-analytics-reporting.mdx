@@ -1,0 +1,82 @@
+---
+slug: virtual-assistant-analytics-reporting
+title: Analytics Reporting by Virtual Assistants: A Research Brief
+excerpt: A controlled analytics workflow for collecting, checking, and explaining business metrics without overclaiming.
+publishedAt: 2026-08-07
+updatedAt: 2026-08-07
+category: Reporting
+tags: [analytics, measurement, virtual assistant]
+featuredImage: /blog/images/virtual-assistant-analytics-reporting.webp
+heroImageAlt: Analytics reporting quality checks
+readingTime: 8 minutes
+relatedArticles: [virtual-assistant-operations-reporting, virtual-assistant-seo-quality-control, virtual-assistant-content-calendar-operations]
+cluster: operating visibility
+sourceCount: 10
+lastVerified: 2026-08-07
+key_takeaways: [Document methodology, Test anomalies, Separate observation from cause]
+keyStats: ["10: direct sources reviewed", "4: quality checks", "1: metric owner"]
+sources: [https://www.nist.gov/standardsgov, https://www.nist.gov/privacy-framework, https://www.w3.org/TR/WCAG22/, https://www.cisa.gov/topics/cyber-threats-and-advisories, https://www.ftc.gov/business-guidance/privacy-security, https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final, https://www.iso.org/standard/27001, https://www.archives.gov/records-mgmt, https://www.oecd.org/en/topics/sub-issues/digital-economy.html, https://www.ilo.org/global/topics/telework]
+---
+# Analytics Reporting by Virtual Assistants: A Research Brief
+
+Analytics assistance is strongest when the assistant preserves the path from event to metric to decision. It is weakest when a neat chart conceals a changed definition or incomplete data.
+
+Use the [operations reporting brief](/research/virtual-assistant-operations-reporting) for the weekly handoff and exception layer.
+
+## Start with a measurement brief
+
+Record the question, metric definition, source systems, time zone, filters, refresh schedule, and decision owner. The [research library](/research) shows why methodology belongs in the published artifact.
+
+## Run four quality checks
+
+Check completeness, duplicates, definition changes, and anomalies. Compare a sample against the source system before summarizing. NIST standards and privacy resources support repeatable controls and responsible data handling [1][2].
+
+## Analytics table
+
+| Check | Assistant action | Owner decision | Stop condition |
+| --- | --- | --- | --- |
+| Completeness | Flag missing periods | Accept or repair | Source unavailable |
+| Definition | Compare documentation | Approve change | Metric changed silently |
+| Anomaly | Recheck source and filter | Investigate cause | No evidence for cause |
+| Summary | Describe observation | Choose action | Causal claim unsupported |
+
+## Present findings clearly
+
+Pair every chart with a text summary, period, unit, and source. Use accessible headings and tables [3]. Do not publish a public claim that the evidence does not support.
+
+## Access and retention
+
+Keep raw data in approved systems, grant only necessary access, and record the report version and extraction date. Security, privacy, and records sources provide useful control baselines [4][5][6][8].
+
+## Methodology and limitations
+
+This brief uses official standards, privacy, security, accessibility, records, digital-economy, and remote-work resources reviewed on 2026-08-07. It does not provide statistical, financial, or business advice for a particular dataset.
+
+## Key takeaways
+
+- A metric is not stable until its definition and source are stable.
+- Investigate anomalies before narrating them.
+- Keep data preparation separate from owner decisions about action.
+
+## FAQs
+
+### Can an assistant explain why a metric changed?
+
+They can list verified changes in inputs, filters, or timing. A causal explanation needs evidence and owner review.
+
+### How should a dashboard be handed off?
+
+Provide the source, refresh time, definitions, exceptions, version, and decision questions in the same package.
+
+## Sources
+
+1. [NIST standards resources](https://www.nist.gov/standardsgov)
+2. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+3. [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+4. [CISA cyber guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+5. [FTC privacy and security](https://www.ftc.gov/business-guidance/privacy-security)
+6. [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+7. [ISO/IEC 27001 overview](https://www.iso.org/standard/27001)
+8. [US National Archives records management](https://www.archives.gov/records-mgmt)
+9. [OECD digital economy](https://www.oecd.org/en/topics/sub-issues/digital-economy.html)
+10. [ILO telework resources](https://www.ilo.org/global/topics/telework)

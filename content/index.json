@@ -1,5 +1,76 @@
 {
   "version": 1,
   "generatedBy": "scripts/content_contract.py",
-  "posts": []
+  "posts": [
+    {
+      "type": "research",
+      "slug": "virtual-assistant-analytics-reporting",
+      "title": "Analytics Reporting by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-analytics-reporting.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-analytics-reporting.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-content-calendar-operations",
+      "title": "Content Calendar Operations: A Research Brief for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-content-calendar-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-calendar-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-crm-data-hygiene",
+      "title": "CRM Data Hygiene by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-crm-data-hygiene.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-customer-inbox-triage",
+      "title": "Customer Inbox Triage by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-customer-inbox-triage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-inbox-triage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-document-control",
+      "title": "Document Control by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-document-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-operations-reporting",
+      "title": "Operations Reporting by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-operations-reporting.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-operations-reporting.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-research-briefs",
+      "title": "Research Briefs for Virtual Assistants: Evidence Control and Handoffs",
+      "path": "content/research/virtual-assistant-research-briefs.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-briefs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-sales-pipeline-handoffs",
+      "title": "Sales Pipeline Handoffs by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-sales-pipeline-handoffs.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sales-pipeline-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-seo-quality-control",
+      "title": "SEO Quality Control for Virtual Assistant Teams: A Research Brief",
+      "path": "content/research/virtual-assistant-seo-quality-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-quality-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-social-media-moderation",
+      "title": "Social Media Moderation by Virtual Assistants: Research and Control Brief",
+      "path": "content/research/virtual-assistant-social-media-moderation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-social-media-moderation.webp"
+    }
+  ]
 }

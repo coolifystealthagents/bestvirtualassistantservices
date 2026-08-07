@@ -1,0 +1,82 @@
+---
+slug: virtual-assistant-social-media-moderation
+title: Social Media Moderation by Virtual Assistants: Research and Control Brief
+excerpt: How to separate queue triage, approved responses, escalation, and crisis ownership in social media support.
+publishedAt: 2026-08-07
+updatedAt: 2026-08-07
+category: Audience operations
+tags: [social media, moderation, virtual assistant]
+featuredImage: /blog/images/virtual-assistant-social-media-moderation.webp
+heroImageAlt: Social media moderation escalation workflow
+readingTime: 9 minutes
+relatedArticles: [virtual-assistant-content-calendar-operations, virtual-assistant-customer-inbox-triage, virtual-assistant-research-briefs]
+cluster: audience operations
+sourceCount: 10
+lastVerified: 2026-08-07
+key_takeaways: [Triage before replying, Use approved language, Escalate safety risks]
+keyStats: ["10: direct sources reviewed", "4: queue labels", "1: crisis owner"]
+sources: [https://www.cisa.gov/topics/cyber-threats-and-advisories, https://www.cisa.gov/secure-our-world/recognize-and-report-phishing, https://www.w3.org/TR/WCAG22/, https://www.ftc.gov/business-guidance/privacy-security, https://www.nist.gov/privacy-framework, https://csrc.nist.gov/pubs/sp/800/61/r2/final, https://www.iso.org/standard/27001, https://www.ilo.org/global/topics/telework, https://www.loc.gov/copyright/, https://www.archives.gov/records-mgmt]
+---
+# Social Media Moderation by Virtual Assistants: Research and Control Brief
+
+Moderation is a queue-management job until a post involves safety, legal risk, a security incident, or a reputation decision. Those cases need a named owner and a clear stop condition.
+
+## Classify the queue before replying
+
+Use labels such as routine question, approved service request, complaint, safety concern, and suspected account compromise. The [provider vetting guide](/provider-vetting) can score whether a candidate recognizes when to stop.
+
+The [customer inbox triage brief](/research/virtual-assistant-customer-inbox-triage) provides a related queue model.
+
+## Response rules need examples
+
+Provide approved language, prohibited claims, response windows, escalation contacts, and a record format. Never ask an assistant to improvise a crisis response or disclose private customer information. FTC and NIST privacy guidance provide useful control questions [4][5].
+
+## Moderation decision table
+
+| Queue label | Assistant action | Owner action | Stop condition |
+| --- | --- | --- | --- |
+| Routine | Use approved response | Sample review | Missing context |
+| Complaint | Acknowledge and route | Decide remedy | Threat or legal claim |
+| Safety | Preserve facts and escalate | Handle incident | Immediate danger |
+| Security | Do not click or forward | Activate response plan | Credential request |
+
+## Make records auditable
+
+Capture timestamp, platform, message ID, label, action, approved template, escalation, and next review. Records guidance supports retaining enough context to explain what happened without creating uncontrolled duplicates [10].
+
+## Design for accessible communication
+
+Clear labels, plain language, descriptive links, and captions help both moderators and audiences. Use WCAG as a baseline, then test the actual platform [3].
+
+## Methodology and limitations
+
+This brief synthesizes official security, privacy, accessibility, copyright, records, and remote-work resources reviewed on 2026-08-07. Platform policies and local laws still require specialist review.
+
+## Key takeaways
+
+- Triage is not the same as making a policy or crisis decision.
+- The safest response to uncertainty is a visible escalation.
+- Review samples and exceptions, not only response volume.
+
+## FAQs
+
+### Can an assistant delete comments?
+
+Only when the owner has documented rules, the action is reversible or logged, and the content clearly meets the rule. Otherwise, preserve context and escalate.
+
+### What is a useful quality measure?
+
+Track correct classification, approved-response use, escalation accuracy, missed risks, and time to owner review.
+
+## Sources
+
+1. [CISA cyber guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+2. [CISA phishing guidance](https://www.cisa.gov/secure-our-world/recognize-and-report-phishing)
+3. [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+4. [FTC privacy and security](https://www.ftc.gov/business-guidance/privacy-security)
+5. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+6. [NIST incident handling guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
+7. [ISO/IEC 27001 overview](https://www.iso.org/standard/27001)
+8. [ILO telework resources](https://www.ilo.org/global/topics/telework)
+9. [Library of Congress copyright](https://www.loc.gov/copyright/)
+10. [US National Archives records management](https://www.archives.gov/records-mgmt)

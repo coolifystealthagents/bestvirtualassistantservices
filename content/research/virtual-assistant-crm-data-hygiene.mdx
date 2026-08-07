@@ -1,0 +1,82 @@
+---
+slug: virtual-assistant-crm-data-hygiene
+title: CRM Data Hygiene by Virtual Assistants: A Research Brief
+excerpt: A source-backed routine for improving CRM completeness while protecting ownership, consent, and decision quality.
+publishedAt: 2026-08-07
+updatedAt: 2026-08-07
+category: Revenue operations
+tags: [CRM, data hygiene, virtual assistant]
+featuredImage: /blog/images/virtual-assistant-crm-data-hygiene.webp
+heroImageAlt: CRM data hygiene workflow
+readingTime: 8 minutes
+relatedArticles: [virtual-assistant-customer-inbox-triage, virtual-assistant-sales-pipeline-handoffs, virtual-assistant-operations-reporting]
+cluster: revenue operations
+sourceCount: 10
+lastVerified: 2026-08-07
+key_takeaways: [Define fields, Preserve provenance, Keep judgment with owners]
+keyStats: ["10: direct sources reviewed", "4: quality dimensions", "1: data owner"]
+sources: [https://www.nist.gov/privacy-framework, https://www.ftc.gov/business-guidance/privacy-security, https://www.cisa.gov/topics/cyber-threats-and-advisories, https://www.w3.org/TR/WCAG22/, https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final, https://www.iso.org/standard/27001, https://www.archives.gov/records-mgmt, https://www.ilo.org/global/topics/telework, https://www.oecd.org/en/topics/sub-issues/digital-economy.html, https://www.loc.gov/copyright/]
+---
+# CRM Data Hygiene by Virtual Assistants: A Research Brief
+
+CRM hygiene is not the same as filling every blank. It means making records accurate enough for the approved workflow while preserving provenance and consent.
+
+The [pipeline handoff brief](/research/virtual-assistant-sales-pipeline-handoffs) shows how clean records support the next owner decision.
+
+## Write the field dictionary first
+
+Define required fields, allowed values, source priority, duplicate rules, date format, and the owner of each decision. The [sales pipeline support page](/services/sales-pipeline-support) is a useful place to connect the fields to real handoffs.
+
+## Check four dimensions
+
+Review completeness, validity, consistency, and freshness. Never infer a lead’s budget, identity, consent, or qualification from a vague note. NIST privacy guidance supports documenting purpose and data handling [1].
+
+## Hygiene table
+
+| Check | Assistant action | Owner action | Stop condition |
+| --- | --- | --- | --- |
+| Duplicate | Flag likely matches | Merge decision | Identity is uncertain |
+| Missing | Request approved field | Decide required data | Sensitive data requested |
+| Stale | Add review flag | Confirm status | No authoritative source |
+| Conflict | Record both values | Resolve conflict | Material decision depends on it |
+
+## Protect the system and the record
+
+Use named access, least privilege, and an audit trail. Do not export the entire CRM for convenience. Security and records guidance support limiting access and preserving accountable changes [3][5][7].
+
+## Quality review
+
+Sample normal updates weekly and review every merge, deletion, consent change, and ownership change. Measure correction rate, duplicate flags, unresolved conflicts, and time to resolve.
+
+## Methodology and limitations
+
+This brief draws on official privacy, security, accessibility, records, remote-work, and digital-economy resources reviewed on 2026-08-07. It does not determine compliance, consent, or sales qualification for a particular business.
+
+## Key takeaways
+
+- A field dictionary is the foundation of consistent CRM work.
+- Preserve the source and reason for every material change.
+- Keep merging, deletion, qualification, and consent decisions with the owner.
+
+## FAQs
+
+### Can an assistant merge duplicates?
+
+They can identify likely duplicates and prepare evidence. The owner should approve a merge when identity or history could be affected.
+
+### What is a good first test?
+
+Use dummy records containing a duplicate, conflicting source, missing consent field, and an item that should be escalated.
+
+## Sources
+
+1. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+2. [FTC privacy and security](https://www.ftc.gov/business-guidance/privacy-security)
+3. [CISA cyber guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+4. [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+5. [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+6. [ISO/IEC 27001 overview](https://www.iso.org/standard/27001)
+7. [US National Archives records management](https://www.archives.gov/records-mgmt)
+8. [ILO telework resources](https://www.ilo.org/global/topics/telework)
+9. [OECD digital economy](https://www.oecd.org/en/topics/sub-issues/digital-economy.html)
+10. [Library of Congress copyright](https://www.loc.gov/copyright/)
