@@ -2,14 +2,15 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { Header, Footer, CTA } from '../../components';
 import { blogPosts, site } from '../../data';
+import { allBlogPosts } from '../../content-library';
 
 export function generateStaticParams() {
-  return blogPosts.map((p) => ({ slug: p.slug }));
+  return allBlogPosts.map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const post = blogPosts.find((p) => p.slug === slug);
+  const post = allBlogPosts.find((p) => p.slug === slug);
   if (!post) return {};
   return {
     title: `${post.title} | ${site.brand}`,
@@ -24,7 +25,7 @@ function ArticleHtml({ html }: { html: string }) {
 
 export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const post = blogPosts.find((p) => p.slug === slug);
+  const post = allBlogPosts.find((p) => p.slug === slug);
   if (!post) notFound();
 
   return (

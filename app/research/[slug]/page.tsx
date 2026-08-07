@@ -2,18 +2,19 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { Header, Footer, JsonLd } from '../../components';
 import { researchPosts, ResearchPost, ResearchParagraph } from '../../fleet-data';
+import { allResearchPosts } from '../../content-library';
 import { site } from '../../data';
 import { RichResearchArticle } from './rich-report';
 
 const baseUrl = site.url;
 
 export function generateStaticParams() {
-  return researchPosts.map((post) => ({ slug: post.slug }));
+  return allResearchPosts.map((post) => ({ slug: post.slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const post = researchPosts.find((item) => item.slug === slug);
+  const post = allResearchPosts.find((item) => item.slug === slug);
   if (!post) return {};
   const canonical = `${baseUrl}/research/${post.slug}`;
   return {
