@@ -5,7 +5,7 @@ RUN npm install
 
 FROM node:22-alpine AS builder
 WORKDIR /app
-RUN apk add --no-cache python3
+RUN apk add --no-cache python3 py3-pillow
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
