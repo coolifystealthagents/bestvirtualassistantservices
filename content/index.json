@@ -172,6 +172,27 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-appointment-setting-quality",
+      "title": "Appointment Setting Quality Controls for Virtual Assistants",
+      "path": "content/research/virtual-assistant-appointment-setting-quality.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-setting-quality.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-backup-coverage-controls",
+      "title": "Backup Coverage Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-backup-coverage-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-client-onboarding-controls",
+      "title": "Client Onboarding Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-client-onboarding-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-content-calendar-operations",
       "title": "Content Calendar Operations: A Research Brief for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-content-calendar-operations.mdx",
@@ -193,6 +214,20 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-customer-success-handoffs",
+      "title": "Customer Success Handoffs by Virtual Assistants",
+      "path": "content/research/virtual-assistant-customer-success-handoffs.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-data-enrichment-controls",
+      "title": "Data Enrichment Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-data-enrichment-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-data-enrichment-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-document-control",
       "title": "Document Control by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-document-control.mdx",
@@ -200,10 +235,45 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-email-newsletter-operations",
+      "title": "Email Newsletter Operations by Virtual Assistants: Research and Controls",
+      "path": "content/research/virtual-assistant-email-newsletter-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-email-newsletter-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-event-operations",
+      "title": "Event Operations Support by Virtual Assistants: A Control Brief",
+      "path": "content/research/virtual-assistant-event-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-knowledge-base-maintenance",
+      "title": "Knowledge Base Maintenance by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-knowledge-base-maintenance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-knowledge-transfer-handoffs",
+      "title": "Knowledge Transfer Handoffs for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-knowledge-transfer-handoffs.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-operations-reporting",
       "title": "Operations Reporting by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-operations-reporting.mdx",
       "featuredImage": "/blog/images/virtual-assistant-operations-reporting.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-procurement-coordination",
+      "title": "Procurement Coordination by Virtual Assistants: Approval Boundaries",
+      "path": "content/research/virtual-assistant-procurement-coordination.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-procurement-coordination.webp"
     },
     {
       "type": "research",
@@ -228,10 +298,38 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-service-quality-assurance",
+      "title": "Service Quality Assurance by Virtual Assistants: Evidence Controls",
+      "path": "content/research/virtual-assistant-service-quality-assurance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-social-media-moderation",
       "title": "Social Media Moderation by Virtual Assistants: Research and Control Brief",
       "path": "content/research/virtual-assistant-social-media-moderation.mdx",
       "featuredImage": "/blog/images/virtual-assistant-social-media-moderation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-virtual-receptionist-routing",
+      "title": "Virtual Receptionist Routing by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-virtual-receptionist-routing.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-virtual-receptionist-routing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-website-content-updates",
+      "title": "Website Content Updates by Virtual Assistants: Release Controls",
+      "path": "content/research/virtual-assistant-website-content-updates.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-updates.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-work-intake-triage",
+      "title": "Work Intake Triage by Virtual Assistants: A Research Brief",
+      "path": "content/research/virtual-assistant-work-intake-triage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-intake-triage.webp"
     }
   ]
 }
