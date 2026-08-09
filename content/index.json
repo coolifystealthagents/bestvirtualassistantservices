@@ -165,6 +165,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-accessibility-review-controls",
+      "title": "Accessibility Review Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-accessibility-review-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-accessibility-review-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-analytics-reporting",
       "title": "Analytics Reporting by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-analytics-reporting.mdx",
@@ -193,6 +200,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-community-operations-controls",
+      "title": "Community Operations Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-community-operations-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-community-operations-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-content-calendar-operations",
       "title": "Content Calendar Operations: A Research Brief for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-content-calendar-operations.mdx",
@@ -200,10 +214,31 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-content-repurposing-controls",
+      "title": "Content Repurposing Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-content-repurposing-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-repurposing-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-course-admin-controls",
+      "title": "Course Administration Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-course-admin-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-course-admin-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-crm-data-hygiene",
       "title": "CRM Data Hygiene by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-crm-data-hygiene.mdx",
       "featuredImage": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-customer-feedback-controls",
+      "title": "Customer Feedback Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-customer-feedback-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-controls.webp"
     },
     {
       "type": "research",
@@ -235,6 +270,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-donor-records-controls",
+      "title": "Donor Records Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-donor-records-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-donor-records-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-email-newsletter-operations",
       "title": "Email Newsletter Operations by Virtual Assistants: Research and Controls",
       "path": "content/research/virtual-assistant-email-newsletter-operations.mdx",
@@ -246,6 +288,20 @@
       "title": "Event Operations Support by Virtual Assistants: A Control Brief",
       "path": "content/research/virtual-assistant-event-operations.mdx",
       "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-file-migration-controls",
+      "title": "File Migration Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-file-migration-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-file-migration-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-inventory-tracking-controls",
+      "title": "Inventory Tracking Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-inventory-tracking-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inventory-tracking-controls.webp"
     },
     {
       "type": "research",
@@ -267,6 +323,13 @@
       "title": "Operations Reporting by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-operations-reporting.mdx",
       "featuredImage": "/blog/images/virtual-assistant-operations-reporting.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-podcast-production-controls",
+      "title": "Podcast Production Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-podcast-production-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-podcast-production-controls.webp"
     },
     {
       "type": "research",
@@ -309,6 +372,13 @@
       "title": "Social Media Moderation by Virtual Assistants: Research and Control Brief",
       "path": "content/research/virtual-assistant-social-media-moderation.mdx",
       "featuredImage": "/blog/images/virtual-assistant-social-media-moderation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-survey-operations-controls",
+      "title": "Survey Operations Controls for Virtual Assistant Teams",
+      "path": "content/research/virtual-assistant-survey-operations-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-survey-operations-controls.webp"
     },
     {
       "type": "research",
