@@ -8,6 +8,10 @@ import { RichResearchArticle } from './rich-report';
 
 const baseUrl = site.url;
 
+const publishedLabel = (published: string) => new Intl.DateTimeFormat('en-US', {
+  month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+}).format(new Date(`${published}T00:00:00Z`));
+
 export function generateStaticParams() {
   return allResearchPosts.map((post) => ({ slug: post.slug }));
 }
@@ -114,7 +118,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
               <h1>{post.title}</h1>
               <p className="research-report-lead">{post.excerpt}</p>
               <div className="research-report-meta" aria-label="Article details">
-                <span>Published <time dateTime={post.published}>July 24, 2026</time></span>
+                <span>Published <time dateTime={post.published}>{publishedLabel(post.published)}</time></span>
                 <span>{post.readingMinutes} minute read</span>
                 <span>{post.sources.length} direct sources</span>
               </div>
