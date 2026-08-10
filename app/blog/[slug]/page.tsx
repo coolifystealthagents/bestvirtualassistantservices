@@ -38,7 +38,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
             <p className="eyebrow">{site.brand} blog</p>
             <h1>{post.title}</h1>
             <p className="lead">{post.excerpt}</p>
-            {post.published ? <p className="article-date">Published {post.published}</p> : null}
+            {post.published ? <time className="article-date" dateTime={post.published}>Published {post.published}</time> : null}
             <div className="blog-standards-strip" aria-label="Article standards">
               <span>{post.minutes} minute read</span>
               <span>Contextual internal links</span>
