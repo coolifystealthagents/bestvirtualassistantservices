@@ -11,6 +11,8 @@
   "priorIssueId": "89068e63-0903-411b-c366-5337844bb83d",
   "validationCommands": [
     "npm run validate:content",
+    "python3 scripts/research_aug10_repair_check.py",
+    "npm run validate:blog-date",
     "npm run build",
     "python3 scripts/research_aug10_v6_regression.py"
   ],
