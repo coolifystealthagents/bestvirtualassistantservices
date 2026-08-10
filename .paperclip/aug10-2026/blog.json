@@ -10,6 +10,7 @@
   "priorRunId": "e299fed6-032b-4098-b81f-4728be383b2a",
   "priorIssueId": "d42d82ce-353b-477d-8ad1-6b4baca90223",
   "validationCommands": [
+    "python3 scripts/blog_pagination_regression.py",
     "python3 scripts/validate_blog_publication.py",
     "npm run validate:content",
     "npm run build"
