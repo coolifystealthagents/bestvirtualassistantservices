@@ -25,20 +25,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-appointment-setting-process",
-      "title": "Virtual Assistant Appointment Setting Process",
-      "path": "content/blog/virtual-assistant-appointment-setting-process.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-appointment-setting-process.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-backup-coverage-plan",
-      "title": "Virtual Assistant Backup Coverage Plan",
-      "path": "content/blog/virtual-assistant-backup-coverage-plan.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-plan.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-blog-brief-template",
       "title": "Virtual Assistant Blog Brief Template",
       "path": "content/blog/virtual-assistant-blog-brief-template.mdx",
@@ -46,24 +32,10 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-bookkeeping-support-controls",
-      "title": "Virtual Assistant Bookkeeping Support Controls",
-      "path": "content/blog/virtual-assistant-bookkeeping-support-controls.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-bookkeeping-support-controls.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-calendar-capacity-review",
       "title": "Virtual Assistant Calendar Capacity Review",
       "path": "content/blog/virtual-assistant-calendar-capacity-review.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-calendar-management-rules",
-      "title": "Virtual Assistant Calendar Management Rules",
-      "path": "content/blog/virtual-assistant-calendar-management-rules.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-calendar-management-rules.webp"
     },
     {
       "type": "blog",
@@ -88,13 +60,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-content-brief-checklist",
-      "title": "Virtual Assistant Content Brief Checklist",
-      "path": "content/blog/virtual-assistant-content-brief-checklist.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-checklist.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-content-calendar-workflow",
       "title": "Virtual Assistant Content Calendar Workflow",
       "path": "content/blog/virtual-assistant-content-calendar-workflow.mdx",
@@ -106,13 +71,6 @@
       "title": "Virtual Assistant Content Repurposing Process",
       "path": "content/blog/virtual-assistant-content-repurposing-process.mdx",
       "featuredImage": "/blog/images/virtual-assistant-content-repurposing-process.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-crm-cleanup-process",
-      "title": "Virtual Assistant CRM Cleanup Process",
-      "path": "content/blog/virtual-assistant-crm-cleanup-process.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-crm-cleanup-process.webp"
     },
     {
       "type": "blog",
@@ -137,13 +95,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-customer-support-escalation",
-      "title": "Virtual Assistant Customer Support Escalation Guide",
-      "path": "content/blog/virtual-assistant-customer-support-escalation.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-customer-support-escalation.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-customer-support-queue-workflow",
       "title": "Virtual Assistant Customer Support Queue Workflow",
       "path": "content/blog/virtual-assistant-customer-support-queue-workflow.mdx",
@@ -155,13 +106,6 @@
       "title": "Virtual Assistant Data Cleanup Checklist",
       "path": "content/blog/virtual-assistant-data-cleanup-checklist.mdx",
       "featuredImage": "/blog/images/virtual-assistant-data-cleanup-checklist.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-document-management-system",
-      "title": "Virtual Assistant Document Management System",
-      "path": "content/blog/virtual-assistant-document-management-system.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-management-system.webp"
     },
     {
       "type": "blog",
@@ -179,13 +123,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-ecommerce-order-support",
-      "title": "Virtual Assistant Ecommerce Order Support Workflow",
-      "path": "content/blog/virtual-assistant-ecommerce-order-support.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-support.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-editorial-quality-checklist",
       "title": "Virtual Assistant Editorial Quality Checklist",
       "path": "content/blog/virtual-assistant-editorial-quality-checklist.mdx",
@@ -200,13 +137,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-healthcare-office-admin",
-      "title": "Virtual Assistant Healthcare Office Admin Boundaries",
-      "path": "content/blog/virtual-assistant-healthcare-office-admin.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-healthcare-office-admin.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-healthcare-scheduling-boundaries",
       "title": "Virtual Assistant Healthcare Scheduling Boundaries",
       "path": "content/blog/virtual-assistant-healthcare-scheduling-boundaries.mdx",
@@ -218,13 +148,6 @@
       "title": "Virtual Assistant Inbox Delegation Rules",
       "path": "content/blog/virtual-assistant-inbox-delegation-rules.mdx",
       "featuredImage": "/blog/images/virtual-assistant-inbox-delegation-rules.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-inbox-triage-workflow",
-      "title": "Virtual Assistant Inbox Triage Workflow",
-      "path": "content/blog/virtual-assistant-inbox-triage-workflow.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
     },
     {
       "type": "blog",
@@ -249,13 +172,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-lead-follow-up-workflow",
-      "title": "Virtual Assistant Lead Follow-Up Workflow",
-      "path": "content/blog/virtual-assistant-lead-follow-up-workflow.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-lead-follow-up-workflow.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-lead-qualification-workflow",
       "title": "Virtual Assistant Lead Qualification Workflow",
       "path": "content/blog/virtual-assistant-lead-qualification-workflow.mdx",
@@ -267,13 +183,6 @@
       "title": "Virtual Assistant Lead Response Time Workflow",
       "path": "content/blog/virtual-assistant-lead-response-time-workflow.mdx",
       "featuredImage": "/blog/images/virtual-assistant-lead-response-time-workflow.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-legal-admin-task-list",
-      "title": "Virtual Assistant Legal Admin Task List",
-      "path": "content/blog/virtual-assistant-legal-admin-task-list.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-legal-admin-task-list.webp"
     },
     {
       "type": "blog",
@@ -305,13 +214,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-outsourcing-readiness-checklist",
-      "title": "Virtual Assistant Outsourcing Readiness Checklist",
-      "path": "content/blog/virtual-assistant-outsourcing-readiness-checklist.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-owner-review-scorecard",
       "title": "Virtual Assistant Owner Review Scorecard",
       "path": "content/blog/virtual-assistant-owner-review-scorecard.mdx",
@@ -319,24 +221,10 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-phone-answering-script",
-      "title": "Virtual Assistant Phone Answering Script Guide",
-      "path": "content/blog/virtual-assistant-phone-answering-script.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-phone-answering-script.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-podcast-production-checklist",
       "title": "Virtual Assistant Podcast Production Checklist",
       "path": "content/blog/virtual-assistant-podcast-production-checklist.mdx",
       "featuredImage": "/blog/images/virtual-assistant-podcast-production-checklist.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-project-coordination-checklist",
-      "title": "Virtual Assistant Project Coordination Checklist",
-      "path": "content/blog/virtual-assistant-project-coordination-checklist.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-project-coordination-checklist.webp"
     },
     {
       "type": "blog",
@@ -354,20 +242,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-quality-scorecard",
-      "title": "Virtual Assistant Quality Scorecard",
-      "path": "content/blog/virtual-assistant-quality-scorecard.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-real-estate-admin-workflow",
-      "title": "Virtual Assistant Real Estate Admin Workflow",
-      "path": "content/blog/virtual-assistant-real-estate-admin-workflow.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-real-estate-lead-admin",
       "title": "Virtual Assistant Real Estate Lead Admin",
       "path": "content/blog/virtual-assistant-real-estate-lead-admin.mdx",
@@ -375,38 +249,10 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-remote-team-handoff-checklist",
-      "title": "Virtual Assistant Remote Team Handoff Checklist",
-      "path": "content/blog/virtual-assistant-remote-team-handoff-checklist.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-remote-team-handoff-checklist.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-research-assistant-workflow",
-      "title": "Virtual Assistant Research Assistant Workflow",
-      "path": "content/blog/virtual-assistant-research-assistant-workflow.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-research-assistant-workflow.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-seo-publishing-checklist",
-      "title": "Virtual Assistant SEO Publishing Checklist",
-      "path": "content/blog/virtual-assistant-seo-publishing-checklist.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-social-content-approval",
       "title": "Virtual Assistant Social Content Approval Workflow",
       "path": "content/blog/virtual-assistant-social-content-approval.mdx",
       "featuredImage": "/blog/images/virtual-assistant-social-content-approval.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-social-media-workflow",
-      "title": "Virtual Assistant Social Media Workflow",
-      "path": "content/blog/virtual-assistant-social-media-workflow.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-social-media-workflow.webp"
     },
     {
       "type": "blog",
@@ -452,17 +298,171 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-weekly-operations-report",
-      "title": "Virtual Assistant Weekly Operations Report",
-      "path": "content/blog/virtual-assistant-weekly-operations-report.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-weekly-operations-report.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-weekly-task-prioritization",
       "title": "Virtual Assistant Weekly Task Prioritization",
       "path": "content/blog/virtual-assistant-weekly-task-prioritization.mdx",
       "featuredImage": "/blog/images/virtual-assistant-weekly-task-prioritization.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-appointment-setting-process",
+      "title": "Virtual Assistant Appointment Setting Process",
+      "path": "content/blog/virtual-assistant-appointment-setting-process.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-setting-process.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-backup-coverage-plan",
+      "title": "Virtual Assistant Backup Coverage Plan",
+      "path": "content/blog/virtual-assistant-backup-coverage-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-bookkeeping-support-controls",
+      "title": "Virtual Assistant Bookkeeping Support Controls",
+      "path": "content/blog/virtual-assistant-bookkeeping-support-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-bookkeeping-support-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-calendar-management-rules",
+      "title": "Virtual Assistant Calendar Management Rules",
+      "path": "content/blog/virtual-assistant-calendar-management-rules.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-management-rules.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-brief-checklist",
+      "title": "Virtual Assistant Content Brief Checklist",
+      "path": "content/blog/virtual-assistant-content-brief-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-crm-cleanup-process",
+      "title": "Virtual Assistant CRM Cleanup Process",
+      "path": "content/blog/virtual-assistant-crm-cleanup-process.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-crm-cleanup-process.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-customer-support-escalation",
+      "title": "Virtual Assistant Customer Support Escalation Guide",
+      "path": "content/blog/virtual-assistant-customer-support-escalation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-support-escalation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-document-management-system",
+      "title": "Virtual Assistant Document Management System",
+      "path": "content/blog/virtual-assistant-document-management-system.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-management-system.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-ecommerce-order-support",
+      "title": "Virtual Assistant Ecommerce Order Support Workflow",
+      "path": "content/blog/virtual-assistant-ecommerce-order-support.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-support.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-healthcare-office-admin",
+      "title": "Virtual Assistant Healthcare Office Admin Boundaries",
+      "path": "content/blog/virtual-assistant-healthcare-office-admin.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-healthcare-office-admin.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-inbox-triage-workflow",
+      "title": "Virtual Assistant Inbox Triage Workflow",
+      "path": "content/blog/virtual-assistant-inbox-triage-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-lead-follow-up-workflow",
+      "title": "Virtual Assistant Lead Follow-Up Workflow",
+      "path": "content/blog/virtual-assistant-lead-follow-up-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-lead-follow-up-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-legal-admin-task-list",
+      "title": "Virtual Assistant Legal Admin Task List",
+      "path": "content/blog/virtual-assistant-legal-admin-task-list.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-legal-admin-task-list.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-outsourcing-readiness-checklist",
+      "title": "Virtual Assistant Outsourcing Readiness Checklist",
+      "path": "content/blog/virtual-assistant-outsourcing-readiness-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-phone-answering-script",
+      "title": "Virtual Assistant Phone Answering Script Guide",
+      "path": "content/blog/virtual-assistant-phone-answering-script.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-phone-answering-script.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-project-coordination-checklist",
+      "title": "Virtual Assistant Project Coordination Checklist",
+      "path": "content/blog/virtual-assistant-project-coordination-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-project-coordination-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-quality-scorecard",
+      "title": "Virtual Assistant Quality Scorecard",
+      "path": "content/blog/virtual-assistant-quality-scorecard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-real-estate-admin-workflow",
+      "title": "Virtual Assistant Real Estate Admin Workflow",
+      "path": "content/blog/virtual-assistant-real-estate-admin-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-remote-team-handoff-checklist",
+      "title": "Virtual Assistant Remote Team Handoff Checklist",
+      "path": "content/blog/virtual-assistant-remote-team-handoff-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-team-handoff-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-research-assistant-workflow",
+      "title": "Virtual Assistant Research Assistant Workflow",
+      "path": "content/blog/virtual-assistant-research-assistant-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-assistant-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-seo-publishing-checklist",
+      "title": "Virtual Assistant SEO Publishing Checklist",
+      "path": "content/blog/virtual-assistant-seo-publishing-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-social-media-workflow",
+      "title": "Virtual Assistant Social Media Workflow",
+      "path": "content/blog/virtual-assistant-social-media-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-social-media-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-weekly-operations-report",
+      "title": "Virtual Assistant Weekly Operations Report",
+      "path": "content/blog/virtual-assistant-weekly-operations-report.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-weekly-operations-report.webp"
     },
     {
       "type": "research",

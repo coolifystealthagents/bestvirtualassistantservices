@@ -33,7 +33,7 @@ const indexed = readIndex();
 export const publishedContentBlogPosts: BlogPost[] = indexed.filter((item) => item.type === 'blog').map((item) => {
   const fm = frontMatter(item.path);
   return {
-    slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A practical virtual assistant workflow guide.', minutes: Number.parseInt(fm.readingTime || '8', 10),
+    slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A practical virtual assistant workflow guide.', published: fm.publishedAt, modified: fm.updatedAt || fm.publishedAt, minutes: Number.parseInt(fm.readingTime || '8', 10),
     keyTakeaways: ['Use a written brief and definition of done.', 'Keep approvals and escalation rules visible.', 'Review quality before expanding the workflow.'],
     sections: articleBody(item.path), faq: [], sources: [{ name: 'NIST small business cybersecurity guidance', url: 'https://www.nist.gov/itl/smallbusinesscyber' }],
   };
@@ -49,5 +49,6 @@ export const publishedContentResearchPosts: ResearchPost[] = indexed.filter((ite
   };
 });
 
-export const allBlogPosts = [...blogPosts, ...publishedContentBlogPosts.filter((post) => !blogPosts.some((existing) => existing.slug === post.slug))];
+export const allBlogPosts = [...blogPosts, ...publishedContentBlogPosts.filter((post) => !blogPosts.some((existing) => existing.slug === post.slug))]
+  .sort((a, b) => (b.published || '').localeCompare(a.published || '') || a.title.localeCompare(b.title));
 export const allResearchPosts = [...researchPosts, ...publishedContentResearchPosts.filter((post) => !researchPosts.some((existing) => existing.slug === post.slug))];

@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { Header, Footer, CTA } from '../../components';
+import { Header, Footer, CTA, JsonLd } from '../../components';
 import { blogPosts, site } from '../../data';
 import { allBlogPosts } from '../../content-library';
 
@@ -34,9 +34,11 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
       <main>
         <article className="section">
           <div className="container article-shell">
+            {post.published ? <JsonLd data={{ '@context': 'https://schema.org', '@type': 'Article', headline: post.title, datePublished: post.published, dateModified: post.modified || post.published, mainEntityOfPage: `${site.url}/blog/${post.slug}`, publisher: { '@type': 'Organization', name: site.brand } }} /> : null}
             <p className="eyebrow">{site.brand} blog</p>
             <h1>{post.title}</h1>
             <p className="lead">{post.excerpt}</p>
+            {post.published ? <p className="article-date">Published {post.published}</p> : null}
             <div className="blog-standards-strip" aria-label="Article standards">
               <span>{post.minutes} minute read</span>
               <span>Contextual internal links</span>

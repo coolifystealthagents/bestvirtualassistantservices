@@ -63,7 +63,10 @@ def main():
         for path in sorted(directory.glob("*.mdx")) + sorted(directory.glob("*.md")):
             problems, fm = validate(path, kind); errors.extend(problems)
             entries.append({"type": kind, "slug": fm.get("slug", path.stem), "title": fm.get("title", ""), "path": str(path.relative_to(ROOT)), "featuredImage": fm.get("featuredImage", "")})
-    entries.sort(key=lambda x: (x["type"], x["slug"]))
+    blog_entries = sorted((entry for entry in entries if entry["type"] == "blog"), key=lambda x: x["slug"])
+    blog_entries.sort(key=lambda x: (parse_frontmatter(ROOT / x["path"])[0].get("publishedAt", "") or ""), reverse=True)
+    research_entries = sorted((entry for entry in entries if entry["type"] == "research"), key=lambda x: x["slug"])
+    entries = blog_entries + research_entries
     if args.write_index:
         INDEX.write_text(json.dumps({"version": 1, "generatedBy": "scripts/content_contract.py", "posts": entries}, indent=2) + "\n", encoding="utf-8")
     if errors:

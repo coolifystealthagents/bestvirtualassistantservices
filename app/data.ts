@@ -78,6 +78,8 @@ export type BlogPost = {
   slug: string;
   title: string;
   excerpt: string;
+  published?: string;
+  modified?: string;
   minutes: number;
   keyTakeaways: string[];
   sections: { heading: string; body: string; bullets?: string[] }[];
