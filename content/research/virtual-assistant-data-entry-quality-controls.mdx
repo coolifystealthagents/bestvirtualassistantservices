@@ -1,0 +1,70 @@
+---
+slug: virtual-assistant-data-entry-quality-controls
+title: Virtual Assistant Data Entry Quality Controls: A Research Brief
+excerpt: A practical research brief for reducing transcription errors through sampling, validation, and ownership.
+publishedAt: 2026-08-10
+updatedAt: 2026-08-10
+category: Operations
+tags: [data entry, quality, workflows]
+featuredImage: /blog/images/virtual-assistant-data-entry-quality-controls.webp
+heroImageAlt: Data entry quality controls
+readingTime: 8 minutes
+relatedArticles: [virtual-assistant-crm-data-hygiene, virtual-assistant-quality-scorecard, virtual-assistant-work-intake-triage]
+cluster: operating controls
+sourceCount: 10
+lastVerified: 2026-08-10
+key_takeaways: [Define fields, sample outputs, log corrections]
+keyStats: ["10: official sources reviewed", "4: validation checks", "1: correction log"]
+sources: [https://www.nist.gov/cyberframework, https://www.nist.gov/privacy-framework, https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final, https://www.archives.gov/records-mgmt, https://www.w3.org/TR/WCAG22/, https://www.cisa.gov/topics/cyber-threats-and-advisories, https://www.ftc.gov/business-guidance/privacy-security, https://www.iso.org/standard/27001, https://www.ilo.org/global/topics/telework, https://www.oecd.org/en/topics/sub-issues/digital-economy.html]
+---
+# Virtual Assistant Data Entry Quality Controls: A Research Brief
+
+Reliable data entry starts with a field definition and ends with a correction trail. Speed without validation simply moves errors downstream.
+
+## Establish field rules
+
+Document required fields, formats, source of truth, allowed blanks, and sensitivity. The [CRM hygiene brief](/research/virtual-assistant-crm-data-hygiene) shows how to handle duplicate and stale records.
+
+## Validate before handoff
+
+Use required-field checks, format checks, duplicate detection, and a sample against the source. The [quality scorecard](/research/virtual-assistant-quality-scorecard) can hold the weekly trend.
+
+| Check | Evidence | Escalate when |
+| --- | --- | --- |
+| Completeness | Missing-field report | Required value absent |
+| Accuracy | Source sample | Value differs |
+| Uniqueness | Duplicate query | Match needs judgment |
+| Traceability | Correction log | Source cannot be located |
+
+## Methodology and limitations
+
+This brief synthesizes ten official sources reviewed on 2026-08-10. It describes workflow controls and does not establish a specific accuracy threshold for every database.
+
+## Key takeaways
+
+- Define fields before assigning entry work.
+- Sample completed records against the authoritative source.
+- Preserve corrections so recurring errors can be fixed at the process level.
+
+## FAQs
+
+### Should every record be manually checked?
+
+Use risk-based sampling, with full review for sensitive or high-impact records.
+
+### What belongs in a correction log?
+
+Record the field, original value, corrected value, source, date, and reviewer.
+
+## Sources
+
+1. [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+2. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+3. [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+4. [National Archives records management](https://www.archives.gov/records-mgmt)
+5. [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+6. [CISA guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+7. [FTC privacy and security](https://www.ftc.gov/business-guidance/privacy-security)
+8. [ISO/IEC 27001](https://www.iso.org/standard/27001)
+9. [ILO telework](https://www.ilo.org/global/topics/telework)
+10. [OECD digital economy](https://www.oecd.org/en/topics/sub-issues/digital-economy.html)

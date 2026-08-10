@@ -165,6 +165,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-access-review-cadence",
+      "title": "Virtual Assistant Access Review Cadence: A Research Brief",
+      "path": "content/research/virtual-assistant-access-review-cadence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review-cadence.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-accessibility-review-controls",
       "title": "Accessibility Review Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-accessibility-review-controls.mdx",
@@ -193,6 +200,20 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-calendar-capacity-planning",
+      "title": "Virtual Assistant Calendar Capacity Planning: A Research Brief",
+      "path": "content/research/virtual-assistant-calendar-capacity-planning.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-planning.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-client-feedback-analysis",
+      "title": "Virtual Assistant Client Feedback Analysis: A Research Brief",
+      "path": "content/research/virtual-assistant-client-feedback-analysis.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-feedback-analysis.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-client-onboarding-controls",
       "title": "Client Onboarding Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-client-onboarding-controls.mdx",
@@ -204,6 +225,13 @@
       "title": "Community Operations Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-community-operations-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-community-operations-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-content-approval-workflow",
+      "title": "Virtual Assistant Content Approval Workflow: A Research Brief",
+      "path": "content/research/virtual-assistant-content-approval-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-approval-workflow.webp"
     },
     {
       "type": "research",
@@ -263,6 +291,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-data-entry-quality-controls",
+      "title": "Virtual Assistant Data Entry Quality Controls: A Research Brief",
+      "path": "content/research/virtual-assistant-data-entry-quality-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-data-entry-quality-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-document-control",
       "title": "Document Control by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-document-control.mdx",
@@ -281,6 +316,13 @@
       "title": "Email Newsletter Operations by Virtual Assistants: Research and Controls",
       "path": "content/research/virtual-assistant-email-newsletter-operations.mdx",
       "featuredImage": "/blog/images/virtual-assistant-email-newsletter-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-email-queue-prioritization",
+      "title": "Virtual Assistant Email Queue Prioritization: A Research Brief",
+      "path": "content/research/virtual-assistant-email-queue-prioritization.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-email-queue-prioritization.webp"
     },
     {
       "type": "research",
@@ -305,6 +347,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-invoice-processing-controls",
+      "title": "Virtual Assistant Invoice Processing Controls: A Research Brief",
+      "path": "content/research/virtual-assistant-invoice-processing-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-invoice-processing-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-knowledge-base-maintenance",
       "title": "Knowledge Base Maintenance by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-knowledge-base-maintenance.mdx",
@@ -316,6 +365,13 @@
       "title": "Knowledge Transfer Handoffs for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-knowledge-transfer-handoffs.mdx",
       "featuredImage": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-meeting-notes-workflow",
+      "title": "Virtual Assistant Meeting Notes Workflow: A Research Brief",
+      "path": "content/research/virtual-assistant-meeting-notes-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-notes-workflow.webp"
     },
     {
       "type": "research",
@@ -337,6 +393,13 @@
       "title": "Procurement Coordination by Virtual Assistants: Approval Boundaries",
       "path": "content/research/virtual-assistant-procurement-coordination.mdx",
       "featuredImage": "/blog/images/virtual-assistant-procurement-coordination.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-project-status-reporting",
+      "title": "Virtual Assistant Project Status Reporting: A Research Brief",
+      "path": "content/research/virtual-assistant-project-status-reporting.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-project-status-reporting.webp"
     },
     {
       "type": "research",
@@ -375,10 +438,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-sop-maintenance-controls",
+      "title": "Virtual Assistant SOP Maintenance Controls: A Research Brief",
+      "path": "content/research/virtual-assistant-sop-maintenance-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sop-maintenance-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-survey-operations-controls",
       "title": "Survey Operations Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-survey-operations-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-survey-operations-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-vendor-onboarding-controls",
+      "title": "Virtual Assistant Vendor Onboarding Controls: A Research Brief",
+      "path": "content/research/virtual-assistant-vendor-onboarding-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-onboarding-controls.webp"
     },
     {
       "type": "research",
