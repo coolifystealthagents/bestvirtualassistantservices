@@ -4,6 +4,160 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-appointment-scheduling-quality",
+      "title": "Virtual Assistant Appointment Scheduling Quality",
+      "path": "content/blog/virtual-assistant-appointment-scheduling-quality.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-scheduling-quality.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-calendar-conflict-resolution",
+      "title": "Virtual Assistant Calendar Conflict Resolution",
+      "path": "content/blog/virtual-assistant-calendar-conflict-resolution.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-conflict-resolution.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-client-intake-call-preparation",
+      "title": "Virtual Assistant Client Intake Call Preparation",
+      "path": "content/blog/virtual-assistant-client-intake-call-preparation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-intake-call-preparation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-customer-feedback-summary",
+      "title": "Virtual Assistant Customer Feedback Summary",
+      "path": "content/blog/virtual-assistant-customer-feedback-summary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-customer-onboarding-checklist",
+      "title": "Virtual Assistant Customer Onboarding Checklist",
+      "path": "content/blog/virtual-assistant-customer-onboarding-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-document-version-control",
+      "title": "Virtual Assistant Document Version Control",
+      "path": "content/blog/virtual-assistant-document-version-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-ecommerce-product-catalog",
+      "title": "Virtual Assistant Ecommerce Product Catalog",
+      "path": "content/blog/virtual-assistant-ecommerce-product-catalog.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-employee-onboarding-admin",
+      "title": "Virtual Assistant Employee Onboarding Admin",
+      "path": "content/blog/virtual-assistant-employee-onboarding-admin.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-employee-onboarding-admin.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-expense-receipt-organization",
+      "title": "Virtual Assistant Expense Receipt Organization",
+      "path": "content/blog/virtual-assistant-expense-receipt-organization.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-expense-receipt-organization.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-file-sharing-permissions",
+      "title": "Virtual Assistant File Sharing Permissions",
+      "path": "content/blog/virtual-assistant-file-sharing-permissions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-file-sharing-permissions.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-inbox-escalation-matrix",
+      "title": "Virtual Assistant Inbox Escalation Matrix",
+      "path": "content/blog/virtual-assistant-inbox-escalation-matrix.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-escalation-matrix.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-invoice-follow-up",
+      "title": "Virtual Assistant Invoice Follow-Up",
+      "path": "content/blog/virtual-assistant-invoice-follow-up.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-invoice-follow-up.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-lead-follow-up-notes",
+      "title": "Virtual Assistant Lead Follow-Up Notes",
+      "path": "content/blog/virtual-assistant-lead-follow-up-notes.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-lead-follow-up-notes.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-meeting-agenda-design",
+      "title": "Virtual Assistant Meeting Agenda Design",
+      "path": "content/blog/virtual-assistant-meeting-agenda-design.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-design.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-monthly-client-report",
+      "title": "Virtual Assistant Monthly Client Report",
+      "path": "content/blog/virtual-assistant-monthly-client-report.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-monthly-client-report.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-real-estate-listing-prep",
+      "title": "Virtual Assistant Real Estate Listing Prep",
+      "path": "content/blog/virtual-assistant-real-estate-listing-prep.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-real-estate-listing-prep.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-research-source-log",
+      "title": "Virtual Assistant Research Source Log",
+      "path": "content/blog/virtual-assistant-research-source-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-source-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-sales-pipeline-hygiene",
+      "title": "Virtual Assistant Sales Pipeline Hygiene",
+      "path": "content/blog/virtual-assistant-sales-pipeline-hygiene.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sales-pipeline-hygiene.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-social-media-approval",
+      "title": "Virtual Assistant Social Media Approval",
+      "path": "content/blog/virtual-assistant-social-media-approval.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-social-media-approval.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-travel-itinerary-review",
+      "title": "Virtual Assistant Travel Itinerary Review",
+      "path": "content/blog/virtual-assistant-travel-itinerary-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-travel-itinerary-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-vendor-onboarding",
+      "title": "Virtual Assistant Vendor Onboarding",
+      "path": "content/blog/virtual-assistant-vendor-onboarding.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-onboarding.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-website-content-update",
+      "title": "Virtual Assistant Website Content Update",
+      "path": "content/blog/virtual-assistant-website-content-update.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-update.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-access-request-process",
       "title": "Virtual Assistant Access Request Process",
       "path": "content/blog/virtual-assistant-access-request-process.mdx",
