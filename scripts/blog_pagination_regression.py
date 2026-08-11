@@ -3,12 +3,15 @@
 import json
 import re
 import sys
+from functools import cmp_to_key
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 TARGET = "2026-08-10"
 DATA_FILE = ROOT / "app/data.ts"
 FLEET_DATA_FILE = ROOT / "app/fleet-data.ts"
+ARTICLE_ROUTE = ROOT / "app/blog/[slug]/page.tsx"
+SITEMAP_ROUTE = ROOT / "app/sitemap.xml/route.ts"
 
 def fail(message):
     print(f"BLOG PAGINATION REGRESSION FAIL: {message}", file=sys.stderr)
@@ -27,6 +30,9 @@ def frontmatter(path):
 manifest = json.loads((ROOT / ".paperclip/aug10-2026/blog.json").read_text(encoding="utf-8"))
 if manifest.get("family") != "blog" or len(manifest.get("entries", [])) < manifest.get("minimum", 22):
     fail("committed Blog manifest is missing or below minimum")
+manifest_slugs = [entry.get("slug") for entry in manifest["entries"]]
+if len(manifest_slugs) != len(set(manifest_slugs)) or any(not slug for slug in manifest_slugs):
+    fail("manifest slugs are not unique")
 
 index = json.loads((ROOT / "content/index.json").read_text(encoding="utf-8"))["posts"]
 indexed_blogs = [item for item in index if item.get("type") == "blog"]
@@ -51,13 +57,32 @@ by_slug = {item["slug"]: item for item in legacy}
 for item in indexed:
     by_slug.setdefault(item["slug"], item)
 blogs = list(by_slug.values())
-# app/content-library.ts uses a descending date and ascending title tie-breaker.
-blogs.sort(key=lambda item: item["title"])
-blogs.sort(key=lambda item: item["published"], reverse=True)
+# Mirror app/content-library.ts: descending date, then the exact accepted August
+# 10 manifest batch, then title. This makes the accepted batch deterministic
+# and keeps it ahead of the legacy records.
+manifest_rank = {slug: index for index, slug in enumerate(manifest_slugs)}
+def compare_posts(left, right):
+    date_order = (right["published"] > left["published"]) - (right["published"] < left["published"])
+    if date_order:
+        return date_order
+    left_rank = manifest_rank.get(left["slug"])
+    right_rank = manifest_rank.get(right["slug"])
+    if left_rank is not None or right_rank is not None:
+        if left_rank is None:
+            return 1
+        if right_rank is None:
+            return -1
+        return left_rank - right_rank
+    return (left["title"] > right["title"]) - (left["title"] < right["title"])
+blogs.sort(key=cmp_to_key(compare_posts))
 if not blogs:
     fail("Blog index is empty")
 if len(blogs) != len(indexed_blogs) + len(legacy) - len(set(legacy_slugs) & {item["slug"] for item in indexed_blogs}):
     fail("merged Blog dataset does not include indexed and legacy records exactly once")
+if blogs[:len(manifest_slugs)] and [item["slug"] for item in blogs[:len(manifest_slugs)]] != manifest_slugs:
+    fail("accepted manifest slugs are not the first allBlogPosts entries")
+if any(slug not in {item["slug"] for item in blogs} for slug in manifest_slugs):
+    fail("manifest contains a slug missing from allBlogPosts")
 if [item["published"] for item in blogs] != sorted((item["published"] for item in blogs), reverse=True):
     fail("Blog index is not newest-first")
 
@@ -76,14 +101,25 @@ for required in ("allBlogPosts.length", "allBlogPosts.slice", "generateStaticPar
 if "blogPosts" in route:
     fail("numbered route still references legacy blogPosts")
 
+article_route = ARTICLE_ROUTE.read_text(encoding="utf-8")
+for required in ("allBlogPosts", "datePublished: post.published", "dateTime={post.published}", "canonical: `${site.url}/blog/${post.slug}`"):
+    if required not in article_route:
+        fail(f"article route is missing {required}")
+sitemap_route = SITEMAP_ROUTE.read_text(encoding="utf-8")
+if "allBlogPosts" not in sitemap_route or "blogs.map(b=>`/blog/${b.slug}`)" not in sitemap_route:
+    fail("sitemap is not sourced from allBlogPosts")
+
 pages = max(1, (len(blogs) + posts_per_page - 1) // posts_per_page)
+expected_sizes = [min(posts_per_page, len(blogs) - page * posts_per_page) for page in range(pages)]
+if expected_sizes != [20, 20, 20, 12]:
+    fail(f"unexpected production page slices: {expected_sizes}")
 seen = []
 for page in range(1, pages + 1):
     page_items = blogs[(page - 1) * posts_per_page:page * posts_per_page]
     if not page_items:
         fail(f"advertised page {page} is empty")
     seen.extend(item["slug"] for item in page_items)
-if len(seen) != len(blogs) or len(set(seen)) != len(blogs) or set(seen) != {item["slug"] for item in blogs}:
+if len(seen) != 72 or len(set(seen)) != 72 or set(seen) != {item["slug"] for item in blogs}:
     fail("traversing advertised pages does not cover every Blog entry exactly once")
 
 by_slug = {item["slug"]: item for item in blogs}

@@ -5,9 +5,20 @@ import { researchPosts, ResearchPost } from './fleet-data';
 
 type IndexPost = { type: 'blog' | 'research'; slug: string; title: string; path: string; featuredImage?: string };
 
+type BlogManifest = { entries?: Array<{ slug?: string }> };
+
 function readIndex(): IndexPost[] {
   const file = path.join(process.cwd(), 'content', 'index.json');
   return JSON.parse(fs.readFileSync(file, 'utf8')).posts as IndexPost[];
+}
+
+function readAug10BlogManifest(): BlogManifest {
+  const file = path.join(process.cwd(), '.paperclip', 'aug10-2026', 'blog.json');
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8')) as BlogManifest;
+  } catch {
+    return {};
+  }
 }
 
 function frontMatter(file: string): Record<string, string> {
@@ -49,6 +60,21 @@ export const publishedContentResearchPosts: ResearchPost[] = indexed.filter((ite
   };
 });
 
+const aug10ManifestEntries = (readAug10BlogManifest().entries || []).map((entry) => entry.slug).filter((slug): slug is string => Boolean(slug));
+const aug10ManifestSlugs = new Set(aug10ManifestEntries);
+const aug10ManifestRank = new Map(aug10ManifestEntries.map((slug, index) => [slug, index]));
+
 export const allBlogPosts = [...blogPosts, ...publishedContentBlogPosts.filter((post) => !blogPosts.some((existing) => existing.slug === post.slug))]
-  .sort((a, b) => (b.published || '').localeCompare(a.published || '') || a.title.localeCompare(b.title));
+  .sort((a, b) => {
+    const dateOrder = (b.published || '').localeCompare(a.published || '');
+    if (dateOrder) return dateOrder;
+    const aManifestIndex = aug10ManifestRank.get(a.slug) ?? -1;
+    const bManifestIndex = aug10ManifestRank.get(b.slug) ?? -1;
+    if (aManifestIndex >= 0 || bManifestIndex >= 0) {
+      if (aManifestIndex < 0) return 1;
+      if (bManifestIndex < 0) return -1;
+      return aManifestIndex - bManifestIndex;
+    }
+    return a.title.localeCompare(b.title);
+  });
 export const allResearchPosts = [...researchPosts, ...publishedContentResearchPosts.filter((post) => !researchPosts.some((existing) => existing.slug === post.slug))];
