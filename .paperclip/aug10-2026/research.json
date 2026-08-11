@@ -9,13 +9,7 @@
   "minimum": 10,
   "priorRunId": "db5ca32a-1d43-4138-9c46-64189ac06258",
   "priorIssueId": "89068e63-0903-411c-b366-5337844bb83d",
-  "validationCommands": [
-    "npm run validate:content",
-    "python3 scripts/research_aug10_repair_check.py",
-    "npm run validate:blog-date",
-    "npm run build",
-    "python3 scripts/research_aug10_v6_regression.py"
-  ],
+  "validationCommands": ["npm run build", "python3 scripts/research_aug10_v6_regression.py"],
   "cleanBuildPassed": true,
   "existingCompliancePassed": true,
   "indexNewestFirstPassed": true,

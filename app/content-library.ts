@@ -77,4 +77,36 @@ export const allBlogPosts = [...blogPosts, ...publishedContentBlogPosts.filter((
     }
     return a.title.localeCompare(b.title);
   });
-export const allResearchPosts = [...researchPosts, ...publishedContentResearchPosts.filter((post) => !researchPosts.some((existing) => existing.slug === post.slug))];
+
+const frozenAug10ResearchSlugs = [
+  'virtual-assistant-calendar-delegation',
+  'virtual-assistant-client-intake-data-controls',
+  'virtual-assistant-content-fact-checking',
+  'virtual-assistant-delegation-readiness',
+  'virtual-assistant-digital-accessibility-review',
+  'virtual-assistant-ecommerce-order-escalation',
+  'virtual-assistant-executive-travel-risk-controls',
+  'virtual-assistant-help-desk-routing',
+  'virtual-assistant-knowledge-base-search-quality',
+  'virtual-assistant-meeting-agenda-operations',
+  'virtual-assistant-newsletter-list-hygiene',
+  'virtual-assistant-project-risk-register',
+  'virtual-assistant-remote-onboarding-controls',
+  'virtual-assistant-sop-audit-workflow',
+  'virtual-assistant-vendor-renewal-tracking',
+] as const;
+export const frozenAug10ResearchRank = new Map<string, number>(frozenAug10ResearchSlugs.map((slug, index) => [slug, index]));
+
+export const allResearchPosts = [...researchPosts, ...publishedContentResearchPosts.filter((post) => !researchPosts.some((existing) => existing.slug === post.slug))]
+  .sort((a, b) => {
+    const dateOrder = (b.published || '').localeCompare(a.published || '');
+    if (dateOrder) return dateOrder;
+    const aRank = frozenAug10ResearchRank.get(a.slug);
+    const bRank = frozenAug10ResearchRank.get(b.slug);
+    if (aRank !== undefined || bRank !== undefined) {
+      if (aRank === undefined) return 1;
+      if (bRank === undefined) return -1;
+      return aRank - bRank;
+    }
+    return a.slug.localeCompare(b.slug);
+  });
