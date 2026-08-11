@@ -1,0 +1,60 @@
+---
+slug: virtual-assistant-inbox-triage-service-levels
+title: Inbox Triage Service Levels: Research for Virtual Assistant Buyers
+excerpt: A practical evidence model for prioritizing inbox work without treating every message as equally urgent.
+publishedAt: 2026-08-11
+updatedAt: 2026-08-11
+category: Inbox administration
+tags: [inbox triage, service levels, virtual assistant]
+featuredImage: /blog/images/virtual-assistant-inbox-triage-workflow.webp
+heroImageAlt: Inbox triage research
+readingTime: 8 minutes
+relatedArticles: [virtual-assistant-help-desk-routing, virtual-assistant-email-queue-prioritization, virtual-assistant-inbox-escalation-matrix]
+cluster: scope benchmarks
+sourceCount: 10
+lastVerified: 2026-08-11
+key_takeaways: [Classify by consequence, Preserve sender intent, Escalate uncertainty]
+keyStats: ["4: priority signals", "3: response states", "1: escalation owner"]
+sources: [https://www.atlassian.com/itsm/service-request-management, https://www.nngroup.com/articles/response-times-3-important-limits/, https://www.nist.gov/privacy-framework, https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final, https://www.w3.org/TR/WCAG22/, https://www.cisa.gov/topics/cyber-threats-and-advisories, https://www.ftc.gov/business-guidance/advertising-marketing/advertising-and-marketing-basics, https://www.iso.org/standard/27001, https://www.loc.gov/copyright/, https://www.oecd.org/digital/]
+---
+# Inbox Triage Service Levels: Research for Virtual Assistant Buyers
+
+Inbox triage is a judgment task. A queue can be fast and still unsafe if it hides the sender's intent or routes a consequential message to the wrong owner.
+
+## Priority should describe consequence
+
+Service request guidance provides a useful distinction between requests, incidents, and fulfillment work [1]. Add the consequence of delay, the authority needed to respond, and the confidence of the classification. A fast response is not the same as a resolved request [2].
+
+## A bounded triage model
+
+| Signal | Triage question | Action |
+| --- | --- | --- |
+| Consequence | What happens if this waits? | Set a review window |
+| Authority | Who may answer or approve? | Route to named owner |
+| Sensitivity | Does the message contain private data? | Restrict and document |
+| Uncertainty | Is classification ambiguous? | Escalate before replying |
+
+Privacy and security frameworks support limiting data and access [3][4]. The [help-desk routing research](/research/virtual-assistant-help-desk-routing) shows how similar rules apply to support queues. Use the [services overview](/services) to keep role scope separate from a response-time promise.
+
+## Methodology and limitations
+
+This brief compares service-management and usability research with privacy, security, accessibility, advertising, copyright, and digital-policy guidance checked on 2026-08-11. It proposes a review model, not a promised response rate.
+
+## Key takeaways
+
+- Classify by consequence, not by visual urgency alone.
+- Preserve uncertainty for a human owner.
+- Treat sensitive messages as an access decision.
+
+## Sources
+
+1. [Atlassian service request management](https://www.atlassian.com/itsm/service-request-management)
+2. [Nielsen Norman Group response times](https://www.nngroup.com/articles/response-times-3-important-limits/)
+3. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+4. [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+5. [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+6. [CISA guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+7. [FTC advertising basics](https://www.ftc.gov/business-guidance/advertising-marketing/advertising-and-marketing-basics)
+8. [ISO/IEC 27001](https://www.iso.org/standard/27001)
+9. [Library of Congress copyright](https://www.loc.gov/copyright/)
+10. [OECD digital policy](https://www.oecd.org/digital/)

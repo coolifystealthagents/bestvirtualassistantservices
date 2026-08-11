@@ -1,0 +1,60 @@
+---
+slug: virtual-assistant-calendar-booking-integrity
+title: Calendar Booking Integrity: Research on Virtual Assistant Scheduling Controls
+excerpt: How scheduling support can protect availability, consent, and accurate expectations.
+publishedAt: 2026-08-11
+updatedAt: 2026-08-11
+category: Calendar administration
+tags: [calendar management, scheduling, virtual assistant]
+featuredImage: /blog/images/virtual-assistant-calendar-capacity-planning.webp
+heroImageAlt: Calendar scheduling controls
+readingTime: 8 minutes
+relatedArticles: [virtual-assistant-calendar-delegation, virtual-assistant-meeting-agenda-operations, virtual-assistant-executive-travel-risk-controls]
+cluster: workflow design
+sourceCount: 10
+lastVerified: 2026-08-11
+key_takeaways: [Protect the source calendar, Confirm meeting intent, Record exceptions]
+keyStats: ["3: booking states", "2: confirmation points", "1: calendar owner"]
+sources: [https://support.google.com/calendar/answer/6085339, https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-2fcf4b78-cb7d-4bcb-8c57-0d9f0f7f9c1c, https://www.nist.gov/privacy-framework, https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final, https://www.w3.org/TR/WCAG22/, https://www.nngroup.com/articles/ten-usability-heuristics/, https://www.cisa.gov/topics/cyber-threats-and-advisories, https://www.iso.org/standard/27001, https://www.ftc.gov/business-guidance/advertising-marketing/advertising-and-marketing-basics, https://www.loc.gov/copyright/]
+---
+# Calendar Booking Integrity: Research on Virtual Assistant Scheduling Controls
+
+Scheduling assistance is a coordination service, not permission to make assumptions about a person's availability, attendees, or meeting purpose.
+
+## Availability is not the whole decision
+
+Calendar documentation distinguishes sharing and access choices [1][2]. A reliable scheduling brief should also name time zone, meeting length, buffer, attendee consent, and the owner who handles a conflict. These details matter more than a promise of fast booking.
+
+## Use a state model
+
+| State | Evidence | Safe next action |
+| --- | --- | --- |
+| Requested | Sender and intent are known | Clarify missing constraints |
+| Proposed | Candidate time is visible | Wait for required confirmation |
+| Booked | Event is on the source calendar | Send accurate details |
+| Changed | An existing commitment is affected | Escalate to the owner |
+
+Least-privilege and privacy principles support narrowing access to what the role needs [3][4]. Accessibility and clear error prevention also belong in the experience [5][6]. Compare with the [calendar delegation research](/research/virtual-assistant-calendar-delegation) for related control questions. See the [services overview](/services) before translating a control into role scope.
+
+## Methodology and limitations
+
+This brief reviews official calendar documentation alongside privacy, security, accessibility, usability, advertising, and copyright guidance checked on 2026-08-11. It does not evaluate a particular calendar provider or guarantee error-free scheduling.
+
+## Key takeaways
+
+- Treat access and consent as separate decisions.
+- Keep the source calendar authoritative.
+- Escalate conflicts instead of silently rewriting commitments.
+
+## Sources
+
+1. [Google Calendar sharing](https://support.google.com/calendar/answer/6085339)
+2. [Microsoft Outlook calendar sharing](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-2fcf4b78-cb7d-4bcb-8c57-0d9f0f7f9c1c)
+3. [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+4. [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+5. [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+6. [Nielsen Norman Group heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+7. [CISA guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+8. [ISO/IEC 27001](https://www.iso.org/standard/27001)
+9. [FTC advertising basics](https://www.ftc.gov/business-guidance/advertising-marketing/advertising-and-marketing-basics)
+10. [Library of Congress copyright](https://www.loc.gov/copyright/)

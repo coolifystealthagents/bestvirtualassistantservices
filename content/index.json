@@ -662,6 +662,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-calendar-booking-integrity",
+      "title": "Calendar Booking Integrity: Research on Virtual Assistant Scheduling Controls",
+      "path": "content/research/virtual-assistant-calendar-booking-integrity.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-planning.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-calendar-capacity-planning",
       "title": "Virtual Assistant Calendar Capacity Planning: A Research Brief",
       "path": "content/research/virtual-assistant-calendar-capacity-planning.mdx",
@@ -704,6 +711,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-client-onboarding-response-time",
+      "title": "Client Onboarding Response Time: What Virtual Assistant Buyers Should Measure",
+      "path": "content/research/virtual-assistant-client-onboarding-response-time.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-community-operations-controls",
       "title": "Community Operations Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-community-operations-controls.mdx",
@@ -715,6 +729,13 @@
       "title": "Virtual Assistant Content Approval Workflow: A Research Brief",
       "path": "content/research/virtual-assistant-content-approval-workflow.mdx",
       "featuredImage": "/blog/images/virtual-assistant-content-approval-workflow.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-content-brief-evidence",
+      "title": "Evidence Standards for Virtual Assistant Content Briefs: A Research Brief",
+      "path": "content/research/virtual-assistant-content-brief-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-brief-template.webp"
     },
     {
       "type": "research",
@@ -788,6 +809,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-customer-support-knowledge-handoff",
+      "title": "Knowledge Handoffs in Customer Support: A Virtual Assistant Research Brief",
+      "path": "content/research/virtual-assistant-customer-support-knowledge-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-data-enrichment-controls",
       "title": "Data Enrichment Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-data-enrichment-controls.mdx",
@@ -823,6 +851,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-document-access-governance",
+      "title": "Document Access Governance for Virtual Assistant Work",
+      "path": "content/research/virtual-assistant-document-access-governance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-document-control",
       "title": "Document Control by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-document-control.mdx",
@@ -847,6 +882,13 @@
       "slug": "virtual-assistant-ecommerce-order-escalation",
       "title": "Ecommerce Order Escalation for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-ecommerce-order-escalation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-escalation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-ecommerce-return-research",
+      "title": "E-commerce Return Research: Where Virtual Assistant Support Needs Boundaries",
+      "path": "content/research/virtual-assistant-ecommerce-return-research.mdx",
       "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-escalation.webp"
     },
     {
@@ -897,6 +939,13 @@
       "title": "Help Desk Routing for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-help-desk-routing.mdx",
       "featuredImage": "/blog/images/virtual-assistant-help-desk-routing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-inbox-triage-service-levels",
+      "title": "Inbox Triage Service Levels: Research for Virtual Assistant Buyers",
+      "path": "content/research/virtual-assistant-inbox-triage-service-levels.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
     },
     {
       "type": "research",
@@ -953,6 +1002,13 @@
       "title": "Meeting Agenda Operations for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-meeting-agenda-operations.mdx",
       "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-meeting-follow-up-accountability",
+      "title": "Meeting Follow-up Accountability: Research on Virtual Assistant Note Quality",
+      "path": "content/research/virtual-assistant-meeting-follow-up-accountability.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-notes-workflow.webp"
     },
     {
       "type": "research",
@@ -1096,6 +1152,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-vendor-research-due-diligence",
+      "title": "Vendor Research Due Diligence: A Virtual Assistant Buyer Research Brief",
+      "path": "content/research/virtual-assistant-vendor-research-due-diligence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-research-process.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-vendor-risk-review",
       "title": "Vendor Risk Reviews for Virtual Assistant Operations",
       "path": "content/research/virtual-assistant-vendor-risk-review.mdx",
@@ -1113,6 +1176,13 @@
       "slug": "virtual-assistant-website-content-updates",
       "title": "Website Content Updates by Virtual Assistants: Release Controls",
       "path": "content/research/virtual-assistant-website-content-updates.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-updates.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-website-update-accessibility",
+      "title": "Website Updates by Virtual Assistants: Accessibility Risk Research",
+      "path": "content/research/virtual-assistant-website-update-accessibility.mdx",
       "featuredImage": "/blog/images/virtual-assistant-website-content-updates.webp"
     },
     {
