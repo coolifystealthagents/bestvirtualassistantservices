@@ -33,6 +33,8 @@ if manifest.get("family") != "blog" or len(manifest.get("entries", [])) < manife
 manifest_slugs = [entry.get("slug") for entry in manifest["entries"]]
 if len(manifest_slugs) != len(set(manifest_slugs)) or any(not slug for slug in manifest_slugs):
     fail("manifest slugs are not unique")
+if len(manifest_slugs) != 23:
+    fail(f"manifest must contain exactly 23 unique entries, found {len(manifest_slugs)}")
 
 index = json.loads((ROOT / "content/index.json").read_text(encoding="utf-8"))["posts"]
 indexed_blogs = [item for item in index if item.get("type") == "blog"]
