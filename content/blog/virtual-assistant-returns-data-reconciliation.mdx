@@ -13,29 +13,60 @@ relatedArticles: [virtual-assistant-spreadsheet-review-rules, virtual-assistant-
 ---
 # Virtual Assistant Returns Data Reconciliation
 
-For returns data reconciliation, begin with the record that makes the next decision possible, then keep the owner and stopping point visible.
+Returns become difficult to explain when an order system, carrier feed, warehouse record, and payment ledger each describe a different moment. Reconciliation is the work of joining those moments without hiding uncertainty. A virtual assistant can assemble the evidence, test the arithmetic, and age exceptions so an e-commerce owner can decide what needs correction, refund review, or customer communication.
 
-## Virtual Assistant Returns Data Reconciliation: Define the records being compared
+## Virtual Assistant Returns Data Reconciliation: define the ledger before matching rows
 
-A returns reconciliation joins customer, order, shipment, refund, and inventory records that were created for different purposes. Write down the fields used to match them and the time window covered. Without that boundary, a mismatch can be a delayed event rather than an error.
+Start with a reconciliation period and a fixed population, such as returns authorized during one calendar week. Create one working row per returned order line, not merely one row per customer or order. Capture the order identifier, line identifier, SKU, ordered quantity, shipped quantity, return authorization, returned quantity, warehouse receipt, refund authorization, refund transaction, and payment status. Keep source timestamps and system names beside the values.
 
-## Match with a hierarchy
+The sequence matters. An order can be shipped before a return is authorized, and a refund can be issued before the warehouse posts its receipt. A missing later event is not automatically an error. The ledger should show whether the event is not yet due, not found, or contradicted by another source.
 
-Use the strongest shared identifier first, then consider order line, product code, date, and amount. Keep one-to-many and partial returns visible. Never force a match because two rows look similar. An unresolved pair is safer than a refund assigned to the wrong order.
+## Join records in a deliberate order
 
-## Explain each difference
+Use the strongest identifier available: order plus line, return authorization plus line, warehouse receipt reference, and payment transaction reference. Product code, quantity, date, and amount are supporting evidence, not replacements for an identifier. Two similar orders should never be merged merely because the customer name matches.
 
-Classify exceptions such as timing, duplicate entry, quantity disagreement, missing refund, or policy decision. Add the source records and the next person who can resolve the item. Categories make a long exception list actionable without pretending every cause is known.
+Keep one-to-many relationships visible. A single order may have two shipments, a return may cover only one item from a bundle, and one refund may contain several line adjustments. A flat spreadsheet that overwrites those relationships can make the final total appear correct while assigning the wrong money to the wrong item.
 
-## Reconcile money separately
+## Model partial returns and bundles
 
-Compare authorized refund, processed refund, payment status, and customer communication as separate facts. Do not mark a return complete because inventory moved. Financial exceptions need the owner who can approve or investigate them.
+For a partial return, calculate expected value at the line level. Record ordered quantity, returned quantity, accepted quantity, and rejected quantity separately. A bundle needs a stated allocation rule: either the business refunds the bundle as a unit or assigns component values according to a documented method. Do not divide a bundle total casually and then present the result as an original system value.
 
-## Keep customer promises accurate
+Taxes, shipping charges, restocking fees, discounts, and other adjustments should have their own columns. A refund total can differ from the item subtotal without being wrong, but the reason must be traceable. Compare the authorized amount with the processed amount and then compare the processed amount with the payment provider’s settled amount. Those are three checkpoints.
 
-If the business has promised a response or refund, record the promise and its due point. Route delays quickly and avoid making a new promise without authority. The FTC’s [Mail, Internet, or Telephone Order Merchandise Rule guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-mail-internet-or-telephone-order-merchandise-rule) provides useful context for timely order and refund communication.
+## Classify exceptions by ledger behavior
 
+Use categories that describe what happened, not who is blamed:
 
-## Keep the decision visible
+- **Timing:** authorization, receipt, refund, or settlement is still within its expected window.
+- **Identity:** two records cannot be joined confidently or one identifier is missing.
+- **Quantity:** ordered, shipped, received, and refunded units disagree.
+- **Value:** tax, discount, fee, currency, or refund amount differs from the rule.
+- **Duplicate:** the same authorization or payment appears more than once.
+- **State:** the system says canceled, received, pending, or completed in conflict with another source.
+- **Aging:** an otherwise explainable exception has remained open beyond its review point.
 
-For this topic, preserve the source and route uncertainty to the named owner. Reference: [Federal Trade Commission](https://www.ftc.gov/business-guidance/resources/business-guidance-mail-internet-or-telephone-order-merchandise-rule). Related reading: [delegation readiness](/blog/virtual-assistant-delegation-readiness) and [document review guidance](/blog/virtual-assistant-document-review-process).
+Each exception needs source links or record references, a first-seen date, a current age, and a next action. “Investigate” is not enough; name the missing comparison or decision that would close it.
+
+## Watch for duplicate refunds
+
+Duplicate payments often arise when a support adjustment and an automated return workflow both act on the same authorization. Search by return authorization, order line, amount, and payment reference. A second transaction with a different reference is still suspicious if the combined value exceeds the approved amount. Hold the row for payment-owner review rather than reversing a transaction without authority.
+
+Similarly, do not treat a warehouse receipt as proof that a refund was processed. Inventory state and payment state are separate ledgers. A received item may await inspection; a refund may be authorized before receipt under a business rule. The reconciliation should report both states plainly.
+
+## Use exception aging to focus attention
+
+Sort open items by age and consequence. A new timing item may need no action today, while a duplicate refund or a missing payment event deserves prompt review. Record the due point supplied by the relevant business rule, then recalculate age from the first observed discrepancy rather than from the date someone happened to open the spreadsheet. Close an item only when the source records agree or an authorized explanation is documented.
+
+## Worked reconciliation example
+
+Suppose order 8042 contains two units of a shirt and one accessory. One shirt is returned. The authorization lists one shirt, the warehouse receipt confirms one shirt, and the payment ledger shows a refund for the shirt’s discounted item value plus its allocated tax. The shipment record confirms that both shirts originally left the warehouse. This is a clean partial return: shipped quantity two, returned quantity one, accepted quantity one, refunded quantity one.
+
+Now imagine the refund amount is higher by the exact value of the original shipping charge. The row should not be marked clean just because the customer received money. Add a value exception, show the authorized item and tax components, identify shipping as the extra component, and check the store’s policy or approval record. If a second refund carries the same return authorization, classify it as a duplicate candidate and compare both payment references before anyone takes action.
+
+## Report a useful closeout
+
+A reconciliation summary should state the population reviewed, the systems and dates covered, the rows matched, the rows awaiting timing, and the open exceptions by category. Keep the underlying line ledger available so totals can be traced back to order, shipment, return, warehouse, refund, and payment records. A concise summary is valuable only when its exceptions remain inspectable.
+
+Returns data reconciliation is therefore a ledger exercise, not a hunt for a single master status. Join records carefully, preserve partial relationships, separate inventory from money, and age unresolved differences. For related e-commerce administration, compare the [customer returns workflow](/blog/virtual-assistant-ecommerce-customer-returns-workflow) with the [e-commerce order support guide](/blog/virtual-assistant-ecommerce-order-support). With that discipline, a virtual assistant gives an e-commerce team a reliable picture of what has happened and what still needs an authorized decision.
+
+The [Federal Trade Commission’s merchandise rule guidance](https://www.ftc.gov/business-guidance/resources/business-guidance-mail-internet-or-telephone-order-merchandise-rule) is a useful external reference when a reconciliation reveals a delayed refund or an unresolved order promise. It does not replace the store’s own policy or an appropriate professional review; it helps the team identify questions that should not be hidden inside a spreadsheet.
