@@ -774,6 +774,69 @@
     },
     {
       "type": "research",
+      "slug": "appointment-preparation",
+      "title": "Appointment Preparation Support by Virtual Assistants",
+      "path": "content/research/appointment-preparation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-planning.webp"
+    },
+    {
+      "type": "research",
+      "slug": "business-continuity-support",
+      "title": "Business Continuity Support by Virtual Assistants",
+      "path": "content/research/business-continuity-support.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-work-continuity.webp"
+    },
+    {
+      "type": "research",
+      "slug": "client-portal-administration",
+      "title": "Client Portal Administration by Virtual Assistants",
+      "path": "content/research/client-portal-administration.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "compliance-document-collection",
+      "title": "Compliance Document Collection by Virtual Assistants",
+      "path": "content/research/compliance-document-collection.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-retention-workflow.webp"
+    },
+    {
+      "type": "research",
+      "slug": "knowledge-base-research",
+      "title": "Knowledge Base Research by Virtual Assistants",
+      "path": "content/research/knowledge-base-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "localization-quality",
+      "title": "Localization Quality Support by Virtual Assistants",
+      "path": "content/research/localization-quality.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-accessibility-review-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "membership-administration",
+      "title": "Membership Administration by Virtual Assistants",
+      "path": "content/research/membership-administration.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "review-response-triage",
+      "title": "Review and Response Triage by Virtual Assistants",
+      "path": "content/research/review-response-triage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "supplier-research",
+      "title": "Supplier Research by Virtual Assistants",
+      "path": "content/research/supplier-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-research-process.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-access-review-cadence",
       "title": "Virtual Assistant Access Review Cadence: A Research Brief",
       "path": "content/research/virtual-assistant-access-review-cadence.mdx",
@@ -1352,6 +1415,13 @@
       "title": "Workflow Documentation for Virtual Assistants",
       "path": "content/research/virtual-assistant-workflow-documentation.mdx",
       "featuredImage": "/blog/images/virtual-assistant-workflow-documentation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "webinar-coordination",
+      "title": "Webinar Coordination by Virtual Assistants",
+      "path": "content/research/webinar-coordination.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
     }
   ]
 }
