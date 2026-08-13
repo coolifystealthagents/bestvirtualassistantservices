@@ -13,29 +13,63 @@ relatedArticles: [virtual-assistant-client-reporting-template, virtual-assistant
 ---
 # Virtual Assistant KPI Dashboard Preparation
 
-For kpi dashboard preparation, begin with the record that makes the next decision possible, then keep the owner and stopping point visible.
+A useful KPI dashboard is a collection of small measurement contracts. Each contract tells a reader what a number means, where it came from, when it was refreshed, and what question it can answer. A virtual assistant maintaining the dashboard can protect that clarity without pretending to explain the business result. The job is to preserve evidence and make uncertainty easy to see.
 
-## Virtual Assistant KPI Dashboard Preparation: Choose a decision before a metric
+## Virtual Assistant KPI Dashboard Preparation: Start with the decision
 
-A dashboard earns its place by helping someone decide what to continue, investigate, or change. Write the decision beside each proposed measure. If no decision follows a number, it may belong in a report or source table rather than the main view.
+Before adding a card, write the decision it is meant to support. A service team may need to decide whether to add coverage to a queue. A manager may need to decide whether a request is waiting on an internal review. A marketing lead may want to inspect movement between stages. These are different questions, even if each is described as performance.
 
-## Define each measure in plain language
+If a measure has no reader or decision, place it in a source worksheet rather than the headline view. This simple test keeps the dashboard from becoming a museum of every available field. It also gives the assistant a safe boundary: organize the evidence for a decision, but do not manufacture a conclusion when the evidence is incomplete.
 
-For every KPI, state the numerator, denominator, time window, source, owner, and refresh expectation. Explain what an increase or decrease means. A familiar label such as conversion or response time can hide several legitimate definitions, so the definition belongs next to the chart.
+## Build a measurement contract for every card
 
-## Protect comparability
+Give each metric a short contract stored beside the dashboard or in its documentation. Record the metric owner, numerator, denominator, source, refresh cadence, cut-off time, expected lag, target provenance, exception note, and revision history.
 
-Use the same population and time boundaries when comparing periods. Mark partial periods, changed definitions, exclusions, and missing data. Do not make a smooth line by silently replacing a gap. Honest context is more useful than false precision.
+The owner is accountable for meaning, not necessarily the person who updates the file. The numerator and denominator describe the exact population. The source identifies the system or report that can be checked. Refresh cadence says how often the value should be revisited, while cut-off time prevents a late record from quietly moving an earlier period. Expected lag tells a reader when a value is provisional.
 
-## Make the first screen calm
+Target provenance matters because a target can come from a plan, a signed service standard, a leadership decision, or a temporary working assumption. Labeling that origin prevents an assistant from presenting an unapproved target as an official commitment. An exception note explains exclusions, missing records, changed definitions, or unusual events. Revision history records who changed the contract, when, and why.
 
-Lead with a small set of measures tied to the current decision. Put diagnostic detail behind a clear path. Use annotations for major changes, launches, outages, or policy shifts so a reader does not mistake an event for an underlying trend.
+## Resolve the definition before calculating
 
-## Review the dashboard as a product
+Suppose one stakeholder asks for response rate. The operations report counts every incoming request, while the customer team counts only requests that reached a staffed queue. Both calculations may be internally correct. They answer different questions.
 
-Ask whether the intended reader can find the answer, interpret it, and name the next action. Retire metrics no one uses and document changes to the definition. The [GAO performance measurement guide](https://www.gao.gov/products/gao-20-701g) is a strong reference for linking measures to management decisions.
+The assistant should write the dispute in neutral terms: “Operations definition includes all requests received during the window. Customer team definition includes requests assigned to the staffed queue. Owner to confirm which population supports the weekly coverage decision.” Then pause the headline metric or show both labeled versions. Do not select the more favorable result, average the two, or change the label to hide the disagreement.
 
+When the owner chooses a definition, record the decision in the contract and note the effective date. Historical values should not be restated silently. If a restatement is requested, preserve the previous series and identify the revision so readers can distinguish a business change from a data correction.
 
-## Keep the decision visible
+## Treat time as part of the measurement
 
-For this topic, preserve the source and route uncertainty to the named owner. Reference: [U.S. Government Accountability Office](https://www.gao.gov/products/gao-20-701g). Related reading: [delegation readiness](/blog/virtual-assistant-delegation-readiness) and [document review guidance](/blog/virtual-assistant-document-review-process).
+A dashboard can look precise while mixing incompatible clocks. State whether the window uses calendar days, business hours, local time, or the source system’s timezone. Define whether the end date is inclusive. Mark the current period as partial when records are still arriving.
+
+Lag deserves its own label. A completed interaction may be available immediately, while a verified outcome may arrive days later. Showing a provisional value with its expected completion date is more honest than filling the gap with an estimate. If a source is unavailable, write “not refreshed” and preserve the last known timestamp. Never convert a stale value into a current one by changing the display date.
+
+## Put exceptions beside the number
+
+An annotation should answer what changed, which periods it affects, and whether comparison remains valid. Examples include a queue migration, a new intake field, a closed office day, or a source export that omitted a segment. Keep the note factual. “The export omitted the regional queue” is useful. “The team performed poorly” is a conclusion that requires a defined analysis and appropriate owner review.
+
+Use a small status vocabulary such as current, provisional, delayed, definition changed, and unavailable. Define those labels in the dashboard guide. Consistent labels help a reader scan the page without treating every warning as the same kind of problem.
+
+## Review the dashboard like a reader
+
+The following review table gives an assistant a practical inspection sequence:
+
+| Review question | Evidence to inspect | Acceptable result |
+| --- | --- | --- |
+| Can the reader name the decision? | Card title and nearby purpose note | Decision is explicit |
+| Can the value be reproduced? | Source, filters, numerator, denominator | Another reviewer can trace it |
+| Is the period complete? | Cut-off time and refresh timestamp | Current or clearly provisional |
+| Is the target trustworthy? | Target provenance record | Origin and effective date are shown |
+| Are exceptions visible? | Annotation and exception note | Missing or changed data is labeled |
+| Can history be explained? | Revision log | Definition changes have reasons |
+
+If a card fails a question, fix the documentation or mark the limitation before polishing colors and layout. Visual refinement cannot repair an undefined denominator.
+
+## Keep maintenance separate from interpretation
+
+A virtual assistant can check that a source arrived, apply an approved filter, calculate a documented formula, compare timestamps, and route a discrepancy to the metric owner. The assistant should not infer why a result changed, assign blame, invent a target, or describe a trend as meaningful without the agreed method.
+
+For broader guidance on connecting measures to management use, consult the [U.S. Government Accountability Office performance measurement guide](https://www.gao.gov/products/gao-20-701g). For adjacent delegation considerations, see [virtual assistant delegation readiness](/blog/virtual-assistant-delegation-readiness) and [client reporting practices](/blog/virtual-assistant-client-reporting-template).
+
+## End with a traceable handoff
+
+Each update should leave a short maintenance note: refresh completed, source timestamp, exceptions found, questions awaiting an owner, and next review date. That note creates continuity without adding interpretation. Over time, the dashboard becomes more dependable because every number carries its definition, limits, and history with it.
