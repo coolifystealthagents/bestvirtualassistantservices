@@ -4,157 +4,157 @@
   "posts": [
     {
       "type": "blog",
-      "slug": "virtual-assistant-appointment-confirmation-audit",
-      "title": "Virtual Assistant Appointment Confirmation Audits",
-      "path": "content/blog/virtual-assistant-appointment-confirmation-audit.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-appointment-window-planning",
+      "title": "Virtual Assistant Appointment Window Planning",
+      "path": "content/blog/virtual-assistant-appointment-window-planning.md",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-delegation.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-calendar-conflict-review",
-      "title": "Virtual Assistant Calendar Conflict Reviews",
-      "path": "content/blog/virtual-assistant-calendar-conflict-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-calendar-travel-buffers",
+      "title": "Virtual Assistant Calendar Travel Buffers",
+      "path": "content/blog/virtual-assistant-calendar-travel-buffers.md",
+      "featuredImage": "/blog/images/virtual-assistant-travel-itinerary-review.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-client-intake-records",
-      "title": "Virtual Assistant Client Intake Records",
-      "path": "content/blog/virtual-assistant-client-intake-records.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-call-preparation-briefs",
+      "title": "Virtual Assistant Call Preparation Briefs",
+      "path": "content/blog/virtual-assistant-call-preparation-briefs.md",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-preparation-process.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-contact-record-merge-review",
-      "title": "Virtual Assistant Contact Record Merge Reviews",
-      "path": "content/blog/virtual-assistant-contact-record-merge-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-client-onboarding-questions",
+      "title": "Virtual Assistant Client Onboarding Questions",
+      "path": "content/blog/virtual-assistant-client-onboarding-questions.md",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-controls.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-customer-refund-documentation",
-      "title": "Virtual Assistant Customer Refund Documentation",
-      "path": "content/blog/virtual-assistant-customer-refund-documentation.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-client-portal-checks",
+      "title": "Virtual Assistant Client Portal Checks",
+      "path": "content/blog/virtual-assistant-client-portal-checks.md",
+      "featuredImage": "/blog/images/virtual-assistant-client-portal-administration.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-daily-inbox-summary",
-      "title": "Virtual Assistant Daily Inbox Summaries",
-      "path": "content/blog/virtual-assistant-daily-inbox-summary.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-customer-history-summaries",
+      "title": "Virtual Assistant Customer History Summaries",
+      "path": "content/blog/virtual-assistant-customer-history-summaries.md",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-deadline-change-log",
-      "title": "Virtual Assistant Deadline Change Logs",
-      "path": "content/blog/virtual-assistant-deadline-change-log.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-donor-record-review",
+      "title": "Virtual Assistant Donor Record Review",
+      "path": "content/blog/virtual-assistant-donor-record-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-donor-records-controls.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-deliverable-acceptance-record",
-      "title": "Virtual Assistant Deliverable Acceptance Records",
-      "path": "content/blog/virtual-assistant-deliverable-acceptance-record.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-event-vendor-brief",
+      "slug": "virtual-assistant-event-vendor-briefs",
       "title": "Virtual Assistant Event Vendor Briefs",
-      "path": "content/blog/virtual-assistant-event-vendor-brief.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "path": "content/blog/virtual-assistant-event-vendor-briefs.md",
+      "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-expense-category-review",
-      "title": "Virtual Assistant Expense Category Reviews",
-      "path": "content/blog/virtual-assistant-expense-category-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-file-naming-for-clients",
+      "title": "Virtual Assistant File Naming for Client Work",
+      "path": "content/blog/virtual-assistant-file-naming-for-clients.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-naming-standard.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-follow-up-commitment-tracker",
-      "title": "Virtual Assistant Follow-up Commitment Trackers",
-      "path": "content/blog/virtual-assistant-follow-up-commitment-tracker.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-follow-up-logs",
+      "title": "Virtual Assistant Follow-Up Logs",
+      "path": "content/blog/virtual-assistant-follow-up-logs.md",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-form-response-screening",
-      "title": "Virtual Assistant Form Response Screening",
-      "path": "content/blog/virtual-assistant-form-response-screening.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-inbox-category-rules",
+      "title": "Virtual Assistant Inbox Category Rules",
+      "path": "content/blog/virtual-assistant-inbox-category-rules.md",
+      "featuredImage": "/blog/images/virtual-assistant-email-queue-prioritization.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-invoice-supporting-records",
-      "title": "Virtual Assistant Invoice Supporting Records",
-      "path": "content/blog/virtual-assistant-invoice-supporting-records.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-invoice-record-indexes",
+      "title": "Virtual Assistant Invoice Record Indexes",
+      "path": "content/blog/virtual-assistant-invoice-record-indexes.md",
+      "featuredImage": "/blog/images/virtual-assistant-invoice-supporting-records.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-meeting-attendee-brief",
-      "title": "Virtual Assistant Meeting Attendee Briefs",
-      "path": "content/blog/virtual-assistant-meeting-attendee-brief.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-knowledge-base-article-reviews",
+      "title": "Virtual Assistant Knowledge Base Article Reviews",
+      "path": "content/blog/virtual-assistant-knowledge-base-article-reviews.md",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-search-quality.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-project-risk-register-maintenance",
-      "title": "Virtual Assistant Project Risk Register Maintenance",
-      "path": "content/blog/virtual-assistant-project-risk-register-maintenance.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-lead-research-notes",
+      "title": "Virtual Assistant Lead Research Notes",
+      "path": "content/blog/virtual-assistant-lead-research-notes.md",
+      "featuredImage": "/blog/images/virtual-assistant-research-source-log.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-prospect-research-notes",
-      "title": "Virtual Assistant Prospect Research Notes",
-      "path": "content/blog/virtual-assistant-prospect-research-notes.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-project-status-summaries",
+      "title": "Virtual Assistant Project Status Summaries",
+      "path": "content/blog/virtual-assistant-project-status-summaries.md",
+      "featuredImage": "/blog/images/virtual-assistant-project-status-reporting.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-receipt-record-reconciliation",
-      "title": "Virtual Assistant Receipt Record Reconciliation",
-      "path": "content/blog/virtual-assistant-receipt-record-reconciliation.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-receipt-review-notes",
+      "title": "Virtual Assistant Receipt Review Notes",
+      "path": "content/blog/virtual-assistant-receipt-review-notes.md",
+      "featuredImage": "/blog/images/virtual-assistant-receipt-record-reconciliation.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-service-renewal-calendar",
-      "title": "Virtual Assistant Service Renewal Calendars",
-      "path": "content/blog/virtual-assistant-service-renewal-calendar.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-renewal-reminder-calendars",
+      "title": "Virtual Assistant Renewal Reminder Calendars",
+      "path": "content/blog/virtual-assistant-renewal-reminder-calendars.md",
+      "featuredImage": "/blog/images/virtual-assistant-service-renewal-calendar.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-shipping-exception-log",
-      "title": "Virtual Assistant Shipping Exception Logs",
-      "path": "content/blog/virtual-assistant-shipping-exception-log.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-social-comment-routing",
+      "title": "Virtual Assistant Social Comment Routing",
+      "path": "content/blog/virtual-assistant-social-comment-routing.md",
+      "featuredImage": "/blog/images/virtual-assistant-social-comment-escalation.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-social-comment-escalation",
-      "title": "Virtual Assistant Social Comment Escalation",
-      "path": "content/blog/virtual-assistant-social-comment-escalation.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-spreadsheet-review-queues",
+      "title": "Virtual Assistant Spreadsheet Review Queues",
+      "path": "content/blog/virtual-assistant-spreadsheet-review-queues.md",
+      "featuredImage": "/blog/images/virtual-assistant-spreadsheet-review-rules.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-task-dependency-map",
-      "title": "Virtual Assistant Task Dependency Maps",
-      "path": "content/blog/virtual-assistant-task-dependency-map.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-task-dependency-notes",
+      "title": "Virtual Assistant Task Dependency Notes",
+      "path": "content/blog/virtual-assistant-task-dependency-notes.md",
+      "featuredImage": "/blog/images/virtual-assistant-task-dependency-map.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-website-change-review",
-      "title": "Virtual Assistant Website Change Reviews",
-      "path": "content/blog/virtual-assistant-website-change-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+      "slug": "virtual-assistant-vendor-contact-lists",
+      "title": "Virtual Assistant Vendor Contact Lists",
+      "path": "content/blog/virtual-assistant-vendor-contact-lists.md",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-contact-maintenance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-website-change-requests",
+      "title": "Virtual Assistant Website Change Requests",
+      "path": "content/blog/virtual-assistant-website-change-requests.md",
+      "featuredImage": "/blog/images/virtual-assistant-website-change-review.webp"
     },
     {
       "type": "blog",
