@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "contract": "sites3-aug13-strict-repair-v1",
+  "targetDate": "2026-08-13",
+  "family": "blog",
+  "domain": "bestvirtualassistantservices.com",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "branch": "main",
+  "minimum": 22,
+  "entries": [
+    {
+      "slug": "virtual-assistant-shared-inbox-ownership",
+      "route": "/blog/virtual-assistant-shared-inbox-ownership",
+      "sourcePath": "content/blog/virtual-assistant-shared-inbox-ownership.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-client-portal-permission-review",
+      "route": "/blog/virtual-assistant-client-portal-permission-review",
+      "sourcePath": "content/blog/virtual-assistant-client-portal-permission-review.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-meeting-decision-log",
+      "route": "/blog/virtual-assistant-meeting-decision-log",
+      "sourcePath": "content/blog/virtual-assistant-meeting-decision-log.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-invoice-exception-routing",
+      "route": "/blog/virtual-assistant-invoice-exception-routing",
+      "sourcePath": "content/blog/virtual-assistant-invoice-exception-routing.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-customer-address-change-controls",
+      "route": "/blog/virtual-assistant-customer-address-change-controls",
+      "sourcePath": "content/blog/virtual-assistant-customer-address-change-controls.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-file-request-tracking",
+      "route": "/blog/virtual-assistant-file-request-tracking",
+      "sourcePath": "content/blog/virtual-assistant-file-request-tracking.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-customer-call-preparation",
+      "route": "/blog/virtual-assistant-customer-call-preparation",
+      "sourcePath": "content/blog/virtual-assistant-customer-call-preparation.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-subscription-renewal-calendar",
+      "route": "/blog/virtual-assistant-subscription-renewal-calendar",
+      "sourcePath": "content/blog/virtual-assistant-subscription-renewal-calendar.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-customer-feedback-coding",
+      "route": "/blog/virtual-assistant-customer-feedback-coding",
+      "sourcePath": "content/blog/virtual-assistant-customer-feedback-coding.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-contact-preference-records",
+      "route": "/blog/virtual-assistant-contact-preference-records",
+      "sourcePath": "content/blog/virtual-assistant-contact-preference-records.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-webinar-attendee-follow-up",
+      "route": "/blog/virtual-assistant-webinar-attendee-follow-up",
+      "sourcePath": "content/blog/virtual-assistant-webinar-attendee-follow-up.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-knowledge-article-review",
+      "route": "/blog/virtual-assistant-knowledge-article-review",
+      "sourcePath": "content/blog/virtual-assistant-knowledge-article-review.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-return-window-tracking",
+      "route": "/blog/virtual-assistant-return-window-tracking",
+      "sourcePath": "content/blog/virtual-assistant-return-window-tracking.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-travel-document-collection",
+      "route": "/blog/virtual-assistant-travel-document-collection",
+      "sourcePath": "content/blog/virtual-assistant-travel-document-collection.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-vendor-contact-maintenance",
+      "route": "/blog/virtual-assistant-vendor-contact-maintenance",
+      "sourcePath": "content/blog/virtual-assistant-vendor-contact-maintenance.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-project-intake-questions",
+      "route": "/blog/virtual-assistant-project-intake-questions",
+      "sourcePath": "content/blog/virtual-assistant-project-intake-questions.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-digital-file-retention-review",
+      "route": "/blog/virtual-assistant-digital-file-retention-review",
+      "sourcePath": "content/blog/virtual-assistant-digital-file-retention-review.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-customer-complaint-timeline",
+      "route": "/blog/virtual-assistant-customer-complaint-timeline",
+      "sourcePath": "content/blog/virtual-assistant-customer-complaint-timeline.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-calendar-travel-buffer",
+      "route": "/blog/virtual-assistant-calendar-travel-buffer",
+      "sourcePath": "content/blog/virtual-assistant-calendar-travel-buffer.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-sales-material-library",
+      "route": "/blog/virtual-assistant-sales-material-library",
+      "sourcePath": "content/blog/virtual-assistant-sales-material-library.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-survey-question-review",
+      "route": "/blog/virtual-assistant-survey-question-review",
+      "sourcePath": "content/blog/virtual-assistant-survey-question-review.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    },
+    {
+      "slug": "virtual-assistant-service-handoff-summary",
+      "route": "/blog/virtual-assistant-service-handoff-summary",
+      "sourcePath": "content/blog/virtual-assistant-service-handoff-summary.mdx",
+      "provenance": "strict-repair-replacement",
+      "introducedByCommit": "PENDING",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-13",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "renderedDate": "2026-08-13"
+    }
+  ]
+}
