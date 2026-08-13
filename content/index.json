@@ -4,6 +4,160 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-appointment-reminder-quality",
+      "title": "Virtual Assistant Appointment Reminder Quality Checks",
+      "path": "content/blog/virtual-assistant-appointment-reminder-quality.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-reminder-quality.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-calendar-delegation-boundaries",
+      "title": "Virtual Assistant Calendar Delegation Boundaries",
+      "path": "content/blog/virtual-assistant-calendar-delegation-boundaries.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-delegation-boundaries.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-client-meeting-preparation",
+      "title": "Virtual Assistant Client Meeting Preparation",
+      "path": "content/blog/virtual-assistant-client-meeting-preparation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-meeting-preparation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-contact-list-hygiene",
+      "title": "Virtual Assistant Contact List Hygiene",
+      "path": "content/blog/virtual-assistant-contact-list-hygiene.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-contact-list-hygiene.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-customer-escalation-notes",
+      "title": "Virtual Assistant Customer Escalation Notes",
+      "path": "content/blog/virtual-assistant-customer-escalation-notes.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-escalation-notes.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-customer-onboarding-questions",
+      "title": "Customer Onboarding Questions a Virtual Assistant Can Organize",
+      "path": "content/blog/virtual-assistant-customer-onboarding-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-onboarding-questions.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-document-naming-standard",
+      "title": "Virtual Assistant Document Naming Standards That Prevent Rework",
+      "path": "content/blog/virtual-assistant-document-naming-standard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-naming-standard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-employee-records-admin",
+      "title": "Virtual Assistant Employee Records Administration",
+      "path": "content/blog/virtual-assistant-employee-records-admin.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-employee-records-admin.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-event-registration-support",
+      "title": "Virtual Assistant Event Registration Support",
+      "path": "content/blog/virtual-assistant-event-registration-support.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-event-registration-support.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-inbox-labeling-system",
+      "title": "How to Design a Virtual Assistant Inbox Labeling System",
+      "path": "content/blog/virtual-assistant-inbox-labeling-system.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-labeling-system.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-knowledge-base-update",
+      "title": "Virtual Assistant Knowledge Base Update Checklist",
+      "path": "content/blog/virtual-assistant-knowledge-base-update.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-kpi-dashboard",
+      "title": "Virtual Assistant KPI Dashboard: What to Track by Role",
+      "path": "content/blog/virtual-assistant-kpi-dashboard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-kpi-dashboard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-lead-qualification-notes",
+      "title": "Virtual Assistant Lead Qualification Notes That Sales Teams Can Use",
+      "path": "content/blog/virtual-assistant-lead-qualification-notes.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-lead-qualification-notes.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-project-status-update",
+      "title": "Virtual Assistant Project Status Update Format",
+      "path": "content/blog/virtual-assistant-project-status-update.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-project-status-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-recurring-task-inventory",
+      "title": "Recurring Task Inventory for Virtual Assistant Support",
+      "path": "content/blog/virtual-assistant-recurring-task-inventory.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-recurring-task-inventory.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-returns-data-reconciliation",
+      "title": "Virtual Assistant Returns Data Reconciliation",
+      "path": "content/blog/virtual-assistant-returns-data-reconciliation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-returns-data-reconciliation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-security-access-checklist",
+      "title": "Virtual Assistant Security and Access Checklist",
+      "path": "content/blog/virtual-assistant-security-access-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-security-access-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-spreadsheet-review-rules",
+      "title": "Virtual Assistant Spreadsheet Review Rules",
+      "path": "content/blog/virtual-assistant-spreadsheet-review-rules.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-spreadsheet-review-rules.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-survey-response-summary",
+      "title": "Virtual Assistant Survey Response Summary",
+      "path": "content/blog/virtual-assistant-survey-response-summary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-survey-response-summary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-travel-preparation-checklist",
+      "title": "Virtual Assistant Travel Preparation Checklist",
+      "path": "content/blog/virtual-assistant-travel-preparation-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-travel-preparation-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-vendor-invoice-checklist",
+      "title": "Virtual Assistant Vendor Invoice Checklist",
+      "path": "content/blog/virtual-assistant-vendor-invoice-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-invoice-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-website-content-request",
+      "title": "Virtual Assistant Website Content Request Checklist",
+      "path": "content/blog/virtual-assistant-website-content-request.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-request.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-appointment-scheduling-quality",
       "title": "Virtual Assistant Appointment Scheduling Quality",
       "path": "content/blog/virtual-assistant-appointment-scheduling-quality.mdx",
