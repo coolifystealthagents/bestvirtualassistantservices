@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "contract": "sites3-aug14-public-date-v1",
+  "family": "blog",
+  "targetDate": "2026-08-14",
+  "minimum": 22,
+  "entries": [
+    {
+      "slug": "virtual-assistant-aug14-01-inbox-decision-log",
+      "route": "/blog/virtual-assistant-aug14-01-inbox-decision-log",
+      "sourcePath": "content/blog/virtual-assistant-aug14-01-inbox-decision-log.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-02-travel-preference-summary",
+      "route": "/blog/virtual-assistant-aug14-02-travel-preference-summary",
+      "sourcePath": "content/blog/virtual-assistant-aug14-02-travel-preference-summary.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-03-vendor-contact-directory",
+      "route": "/blog/virtual-assistant-aug14-03-vendor-contact-directory",
+      "sourcePath": "content/blog/virtual-assistant-aug14-03-vendor-contact-directory.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-04-board-meeting-packet",
+      "route": "/blog/virtual-assistant-aug14-04-board-meeting-packet",
+      "sourcePath": "content/blog/virtual-assistant-aug14-04-board-meeting-packet.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-05-support-escalation-summary",
+      "route": "/blog/virtual-assistant-aug14-05-support-escalation-summary",
+      "sourcePath": "content/blog/virtual-assistant-aug14-05-support-escalation-summary.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-06-contract-renewal-brief",
+      "route": "/blog/virtual-assistant-aug14-06-contract-renewal-brief",
+      "sourcePath": "content/blog/virtual-assistant-aug14-06-contract-renewal-brief.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-07-team-handoff-note",
+      "route": "/blog/virtual-assistant-aug14-07-team-handoff-note",
+      "sourcePath": "content/blog/virtual-assistant-aug14-07-team-handoff-note.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-08-customer-account-change-register",
+      "route": "/blog/virtual-assistant-aug14-08-customer-account-change-register",
+      "sourcePath": "content/blog/virtual-assistant-aug14-08-customer-account-change-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-09-meeting-action-reconciliation",
+      "route": "/blog/virtual-assistant-aug14-09-meeting-action-reconciliation",
+      "sourcePath": "content/blog/virtual-assistant-aug14-09-meeting-action-reconciliation.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-10-knowledge-base-article-review",
+      "route": "/blog/virtual-assistant-aug14-10-knowledge-base-article-review",
+      "sourcePath": "content/blog/virtual-assistant-aug14-10-knowledge-base-article-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-11-invoice-exception-register",
+      "route": "/blog/virtual-assistant-aug14-11-invoice-exception-register",
+      "sourcePath": "content/blog/virtual-assistant-aug14-11-invoice-exception-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-12-event-attendee-accommodation-list",
+      "route": "/blog/virtual-assistant-aug14-12-event-attendee-accommodation-list",
+      "sourcePath": "content/blog/virtual-assistant-aug14-12-event-attendee-accommodation-list.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-13-document-signature-tracker",
+      "route": "/blog/virtual-assistant-aug14-13-document-signature-tracker",
+      "sourcePath": "content/blog/virtual-assistant-aug14-13-document-signature-tracker.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-14-client-reference-request",
+      "route": "/blog/virtual-assistant-aug14-14-client-reference-request",
+      "sourcePath": "content/blog/virtual-assistant-aug14-14-client-reference-request.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-15-shared-drive-folder-map",
+      "route": "/blog/virtual-assistant-aug14-15-shared-drive-folder-map",
+      "sourcePath": "content/blog/virtual-assistant-aug14-15-shared-drive-folder-map.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-16-appointment-intake-summary",
+      "route": "/blog/virtual-assistant-aug14-16-appointment-intake-summary",
+      "sourcePath": "content/blog/virtual-assistant-aug14-16-appointment-intake-summary.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-17-newsletter-approval-register",
+      "route": "/blog/virtual-assistant-aug14-17-newsletter-approval-register",
+      "sourcePath": "content/blog/virtual-assistant-aug14-17-newsletter-approval-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-18-office-supply-reorder-list",
+      "route": "/blog/virtual-assistant-aug14-18-office-supply-reorder-list",
+      "sourcePath": "content/blog/virtual-assistant-aug14-18-office-supply-reorder-list.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-19-client-feedback-theme-log",
+      "route": "/blog/virtual-assistant-aug14-19-client-feedback-theme-log",
+      "sourcePath": "content/blog/virtual-assistant-aug14-19-client-feedback-theme-log.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-20-software-access-request-register",
+      "route": "/blog/virtual-assistant-aug14-20-software-access-request-register",
+      "sourcePath": "content/blog/virtual-assistant-aug14-20-software-access-request-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-21-quarterly-priority-review",
+      "route": "/blog/virtual-assistant-aug14-21-quarterly-priority-review",
+      "sourcePath": "content/blog/virtual-assistant-aug14-21-quarterly-priority-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-aug14-22-client-document-return-checklist",
+      "route": "/blog/virtual-assistant-aug14-22-client-document-return-checklist",
+      "sourcePath": "content/blog/virtual-assistant-aug14-22-client-document-return-checklist.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-14",
+      "renderedDate": "2026-08-14",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug14-batch",
+      "introducedByCommit": "PENDING"
+    }
+  ]
+}

@@ -4,6 +4,160 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-aug14-01-inbox-decision-log",
+      "title": "Field Guide: Inbox Decision Logs",
+      "path": "content/blog/virtual-assistant-aug14-01-inbox-decision-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-02-travel-preference-summary",
+      "title": "Field Guide: Travel Preference Summaries",
+      "path": "content/blog/virtual-assistant-aug14-02-travel-preference-summary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-travel-itinerary-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-03-vendor-contact-directory",
+      "title": "Field Guide: Vendor Contact Directories",
+      "path": "content/blog/virtual-assistant-aug14-03-vendor-contact-directory.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-research-process.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-04-board-meeting-packet",
+      "title": "Field Guide: Board Meeting Packets",
+      "path": "content/blog/virtual-assistant-aug14-04-board-meeting-packet.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-05-support-escalation-summary",
+      "title": "Field Guide: Support Escalation Summaries",
+      "path": "content/blog/virtual-assistant-aug14-05-support-escalation-summary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-06-contract-renewal-brief",
+      "title": "Field Guide: Contract Renewal Briefs",
+      "path": "content/blog/virtual-assistant-aug14-06-contract-renewal-brief.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-07-team-handoff-note",
+      "title": "Field Guide: Team Handoff Notes",
+      "path": "content/blog/virtual-assistant-aug14-07-team-handoff-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-08-customer-account-change-register",
+      "title": "Field Guide: Customer Account Change Registers",
+      "path": "content/blog/virtual-assistant-aug14-08-customer-account-change-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-09-meeting-action-reconciliation",
+      "title": "Field Guide: Meeting Action Reconciliation",
+      "path": "content/blog/virtual-assistant-aug14-09-meeting-action-reconciliation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-10-knowledge-base-article-review",
+      "title": "Field Guide: Knowledge-Base Article Reviews",
+      "path": "content/blog/virtual-assistant-aug14-10-knowledge-base-article-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-search-quality.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-11-invoice-exception-register",
+      "title": "Field Guide: Invoice Exception Registers",
+      "path": "content/blog/virtual-assistant-aug14-11-invoice-exception-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-invoice-follow-up.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-12-event-attendee-accommodation-list",
+      "title": "Field Guide: Event Accommodation Requests",
+      "path": "content/blog/virtual-assistant-aug14-12-event-attendee-accommodation-list.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-13-document-signature-tracker",
+      "title": "Field Guide: Document Signature Trackers",
+      "path": "content/blog/virtual-assistant-aug14-13-document-signature-tracker.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-14-client-reference-request",
+      "title": "Field Guide: Client Reference Requests",
+      "path": "content/blog/virtual-assistant-aug14-14-client-reference-request.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-15-shared-drive-folder-map",
+      "title": "Field Guide: Shared-Drive Folder Maps",
+      "path": "content/blog/virtual-assistant-aug14-15-shared-drive-folder-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-management-system.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-16-appointment-intake-summary",
+      "title": "Field Guide: Appointment Intake Summaries",
+      "path": "content/blog/virtual-assistant-aug14-16-appointment-intake-summary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-reminder-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-17-newsletter-approval-register",
+      "title": "Field Guide: Newsletter Approval Registers",
+      "path": "content/blog/virtual-assistant-aug14-17-newsletter-approval-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-brief-template.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-18-office-supply-reorder-list",
+      "title": "Field Guide: Office Supply Reorder Lists",
+      "path": "content/blog/virtual-assistant-aug14-18-office-supply-reorder-list.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-office-administration.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-19-client-feedback-theme-log",
+      "title": "Field Guide: Client Feedback Theme Logs",
+      "path": "content/blog/virtual-assistant-aug14-19-client-feedback-theme-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-20-software-access-request-register",
+      "title": "Field Guide: Software Access Request Registers",
+      "path": "content/blog/virtual-assistant-aug14-20-software-access-request-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-21-quarterly-priority-review",
+      "title": "Field Guide: Quarterly Priority Reviews",
+      "path": "content/blog/virtual-assistant-aug14-21-quarterly-priority-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-project-risk-register.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug14-22-client-document-return-checklist",
+      "title": "Field Guide: Client Document Return Checklists",
+      "path": "content/blog/virtual-assistant-aug14-22-client-document-return-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-aug13-01-customer-onboarding-timeline",
       "title": "Field Guide: A Customer Onboarding Timeline a Virtual Assistant Can Keep Current",
       "path": "content/blog/virtual-assistant-aug13-01-customer-onboarding-timeline.mdx",
