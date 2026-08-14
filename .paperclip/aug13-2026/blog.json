@@ -6,9 +6,9 @@
   "minimum": 22,
   "entries": [
     {
-      "slug": "client-kickoff-notes",
-      "route": "/blog/client-kickoff-notes",
-      "sourcePath": "content/blog/client-kickoff-notes.mdx",
+      "slug": "virtual-assistant-accessibility-content-review",
+      "route": "/blog/virtual-assistant-accessibility-content-review",
+      "sourcePath": "content/blog/virtual-assistant-accessibility-content-review.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -20,9 +20,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "meeting-action-registers",
-      "route": "/blog/meeting-action-registers",
-      "sourcePath": "content/blog/meeting-action-registers.mdx",
+      "slug": "virtual-assistant-membership-data-audit",
+      "route": "/blog/virtual-assistant-membership-data-audit",
+      "sourcePath": "content/blog/virtual-assistant-membership-data-audit.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -34,9 +34,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "executive-travel-preference-sheets",
-      "route": "/blog/executive-travel-preference-sheets",
-      "sourcePath": "content/blog/executive-travel-preference-sheets.mdx",
+      "slug": "virtual-assistant-client-portal-file-index",
+      "route": "/blog/virtual-assistant-client-portal-file-index",
+      "sourcePath": "content/blog/virtual-assistant-client-portal-file-index.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -48,9 +48,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "shared-drive-permission-reviews",
-      "route": "/blog/shared-drive-permission-reviews",
-      "sourcePath": "content/blog/shared-drive-permission-reviews.mdx",
+      "slug": "virtual-assistant-appointment-reminder-review",
+      "route": "/blog/virtual-assistant-appointment-reminder-review",
+      "sourcePath": "content/blog/virtual-assistant-appointment-reminder-review.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -62,9 +62,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "customer-onboarding-welcome-packets",
-      "route": "/blog/customer-onboarding-welcome-packets",
-      "sourcePath": "content/blog/customer-onboarding-welcome-packets.mdx",
+      "slug": "virtual-assistant-business-travel-packet",
+      "route": "/blog/virtual-assistant-business-travel-packet",
+      "sourcePath": "content/blog/virtual-assistant-business-travel-packet.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -76,9 +76,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "membership-renewal-reminders",
-      "route": "/blog/membership-renewal-reminders",
-      "sourcePath": "content/blog/membership-renewal-reminders.mdx",
+      "slug": "virtual-assistant-customer-feedback-coding",
+      "route": "/blog/virtual-assistant-customer-feedback-coding",
+      "sourcePath": "content/blog/virtual-assistant-customer-feedback-coding.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -90,9 +90,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "vendor-onboarding-checklists",
-      "route": "/blog/vendor-onboarding-checklists",
-      "sourcePath": "content/blog/vendor-onboarding-checklists.mdx",
+      "slug": "virtual-assistant-course-support-inbox",
+      "route": "/blog/virtual-assistant-course-support-inbox",
+      "sourcePath": "content/blog/virtual-assistant-course-support-inbox.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -104,9 +104,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "newsletter-subscriber-cleanup",
-      "route": "/blog/newsletter-subscriber-cleanup",
-      "sourcePath": "content/blog/newsletter-subscriber-cleanup.mdx",
+      "slug": "virtual-assistant-donor-thank-you-records",
+      "route": "/blog/virtual-assistant-donor-thank-you-records",
+      "sourcePath": "content/blog/virtual-assistant-donor-thank-you-records.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -118,9 +118,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "product-catalog-change-logs",
-      "route": "/blog/product-catalog-change-logs",
-      "sourcePath": "content/blog/product-catalog-change-logs.mdx",
+      "slug": "virtual-assistant-event-attendee-checkin",
+      "route": "/blog/virtual-assistant-event-attendee-checkin",
+      "sourcePath": "content/blog/virtual-assistant-event-attendee-checkin.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -132,9 +132,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "support-escalation-summaries",
-      "route": "/blog/support-escalation-summaries",
-      "sourcePath": "content/blog/support-escalation-summaries.mdx",
+      "slug": "virtual-assistant-expense-receipt-index",
+      "route": "/blog/virtual-assistant-expense-receipt-index",
+      "sourcePath": "content/blog/virtual-assistant-expense-receipt-index.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -146,9 +146,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "course-enrollment-records",
-      "route": "/blog/course-enrollment-records",
-      "sourcePath": "content/blog/course-enrollment-records.mdx",
+      "slug": "virtual-assistant-follow-up-commitment-log",
+      "route": "/blog/virtual-assistant-follow-up-commitment-log",
+      "sourcePath": "content/blog/virtual-assistant-follow-up-commitment-log.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -160,9 +160,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "appointment-cancellation-logs",
-      "route": "/blog/appointment-cancellation-logs",
-      "sourcePath": "content/blog/appointment-cancellation-logs.mdx",
+      "slug": "virtual-assistant-help-desk-category-map",
+      "route": "/blog/virtual-assistant-help-desk-category-map",
+      "sourcePath": "content/blog/virtual-assistant-help-desk-category-map.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -174,9 +174,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "client-document-request-lists",
-      "route": "/blog/client-document-request-lists",
-      "sourcePath": "content/blog/client-document-request-lists.mdx",
+      "slug": "virtual-assistant-inventory-restock-sheet",
+      "route": "/blog/virtual-assistant-inventory-restock-sheet",
+      "sourcePath": "content/blog/virtual-assistant-inventory-restock-sheet.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -188,9 +188,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "accounts-payable-coding-notes",
-      "route": "/blog/accounts-payable-coding-notes",
-      "sourcePath": "content/blog/accounts-payable-coding-notes.mdx",
+      "slug": "virtual-assistant-knowledge-base-gap-review",
+      "route": "/blog/virtual-assistant-knowledge-base-gap-review",
+      "sourcePath": "content/blog/virtual-assistant-knowledge-base-gap-review.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -202,9 +202,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "community-event-registration-lists",
-      "route": "/blog/community-event-registration-lists",
-      "sourcePath": "content/blog/community-event-registration-lists.mdx",
+      "slug": "virtual-assistant-local-business-review-monitoring",
+      "route": "/blog/virtual-assistant-local-business-review-monitoring",
+      "sourcePath": "content/blog/virtual-assistant-local-business-review-monitoring.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -216,9 +216,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "website-content-request-briefs",
-      "route": "/blog/website-content-request-briefs",
-      "sourcePath": "content/blog/website-content-request-briefs.mdx",
+      "slug": "virtual-assistant-meeting-decision-register",
+      "route": "/blog/virtual-assistant-meeting-decision-register",
+      "sourcePath": "content/blog/virtual-assistant-meeting-decision-register.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -230,9 +230,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "crm-duplicate-review-queues",
-      "route": "/blog/crm-duplicate-review-queues",
-      "sourcePath": "content/blog/crm-duplicate-review-queues.mdx",
+      "slug": "virtual-assistant-newsletter-link-check",
+      "route": "/blog/virtual-assistant-newsletter-link-check",
+      "sourcePath": "content/blog/virtual-assistant-newsletter-link-check.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -244,9 +244,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "client-feedback-theme-notes",
-      "route": "/blog/client-feedback-theme-notes",
-      "sourcePath": "content/blog/client-feedback-theme-notes.mdx",
+      "slug": "virtual-assistant-project-risk-intake",
+      "route": "/blog/virtual-assistant-project-risk-intake",
+      "sourcePath": "content/blog/virtual-assistant-project-risk-intake.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -258,9 +258,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "office-supply-reorder-lists",
-      "route": "/blog/office-supply-reorder-lists",
-      "sourcePath": "content/blog/office-supply-reorder-lists.mdx",
+      "slug": "virtual-assistant-real-estate-showing-prep",
+      "route": "/blog/virtual-assistant-real-estate-showing-prep",
+      "sourcePath": "content/blog/virtual-assistant-real-estate-showing-prep.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -272,9 +272,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "project-file-archive-maps",
-      "route": "/blog/project-file-archive-maps",
-      "sourcePath": "content/blog/project-file-archive-maps.mdx",
+      "slug": "virtual-assistant-supplier-contact-records",
+      "route": "/blog/virtual-assistant-supplier-contact-records",
+      "sourcePath": "content/blog/virtual-assistant-supplier-contact-records.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -286,9 +286,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "lead-source-attribution-notes",
-      "route": "/blog/lead-source-attribution-notes",
-      "sourcePath": "content/blog/lead-source-attribution-notes.mdx",
+      "slug": "virtual-assistant-survey-response-coding",
+      "route": "/blog/virtual-assistant-survey-response-coding",
+      "sourcePath": "content/blog/virtual-assistant-survey-response-coding.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -300,9 +300,9 @@
       "introducedByCommit": "PENDING"
     },
     {
-      "slug": "invoice-follow-up-calendars",
-      "route": "/blog/invoice-follow-up-calendars",
-      "sourcePath": "content/blog/invoice-follow-up-calendars.mdx",
+      "slug": "virtual-assistant-website-image-alt-text",
+      "route": "/blog/virtual-assistant-website-image-alt-text",
+      "sourcePath": "content/blog/virtual-assistant-website-image-alt-text.md",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
