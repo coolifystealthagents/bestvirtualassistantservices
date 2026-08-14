@@ -6,7 +6,7 @@ publishedAt: 2026-08-13
 updatedAt: 2026-08-13
 category: Operations
 tags: [virtual assistant, workflow, operations]
-featuredImage: /blog/images/virtual-assistant-website-update-accessibility.webp
+featuredImage: /blog/images/virtual-assistant-website-content-update.webp
 heroImageAlt: How a Virtual Assistant Can Review Website Content for Accessibility
 readingTime: 7 minutes
 relatedArticles: [virtual-assistant-work-intake-triage, virtual-assistant-document-management-system, virtual-assistant-client-onboarding-controls]

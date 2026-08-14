@@ -6,7 +6,7 @@ publishedAt: 2026-08-13
 updatedAt: 2026-08-13
 category: Operations
 tags: [virtual assistant, workflow, operations]
-featuredImage: /blog/images/virtual-assistant-follow-up-logs.webp
+featuredImage: /blog/images/virtual-assistant-meeting-follow-up-workflow.webp
 heroImageAlt: The Virtual Assistant Follow-Up Commitment Log Explained
 readingTime: 7 minutes
 relatedArticles: [virtual-assistant-client-onboarding-controls, virtual-assistant-project-status-reporting, virtual-assistant-work-intake-triage]

@@ -6,7 +6,7 @@ publishedAt: 2026-08-13
 updatedAt: 2026-08-13
 category: Operations
 tags: [virtual assistant, workflow, operations]
-featuredImage: /blog/images/virtual-assistant-receipt-review-notes.webp
+featuredImage: /blog/images/virtual-assistant-document-control.webp
 heroImageAlt: How to Create an Expense Receipt Index Without Losing Context
 readingTime: 7 minutes
 relatedArticles: [virtual-assistant-document-management-system, virtual-assistant-client-onboarding-controls, virtual-assistant-project-status-reporting]

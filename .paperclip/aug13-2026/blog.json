@@ -17,7 +17,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-membership-data-audit",
@@ -31,7 +31,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-client-portal-file-index",
@@ -45,7 +45,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-appointment-reminder-review",
@@ -59,7 +59,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-business-travel-packet",
@@ -73,7 +73,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-customer-feedback-coding",
@@ -87,7 +87,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-course-support-inbox",
@@ -101,7 +101,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-donor-thank-you-records",
@@ -115,7 +115,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-event-attendee-checkin",
@@ -129,7 +129,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-expense-receipt-index",
@@ -143,7 +143,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-follow-up-commitment-log",
@@ -157,7 +157,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-help-desk-category-map",
@@ -171,7 +171,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-inventory-restock-sheet",
@@ -185,7 +185,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-knowledge-base-gap-review",
@@ -199,7 +199,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-local-business-review-monitoring",
@@ -213,7 +213,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-meeting-decision-register",
@@ -227,7 +227,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-newsletter-link-check",
@@ -241,7 +241,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-project-risk-intake",
@@ -255,7 +255,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-real-estate-showing-prep",
@@ -269,7 +269,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-supplier-contact-records",
@@ -283,7 +283,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-survey-response-coding",
@@ -297,7 +297,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     },
     {
       "slug": "virtual-assistant-website-image-alt-text",
@@ -311,7 +311,7 @@
         "time[datetime]"
       ],
       "provenance": "replacement-identity",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "37096b04de1c0194fdf0221dc72980145a7b97cb"
     }
   ]
 }
