@@ -928,6 +928,76 @@
     },
     {
       "type": "research",
+      "slug": "appointment-reminder-preference-review",
+      "title": "Appointment Reminder Preference Review by Virtual Assistants",
+      "path": "content/research/appointment-reminder-preference-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-setting-quality.webp"
+    },
+    {
+      "type": "research",
+      "slug": "board-packet-source-reconciliation",
+      "title": "Board Packet Source Reconciliation by Virtual Assistants",
+      "path": "content/research/board-packet-source-reconciliation.md",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "customer-account-change-register",
+      "title": "Customer Account Change Registers by Virtual Assistants",
+      "path": "content/research/customer-account-change-register.md",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "grant-application-evidence-index",
+      "title": "Grant Application Evidence Indexing by Virtual Assistants",
+      "path": "content/research/grant-application-evidence-index.md",
+      "featuredImage": "/blog/images/virtual-assistant-donor-records-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "newsletter-delivery-exception-review",
+      "title": "Newsletter Delivery Exception Review by Virtual Assistants",
+      "path": "content/research/newsletter-delivery-exception-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-email-newsletter-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "product-catalog-attribute-review",
+      "title": "Product Catalog Attribute Review by Virtual Assistants",
+      "path": "content/research/product-catalog-attribute-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp"
+    },
+    {
+      "type": "research",
+      "slug": "service-handoff-decision-log",
+      "title": "Service Handoff Decision Logs by Virtual Assistants",
+      "path": "content/research/service-handoff-decision-log.md",
+      "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "shared-drive-folder-governance",
+      "title": "Shared Drive Folder Governance by Virtual Assistants",
+      "path": "content/research/shared-drive-folder-governance.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "travel-document-expiry-tracking",
+      "title": "Travel Document Expiry Tracking by Virtual Assistants",
+      "path": "content/research/travel-document-expiry-tracking.md",
+      "featuredImage": "/blog/images/virtual-assistant-executive-travel-risk-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "vendor-certificate-expiry-review",
+      "title": "Vendor Certificate Expiry Review by Virtual Assistants",
+      "path": "content/research/vendor-certificate-expiry-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-risk-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-access-review-cadence",
       "title": "Virtual Assistant Access Review Cadence: A Research Brief",
       "path": "content/research/virtual-assistant-access-review-cadence.mdx",
