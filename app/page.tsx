@@ -55,9 +55,9 @@ export default function Home() {
 
       <section className="signal-strip" aria-label="What this guide helps compare">
         <div className="container">
-          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/screening-check.svg" alt="" width="28" height="28" /> Screening</span><i />
-          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/role-fit-target.svg" alt="" width="28" height="28" /> Filipino role fit</span><i />
-          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/review-scorecard.svg" alt="" width="28" height="28" /> Management</span><i />
+          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/screening-check.svg" alt="Screening check icon" width="28" height="28" /> Screening</span><i />
+          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/role-fit-target.svg" alt="Filipino role fit icon" width="28" height="28" /> Filipino role fit</span><i />
+          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/review-scorecard.svg" alt="Management scorecard icon" width="28" height="28" /> Management</span><i />
           <span>Backup</span><i />
           <span>Security</span>
         </div>
@@ -85,7 +85,7 @@ export default function Home() {
             <p className="section-number light">02 / Shortlist scorecard</p>
             <h2>Make the provider earn the shortlist.</h2>
             <p>Use the same questions in every call. A polished intro means less than clear answers about screening, supervision, access, and replacement support.</p>
-            <img src="/illustrations/getillustrations/goodle-team-illustrations-svg/provider-scorecard-review.svg" alt="" style={{ width: '100%', maxWidth: 360, marginTop: '1.5rem' }} loading="lazy" />
+            <img src="/illustrations/getillustrations/goodle-team-illustrations-svg/provider-scorecard-review.svg" alt="Provider scorecard review workflow" style={{ width: '100%', maxWidth: 360, marginTop: '1.5rem' }} loading="lazy" />
             <a className="btn paper-btn" href="/provider-vetting">Open the vetting guide</a>
           </div>
           <div className="score-sheet" aria-label="Provider review criteria">
