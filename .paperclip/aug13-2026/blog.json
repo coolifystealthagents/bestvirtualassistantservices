@@ -6,9 +6,9 @@
   "minimum": 22,
   "entries": [
     {
-      "slug": "virtual-assistant-customer-onboarding-timeline",
-      "route": "/blog/virtual-assistant-customer-onboarding-timeline",
-      "sourcePath": "content/blog/virtual-assistant-customer-onboarding-timeline.md",
+      "slug": "virtual-assistant-aug13-01-customer-onboarding-timeline",
+      "route": "/blog/virtual-assistant-aug13-01-customer-onboarding-timeline",
+      "sourcePath": "content/blog/virtual-assistant-aug13-01-customer-onboarding-timeline.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -17,12 +17,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-sales-call-preparation",
-      "route": "/blog/virtual-assistant-sales-call-preparation",
-      "sourcePath": "content/blog/virtual-assistant-sales-call-preparation.md",
+      "slug": "virtual-assistant-aug13-02-sales-call-preparation",
+      "route": "/blog/virtual-assistant-aug13-02-sales-call-preparation",
+      "sourcePath": "content/blog/virtual-assistant-aug13-02-sales-call-preparation.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -31,12 +31,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-client-asset-request",
-      "route": "/blog/virtual-assistant-client-asset-request",
-      "sourcePath": "content/blog/virtual-assistant-client-asset-request.md",
+      "slug": "virtual-assistant-aug13-03-client-asset-request",
+      "route": "/blog/virtual-assistant-aug13-03-client-asset-request",
+      "sourcePath": "content/blog/virtual-assistant-aug13-03-client-asset-request.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -45,12 +45,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-service-renewal-calendar",
-      "route": "/blog/virtual-assistant-service-renewal-calendar",
-      "sourcePath": "content/blog/virtual-assistant-service-renewal-calendar.md",
+      "slug": "virtual-assistant-aug13-04-service-renewal-calendar",
+      "route": "/blog/virtual-assistant-aug13-04-service-renewal-calendar",
+      "sourcePath": "content/blog/virtual-assistant-aug13-04-service-renewal-calendar.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -59,12 +59,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-webinar-registration-check",
-      "route": "/blog/virtual-assistant-webinar-registration-check",
-      "sourcePath": "content/blog/virtual-assistant-webinar-registration-check.md",
+      "slug": "virtual-assistant-aug13-05-webinar-registration-check",
+      "route": "/blog/virtual-assistant-aug13-05-webinar-registration-check",
+      "sourcePath": "content/blog/virtual-assistant-aug13-05-webinar-registration-check.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -73,12 +73,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-returns-evidence-index",
-      "route": "/blog/virtual-assistant-returns-evidence-index",
-      "sourcePath": "content/blog/virtual-assistant-returns-evidence-index.md",
+      "slug": "virtual-assistant-aug13-06-returns-evidence-index",
+      "route": "/blog/virtual-assistant-aug13-06-returns-evidence-index",
+      "sourcePath": "content/blog/virtual-assistant-aug13-06-returns-evidence-index.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -87,12 +87,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-podcast-production-calendar",
-      "route": "/blog/virtual-assistant-podcast-production-calendar",
-      "sourcePath": "content/blog/virtual-assistant-podcast-production-calendar.md",
+      "slug": "virtual-assistant-aug13-07-podcast-production-calendar",
+      "route": "/blog/virtual-assistant-aug13-07-podcast-production-calendar",
+      "sourcePath": "content/blog/virtual-assistant-aug13-07-podcast-production-calendar.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -101,12 +101,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-employee-onboarding-checklist",
-      "route": "/blog/virtual-assistant-employee-onboarding-checklist",
-      "sourcePath": "content/blog/virtual-assistant-employee-onboarding-checklist.md",
+      "slug": "virtual-assistant-aug13-08-employee-onboarding-checklist",
+      "route": "/blog/virtual-assistant-aug13-08-employee-onboarding-checklist",
+      "sourcePath": "content/blog/virtual-assistant-aug13-08-employee-onboarding-checklist.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -115,12 +115,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-website-faq-review",
-      "route": "/blog/virtual-assistant-website-faq-review",
-      "sourcePath": "content/blog/virtual-assistant-website-faq-review.md",
+      "slug": "virtual-assistant-aug13-09-website-faq-review",
+      "route": "/blog/virtual-assistant-aug13-09-website-faq-review",
+      "sourcePath": "content/blog/virtual-assistant-aug13-09-website-faq-review.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -129,12 +129,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-calendar-conflict-summary",
-      "route": "/blog/virtual-assistant-calendar-conflict-summary",
-      "sourcePath": "content/blog/virtual-assistant-calendar-conflict-summary.md",
+      "slug": "virtual-assistant-aug13-10-calendar-conflict-summary",
+      "route": "/blog/virtual-assistant-aug13-10-calendar-conflict-summary",
+      "sourcePath": "content/blog/virtual-assistant-aug13-10-calendar-conflict-summary.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -143,12 +143,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-customer-preference-record",
-      "route": "/blog/virtual-assistant-customer-preference-record",
-      "sourcePath": "content/blog/virtual-assistant-customer-preference-record.md",
+      "slug": "virtual-assistant-aug13-11-customer-preference-record",
+      "route": "/blog/virtual-assistant-aug13-11-customer-preference-record",
+      "sourcePath": "content/blog/virtual-assistant-aug13-11-customer-preference-record.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -157,12 +157,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-team-availability-board",
-      "route": "/blog/virtual-assistant-team-availability-board",
-      "sourcePath": "content/blog/virtual-assistant-team-availability-board.md",
+      "slug": "virtual-assistant-aug13-12-team-availability-board",
+      "route": "/blog/virtual-assistant-aug13-12-team-availability-board",
+      "sourcePath": "content/blog/virtual-assistant-aug13-12-team-availability-board.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -171,12 +171,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-content-asset-inventory",
-      "route": "/blog/virtual-assistant-content-asset-inventory",
-      "sourcePath": "content/blog/virtual-assistant-content-asset-inventory.md",
+      "slug": "virtual-assistant-aug13-13-content-asset-inventory",
+      "route": "/blog/virtual-assistant-aug13-13-content-asset-inventory",
+      "sourcePath": "content/blog/virtual-assistant-aug13-13-content-asset-inventory.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -185,12 +185,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-customer-complaint-timeline",
-      "route": "/blog/virtual-assistant-customer-complaint-timeline",
-      "sourcePath": "content/blog/virtual-assistant-customer-complaint-timeline.md",
+      "slug": "virtual-assistant-aug13-14-customer-complaint-timeline",
+      "route": "/blog/virtual-assistant-aug13-14-customer-complaint-timeline",
+      "sourcePath": "content/blog/virtual-assistant-aug13-14-customer-complaint-timeline.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -199,12 +199,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-conference-speaker-brief",
-      "route": "/blog/virtual-assistant-conference-speaker-brief",
-      "sourcePath": "content/blog/virtual-assistant-conference-speaker-brief.md",
+      "slug": "virtual-assistant-aug13-15-conference-speaker-brief",
+      "route": "/blog/virtual-assistant-aug13-15-conference-speaker-brief",
+      "sourcePath": "content/blog/virtual-assistant-aug13-15-conference-speaker-brief.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -213,12 +213,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-purchase-request-register",
-      "route": "/blog/virtual-assistant-purchase-request-register",
-      "sourcePath": "content/blog/virtual-assistant-purchase-request-register.md",
+      "slug": "virtual-assistant-aug13-16-purchase-request-register",
+      "route": "/blog/virtual-assistant-aug13-16-purchase-request-register",
+      "sourcePath": "content/blog/virtual-assistant-aug13-16-purchase-request-register.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -227,12 +227,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-client-meeting-brief",
-      "route": "/blog/virtual-assistant-client-meeting-brief",
-      "sourcePath": "content/blog/virtual-assistant-client-meeting-brief.md",
+      "slug": "virtual-assistant-aug13-17-client-meeting-brief",
+      "route": "/blog/virtual-assistant-aug13-17-client-meeting-brief",
+      "sourcePath": "content/blog/virtual-assistant-aug13-17-client-meeting-brief.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -241,12 +241,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-contact-preference-audit",
-      "route": "/blog/virtual-assistant-contact-preference-audit",
-      "sourcePath": "content/blog/virtual-assistant-contact-preference-audit.md",
+      "slug": "virtual-assistant-aug13-18-contact-preference-audit",
+      "route": "/blog/virtual-assistant-aug13-18-contact-preference-audit",
+      "sourcePath": "content/blog/virtual-assistant-aug13-18-contact-preference-audit.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -255,12 +255,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-product-launch-readiness",
-      "route": "/blog/virtual-assistant-product-launch-readiness",
-      "sourcePath": "content/blog/virtual-assistant-product-launch-readiness.md",
+      "slug": "virtual-assistant-aug13-19-product-launch-readiness",
+      "route": "/blog/virtual-assistant-aug13-19-product-launch-readiness",
+      "sourcePath": "content/blog/virtual-assistant-aug13-19-product-launch-readiness.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -269,12 +269,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-client-offboarding-record",
-      "route": "/blog/virtual-assistant-client-offboarding-record",
-      "sourcePath": "content/blog/virtual-assistant-client-offboarding-record.md",
+      "slug": "virtual-assistant-aug13-20-client-offboarding-record",
+      "route": "/blog/virtual-assistant-aug13-20-client-offboarding-record",
+      "sourcePath": "content/blog/virtual-assistant-aug13-20-client-offboarding-record.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -283,12 +283,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-market-research-interview-log",
-      "route": "/blog/virtual-assistant-market-research-interview-log",
-      "sourcePath": "content/blog/virtual-assistant-market-research-interview-log.md",
+      "slug": "virtual-assistant-aug13-21-market-research-interview-log",
+      "route": "/blog/virtual-assistant-aug13-21-market-research-interview-log",
+      "sourcePath": "content/blog/virtual-assistant-aug13-21-market-research-interview-log.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -297,12 +297,12 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     },
     {
-      "slug": "virtual-assistant-service-request-intake",
-      "route": "/blog/virtual-assistant-service-request-intake",
-      "sourcePath": "content/blog/virtual-assistant-service-request-intake.md",
+      "slug": "virtual-assistant-aug13-22-service-request-intake",
+      "route": "/blog/virtual-assistant-aug13-22-service-request-intake",
+      "sourcePath": "content/blog/virtual-assistant-aug13-22-service-request-intake.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-13",
       "renderedDate": "2026-08-13",
@@ -311,7 +311,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-repair-replacement",
-      "introducedByCommit": "15d993762410aa07e9edcba4bf8b0e74e623c1c8"
+      "introducedByCommit": "481fcb3100d854e9a2af7b07ac3ceeb8add395f7"
     }
   ]
 }

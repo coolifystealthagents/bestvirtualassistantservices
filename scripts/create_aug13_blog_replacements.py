@@ -34,7 +34,7 @@ images = [
 ]
 
 old_aug13 = []
-for path in BLOG.glob("*.mdx"):
+for path in list(BLOG.glob("*.mdx")) + list(BLOG.glob("*.md")):
     text = path.read_text(encoding="utf-8")
     if "publishedAt: 2026-08-13" in text:
         old_aug13.append(path)
@@ -43,6 +43,12 @@ for path in old_aug13:
 
 entries = []
 for i, (slug, title, focus, opening, detail, boundary) in enumerate(topics):
+    # The prior repair used Markdown records, which the immutable evidence
+    # reader cannot parse. Give this bounded successor a fresh identity and
+    # use MDX source records so the direct date binding is machine-readable.
+    source_slug = slug
+    slug = f"virtual-assistant-aug13-{i + 1:02d}-{source_slug.removeprefix('virtual-assistant-')}"
+    title = f"Field Guide: {title}"
     related = ["virtual-assistant-work-intake-triage", "virtual-assistant-document-management-system", "virtual-assistant-client-onboarding-controls"]
     body = f'''---
 slug: {slug}
@@ -59,15 +65,15 @@ relatedArticles: [{', '.join(related)}]
 ---
 # {title}
 
-{opening}
+{opening} This guide focuses on the operational detail that is easiest to lose when a task moves between people: the named owner, the evidence that supports the current status, and the exact point where a decision is required.
 
 ## {title} starts with a reliable record
 
-{detail} Name the source of truth before work begins, record when it was checked, and make the intended outcome explicit. This keeps a small administrative task from becoming a chain of assumptions.
+{detail} Name the source of truth before work begins, record when it was checked, and make the intended outcome explicit. This keeps a small administrative task from becoming a chain of assumptions. For this field guide, use a separate status for waiting on the requester, waiting on an internal owner, and ready for review.
 
 ## Separate preparation from approval
 
-{boundary} A virtual assistant can gather details, normalize labels, identify missing fields, and prepare a review queue. The owner or designated specialist should retain decisions that affect commitments, sensitive information, public statements, or irreversible changes.
+{boundary} A virtual assistant can gather details, normalize labels, identify missing fields, and prepare a review queue. The owner or designated specialist should retain decisions that affect commitments, sensitive information, public statements, or irreversible changes. Capture the handoff in a short dated note so the next reviewer can reproduce the status without relying on memory.
 
 ## Make the handoff easy to review
 
@@ -87,8 +93,8 @@ State what is unusual, what evidence was checked, what remains uncertain, and wh
 
 Expand only after review shows that the instructions, records, and escalation path work together consistently.
 '''
-    (BLOG / f"{slug}.md").write_text(body, encoding="utf-8")
-    entries.append({"slug": slug, "route": f"/blog/{slug}", "sourcePath": f"content/blog/{slug}.md", "sourceDateField": "publishedAt", "sourceDate": "2026-08-13", "renderedDate": "2026-08-13", "renderedDateFields": ["datePublished", "time[datetime]"], "provenance": "strict-repair-replacement", "introducedByCommit": "PENDING"})
+    (BLOG / f"{slug}.mdx").write_text(body, encoding="utf-8")
+    entries.append({"slug": slug, "route": f"/blog/{slug}", "sourcePath": f"content/blog/{slug}.mdx", "sourceDateField": "publishedAt", "sourceDate": "2026-08-13", "renderedDate": "2026-08-13", "renderedDateFields": ["datePublished", "time[datetime]"], "provenance": "strict-repair-replacement", "introducedByCommit": "PENDING"})
 
 manifest = {"schemaVersion": 1, "contract": "sites3-aug13-strict-repair-v2", "family": "blog", "targetDate": "2026-08-13", "minimum": 22, "entries": entries}
 (ROOT / ".paperclip/aug13-2026/blog.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
