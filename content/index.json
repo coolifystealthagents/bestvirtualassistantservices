@@ -802,6 +802,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-appointment-confirmation-audit",
+      "title": "Appointment Confirmation Audits by Virtual Assistants",
+      "path": "content/research/virtual-assistant-appointment-confirmation-audit.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-appointment-setting-quality",
       "title": "Appointment Setting Quality Controls for Virtual Assistants",
       "path": "content/research/virtual-assistant-appointment-setting-quality.mdx",
@@ -837,9 +844,9 @@
     },
     {
       "type": "research",
-      "slug": "virtual-assistant-client-exit-records",
-      "title": "Client Exit Records by Virtual Assistants",
-      "path": "content/research/virtual-assistant-client-exit-records.mdx",
+      "slug": "virtual-assistant-client-document-retention-map",
+      "title": "Client Document Retention Maps by Virtual Assistants",
+      "path": "content/research/virtual-assistant-client-document-retention-map.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
@@ -876,6 +883,13 @@
       "title": "Client Onboarding Response Time: What Virtual Assistant Buyers Should Measure",
       "path": "content/research/virtual-assistant-client-onboarding-response-time.mdx",
       "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-community-inquiry-records",
+      "title": "Community Inquiry Records by Virtual Assistants",
+      "path": "content/research/virtual-assistant-community-inquiry-records.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -932,13 +946,6 @@
       "title": "Course Administration Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-course-admin-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-course-admin-controls.webp"
-    },
-    {
-      "type": "research",
-      "slug": "virtual-assistant-course-enrollment-review",
-      "title": "Course Enrollment Review by Virtual Assistants",
-      "path": "content/research/virtual-assistant-course-enrollment-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1082,6 +1089,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-event-accessibility-coordination",
+      "title": "Event Accessibility Coordination by Virtual Assistants",
+      "path": "content/research/virtual-assistant-event-accessibility-coordination.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-event-operations",
       "title": "Event Operations Support by Virtual Assistants: A Control Brief",
       "path": "content/research/virtual-assistant-event-operations.mdx",
@@ -1100,13 +1114,6 @@
       "title": "File Migration Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-file-migration-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-file-migration-controls.webp"
-    },
-    {
-      "type": "research",
-      "slug": "virtual-assistant-grant-deadline-verification",
-      "title": "Grant Deadline Verification by Virtual Assistants",
-      "path": "content/research/virtual-assistant-grant-deadline-verification.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1131,10 +1138,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-invoice-exception-review",
+      "title": "Invoice Exception Reviews by Virtual Assistants",
+      "path": "content/research/virtual-assistant-invoice-exception-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-invoice-processing-controls",
       "title": "Virtual Assistant Invoice Processing Controls: A Research Brief",
       "path": "content/research/virtual-assistant-invoice-processing-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-invoice-processing-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-knowledge-base-freshness-study",
+      "title": "Knowledge Base Freshness Studies by Virtual Assistants",
+      "path": "content/research/virtual-assistant-knowledge-base-freshness-study.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1166,13 +1187,6 @@
     },
     {
       "type": "research",
-      "slug": "virtual-assistant-lead-response-records",
-      "title": "Lead Response Records by Virtual Assistants",
-      "path": "content/research/virtual-assistant-lead-response-records.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
-    },
-    {
-      "type": "research",
       "slug": "virtual-assistant-meeting-accessibility",
       "title": "Accessible Meeting Operations for Virtual Assistants",
       "path": "content/research/virtual-assistant-meeting-accessibility.mdx",
@@ -1201,13 +1215,6 @@
     },
     {
       "type": "research",
-      "slug": "virtual-assistant-membership-renewal-controls",
-      "title": "Membership Renewal Controls by Virtual Assistants",
-      "path": "content/research/virtual-assistant-membership-renewal-controls.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
-    },
-    {
-      "type": "research",
       "slug": "virtual-assistant-newsletter-list-hygiene",
       "title": "Newsletter List Hygiene for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-newsletter-list-hygiene.mdx",
@@ -1219,13 +1226,6 @@
       "title": "Operations Reporting by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-operations-reporting.mdx",
       "featuredImage": "/blog/images/virtual-assistant-operations-reporting.webp"
-    },
-    {
-      "type": "research",
-      "slug": "virtual-assistant-podcast-guest-sourcing",
-      "title": "Podcast Guest Sourcing by Virtual Assistants",
-      "path": "content/research/virtual-assistant-podcast-guest-sourcing.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1243,13 +1243,6 @@
     },
     {
       "type": "research",
-      "slug": "virtual-assistant-product-catalog-review",
-      "title": "Product Catalog Review by Virtual Assistants",
-      "path": "content/research/virtual-assistant-product-catalog-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
-    },
-    {
-      "type": "research",
       "slug": "virtual-assistant-project-risk-register",
       "title": "Project Risk Registers for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-project-risk-register.mdx",
@@ -1264,13 +1257,6 @@
     },
     {
       "type": "research",
-      "slug": "virtual-assistant-receipt-category-review",
-      "title": "Receipt Category Review by Virtual Assistants",
-      "path": "content/research/virtual-assistant-receipt-category-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
-    },
-    {
-      "type": "research",
       "slug": "virtual-assistant-remote-onboarding-controls",
       "title": "Remote Onboarding Controls for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-remote-onboarding-controls.mdx",
@@ -1282,13 +1268,6 @@
       "title": "Remote Work Continuity Planning for Virtual Assistants",
       "path": "content/research/virtual-assistant-remote-work-continuity.mdx",
       "featuredImage": "/blog/images/virtual-assistant-remote-work-continuity.webp"
-    },
-    {
-      "type": "research",
-      "slug": "virtual-assistant-rental-inquiry-routing",
-      "title": "Rental Inquiry Routing by Virtual Assistants",
-      "path": "content/research/virtual-assistant-rental-inquiry-routing.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1327,6 +1306,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-service-request-priority-analysis",
+      "title": "Service Request Priority Analysis by Virtual Assistants",
+      "path": "content/research/virtual-assistant-service-request-priority-analysis.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-social-media-moderation",
       "title": "Social Media Moderation by Virtual Assistants: Research and Control Brief",
       "path": "content/research/virtual-assistant-social-media-moderation.mdx",
@@ -1355,10 +1341,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-travel-change-documentation",
+      "title": "Travel Change Documentation by Virtual Assistants",
+      "path": "content/research/virtual-assistant-travel-change-documentation.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-vendor-onboarding-controls",
       "title": "Virtual Assistant Vendor Onboarding Controls: A Research Brief",
       "path": "content/research/virtual-assistant-vendor-onboarding-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-vendor-onboarding-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-vendor-renewal-evidence",
+      "title": "Vendor Renewal Evidence Reviews by Virtual Assistants",
+      "path": "content/research/virtual-assistant-vendor-renewal-evidence.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1390,9 +1390,9 @@
     },
     {
       "type": "research",
-      "slug": "virtual-assistant-webinar-speaker-records",
-      "title": "Webinar Speaker Records by Virtual Assistants",
-      "path": "content/research/virtual-assistant-webinar-speaker-records.mdx",
+      "slug": "virtual-assistant-website-content-source-review",
+      "title": "Website Content Source Reviews by Virtual Assistants",
+      "path": "content/research/virtual-assistant-website-content-source-review.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {

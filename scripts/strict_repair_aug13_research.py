@@ -2,11 +2,16 @@ from pathlib import Path
 
 OUT = Path('content/research')
 OLD = [
-    'receipt-coding-review', 'lead-response-record-review',
-    'course-enrollment-administration', 'membership-renewal-record-review',
-    'webinar-speaker-coordination', 'rental-inquiry-triage',
-    'grant-deadline-research', 'podcast-guest-research',
-    'product-catalog-audit', 'client-offboarding-record-review',
+    'virtual-assistant-receipt-category-review',
+    'virtual-assistant-lead-response-records',
+    'virtual-assistant-course-enrollment-review',
+    'virtual-assistant-membership-renewal-controls',
+    'virtual-assistant-webinar-speaker-records',
+    'virtual-assistant-rental-inquiry-routing',
+    'virtual-assistant-grant-deadline-verification',
+    'virtual-assistant-podcast-guest-sourcing',
+    'virtual-assistant-product-catalog-review',
+    'virtual-assistant-client-exit-records',
 ]
 
 SOURCES = [
@@ -23,16 +28,16 @@ SOURCES = [
 ]
 
 TOPICS = [
-    ('virtual-assistant-receipt-category-review', 'Receipt Category Review by Virtual Assistants', 'receipt category review', 'invoice processing controls', 'A receipt line, a category, and a tax treatment are different facts. A reviewer may compare the entry with the source document, but the business owner decides how an ambiguous purchase is treated.', 'virtual-assistant-invoice-processing-controls', 'virtual-assistant-data-entry-quality-controls'),
-    ('virtual-assistant-lead-response-records', 'Lead Response Records by Virtual Assistants', 'lead response records', 'sales pipeline handoffs', 'A fast reply is not proof that a lead received the right answer. The record needs the arrival time, channel, consent status, response, owner, and unresolved question.', 'virtual-assistant-sales-pipeline-handoffs', 'virtual-assistant-customer-support-escalation'),
-    ('virtual-assistant-course-enrollment-review', 'Course Enrollment Review by Virtual Assistants', 'course enrollment review', 'course administration', 'Enrollment work joins payment status, access dates, learner identity, and support requests. A coordinator can reconcile those records, while instructional, refund, and accommodation decisions remain with the authorized owner.', 'virtual-assistant-course-admin-controls', 'virtual-assistant-client-onboarding-response-time'),
-    ('virtual-assistant-membership-renewal-controls', 'Membership Renewal Controls by Virtual Assistants', 'membership renewal controls', 'membership renewal tracking', 'A renewal list can hide failed payments, changed preferences, duplicate members, or a request to pause contact. Review should preserve the reason for each status rather than treat an exported list as truth.', 'virtual-assistant-vendor-renewal-tracking', 'virtual-assistant-customer-feedback-controls'),
-    ('virtual-assistant-webinar-speaker-records', 'Webinar Speaker Records by Virtual Assistants', 'webinar speaker records', 'event operations', 'Speaker coordination combines availability, consent to publish, session details, accessibility requests, and handoff evidence. A coordinator can keep the record current but cannot grant rights or promise an accommodation.', 'virtual-assistant-event-operations', 'virtual-assistant-meeting-accessibility'),
-    ('virtual-assistant-rental-inquiry-routing', 'Rental Inquiry Routing by Virtual Assistants', 'rental inquiry routing', 'customer support escalation', 'An inquiry queue can contain urgent maintenance, personal information, and legally sensitive screening questions. Administrative triage should route the signal and preserve context without making a housing decision.', 'virtual-assistant-customer-support-escalation', 'virtual-assistant-inbox-triage-service-levels'),
-    ('virtual-assistant-grant-deadline-verification', 'Grant Deadline Verification by Virtual Assistants', 'grant deadline verification', 'vendor research due diligence', 'A deadline list is useful only when each date has a named source, eligibility scope, time zone, and verification date. Research can identify candidate opportunities; an authorized applicant decides whether a submission is accurate and eligible.', 'virtual-assistant-vendor-research-due-diligence', 'virtual-assistant-research-briefs'),
-    ('virtual-assistant-podcast-guest-sourcing', 'Podcast Guest Sourcing by Virtual Assistants', 'podcast guest sourcing', 'research briefs', 'Guest research should distinguish a public biography, a source-backed topic fit, and an outreach permission. A researcher can assemble evidence and questions, but cannot invent credentials or imply endorsement.', 'virtual-assistant-research-briefs', 'virtual-assistant-content-fact-checking'),
-    ('virtual-assistant-product-catalog-review', 'Product Catalog Review by Virtual Assistants', 'product catalog review', 'inventory tracking controls', 'Catalog review is not only spelling cleanup. It can affect customer-facing product fields, stock status, variants, accessibility text, and claims. The reviewer should record the source and route material changes for approval.', 'virtual-assistant-inventory-tracking-controls', 'virtual-assistant-website-update-accessibility'),
-    ('virtual-assistant-client-exit-records', 'Client Exit Records by Virtual Assistants', 'client exit records', 'client onboarding controls', 'Offboarding has two separate questions: what work remains and what access or personal data should be removed. A coordinator can reconcile the checklist and evidence, while the owner approves retention, deletion, and final account action.', 'virtual-assistant-client-onboarding-controls', 'virtual-assistant-document-retention-workflow'),
+    ('virtual-assistant-appointment-confirmation-audit', 'Appointment Confirmation Audits by Virtual Assistants', 'appointment confirmation audits', 'calendar administration', 'A confirmation is evidence of a message, not evidence that the appointment is suitable. Review should reconcile the requested service, time zone, attendee identity, channel, and any unanswered change request.', 'virtual-assistant-calendar-booking-integrity', 'virtual-assistant-appointment-setting-quality'),
+    ('virtual-assistant-website-content-source-review', 'Website Content Source Reviews by Virtual Assistants', 'website content source reviews', 'website content administration', 'A page can be polished and still contain an unsupported claim. Source review should distinguish owner-approved facts, dated external evidence, and wording that needs a subject-matter decision.', 'virtual-assistant-website-content-updates', 'virtual-assistant-content-fact-checking'),
+    ('virtual-assistant-client-document-retention-map', 'Client Document Retention Maps by Virtual Assistants', 'client document retention maps', 'document administration', 'A retention map is an inventory of records and instructions, not a legal schedule. Administrative support can locate, classify, and surface conflicts while the client sets the governing retention decision.', 'virtual-assistant-document-access-governance', 'virtual-assistant-sop-maintenance-controls'),
+    ('virtual-assistant-service-request-priority-analysis', 'Service Request Priority Analysis by Virtual Assistants', 'service request priority analysis', 'customer support operations', 'A queue label is not a diagnosis of urgency. Analysis should record the signal, receipt time, promised response, affected customer, and reason an authorized owner changed priority.', 'virtual-assistant-inbox-triage-service-levels', 'virtual-assistant-customer-support-knowledge-handoff'),
+    ('virtual-assistant-community-inquiry-records', 'Community Inquiry Records by Virtual Assistants', 'community inquiry records', 'community administration', 'Community messages mix routine questions, personal information, and reports that need escalation. A record should preserve the question and response boundary without turning moderation or safety decisions into clerical status fields.', 'virtual-assistant-community-operations-controls', 'virtual-assistant-social-media-moderation'),
+    ('virtual-assistant-travel-change-documentation', 'Travel Change Documentation by Virtual Assistants', 'travel change documentation', 'travel administration', 'A changed itinerary can alter time zones, cancellation conditions, traveler needs, and downstream meetings. Research should capture the source and alternatives; the traveler or owner makes the consequential choice.', 'virtual-assistant-travel-itinerary-review', 'virtual-assistant-travel-planning-brief'),
+    ('virtual-assistant-invoice-exception-review', 'Invoice Exception Reviews by Virtual Assistants', 'invoice exception reviews', 'accounts administration', 'An invoice exception may be a transcription issue, a duplicate, a missing approval, or a disputed service. Triage can classify evidence and route it, but should not settle a financial dispute.', 'virtual-assistant-invoice-follow-up', 'virtual-assistant-bookkeeping-support-controls'),
+    ('virtual-assistant-event-accessibility-coordination', 'Event Accessibility Coordination by Virtual Assistants', 'event accessibility coordination', 'event administration', 'An accessibility request is a participant need and a coordination record, not a promise that an accommodation is available. Support should capture the request, response owner, deadline, and unresolved limitation.', 'virtual-assistant-meeting-accessibility', 'virtual-assistant-accessibility-review-cadence'),
+    ('virtual-assistant-vendor-renewal-evidence', 'Vendor Renewal Evidence Reviews by Virtual Assistants', 'vendor renewal evidence reviews', 'vendor administration', 'A renewal date alone cannot show that a vendor remains appropriate. Review should compare the agreement, performance record, owner requirement, and notice window while leaving the renewal decision with the client.', 'virtual-assistant-vendor-renewal-tracking', 'virtual-assistant-vendor-risk-review'),
+    ('virtual-assistant-knowledge-base-freshness-study', 'Knowledge Base Freshness Studies by Virtual Assistants', 'knowledge base freshness studies', 'knowledge administration', 'A document can be recently edited and still be obsolete. Freshness review should compare claims with current owner sources, identify unanswered questions, and separate evidence age from editorial age.', 'virtual-assistant-customer-support-knowledge-handoff', 'virtual-assistant-sop-audit-workflow'),
 ]
 
 def article(slug, title, role, category, angle, rel1, rel2):
@@ -142,4 +147,4 @@ for slug in OLD:
 
 for topic in TOPICS:
     slug, title, role, category, angle, rel1, rel2 = topic
-    (OUT / f'{slug}.mdx').write_text(article(*topic), encoding='utf-8')
+    (OUT / f'{slug}.md').write_text(article(*topic), encoding='utf-8')
