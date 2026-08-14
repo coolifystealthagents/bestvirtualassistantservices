@@ -4,157 +4,157 @@
   "posts": [
     {
       "type": "blog",
-      "slug": "virtual-assistant-calendar-preparation",
-      "title": "How a Virtual Assistant Can Prepare a More Useful Calendar",
-      "path": "content/blog/virtual-assistant-calendar-preparation.mdx",
+      "slug": "virtual-assistant-calendar-conflict-summary",
+      "title": "A Calendar Conflict Summary for Busy Teams",
+      "path": "content/blog/virtual-assistant-calendar-conflict-summary.md",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-client-intake-questionnaire",
-      "title": "Building a Better Client Intake Questionnaire",
-      "path": "content/blog/virtual-assistant-client-intake-questionnaire.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-contact-list-cleanup",
-      "title": "A Safer Approach to Contact List Cleanup",
-      "path": "content/blog/virtual-assistant-contact-list-cleanup.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-data-entry-quality-controls.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-course-materials-index",
-      "title": "A Course Materials Index That Helps Learners Find the Right File",
-      "path": "content/blog/virtual-assistant-course-materials-index.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-podcast-guest-sourcing.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-customer-welcome-record",
-      "title": "A Customer Onboarding Checklist That Supports a Warm Handoff",
-      "path": "content/blog/virtual-assistant-customer-welcome-record.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-document-naming-standards",
-      "title": "Document Naming Standards That Make Shared Files Easier to Find",
-      "path": "content/blog/virtual-assistant-document-naming-standards.mdx",
+      "slug": "virtual-assistant-client-asset-request",
+      "title": "How to Organize Client Asset Requests",
+      "path": "content/blog/virtual-assistant-client-asset-request.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-event-vendor-coordination",
-      "title": "Event Vendor Coordination Notes That Keep Details Together",
-      "path": "content/blog/virtual-assistant-event-vendor-coordination.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-course-enrollment-review.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-faq-maintenance",
-      "title": "Keeping a Customer FAQ Accurate Over Time",
-      "path": "content/blog/virtual-assistant-faq-maintenance.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-lead-response-records.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-inbox-labeling-guide",
-      "title": "A Clear Inbox Labeling Guide for Busy Teams",
-      "path": "content/blog/virtual-assistant-inbox-labeling-guide.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-invoice-status-tracking",
-      "title": "Invoice Status Tracking With a Clear Exception Path",
-      "path": "content/blog/virtual-assistant-invoice-status-tracking.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-email-newsletter-operations.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-lead-qualification-notes",
-      "title": "Useful Lead Qualification Notes Without Overstepping",
-      "path": "content/blog/virtual-assistant-lead-qualification-notes.mdx",
+      "slug": "virtual-assistant-client-meeting-brief",
+      "title": "Preparing a Client Meeting Brief",
+      "path": "content/blog/virtual-assistant-client-meeting-brief.md",
       "featuredImage": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-meeting-preparation-notes",
-      "title": "Meeting Preparation Notes That Help Everyone Arrive Ready",
-      "path": "content/blog/virtual-assistant-meeting-preparation-notes.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-follow-up-logs.webp"
+      "slug": "virtual-assistant-client-offboarding-record",
+      "title": "Keeping a Client Offboarding Record Complete",
+      "path": "content/blog/virtual-assistant-client-offboarding-record.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-membership-renewal-outreach",
-      "title": "Preparing Thoughtful Membership Renewal Outreach",
-      "path": "content/blog/virtual-assistant-membership-renewal-outreach.mdx",
+      "slug": "virtual-assistant-conference-speaker-brief",
+      "title": "A Conference Speaker Brief a Virtual Assistant Can Prepare",
+      "path": "content/blog/virtual-assistant-conference-speaker-brief.md",
       "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-podcast-guest-brief",
-      "title": "What a Podcast Guest Brief Should Cover",
-      "path": "content/blog/virtual-assistant-podcast-guest-brief.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-survey-response-summary.webp"
+      "slug": "virtual-assistant-contact-preference-audit",
+      "title": "A Careful Audit of Contact Preferences",
+      "path": "content/blog/virtual-assistant-contact-preference-audit.md",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-project-status-summary",
-      "title": "Writing a Project Status Summary People Can Act On",
-      "path": "content/blog/virtual-assistant-project-status-summary.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-membership-renewal-controls.webp"
+      "slug": "virtual-assistant-content-asset-inventory",
+      "title": "Building a Content Asset Inventory",
+      "path": "content/blog/virtual-assistant-content-asset-inventory.md",
+      "featuredImage": "/blog/images/virtual-assistant-content-approval-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-proposal-follow-up-records",
-      "title": "How to Keep Proposal Follow-Up Records Useful",
-      "path": "content/blog/virtual-assistant-proposal-follow-up-records.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-escalation.webp"
+      "slug": "virtual-assistant-customer-complaint-timeline",
+      "title": "How to Build a Customer Complaint Timeline",
+      "path": "content/blog/virtual-assistant-customer-complaint-timeline.md",
+      "featuredImage": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-research-interview-scheduling",
-      "title": "Research Interview Scheduling With Respect for Participants",
-      "path": "content/blog/virtual-assistant-research-interview-scheduling.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-calendar-operations.webp"
+      "slug": "virtual-assistant-customer-onboarding-timeline",
+      "title": "A Customer Onboarding Timeline a Virtual Assistant Can Keep Current",
+      "path": "content/blog/virtual-assistant-customer-onboarding-timeline.md",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-returns-case-records",
-      "title": "Organizing Returns Case Records for Faster Review",
-      "path": "content/blog/virtual-assistant-returns-case-records.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-vendor-research-process.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-social-media-calendar",
-      "title": "Preparing a Social Media Calendar With Good Guardrails",
-      "path": "content/blog/virtual-assistant-social-media-calendar.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-website-content-updates.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-travel-research-brief",
-      "title": "What to Include in a Travel Research Brief",
-      "path": "content/blog/virtual-assistant-travel-research-brief.mdx",
+      "slug": "virtual-assistant-customer-preference-record",
+      "title": "Maintaining Customer Preference Records Carefully",
+      "path": "content/blog/virtual-assistant-customer-preference-record.md",
       "featuredImage": "/blog/images/virtual-assistant-client-onboarding-controls.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-vendor-comparison-notes",
-      "title": "Vendor Comparison Notes That Keep Decisions Grounded",
-      "path": "content/blog/virtual-assistant-vendor-comparison-notes.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-receipt-review-notes.webp"
+      "slug": "virtual-assistant-employee-onboarding-checklist",
+      "title": "An Employee Onboarding Checklist with Clear Ownership",
+      "path": "content/blog/virtual-assistant-employee-onboarding-checklist.md",
+      "featuredImage": "/blog/images/virtual-assistant-employee-onboarding-admin.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-website-update-inventory",
-      "title": "An Inventory for Website Updates That Prevents Missed Pages",
-      "path": "content/blog/virtual-assistant-website-update-inventory.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-project-risk-register.webp"
+      "slug": "virtual-assistant-market-research-interview-log",
+      "title": "An Interview Log for Market Research Support",
+      "path": "content/blog/virtual-assistant-market-research-interview-log.md",
+      "featuredImage": "/blog/images/virtual-assistant-travel-itinerary-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-podcast-production-calendar",
+      "title": "Organizing a Podcast Production Calendar",
+      "path": "content/blog/virtual-assistant-podcast-production-calendar.md",
+      "featuredImage": "/blog/images/virtual-assistant-podcast-guest-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-product-launch-readiness",
+      "title": "A Product Launch Readiness List for Administrative Support",
+      "path": "content/blog/virtual-assistant-product-launch-readiness.md",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-purchase-request-register",
+      "title": "A Purchase Request Register for Small Teams",
+      "path": "content/blog/virtual-assistant-purchase-request-register.md",
+      "featuredImage": "/blog/images/virtual-assistant-invoice-follow-up.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-returns-evidence-index",
+      "title": "An Evidence Index for Customer Returns",
+      "path": "content/blog/virtual-assistant-returns-evidence-index.md",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-sales-call-preparation",
+      "title": "Sales Call Preparation Tasks for a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-sales-call-preparation.md",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-renewal-calendar",
+      "title": "Keeping a Service Renewal Calendar Useful",
+      "path": "content/blog/virtual-assistant-service-renewal-calendar.md",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-request-intake",
+      "title": "Designing a Better Service Request Intake",
+      "path": "content/blog/virtual-assistant-service-request-intake.md",
+      "featuredImage": "/blog/images/virtual-assistant-work-intake-triage.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-team-availability-board",
+      "title": "A Team Availability Board That Avoids Guesswork",
+      "path": "content/blog/virtual-assistant-team-availability-board.md",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-delegation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-webinar-registration-check",
+      "title": "A Webinar Registration Check Before Promotion",
+      "path": "content/blog/virtual-assistant-webinar-registration-check.md",
+      "featuredImage": "/blog/images/virtual-assistant-event-operations.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-website-faq-review",
+      "title": "How a Virtual Assistant Can Review Website FAQs",
+      "path": "content/blog/virtual-assistant-website-faq-review.md",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-updates.webp"
     },
     {
       "type": "blog",
