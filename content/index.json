@@ -1215,6 +1215,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-calendar-time-zone-error-cost",
+      "title": "How Much Does Time-Zone Ambiguity Matter in Virtual Assistant Calendar Support?",
+      "path": "content/research/virtual-assistant-calendar-time-zone-error-cost.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-calendar-time-zone-risk",
       "title": "Calendar Time-Zone Risk Research by Virtual Assistants",
       "path": "content/research/virtual-assistant-calendar-time-zone-risk.md",
@@ -1233,6 +1240,13 @@
       "title": "Client Intake Data Controls for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-client-intake-data-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-client-intake-data-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-client-onboarding-access-minimization",
+      "title": "Does Minimum Necessary Access Make Virtual Assistant Client Onboarding Safer?",
+      "path": "content/research/virtual-assistant-client-onboarding-access-minimization.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1334,6 +1348,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-customer-inbox-language-escalation",
+      "title": "Can Virtual Assistants Reliably Route Customer Inbox Messages Across Language Boundaries?",
+      "path": "content/research/virtual-assistant-customer-inbox-language-escalation.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-customer-inbox-triage",
       "title": "Customer Inbox Triage by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-customer-inbox-triage.mdx",
@@ -1432,6 +1453,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-ecommerce-order-status-provenance",
+      "title": "Does Order-Status Provenance Improve Virtual Assistant E-commerce Support?",
+      "path": "content/research/virtual-assistant-ecommerce-order-status-provenance.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-ecommerce-return-research",
       "title": "Virtual Assistant Ecommerce Return Research: Where Support Needs Boundaries",
       "path": "content/research/virtual-assistant-ecommerce-return-research.mdx",
@@ -1481,6 +1509,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-executive-travel-itinerary-change-control",
+      "title": "Which Itinerary Changes Should a Virtual Assistant Stop and Escalate?",
+      "path": "content/research/virtual-assistant-executive-travel-itinerary-change-control.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-executive-travel-risk-controls",
       "title": "Executive Travel Risk Controls for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-executive-travel-risk-controls.mdx",
@@ -1492,6 +1527,13 @@
       "title": "File Migration Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-file-migration-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-file-migration-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-finance-document-reconciliation-boundaries",
+      "title": "Where Should Virtual Assistant Finance-Document Reconciliation Stop?",
+      "path": "content/research/virtual-assistant-finance-document-reconciliation-boundaries.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1555,6 +1597,27 @@
       "title": "Knowledge Transfer Handoffs for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-knowledge-transfer-handoffs.mdx",
       "featuredImage": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-knowledge-transfer-turnover-risk",
+      "title": "What Evidence Shows That a Virtual Assistant Handoff Will Survive Staff Turnover?",
+      "path": "content/research/virtual-assistant-knowledge-transfer-turnover-risk.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-lead-research-qualification-boundaries",
+      "title": "What Can a Virtual Assistant Research About a Lead Without Making the Sales Decision?",
+      "path": "content/research/virtual-assistant-lead-research-qualification-boundaries.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-market-research-source-diversity",
+      "title": "How Much Source Diversity Does Virtual Assistant Market Research Need?",
+      "path": "content/research/virtual-assistant-market-research-source-diversity.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1758,6 +1821,13 @@
       "title": "Virtual Receptionist Routing by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-virtual-receptionist-routing.mdx",
       "featuredImage": "/blog/images/virtual-assistant-virtual-receptionist-routing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-website-content-freshness-evidence",
+      "title": "When Should a Virtual Assistant Refresh Website Content? Evidence for a Freshness Review",
+      "path": "content/research/virtual-assistant-website-content-freshness-evidence.md",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
