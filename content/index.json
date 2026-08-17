@@ -4,6 +4,160 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-aug17-01-capacity-plan",
+      "title": "Virtual assistant capacity planning",
+      "path": "content/blog/virtual-assistant-aug17-01-capacity-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-02-time-zone-handoff",
+      "title": "Virtual assistant time-zone handoffs",
+      "path": "content/blog/virtual-assistant-aug17-02-time-zone-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-03-access-removal",
+      "title": "Virtual assistant access removal",
+      "path": "content/blog/virtual-assistant-aug17-03-access-removal.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review-cadence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-04-call-quality-sampling",
+      "title": "Virtual assistant call quality sampling",
+      "path": "content/blog/virtual-assistant-aug17-04-call-quality-sampling.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-call-quality-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-05-sop-change-log",
+      "title": "Virtual assistant SOP change logs",
+      "path": "content/blog/virtual-assistant-aug17-05-sop-change-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sop-change-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-06-customer-data-request",
+      "title": "Virtual assistant customer data request triage",
+      "path": "content/blog/virtual-assistant-aug17-06-customer-data-request.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-data-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-07-dashboard-definition",
+      "title": "Virtual assistant dashboard definitions",
+      "path": "content/blog/virtual-assistant-aug17-07-dashboard-definition.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-analytics-reporting.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-08-recurring-backlog",
+      "title": "Virtual assistant recurring-work backlogs",
+      "path": "content/blog/virtual-assistant-aug17-08-recurring-backlog.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-recurring-work-backlog.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-09-escalation-severity",
+      "title": "Virtual assistant escalation severity",
+      "path": "content/blog/virtual-assistant-aug17-09-escalation-severity.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-escalation-severity.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-10-backup-test",
+      "title": "Virtual assistant backup coverage tests",
+      "path": "content/blog/virtual-assistant-aug17-10-backup-test.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-11-file-migration",
+      "title": "Virtual assistant file migration controls",
+      "path": "content/blog/virtual-assistant-aug17-11-file-migration.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-file-migration-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-12-vendor-renewal",
+      "title": "Virtual assistant vendor renewal preparation",
+      "path": "content/blog/virtual-assistant-aug17-12-vendor-renewal.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-renewal-tracking.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-13-refund-queue",
+      "title": "Virtual assistant refund queue handling",
+      "path": "content/blog/virtual-assistant-aug17-13-refund-queue.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-escalation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-14-no-show-review",
+      "title": "Virtual assistant appointment no-show reviews",
+      "path": "content/blog/virtual-assistant-aug17-14-no-show-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-reminder-quality.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-15-recruiting-schedule",
+      "title": "Virtual assistant recruiting schedule coordination",
+      "path": "content/blog/virtual-assistant-aug17-15-recruiting-schedule.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-employee-onboarding-admin.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-16-website-content-update",
+      "title": "Virtual assistant website content update requests",
+      "path": "content/blog/virtual-assistant-aug17-16-website-content-update.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-updates.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-17-knowledge-transfer",
+      "title": "Virtual assistant role knowledge transfer",
+      "path": "content/blog/virtual-assistant-aug17-17-knowledge-transfer.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-18-compliance-evidence",
+      "title": "Virtual assistant compliance evidence folders",
+      "path": "content/blog/virtual-assistant-aug17-18-compliance-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-retention-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-19-work-sample",
+      "title": "Virtual assistant work sample evaluation",
+      "path": "content/blog/virtual-assistant-aug17-19-work-sample.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-20-role-scorecard",
+      "title": "Virtual assistant role scorecards",
+      "path": "content/blog/virtual-assistant-aug17-20-role-scorecard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-21-meeting-cadence",
+      "title": "Virtual assistant meeting cadence",
+      "path": "content/blog/virtual-assistant-aug17-21-meeting-cadence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug17-22-week-close",
+      "title": "Virtual assistant week-close reviews",
+      "path": "content/blog/virtual-assistant-aug17-22-week-close.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-weekly-operations-report.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-aug14-01-inbox-decision-log",
       "title": "Field Guide: Inbox Decision Logs",
       "path": "content/blog/virtual-assistant-aug14-01-inbox-decision-log.mdx",
