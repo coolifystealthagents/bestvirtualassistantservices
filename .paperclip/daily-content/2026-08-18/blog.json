@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "family": "blog",
+  "targetDate": "2026-08-18",
+  "entries": [
+    {
+      "route": "/blog/virtual-assistant-aug18-01-article-brief-acceptance",
+      "sourcePath": "content/blog/virtual-assistant-aug18-01-article-brief-acceptance.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-02-source-packet-for-bloggers",
+      "sourcePath": "content/blog/virtual-assistant-aug18-02-source-packet-for-bloggers.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-03-blog-fact-check-handoff",
+      "sourcePath": "content/blog/virtual-assistant-aug18-03-blog-fact-check-handoff.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-04-editorial-calendar-dependency-map",
+      "sourcePath": "content/blog/virtual-assistant-aug18-04-editorial-calendar-dependency-map.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-05-article-update-trigger-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-05-article-update-trigger-register.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-06-blog-duplicate-topic-triage",
+      "sourcePath": "content/blog/virtual-assistant-aug18-06-blog-duplicate-topic-triage.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-07-article-review-queue-aging",
+      "sourcePath": "content/blog/virtual-assistant-aug18-07-article-review-queue-aging.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-08-content-brief-question-ladder",
+      "sourcePath": "content/blog/virtual-assistant-aug18-08-content-brief-question-ladder.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-09-blog-image-alt-text-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-09-blog-image-alt-text-register.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-10-internal-link-intent-map",
+      "sourcePath": "content/blog/virtual-assistant-aug18-10-internal-link-intent-map.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-11-blog-readability-review-sheet",
+      "sourcePath": "content/blog/virtual-assistant-aug18-11-blog-readability-review-sheet.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-12-article-approval-evidence-log",
+      "sourcePath": "content/blog/virtual-assistant-aug18-12-article-approval-evidence-log.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-13-blog-claim-risk-ranking",
+      "sourcePath": "content/blog/virtual-assistant-aug18-13-blog-claim-risk-ranking.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-14-blog-brief-version-control",
+      "sourcePath": "content/blog/virtual-assistant-aug18-14-blog-brief-version-control.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-15-blog-comment-resolution-board",
+      "sourcePath": "content/blog/virtual-assistant-aug18-15-blog-comment-resolution-board.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-16-blog-refresh-scope-brief",
+      "sourcePath": "content/blog/virtual-assistant-aug18-16-blog-refresh-scope-brief.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-17-blog-editorial-exception-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-17-blog-editorial-exception-register.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-18-blog-publishing-metadata-check",
+      "sourcePath": "content/blog/virtual-assistant-aug18-18-blog-publishing-metadata-check.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-19-blog-reader-feedback-routing",
+      "sourcePath": "content/blog/virtual-assistant-aug18-19-blog-reader-feedback-routing.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-20-blog-topic-queue-decision-record",
+      "sourcePath": "content/blog/virtual-assistant-aug18-20-blog-topic-queue-decision-record.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-21-blog-draft-handoff-package",
+      "sourcePath": "content/blog/virtual-assistant-aug18-21-blog-draft-handoff-package.mdx"
+    },
+    {
+      "route": "/blog/virtual-assistant-aug18-22-blog-month-end-quality-review",
+      "sourcePath": "content/blog/virtual-assistant-aug18-22-blog-month-end-quality-review.mdx"
+    }
+  ]
+}
