@@ -50,11 +50,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
             <h1>{post.title}</h1>
             <p className="lead">{post.excerpt}</p>
             {post.published ? <time className="article-date" dateTime={post.published}>Published {formatPublicationDate(post.published)}</time> : null}
-            <div className="blog-standards-strip" aria-label="Article standards">
-              <span>{post.minutes} minute read</span>
-              <span>Contextual internal links</span>
-              <span>Authoritative source in body</span>
-            </div>
+            <p className="article-meta">{post.minutes} minute read</p>
 
             <aside className="article-rotation-banner article-rotation-banner-top" data-article-banner="true">
               <p className="eyebrow">Role planning checkpoint</p>

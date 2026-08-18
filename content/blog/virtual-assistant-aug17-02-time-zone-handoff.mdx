@@ -17,14 +17,14 @@ Record both local clocks, the shared window, cutoff, and next response point. Pu
 
 ## Applying virtual assistant time-zone handoffs
 
-For virtual assistant time-zone handoffs, begin with the authoritative source and write down the known facts, missing inputs, and due point. Test one ordinary case and one exception before calling the process routine. Keep an unresolved item visible instead of turning an assumption into completion.
+Write the handoff against elapsed time, not a vague label such as “end of day.” Include the sender's time zone, the receiver's local deadline, the overlap window, and the next non-overlap checkpoint. A dated packet prevents a holiday or daylight-saving change from silently moving the promise.
 
 ## Role boundary and review
 
-In virtual assistant time-zone handoffs, the virtual assistant may gather context, normalize records, identify gaps, and prepare a review queue. The owner retains decisions involving commitments, sensitive information, public statements, legal interpretation, or irreversible changes. A usable handoff names the evidence, open question, next owner, and review date.
+The assistant may prepare the packet and flag work that cannot reach the receiver before cutoff. The owner keeps decisions about customer commitments and priority changes. When an item crosses midnight for either party, name the effective date and receiving owner rather than relying on a chat timestamp.
 
-For adjacent virtual assistant time-zone handoffs support, the [services library](/services) shows possible lanes, while [provider vetting](/provider-vetting) frames ownership and continuity questions. The [NIST small-business cybersecurity guidance](https://www.nist.gov/itl/smallbusinesscyber) is a useful general safeguard reference.
+the [services library](/services) can help distinguish coverage from simple task support, while the [[provider vetting guide](/provider-vetting)](/provider-vetting) frames continuity questions. [NIST guidance](https://www.nist.gov/itl/smallbusinesscyber) is a useful reminder to protect shared access across time zones.
 
-### What should be retained?
+### Handoff fields to retain
 
-Keep the source request, reviewer, status or decision, evidence, next action, and escalation point.
+Keep both local deadlines, the overlap agreement, receiving owner, source links, and the next checkpoint.
