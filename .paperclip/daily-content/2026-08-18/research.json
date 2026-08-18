@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "campaignDate": "2026-08-18",
+  "family": "research",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "entries": [
+    {"route": "/research/virtual-assistant-access-review-sampling", "sourcePath": "content/research/virtual-assistant-access-review-sampling.mdx"},
+    {"route": "/research/virtual-assistant-business-continuity-handoff", "sourcePath": "content/research/virtual-assistant-business-continuity-handoff.mdx"},
+    {"route": "/research/virtual-assistant-calendar-capacity-research", "sourcePath": "content/research/virtual-assistant-calendar-capacity-research.mdx"},
+    {"route": "/research/virtual-assistant-client-intake-evidence-quality", "sourcePath": "content/research/virtual-assistant-client-intake-evidence-quality.mdx"},
+    {"route": "/research/virtual-assistant-content-source-provenance", "sourcePath": "content/research/virtual-assistant-content-source-provenance.mdx"},
+    {"route": "/research/virtual-assistant-customer-escalation-evidence", "sourcePath": "content/research/virtual-assistant-customer-escalation-evidence.mdx"},
+    {"route": "/research/virtual-assistant-invoice-exception-research", "sourcePath": "content/research/virtual-assistant-invoice-exception-research.mdx"},
+    {"route": "/research/virtual-assistant-knowledge-base-freshness", "sourcePath": "content/research/virtual-assistant-knowledge-base-freshness.mdx"},
+    {"route": "/research/virtual-assistant-meeting-decision-records", "sourcePath": "content/research/virtual-assistant-meeting-decision-records.mdx"},
+    {"route": "/research/virtual-assistant-vendor-comparison-methodology", "sourcePath": "content/research/virtual-assistant-vendor-comparison-methodology.mdx"}
+  ]
+}

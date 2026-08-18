@@ -1313,6 +1313,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-access-review-sampling",
+      "title": "How Can Virtual Assistants Sample Access Reviews Without Hiding Risk?",
+      "path": "content/research/virtual-assistant-access-review-sampling.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-accessibility-review-controls",
       "title": "Accessibility Review Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-accessibility-review-controls.mdx",
@@ -1348,6 +1355,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-business-continuity-handoff",
+      "title": "What Should Virtual Assistant Business-Continuity Handoffs Prove?",
+      "path": "content/research/virtual-assistant-business-continuity-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-calendar-booking-integrity",
       "title": "Calendar Booking Integrity: Research on Virtual Assistant Scheduling Controls",
       "path": "content/research/virtual-assistant-calendar-booking-integrity.mdx",
@@ -1359,6 +1373,13 @@
       "title": "Virtual Assistant Calendar Capacity Planning: A Research Brief",
       "path": "content/research/virtual-assistant-calendar-capacity-planning.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-planning.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-calendar-capacity-research",
+      "title": "How Should Virtual Assistants Research Calendar Capacity Before Scheduling?",
+      "path": "content/research/virtual-assistant-calendar-capacity-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1394,6 +1415,13 @@
       "title": "Client Intake Data Controls for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-client-intake-data-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-client-intake-data-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-client-intake-evidence-quality",
+      "title": "What Evidence Makes Virtual Assistant Client Intake Reliable?",
+      "path": "content/research/virtual-assistant-client-intake-evidence-quality.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1481,6 +1509,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-content-source-provenance",
+      "title": "What Provenance Should a Virtual Assistant Preserve for Website Content Research?",
+      "path": "content/research/virtual-assistant-content-source-provenance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-course-admin-controls",
       "title": "Course Administration Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-course-admin-controls.mdx",
@@ -1492,6 +1527,13 @@
       "title": "CRM Data Hygiene by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-crm-data-hygiene.mdx",
       "featuredImage": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-customer-escalation-evidence",
+      "title": "What Evidence Improves Virtual Assistant Customer Escalation Decisions?",
+      "path": "content/research/virtual-assistant-customer-escalation-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1719,10 +1761,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-invoice-exception-research",
+      "title": "What Should Virtual Assistants Research Before Routing an Invoice Exception?",
+      "path": "content/research/virtual-assistant-invoice-exception-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-invoice-processing-controls",
       "title": "Virtual Assistant Invoice Processing Controls: A Research Brief",
       "path": "content/research/virtual-assistant-invoice-processing-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-invoice-processing-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-knowledge-base-freshness",
+      "title": "How Should Virtual Assistants Measure Knowledge-Base Freshness?",
+      "path": "content/research/virtual-assistant-knowledge-base-freshness.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1786,6 +1842,13 @@
       "title": "Meeting Agenda Operations for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-meeting-agenda-operations.mdx",
       "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-meeting-decision-records",
+      "title": "What Makes a Virtual Assistant Meeting Decision Record Trustworthy?",
+      "path": "content/research/virtual-assistant-meeting-decision-records.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1940,6 +2003,13 @@
       "title": "Survey Operations Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-survey-operations-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-survey-operations-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-vendor-comparison-methodology",
+      "title": "When Is Virtual Assistant Vendor Research Comparable?",
+      "path": "content/research/virtual-assistant-vendor-comparison-methodology.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
