@@ -6,7 +6,7 @@ BLOG = ROOT / 'content/blog'
 DATE = '2026-08-18'
 
 TOPICS = [
-('virtual-assistant-daily-brief-intake', 'How Virtual Assistants Can Stabilize Daily Article Brief Intake', 'brief intake', 'turning a daily request into a bounded editorial question', 'reader intent, decision context, source expectations, exclusions, and the approving role', 'A virtual assistant can clarify missing inputs and organize the queue; the editor owns the public promise.'),
+('virtual-assistant-article-brief-intake', 'How Virtual Assistants Can Stabilize Daily Article Brief Intake', 'brief intake', 'turning a daily request into a bounded editorial question', 'reader intent, decision context, source expectations, exclusions, and the approving role', 'A virtual assistant can clarify missing inputs and organize the queue; the editor owns the public promise.'),
 ('virtual-assistant-source-coverage-map', 'Build a Source-Coverage Map for Virtual Assistant Article Research', 'source coverage', 'showing which parts of an article are supported and which still need judgment', 'claim, source, passage, date checked, limitation, and reviewer', 'Support can assemble evidence; it cannot stretch a source beyond what it actually establishes.'),
 ('virtual-assistant-article-intent-brief', 'Use an Intent Brief to Keep Virtual Assistant Articles Useful', 'intent briefing', 'connecting a reader question to a practical decision instead of a broad keyword', 'audience situation, decision point, constraints, desired next step, and out-of-scope questions', 'The assistant may structure the brief, while editorial ownership decides whether the angle is worth publishing.'),
 ('virtual-assistant-editorial-work-in-progress', 'Make Work in Progress Visible in Virtual Assistant Article Operations', 'work visibility', 'exposing blocked article work before a date or handoff becomes misleading', 'stage, blocker, evidence status, owner, next action, and review date', 'A status board informs decisions; it is not approval and cannot hide unresolved claims.'),
@@ -50,10 +50,12 @@ def article(topic):
     return '\n'.join(out) + '\n'
 
 entries = []
-for topic in TOPICS:
-    slug = topic[0]
+for old_path in BLOG.glob('virtual-assistant-aug18-*.mdx'):
+    old_path.unlink()
+for n, topic in enumerate(TOPICS, 1):
+    slug = f'virtual-assistant-aug18-r5-{n:02d}-{topic[0].removeprefix("virtual-assistant-")}'
     path = BLOG / f'{slug}.mdx'
-    path.write_text(article(topic), encoding='utf-8')
+    path.write_text(article(topic).replace(f'slug: {topic[0]}', f'slug: {slug}', 1), encoding='utf-8')
     entries.append({'slug': slug, 'route': f'/blog/{slug}', 'sourcePath': f'content/blog/{slug}.mdx', 'sourceDateField': 'publishedAt', 'sourceDate': DATE, 'renderedDate': DATE, 'renderedDateFields': ['datePublished', 'time[datetime]'], 'provenance': 'strict-aug18-replacement', 'introducedByCommit': 'PENDING'})
 manifest = ROOT / '.paperclip/aug18-2026/blog.json'
 manifest.write_text(json.dumps({'schemaVersion': 1, 'contract': 'fleet-aug18-blog-replacement-v2', 'family': 'blog', 'targetDate': DATE, 'minimum': 22, 'entries': entries}, indent=2) + '\n', encoding='utf-8')
