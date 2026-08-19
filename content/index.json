@@ -158,157 +158,157 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-01-article-brief-intake",
-      "title": "Brief Intake: How Virtual Assistants Can Stabilize Daily Article Brief Intake",
-      "path": "content/blog/virtual-assistant-aug18-r5-01-article-brief-intake.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-01-article-brief-acceptance",
+      "title": "Field Guide: How a Virtual Assistant Can Turn an Article Brief into an Acceptance Checklist",
+      "path": "content/blog/virtual-assistant-aug18-01-article-brief-acceptance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-checklist.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-02-source-coverage-map",
-      "title": "Source Coverage: Build a Source-Coverage Map for Virtual Assistant Article Research",
-      "path": "content/blog/virtual-assistant-aug18-r5-02-source-coverage-map.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-02-source-packet-for-bloggers",
+      "title": "Field Guide: A Source Packet Workflow for Virtual Assistant Blog Support",
+      "path": "content/blog/virtual-assistant-aug18-02-source-packet-for-bloggers.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-fact-checking.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-03-article-intent-brief",
-      "title": "Intent Briefing: Use an Intent Brief to Keep Virtual Assistant Articles Useful",
-      "path": "content/blog/virtual-assistant-aug18-r5-03-article-intent-brief.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-03-blog-fact-check-handoff",
+      "title": "Field Guide: Designing a Fact-Check Handoff for Virtual Assistant Article Teams",
+      "path": "content/blog/virtual-assistant-aug18-03-blog-fact-check-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-04-editorial-work-in-progress",
-      "title": "Work Visibility: Make Work in Progress Visible in Virtual Assistant Article Operations",
-      "path": "content/blog/virtual-assistant-aug18-r5-04-editorial-work-in-progress.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-04-editorial-calendar-dependency-map",
+      "title": "Field Guide: Map Editorial Calendar Dependencies Before a Virtual Assistant Publishes",
+      "path": "content/blog/virtual-assistant-aug18-04-editorial-calendar-dependency-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-calendar-operations.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-05-article-scope-boundary",
-      "title": "Scope Boundary: Set a Clear Scope Boundary Before Virtual Assistant Article Drafting",
-      "path": "content/blog/virtual-assistant-aug18-r5-05-article-scope-boundary.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-05-article-update-trigger-register",
+      "title": "Field Guide: When Should a Virtual Assistant Flag an Article for Review?",
+      "path": "content/blog/virtual-assistant-aug18-05-article-update-trigger-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sop-maintenance-controls.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-06-content-calendar-sequencing",
-      "title": "Calendar Sequencing: Sequence a Content Calendar Around Virtual Assistant Dependencies",
-      "path": "content/blog/virtual-assistant-aug18-r5-06-content-calendar-sequencing.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-06-blog-duplicate-topic-triage",
+      "title": "Field Guide: A Duplicate-Topic Triage Method for Virtual Assistant Blog Planning",
+      "path": "content/blog/virtual-assistant-aug18-06-blog-duplicate-topic-triage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-repurposing-controls.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-07-article-evidence-handoff",
-      "title": "Evidence Handoff: Create an Evidence Handoff for Virtual Assistant Article Review",
-      "path": "content/blog/virtual-assistant-aug18-r5-07-article-evidence-handoff.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-07-article-review-queue-aging",
+      "title": "Field Guide: How to Manage an Aging Article Review Queue with a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-aug18-07-article-review-queue-aging.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-escalation-matrix.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-08-blog-claim-changes",
-      "title": "Claim Changes: Track Claim Changes During Virtual Assistant Blog Revisions",
-      "path": "content/blog/virtual-assistant-aug18-r5-08-blog-claim-changes.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-08-content-brief-question-ladder",
+      "title": "Field Guide: Build a Reader Question Ladder for Every Virtual Assistant Article Brief",
+      "path": "content/blog/virtual-assistant-aug18-08-content-brief-question-ladder.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-delegation-readiness.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-09-article-example-boundaries",
-      "title": "Example Boundaries: Choose Safe Examples for Virtual Assistant Services Articles",
-      "path": "content/blog/virtual-assistant-aug18-r5-09-article-example-boundaries.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-09-blog-image-alt-text-register",
+      "title": "Field Guide: An Accessible Image Alt-Text Register for Virtual Assistant Blog Operations",
+      "path": "content/blog/virtual-assistant-aug18-09-blog-image-alt-text-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-social-content-approval.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-10-blog-review-routing",
-      "title": "Review Routing: Route Virtual Assistant Blog Reviews by Decision Type",
-      "path": "content/blog/virtual-assistant-aug18-r5-10-blog-review-routing.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-10-internal-link-intent-map",
+      "title": "Field Guide: Create an Internal-Link Intent Map for Virtual Assistant Blog Articles",
+      "path": "content/blog/virtual-assistant-aug18-10-internal-link-intent-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-approval-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-11-article-link-purpose",
-      "title": "Link Purpose: Give Every Internal Link a Purpose in Virtual Assistant Articles",
-      "path": "content/blog/virtual-assistant-aug18-r5-11-article-link-purpose.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-11-blog-readability-review-sheet",
+      "title": "Field Guide: A Readability Review Sheet a Virtual Assistant Can Prepare",
+      "path": "content/blog/virtual-assistant-aug18-11-blog-readability-review-sheet.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-12-article-reading-path",
-      "title": "Reading Path: Design a Reading Path for Practical Virtual Assistant Articles",
-      "path": "content/blog/virtual-assistant-aug18-r5-12-article-reading-path.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-12-article-approval-evidence-log",
+      "title": "Field Guide: Keep an Article Approval Evidence Log with Virtual Assistant Support",
+      "path": "content/blog/virtual-assistant-aug18-12-article-approval-evidence-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-13-content-refresh-signal",
-      "title": "Refresh Signals: Define Refresh Signals for Virtual Assistant Service Articles",
-      "path": "content/blog/virtual-assistant-aug18-r5-13-content-refresh-signal.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-13-blog-claim-risk-ranking",
+      "title": "Field Guide: Rank Article Claim Risk Before a Virtual Assistant Starts Research",
+      "path": "content/blog/virtual-assistant-aug18-13-blog-claim-risk-ranking.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review-cadence.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-14-article-review-sampling",
-      "title": "Review Sampling: Use Review Sampling to Improve Virtual Assistant Article Quality",
-      "path": "content/blog/virtual-assistant-aug18-r5-14-article-review-sampling.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-14-blog-brief-version-control",
+      "title": "Field Guide: Simple Brief Version Control for Virtual Assistant Article Work",
+      "path": "content/blog/virtual-assistant-aug18-14-blog-brief-version-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-file-naming-convention.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-15-brief-question-testing",
-      "title": "Question Testing: Test Article Brief Questions Before Virtual Assistant Research Begins",
-      "path": "content/blog/virtual-assistant-aug18-r5-15-brief-question-testing.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-15-blog-comment-resolution-board",
+      "title": "Field Guide: Use a Comment-Resolution Board for Virtual Assistant Article Reviews",
+      "path": "content/blog/virtual-assistant-aug18-15-blog-comment-resolution-board.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-calendar-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-16-content-asset-context",
-      "title": "Asset Context: Keep Asset Context with Virtual Assistant Blog Images",
-      "path": "content/blog/virtual-assistant-aug18-r5-16-content-asset-context.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-16-blog-refresh-scope-brief",
+      "title": "Field Guide: Write a Refresh-Scope Brief Before Updating an Existing Virtual Assistant Article",
+      "path": "content/blog/virtual-assistant-aug18-16-blog-refresh-scope-brief.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-escalation-notes.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-17-article-approval-conditions",
-      "title": "Conditional Approval: Record Conditional Approval in Virtual Assistant Article Work",
-      "path": "content/blog/virtual-assistant-aug18-r5-17-article-approval-conditions.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-17-blog-editorial-exception-register",
+      "title": "Field Guide: An Editorial Exception Register for Virtual Assistant Publishing Routines",
+      "path": "content/blog/virtual-assistant-aug18-17-blog-editorial-exception-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-publishing-calendar-rules.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-18-reader-question-triage",
-      "title": "Reader-Question Triage: Triage Reader Questions for Better Virtual Assistant Articles",
-      "path": "content/blog/virtual-assistant-aug18-r5-18-reader-question-triage.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-18-blog-publishing-metadata-check",
+      "title": "Field Guide: A Metadata Checkpoint for Virtual Assistant Blog Publishing",
+      "path": "content/blog/virtual-assistant-aug18-18-blog-publishing-metadata-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-19-article-topic-portfolio",
-      "title": "Topic Portfolio: Manage an Article Topic Portfolio with Virtual Assistant Support",
-      "path": "content/blog/virtual-assistant-aug18-r5-19-article-topic-portfolio.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-19-blog-reader-feedback-routing",
+      "title": "Field Guide: Route Reader Feedback to the Right Virtual Assistant Article Owner",
+      "path": "content/blog/virtual-assistant-aug18-19-blog-reader-feedback-routing.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-project-intake-form.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-20-daily-article-quality-review",
-      "title": "Daily Quality Review: Run a Daily Quality Review for Virtual Assistant Article Work",
-      "path": "content/blog/virtual-assistant-aug18-r5-20-daily-article-quality-review.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-20-blog-topic-queue-decision-record",
+      "title": "Field Guide: Keep Topic-Queue Decisions Clear with Virtual Assistant Support",
+      "path": "content/blog/virtual-assistant-aug18-20-blog-topic-queue-decision-record.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-repurposing-process.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-21-article-handoff-continuity",
-      "title": "Handoff Continuity: Protect Article Handoff Continuity in Virtual Assistant Services",
-      "path": "content/blog/virtual-assistant-aug18-r5-21-article-handoff-continuity.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-21-blog-draft-handoff-package",
+      "title": "Field Guide: What Belongs in a Virtual Assistant Blog Draft Handoff Package",
+      "path": "content/blog/virtual-assistant-aug18-21-blog-draft-handoff-package.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sop-writing-guide.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-r5-22-editorial-decision-notes",
-      "title": "Decision Notes: Write Better Editorial Decision Notes with Virtual Assistant Help",
-      "path": "content/blog/virtual-assistant-aug18-r5-22-editorial-decision-notes.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-quality.webp"
+      "slug": "virtual-assistant-aug18-22-blog-month-end-quality-review",
+      "title": "Field Guide: A Month-End Quality Review for Virtual Assistant Blog Operations",
+      "path": "content/blog/virtual-assistant-aug18-22-blog-month-end-quality-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
     },
     {
       "type": "blog",
