@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "contract": "fleet-aug18-blog-replacement-v2",
+  "contract": "fleet-aug18-blog-v1",
   "family": "blog",
   "targetDate": "2026-08-18",
   "minimum": 22,
   "entries": [
     {
-      "slug": "virtual-assistant-aug18-r5-01-article-brief-intake",
-      "route": "/blog/virtual-assistant-aug18-r5-01-article-brief-intake",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-01-article-brief-intake.mdx",
+      "slug": "virtual-assistant-aug18-01-article-brief-acceptance",
+      "route": "/blog/virtual-assistant-aug18-01-article-brief-acceptance",
+      "sourcePath": "content/blog/virtual-assistant-aug18-01-article-brief-acceptance.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -16,13 +16,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-02-source-coverage-map",
-      "route": "/blog/virtual-assistant-aug18-r5-02-source-coverage-map",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-02-source-coverage-map.mdx",
+      "slug": "virtual-assistant-aug18-02-source-packet-for-bloggers",
+      "route": "/blog/virtual-assistant-aug18-02-source-packet-for-bloggers",
+      "sourcePath": "content/blog/virtual-assistant-aug18-02-source-packet-for-bloggers.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -30,13 +30,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-03-article-intent-brief",
-      "route": "/blog/virtual-assistant-aug18-r5-03-article-intent-brief",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-03-article-intent-brief.mdx",
+      "slug": "virtual-assistant-aug18-03-blog-fact-check-handoff",
+      "route": "/blog/virtual-assistant-aug18-03-blog-fact-check-handoff",
+      "sourcePath": "content/blog/virtual-assistant-aug18-03-blog-fact-check-handoff.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -44,13 +44,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-04-editorial-work-in-progress",
-      "route": "/blog/virtual-assistant-aug18-r5-04-editorial-work-in-progress",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-04-editorial-work-in-progress.mdx",
+      "slug": "virtual-assistant-aug18-04-editorial-calendar-dependency-map",
+      "route": "/blog/virtual-assistant-aug18-04-editorial-calendar-dependency-map",
+      "sourcePath": "content/blog/virtual-assistant-aug18-04-editorial-calendar-dependency-map.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -58,13 +58,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-05-article-scope-boundary",
-      "route": "/blog/virtual-assistant-aug18-r5-05-article-scope-boundary",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-05-article-scope-boundary.mdx",
+      "slug": "virtual-assistant-aug18-05-article-update-trigger-register",
+      "route": "/blog/virtual-assistant-aug18-05-article-update-trigger-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-05-article-update-trigger-register.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -72,13 +72,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-06-content-calendar-sequencing",
-      "route": "/blog/virtual-assistant-aug18-r5-06-content-calendar-sequencing",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-06-content-calendar-sequencing.mdx",
+      "slug": "virtual-assistant-aug18-06-blog-duplicate-topic-triage",
+      "route": "/blog/virtual-assistant-aug18-06-blog-duplicate-topic-triage",
+      "sourcePath": "content/blog/virtual-assistant-aug18-06-blog-duplicate-topic-triage.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -86,13 +86,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-07-article-evidence-handoff",
-      "route": "/blog/virtual-assistant-aug18-r5-07-article-evidence-handoff",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-07-article-evidence-handoff.mdx",
+      "slug": "virtual-assistant-aug18-07-article-review-queue-aging",
+      "route": "/blog/virtual-assistant-aug18-07-article-review-queue-aging",
+      "sourcePath": "content/blog/virtual-assistant-aug18-07-article-review-queue-aging.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -100,13 +100,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-08-blog-claim-changes",
-      "route": "/blog/virtual-assistant-aug18-r5-08-blog-claim-changes",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-08-blog-claim-changes.mdx",
+      "slug": "virtual-assistant-aug18-08-content-brief-question-ladder",
+      "route": "/blog/virtual-assistant-aug18-08-content-brief-question-ladder",
+      "sourcePath": "content/blog/virtual-assistant-aug18-08-content-brief-question-ladder.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -114,13 +114,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-09-article-example-boundaries",
-      "route": "/blog/virtual-assistant-aug18-r5-09-article-example-boundaries",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-09-article-example-boundaries.mdx",
+      "slug": "virtual-assistant-aug18-09-blog-image-alt-text-register",
+      "route": "/blog/virtual-assistant-aug18-09-blog-image-alt-text-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-09-blog-image-alt-text-register.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -128,13 +128,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-10-blog-review-routing",
-      "route": "/blog/virtual-assistant-aug18-r5-10-blog-review-routing",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-10-blog-review-routing.mdx",
+      "slug": "virtual-assistant-aug18-10-internal-link-intent-map",
+      "route": "/blog/virtual-assistant-aug18-10-internal-link-intent-map",
+      "sourcePath": "content/blog/virtual-assistant-aug18-10-internal-link-intent-map.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -142,13 +142,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-11-article-link-purpose",
-      "route": "/blog/virtual-assistant-aug18-r5-11-article-link-purpose",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-11-article-link-purpose.mdx",
+      "slug": "virtual-assistant-aug18-11-blog-readability-review-sheet",
+      "route": "/blog/virtual-assistant-aug18-11-blog-readability-review-sheet",
+      "sourcePath": "content/blog/virtual-assistant-aug18-11-blog-readability-review-sheet.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -156,13 +156,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-12-article-reading-path",
-      "route": "/blog/virtual-assistant-aug18-r5-12-article-reading-path",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-12-article-reading-path.mdx",
+      "slug": "virtual-assistant-aug18-12-article-approval-evidence-log",
+      "route": "/blog/virtual-assistant-aug18-12-article-approval-evidence-log",
+      "sourcePath": "content/blog/virtual-assistant-aug18-12-article-approval-evidence-log.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -170,13 +170,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-13-content-refresh-signal",
-      "route": "/blog/virtual-assistant-aug18-r5-13-content-refresh-signal",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-13-content-refresh-signal.mdx",
+      "slug": "virtual-assistant-aug18-13-blog-claim-risk-ranking",
+      "route": "/blog/virtual-assistant-aug18-13-blog-claim-risk-ranking",
+      "sourcePath": "content/blog/virtual-assistant-aug18-13-blog-claim-risk-ranking.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -184,13 +184,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-14-article-review-sampling",
-      "route": "/blog/virtual-assistant-aug18-r5-14-article-review-sampling",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-14-article-review-sampling.mdx",
+      "slug": "virtual-assistant-aug18-14-blog-brief-version-control",
+      "route": "/blog/virtual-assistant-aug18-14-blog-brief-version-control",
+      "sourcePath": "content/blog/virtual-assistant-aug18-14-blog-brief-version-control.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -198,13 +198,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-15-brief-question-testing",
-      "route": "/blog/virtual-assistant-aug18-r5-15-brief-question-testing",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-15-brief-question-testing.mdx",
+      "slug": "virtual-assistant-aug18-15-blog-comment-resolution-board",
+      "route": "/blog/virtual-assistant-aug18-15-blog-comment-resolution-board",
+      "sourcePath": "content/blog/virtual-assistant-aug18-15-blog-comment-resolution-board.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -212,13 +212,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-16-content-asset-context",
-      "route": "/blog/virtual-assistant-aug18-r5-16-content-asset-context",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-16-content-asset-context.mdx",
+      "slug": "virtual-assistant-aug18-16-blog-refresh-scope-brief",
+      "route": "/blog/virtual-assistant-aug18-16-blog-refresh-scope-brief",
+      "sourcePath": "content/blog/virtual-assistant-aug18-16-blog-refresh-scope-brief.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -226,13 +226,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-17-article-approval-conditions",
-      "route": "/blog/virtual-assistant-aug18-r5-17-article-approval-conditions",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-17-article-approval-conditions.mdx",
+      "slug": "virtual-assistant-aug18-17-blog-editorial-exception-register",
+      "route": "/blog/virtual-assistant-aug18-17-blog-editorial-exception-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-17-blog-editorial-exception-register.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -240,13 +240,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-18-reader-question-triage",
-      "route": "/blog/virtual-assistant-aug18-r5-18-reader-question-triage",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-18-reader-question-triage.mdx",
+      "slug": "virtual-assistant-aug18-18-blog-publishing-metadata-check",
+      "route": "/blog/virtual-assistant-aug18-18-blog-publishing-metadata-check",
+      "sourcePath": "content/blog/virtual-assistant-aug18-18-blog-publishing-metadata-check.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -254,13 +254,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-19-article-topic-portfolio",
-      "route": "/blog/virtual-assistant-aug18-r5-19-article-topic-portfolio",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-19-article-topic-portfolio.mdx",
+      "slug": "virtual-assistant-aug18-19-blog-reader-feedback-routing",
+      "route": "/blog/virtual-assistant-aug18-19-blog-reader-feedback-routing",
+      "sourcePath": "content/blog/virtual-assistant-aug18-19-blog-reader-feedback-routing.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -268,13 +268,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-20-daily-article-quality-review",
-      "route": "/blog/virtual-assistant-aug18-r5-20-daily-article-quality-review",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-20-daily-article-quality-review.mdx",
+      "slug": "virtual-assistant-aug18-20-blog-topic-queue-decision-record",
+      "route": "/blog/virtual-assistant-aug18-20-blog-topic-queue-decision-record",
+      "sourcePath": "content/blog/virtual-assistant-aug18-20-blog-topic-queue-decision-record.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -282,13 +282,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-21-article-handoff-continuity",
-      "route": "/blog/virtual-assistant-aug18-r5-21-article-handoff-continuity",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-21-article-handoff-continuity.mdx",
+      "slug": "virtual-assistant-aug18-21-blog-draft-handoff-package",
+      "route": "/blog/virtual-assistant-aug18-21-blog-draft-handoff-package",
+      "sourcePath": "content/blog/virtual-assistant-aug18-21-blog-draft-handoff-package.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -296,13 +296,13 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     },
     {
-      "slug": "virtual-assistant-aug18-r5-22-editorial-decision-notes",
-      "route": "/blog/virtual-assistant-aug18-r5-22-editorial-decision-notes",
-      "sourcePath": "content/blog/virtual-assistant-aug18-r5-22-editorial-decision-notes.mdx",
+      "slug": "virtual-assistant-aug18-22-blog-month-end-quality-review",
+      "route": "/blog/virtual-assistant-aug18-22-blog-month-end-quality-review",
+      "sourcePath": "content/blog/virtual-assistant-aug18-22-blog-month-end-quality-review.mdx",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-18",
       "renderedDate": "2026-08-18",
@@ -310,8 +310,8 @@
         "datePublished",
         "time[datetime]"
       ],
-      "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
+      "provenance": "original-aug18-batch",
+      "introducedByCommit": "PENDING"
     }
   ]
 }
