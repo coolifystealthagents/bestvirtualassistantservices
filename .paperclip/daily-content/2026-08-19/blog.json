@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "contract": "fleet-aug19-blog-v3",
+  "family": "blog",
+  "targetDate": "2026-08-19",
+  "minimum": 22,
+  "entries": [
+    {
+      "slug": "virtual-assistant-daily-article-intake",
+      "route": "/blog/virtual-assistant-daily-article-intake",
+      "sourcePath": "content/blog/virtual-assistant-daily-article-intake.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-keyword-to-brief",
+      "route": "/blog/virtual-assistant-keyword-to-brief",
+      "sourcePath": "content/blog/virtual-assistant-keyword-to-brief.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-draft-readiness-gate",
+      "route": "/blog/virtual-assistant-draft-readiness-gate",
+      "sourcePath": "content/blog/virtual-assistant-draft-readiness-gate.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-source-expiry",
+      "route": "/blog/virtual-assistant-article-source-expiry",
+      "sourcePath": "content/blog/virtual-assistant-article-source-expiry.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-outline-decision",
+      "route": "/blog/virtual-assistant-article-outline-decision",
+      "sourcePath": "content/blog/virtual-assistant-article-outline-decision.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-editorial-calendar-capacity",
+      "route": "/blog/virtual-assistant-editorial-calendar-capacity",
+      "sourcePath": "content/blog/virtual-assistant-editorial-calendar-capacity.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-research-notes",
+      "route": "/blog/virtual-assistant-article-research-notes",
+      "sourcePath": "content/blog/virtual-assistant-article-research-notes.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-approval-latency",
+      "route": "/blog/virtual-assistant-blog-approval-latency",
+      "sourcePath": "content/blog/virtual-assistant-blog-approval-latency.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-example-library",
+      "route": "/blog/virtual-assistant-article-example-library",
+      "sourcePath": "content/blog/virtual-assistant-article-example-library.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-link-review",
+      "route": "/blog/virtual-assistant-blog-link-review",
+      "sourcePath": "content/blog/virtual-assistant-blog-link-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-claim-ledger",
+      "route": "/blog/virtual-assistant-article-claim-ledger",
+      "sourcePath": "content/blog/virtual-assistant-article-claim-ledger.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-update-queue",
+      "route": "/blog/virtual-assistant-blog-update-queue",
+      "sourcePath": "content/blog/virtual-assistant-blog-update-queue.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-brief-acceptance-criteria",
+      "route": "/blog/virtual-assistant-brief-acceptance-criteria",
+      "sourcePath": "content/blog/virtual-assistant-brief-acceptance-criteria.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-revision-map",
+      "route": "/blog/virtual-assistant-article-revision-map",
+      "sourcePath": "content/blog/virtual-assistant-article-revision-map.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-content-risk-register",
+      "route": "/blog/virtual-assistant-content-risk-register",
+      "sourcePath": "content/blog/virtual-assistant-content-risk-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-brief-handoff",
+      "route": "/blog/virtual-assistant-article-brief-handoff",
+      "sourcePath": "content/blog/virtual-assistant-article-brief-handoff.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-publish-checklist",
+      "route": "/blog/virtual-assistant-blog-publish-checklist",
+      "sourcePath": "content/blog/virtual-assistant-blog-publish-checklist.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-reader-question-log",
+      "route": "/blog/virtual-assistant-reader-question-log",
+      "sourcePath": "content/blog/virtual-assistant-reader-question-log.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-topic-collision",
+      "route": "/blog/virtual-assistant-article-topic-collision",
+      "sourcePath": "content/blog/virtual-assistant-article-topic-collision.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-content-calendar-review",
+      "route": "/blog/virtual-assistant-content-calendar-review",
+      "sourcePath": "content/blog/virtual-assistant-content-calendar-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-archive-rules",
+      "route": "/blog/virtual-assistant-article-archive-rules",
+      "sourcePath": "content/blog/virtual-assistant-article-archive-rules.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-daily-publishing-dashboard",
+      "route": "/blog/virtual-assistant-daily-publishing-dashboard",
+      "sourcePath": "content/blog/virtual-assistant-daily-publishing-dashboard.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-19",
+      "renderedDate": "2026-08-19",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "original-aug19-batch",
+      "introducedByCommit": "PENDING"
+    }
+  ]
+}
