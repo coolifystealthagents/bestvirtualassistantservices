@@ -1,0 +1,17 @@
+{
+  "campaignDate": "2026-08-19",
+  "family": "research",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "entries": [
+    {"route":"/research/virtual-assistant-article-source-conflict-analysis","sourcePaths":["content/research/virtual-assistant-article-source-conflict-analysis.mdx"]},
+    {"route":"/research/virtual-assistant-editorial-claim-confidence-review","sourcePaths":["content/research/virtual-assistant-editorial-claim-confidence-review.mdx"]},
+    {"route":"/research/virtual-assistant-research-brief-scope-drift","sourcePaths":["content/research/virtual-assistant-research-brief-scope-drift.mdx"]},
+    {"route":"/research/virtual-assistant-article-citation-context-check","sourcePaths":["content/research/virtual-assistant-article-citation-context-check.mdx"]},
+    {"route":"/research/virtual-assistant-article-update-materiality-review","sourcePaths":["content/research/virtual-assistant-article-update-materiality-review.mdx"]},
+    {"route":"/research/virtual-assistant-editorial-queue-aging-evidence","sourcePaths":["content/research/virtual-assistant-editorial-queue-aging-evidence.mdx"]},
+    {"route":"/research/virtual-assistant-content-brief-audience-fit-research","sourcePaths":["content/research/virtual-assistant-content-brief-audience-fit-research.mdx"]},
+    {"route":"/research/virtual-assistant-article-accessibility-evidence-handoff","sourcePaths":["content/research/virtual-assistant-article-accessibility-evidence-handoff.mdx"]},
+    {"route":"/research/virtual-assistant-article-version-lineage-review","sourcePaths":["content/research/virtual-assistant-article-version-lineage-review.mdx"]},
+    {"route":"/research/virtual-assistant-content-handoff-exception-severity","sourcePaths":["content/research/virtual-assistant-content-handoff-exception-severity.mdx"]}
+  ]
+}

@@ -1502,6 +1502,41 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-article-accessibility-evidence-handoff",
+      "title": "What Accessibility Evidence Belongs in an Article Handoff?",
+      "path": "content/research/virtual-assistant-article-accessibility-evidence-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-article-citation-context-check",
+      "title": "What Citation Context Should a Virtual Assistant Preserve for Articles?",
+      "path": "content/research/virtual-assistant-article-citation-context-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-article-source-conflict-analysis",
+      "title": "When Should a Virtual Assistant Stop for Conflicting Article Sources?",
+      "path": "content/research/virtual-assistant-article-source-conflict-analysis.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-article-update-materiality-review",
+      "title": "Which Article Changes Need Owner Review?",
+      "path": "content/research/virtual-assistant-article-update-materiality-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-article-version-lineage-review",
+      "title": "How Should Virtual Assistants Preserve Article Version Lineage?",
+      "path": "content/research/virtual-assistant-article-version-lineage-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-backup-coverage-controls",
       "title": "Backup Coverage Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-backup-coverage-controls.mdx",
@@ -1628,6 +1663,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-content-brief-audience-fit-research",
+      "title": "Can a Virtual Assistant Test Audience Fit Without Inventing Buyer Facts?",
+      "path": "content/research/virtual-assistant-content-brief-audience-fit-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-content-brief-evidence",
       "title": "Evidence Standards for Virtual Assistant Content Briefs: A Research Brief",
       "path": "content/research/virtual-assistant-content-brief-evidence.mdx",
@@ -1653,6 +1695,13 @@
       "title": "Content Fact Checking for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-content-fact-checking.mdx",
       "featuredImage": "/blog/images/virtual-assistant-content-fact-checking.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-content-handoff-exception-severity",
+      "title": "How Should Article Handoff Exceptions Be Ranked?",
+      "path": "content/research/virtual-assistant-content-handoff-exception-severity.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -1814,6 +1863,20 @@
       "title": "Virtual Assistant Ecommerce Return Research: Where Support Needs Boundaries",
       "path": "content/research/virtual-assistant-ecommerce-return-research.mdx",
       "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-escalation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-editorial-claim-confidence-review",
+      "title": "Can Virtual Assistants Calibrate Confidence in Article Claims?",
+      "path": "content/research/virtual-assistant-editorial-claim-confidence-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-editorial-queue-aging-evidence",
+      "title": "When Does an Aging Article Queue Become a Quality Risk?",
+      "path": "content/research/virtual-assistant-editorial-queue-aging-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -2087,6 +2150,13 @@
       "title": "Remote Work Continuity Planning for Virtual Assistants",
       "path": "content/research/virtual-assistant-remote-work-continuity.mdx",
       "featuredImage": "/blog/images/virtual-assistant-remote-work-continuity.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-research-brief-scope-drift",
+      "title": "How Does Scope Drift Affect Virtual Assistant Article Research?",
+      "path": "content/research/virtual-assistant-research-brief-scope-drift.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
