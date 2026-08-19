@@ -17,7 +17,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-02-source-packet-for-bloggers",
@@ -31,7 +31,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-03-blog-fact-check-handoff",
@@ -45,7 +45,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-04-editorial-calendar-dependency-map",
@@ -59,7 +59,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-05-article-update-trigger-register",
@@ -73,7 +73,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-06-blog-duplicate-topic-triage",
@@ -87,7 +87,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-07-article-review-queue-aging",
@@ -101,7 +101,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-08-content-brief-question-ladder",
@@ -115,7 +115,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-09-blog-image-alt-text-register",
@@ -129,7 +129,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-10-internal-link-intent-map",
@@ -143,7 +143,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-11-blog-readability-review-sheet",
@@ -157,7 +157,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-12-article-approval-evidence-log",
@@ -171,7 +171,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-13-blog-claim-risk-ranking",
@@ -185,7 +185,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-14-blog-brief-version-control",
@@ -199,7 +199,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-15-blog-comment-resolution-board",
@@ -213,7 +213,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-16-blog-refresh-scope-brief",
@@ -227,7 +227,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-17-blog-editorial-exception-register",
@@ -241,7 +241,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-18-blog-publishing-metadata-check",
@@ -255,7 +255,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-19-blog-reader-feedback-routing",
@@ -269,7 +269,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-20-blog-topic-queue-decision-record",
@@ -283,7 +283,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-21-blog-draft-handoff-package",
@@ -297,7 +297,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     },
     {
       "slug": "virtual-assistant-aug18-22-blog-month-end-quality-review",
@@ -311,7 +311,7 @@
         "time[datetime]"
       ],
       "provenance": "original-aug18-batch",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "5e9fb4c4ff469d389bbfba53eeaffc384a7076ad"
     }
   ]
 }
