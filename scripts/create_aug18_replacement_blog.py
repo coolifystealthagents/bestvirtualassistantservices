@@ -56,7 +56,7 @@ for n, topic in enumerate(TOPICS, 1):
     slug = f'virtual-assistant-aug18-r5-{n:02d}-{topic[0].removeprefix("virtual-assistant-")}'
     path = BLOG / f'{slug}.mdx'
     path.write_text(article(topic).replace(f'slug: {topic[0]}', f'slug: {slug}', 1), encoding='utf-8')
-    entries.append({'slug': slug, 'route': f'/blog/{slug}', 'sourcePath': f'content/blog/{slug}.mdx', 'sourceDateField': 'publishedAt', 'sourceDate': DATE, 'renderedDate': DATE, 'renderedDateFields': ['datePublished', 'time[datetime]'], 'provenance': 'strict-aug18-replacement', 'introducedByCommit': 'PENDING'})
+    entries.append({'slug': slug, 'route': f'/blog/{slug}', 'sourcePath': f'content/blog/{slug}.mdx', 'sourceDateField': 'publishedAt', 'sourceDate': DATE, 'renderedDate': DATE, 'renderedDateFields': ['datePublished', 'time[datetime]'], 'provenance': 'strict-aug18-replacement', 'introducedByCommit': '2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f'})
 manifest = ROOT / '.paperclip/aug18-2026/blog.json'
 manifest.write_text(json.dumps({'schemaVersion': 1, 'contract': 'fleet-aug18-blog-replacement-v2', 'family': 'blog', 'targetDate': DATE, 'minimum': 22, 'entries': entries}, indent=2) + '\n', encoding='utf-8')
 print(f'created {len(entries)} replacement articles; shortest body {min(len((BLOG / (e["slug"] + ".mdx")).read_text().split()) for e in entries)} words')

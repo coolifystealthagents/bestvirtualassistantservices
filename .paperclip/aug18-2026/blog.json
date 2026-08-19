@@ -17,7 +17,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-02-source-coverage-map",
@@ -31,7 +31,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-03-article-intent-brief",
@@ -45,7 +45,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-04-editorial-work-in-progress",
@@ -59,7 +59,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-05-article-scope-boundary",
@@ -73,7 +73,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-06-content-calendar-sequencing",
@@ -87,7 +87,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-07-article-evidence-handoff",
@@ -101,7 +101,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-08-blog-claim-changes",
@@ -115,7 +115,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-09-article-example-boundaries",
@@ -129,7 +129,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-10-blog-review-routing",
@@ -143,7 +143,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-11-article-link-purpose",
@@ -157,7 +157,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-12-article-reading-path",
@@ -171,7 +171,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-13-content-refresh-signal",
@@ -185,7 +185,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-14-article-review-sampling",
@@ -199,7 +199,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-15-brief-question-testing",
@@ -213,7 +213,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-16-content-asset-context",
@@ -227,7 +227,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-17-article-approval-conditions",
@@ -241,7 +241,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-18-reader-question-triage",
@@ -255,7 +255,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-19-article-topic-portfolio",
@@ -269,7 +269,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-20-daily-article-quality-review",
@@ -283,7 +283,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-21-article-handoff-continuity",
@@ -297,7 +297,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     },
     {
       "slug": "virtual-assistant-aug18-r5-22-editorial-decision-notes",
@@ -311,7 +311,7 @@
         "time[datetime]"
       ],
       "provenance": "strict-aug18-replacement",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "2b694e8f0025a80f5f8ef76ae1ae1421dd789d5f"
     }
   ]
 }
