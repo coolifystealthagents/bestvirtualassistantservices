@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "contract": "fleet-aug18-blog-source-repair-v1",
+  "family": "blog",
+  "targetDate": "2026-08-18",
+  "minimum": 22,
+  "entries": [
+    {
+      "slug": "virtual-assistant-aug18-repair-01-client-intake-question-design",
+      "route": "/blog/virtual-assistant-aug18-repair-01-client-intake-question-design",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-01-client-intake-question-design.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-02-delegation-readiness-test",
+      "route": "/blog/virtual-assistant-aug18-repair-02-delegation-readiness-test",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-02-delegation-readiness-test.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-03-shared-inbox-ownership",
+      "route": "/blog/virtual-assistant-aug18-repair-03-shared-inbox-ownership",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-03-shared-inbox-ownership.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-04-calendar-conflict-resolution",
+      "route": "/blog/virtual-assistant-aug18-repair-04-calendar-conflict-resolution",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-04-calendar-conflict-resolution.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-05-meeting-notes-action-register",
+      "route": "/blog/virtual-assistant-aug18-repair-05-meeting-notes-action-register",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-05-meeting-notes-action-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-06-vendor-research-comparison",
+      "route": "/blog/virtual-assistant-aug18-repair-06-vendor-research-comparison",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-06-vendor-research-comparison.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-07-customer-support-escalation",
+      "route": "/blog/virtual-assistant-aug18-repair-07-customer-support-escalation",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-07-customer-support-escalation.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-08-document-access-review",
+      "route": "/blog/virtual-assistant-aug18-repair-08-document-access-review",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-08-document-access-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-09-recurring-task-definition",
+      "route": "/blog/virtual-assistant-aug18-repair-09-recurring-task-definition",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-09-recurring-task-definition.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-10-service-request-priority",
+      "route": "/blog/virtual-assistant-aug18-repair-10-service-request-priority",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-10-service-request-priority.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-11-backup-coverage-plan",
+      "route": "/blog/virtual-assistant-aug18-repair-11-backup-coverage-plan",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-11-backup-coverage-plan.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-12-handoff-context-note",
+      "route": "/blog/virtual-assistant-aug18-repair-12-handoff-context-note",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-12-handoff-context-note.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-13-quality-sample-review",
+      "route": "/blog/virtual-assistant-aug18-repair-13-quality-sample-review",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-13-quality-sample-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-14-client-data-minimization",
+      "route": "/blog/virtual-assistant-aug18-repair-14-client-data-minimization",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-14-client-data-minimization.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-15-approval-boundary-map",
+      "route": "/blog/virtual-assistant-aug18-repair-15-approval-boundary-map",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-15-approval-boundary-map.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-16-task-exception-log",
+      "route": "/blog/virtual-assistant-aug18-repair-16-task-exception-log",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-16-task-exception-log.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-17-weekly-operations-review",
+      "route": "/blog/virtual-assistant-aug18-repair-17-weekly-operations-review",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-17-weekly-operations-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-18-client-preference-record",
+      "route": "/blog/virtual-assistant-aug18-repair-18-client-preference-record",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-18-client-preference-record.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-19-request-closure-standard",
+      "route": "/blog/virtual-assistant-aug18-repair-19-request-closure-standard",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-19-request-closure-standard.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-20-routine-change-brief",
+      "route": "/blog/virtual-assistant-aug18-repair-20-routine-change-brief",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-20-routine-change-brief.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-21-service-scope-conversation",
+      "route": "/blog/virtual-assistant-aug18-repair-21-service-scope-conversation",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-21-service-scope-conversation.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    },
+    {
+      "slug": "virtual-assistant-aug18-repair-22-operating-instruction-review",
+      "route": "/blog/virtual-assistant-aug18-repair-22-operating-instruction-review",
+      "sourcePath": "content/blog/virtual-assistant-aug18-repair-22-operating-instruction-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-18",
+      "renderedDate": "2026-08-18",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "provenance": "repair-replacement",
+      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+    }
+  ]
+}

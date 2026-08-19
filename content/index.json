@@ -158,157 +158,157 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-01-article-brief-acceptance",
-      "title": "Field Guide: How a Virtual Assistant Can Turn an Article Brief into an Acceptance Checklist",
-      "path": "content/blog/virtual-assistant-aug18-01-article-brief-acceptance.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-brief-checklist.webp"
+      "slug": "virtual-assistant-aug18-repair-01-client-intake-question-design",
+      "title": "Design Better Client Intake Questions for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-01-client-intake-question-design.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-office-administration.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-02-source-packet-for-bloggers",
-      "title": "Field Guide: A Source Packet Workflow for Virtual Assistant Blog Support",
-      "path": "content/blog/virtual-assistant-aug18-02-source-packet-for-bloggers.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-fact-checking.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-03-blog-fact-check-handoff",
-      "title": "Field Guide: Designing a Fact-Check Handoff for Virtual Assistant Article Teams",
-      "path": "content/blog/virtual-assistant-aug18-03-blog-fact-check-handoff.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-04-editorial-calendar-dependency-map",
-      "title": "Field Guide: Map Editorial Calendar Dependencies Before a Virtual Assistant Publishes",
-      "path": "content/blog/virtual-assistant-aug18-04-editorial-calendar-dependency-map.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-calendar-operations.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-05-article-update-trigger-register",
-      "title": "Field Guide: When Should a Virtual Assistant Flag an Article for Review?",
-      "path": "content/blog/virtual-assistant-aug18-05-article-update-trigger-register.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-sop-maintenance-controls.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-06-blog-duplicate-topic-triage",
-      "title": "Field Guide: A Duplicate-Topic Triage Method for Virtual Assistant Blog Planning",
-      "path": "content/blog/virtual-assistant-aug18-06-blog-duplicate-topic-triage.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-repurposing-controls.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-07-article-review-queue-aging",
-      "title": "Field Guide: How to Manage an Aging Article Review Queue with a Virtual Assistant",
-      "path": "content/blog/virtual-assistant-aug18-07-article-review-queue-aging.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-inbox-escalation-matrix.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-08-content-brief-question-ladder",
-      "title": "Field Guide: Build a Reader Question Ladder for Every Virtual Assistant Article Brief",
-      "path": "content/blog/virtual-assistant-aug18-08-content-brief-question-ladder.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-delegation-readiness.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-09-blog-image-alt-text-register",
-      "title": "Field Guide: An Accessible Image Alt-Text Register for Virtual Assistant Blog Operations",
-      "path": "content/blog/virtual-assistant-aug18-09-blog-image-alt-text-register.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-social-content-approval.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-10-internal-link-intent-map",
-      "title": "Field Guide: Create an Internal-Link Intent Map for Virtual Assistant Blog Articles",
-      "path": "content/blog/virtual-assistant-aug18-10-internal-link-intent-map.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-approval-workflow.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-11-blog-readability-review-sheet",
-      "title": "Field Guide: A Readability Review Sheet a Virtual Assistant Can Prepare",
-      "path": "content/blog/virtual-assistant-aug18-11-blog-readability-review-sheet.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-12-article-approval-evidence-log",
-      "title": "Field Guide: Keep an Article Approval Evidence Log with Virtual Assistant Support",
-      "path": "content/blog/virtual-assistant-aug18-12-article-approval-evidence-log.mdx",
+      "slug": "virtual-assistant-aug18-repair-02-delegation-readiness-test",
+      "title": "A Delegation Readiness Test for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-02-delegation-readiness-test.mdx",
       "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-13-blog-claim-risk-ranking",
-      "title": "Field Guide: Rank Article Claim Risk Before a Virtual Assistant Starts Research",
-      "path": "content/blog/virtual-assistant-aug18-13-blog-claim-risk-ranking.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-access-review-cadence.webp"
+      "slug": "virtual-assistant-aug18-repair-03-shared-inbox-ownership",
+      "title": "Set Shared Inbox Ownership Rules for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-03-shared-inbox-ownership.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-14-blog-brief-version-control",
-      "title": "Field Guide: Simple Brief Version Control for Virtual Assistant Article Work",
-      "path": "content/blog/virtual-assistant-aug18-14-blog-brief-version-control.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-file-naming-convention.webp"
+      "slug": "virtual-assistant-aug18-repair-04-calendar-conflict-resolution",
+      "title": "Resolve Calendar Conflicts with Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-04-calendar-conflict-resolution.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-15-blog-comment-resolution-board",
-      "title": "Field Guide: Use a Comment-Resolution Board for Virtual Assistant Article Reviews",
-      "path": "content/blog/virtual-assistant-aug18-15-blog-comment-resolution-board.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-calendar-workflow.webp"
+      "slug": "virtual-assistant-aug18-repair-05-meeting-notes-action-register",
+      "title": "Turn Meeting Notes into an Action Register with a Virtual Assistant: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-05-meeting-notes-action-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-16-blog-refresh-scope-brief",
-      "title": "Field Guide: Write a Refresh-Scope Brief Before Updating an Existing Virtual Assistant Article",
-      "path": "content/blog/virtual-assistant-aug18-16-blog-refresh-scope-brief.mdx",
+      "slug": "virtual-assistant-aug18-repair-06-vendor-research-comparison",
+      "title": "Structure Vendor Research for a Virtual Assistant Services Decision: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-06-vendor-research-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-research-process.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-07-customer-support-escalation",
+      "title": "Build a Customer Support Escalation Path for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-07-customer-support-escalation.mdx",
       "featuredImage": "/blog/images/virtual-assistant-customer-escalation-notes.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-17-blog-editorial-exception-register",
-      "title": "Field Guide: An Editorial Exception Register for Virtual Assistant Publishing Routines",
-      "path": "content/blog/virtual-assistant-aug18-17-blog-editorial-exception-register.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-publishing-calendar-rules.webp"
+      "slug": "virtual-assistant-aug18-repair-08-document-access-review",
+      "title": "Review Document Access Before Delegating Virtual Assistant Work: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-08-document-access-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-18-blog-publishing-metadata-check",
-      "title": "Field Guide: A Metadata Checkpoint for Virtual Assistant Blog Publishing",
-      "path": "content/blog/virtual-assistant-aug18-18-blog-publishing-metadata-check.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-19-blog-reader-feedback-routing",
-      "title": "Field Guide: Route Reader Feedback to the Right Virtual Assistant Article Owner",
-      "path": "content/blog/virtual-assistant-aug18-19-blog-reader-feedback-routing.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-project-intake-form.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-20-blog-topic-queue-decision-record",
-      "title": "Field Guide: Keep Topic-Queue Decisions Clear with Virtual Assistant Support",
-      "path": "content/blog/virtual-assistant-aug18-20-blog-topic-queue-decision-record.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-content-repurposing-process.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "virtual-assistant-aug18-21-blog-draft-handoff-package",
-      "title": "Field Guide: What Belongs in a Virtual Assistant Blog Draft Handoff Package",
-      "path": "content/blog/virtual-assistant-aug18-21-blog-draft-handoff-package.mdx",
+      "slug": "virtual-assistant-aug18-repair-09-recurring-task-definition",
+      "title": "Define Recurring Tasks So Virtual Assistant Services Stay Consistent: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-09-recurring-task-definition.mdx",
       "featuredImage": "/blog/images/virtual-assistant-sop-writing-guide.webp"
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-aug18-22-blog-month-end-quality-review",
-      "title": "Field Guide: A Month-End Quality Review for Virtual Assistant Blog Operations",
-      "path": "content/blog/virtual-assistant-aug18-22-blog-month-end-quality-review.mdx",
+      "slug": "virtual-assistant-aug18-repair-10-service-request-priority",
+      "title": "Prioritize Service Requests for a Virtual Assistant Services Team: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-10-service-request-priority.mdx",
       "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-11-backup-coverage-plan",
+      "title": "Create Backup Coverage Rules for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-11-backup-coverage-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-12-handoff-context-note",
+      "title": "Write Handoff Context Notes for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-12-handoff-context-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-13-quality-sample-review",
+      "title": "Use Quality Samples to Review Virtual Assistant Services Work: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-13-quality-sample-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-14-client-data-minimization",
+      "title": "Apply Data Minimization to Virtual Assistant Services Work: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-14-client-data-minimization.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-15-approval-boundary-map",
+      "title": "Map Approval Boundaries in Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-15-approval-boundary-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-approval-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-16-task-exception-log",
+      "title": "Keep a Task Exception Log for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-16-task-exception-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-escalation-notes.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-17-weekly-operations-review",
+      "title": "Run a Useful Weekly Operations Review for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-17-weekly-operations-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-publishing-dashboard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-18-client-preference-record",
+      "title": "Maintain Client Preference Records for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-18-client-preference-record.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-19-request-closure-standard",
+      "title": "Set a Request Closure Standard for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-19-request-closure-standard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-20-routine-change-brief",
+      "title": "Use a Change Brief When Virtual Assistant Services Routines Evolve: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-20-routine-change-brief.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sop-maintenance-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-21-service-scope-conversation",
+      "title": "Clarify Service Scope Before Starting Virtual Assistant Work: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-21-service-scope-conversation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-aug18-repair-22-operating-instruction-review",
+      "title": "Review Operating Instructions for Virtual Assistant Services: A Practical Operating Guide",
+      "path": "content/blog/virtual-assistant-aug18-repair-22-operating-instruction-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
     },
     {
       "type": "blog",
