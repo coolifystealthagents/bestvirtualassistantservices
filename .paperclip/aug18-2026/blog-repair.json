@@ -17,7 +17,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-02-delegation-readiness-test",
@@ -31,7 +31,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-03-shared-inbox-ownership",
@@ -45,7 +45,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-04-calendar-conflict-resolution",
@@ -59,7 +59,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-05-meeting-notes-action-register",
@@ -73,7 +73,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-06-vendor-research-comparison",
@@ -87,7 +87,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-07-customer-support-escalation",
@@ -101,7 +101,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-08-document-access-review",
@@ -115,7 +115,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-09-recurring-task-definition",
@@ -129,7 +129,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-10-service-request-priority",
@@ -143,7 +143,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-11-backup-coverage-plan",
@@ -157,7 +157,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-12-handoff-context-note",
@@ -171,7 +171,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-13-quality-sample-review",
@@ -185,7 +185,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-14-client-data-minimization",
@@ -199,7 +199,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-15-approval-boundary-map",
@@ -213,7 +213,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-16-task-exception-log",
@@ -227,7 +227,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-17-weekly-operations-review",
@@ -241,7 +241,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-18-client-preference-record",
@@ -255,7 +255,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-19-request-closure-standard",
@@ -269,7 +269,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-20-routine-change-brief",
@@ -283,7 +283,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-21-service-scope-conversation",
@@ -297,7 +297,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     },
     {
       "slug": "virtual-assistant-aug18-repair-22-operating-instruction-review",
@@ -311,7 +311,7 @@
         "time[datetime]"
       ],
       "provenance": "repair-replacement",
-      "introducedByCommit": "d340ca31f7591800e1de8388eade71d5b593a678"
+      "introducedByCommit": "5fbdbf6545036ea6963f24012baf3cdba55a7020"
     }
   ]
 }
