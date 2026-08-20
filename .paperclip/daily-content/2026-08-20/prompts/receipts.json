@@ -1,0 +1,19 @@
+{
+  "generator": "built-in image generation skill",
+  "format": "1200x630 WebP",
+  "constraints": ["no text", "no logos", "no watermark", "distinct scene per route"],
+  "receipts": [
+    {"route":"/blog/virtual-assistant-article-brief-scope-lock","imagePath":"public/blog/images/virtual-assistant-article-brief-scope-lock.webp","prompt":"Editorial business illustration of a clear boundary line around an article brief and checklist on a desk, one reviewer, warm blue and amber palette, wide composition."},
+    {"route":"/blog/virtual-assistant-content-fact-pattern","imagePath":"public/blog/images/virtual-assistant-content-fact-pattern.webp","prompt":"Editorial business illustration of layered evidence note cards connecting source evidence to a highlighted claim, magnifying glass, teal and ochre palette."},
+    {"route":"/blog/virtual-assistant-article-review-sla","imagePath":"public/blog/images/virtual-assistant-article-review-sla.webp","prompt":"Editorial business illustration of a wall calendar beside a manuscript and review clock in a collaborative office, navy and coral palette."},
+    {"route":"/blog/virtual-assistant-article-version-handoff","imagePath":"public/blog/images/virtual-assistant-article-version-handoff.webp","prompt":"Editorial business illustration of two distinct document folders passing between collaborators with change markers and handoff arrow, green and blue palette."},
+    {"route":"/blog/virtual-assistant-blog-asset-brief","imagePath":"public/blog/images/virtual-assistant-blog-asset-brief.webp","prompt":"Editorial business illustration of a storyboard, camera, accessibility checklist, and article preview on a professional desk, violet and gold palette."},
+    {"route":"/blog/virtual-assistant-article-qa-evidence","imagePath":"public/blog/images/virtual-assistant-article-qa-evidence.webp","prompt":"Editorial business illustration of route card, source file, calendar date, link check, and image thumbnail connected in an audit trail, blue and orange palette."},
+    {"route":"/blog/virtual-assistant-manager-article-queue","imagePath":"public/blog/images/virtual-assistant-manager-article-queue.webp","prompt":"Editorial business illustration of a manager choosing among three separated decision cards at a desk with uncluttered dashboard shapes, navy and mint palette."},
+    {"route":"/blog/virtual-assistant-article-reader-fit","imagePath":"public/blog/images/virtual-assistant-article-reader-fit.webp","prompt":"Editorial business illustration of a reader profile card aligned with an article page and decision path in a welcoming workspace, blue and peach palette."},
+    {"route":"/blog/virtual-assistant-article-escalation-ladder","imagePath":"public/blog/images/virtual-assistant-article-escalation-ladder.webp","prompt":"Editorial business illustration of a stepped escalation pathway from clarification to subject-owner review and release authority, indigo and lime palette."},
+    {"route":"/blog/virtual-assistant-content-refresh-trigger","imagePath":"public/blog/images/virtual-assistant-content-refresh-trigger.webp","prompt":"Editorial business illustration of an article page with renewal bell, changing source cards, and calendar checkpoint, blue and copper palette."},
+    {"route":"/blog/virtual-assistant-article-approval-record","imagePath":"public/blog/images/virtual-assistant-article-approval-record.webp","prompt":"Editorial business illustration of a signed review sheet beside a final web page preview with checkmarks and decision stamp shape, teal and burgundy palette."},
+    {"route":"/blog/virtual-assistant-daily-content-retrospective","imagePath":"public/blog/images/virtual-assistant-daily-content-retrospective.webp","prompt":"Editorial business illustration of a small team reviewing one completed article, one bottleneck note, and one improvement card, blue and sunrise yellow palette."}
+  ]
+}

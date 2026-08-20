@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-approval-record",
+      "title": "Keep an Approval Record for Virtual Assistant Blog Publishing",
+      "path": "content/blog/virtual-assistant-article-approval-record.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-approval-record.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-brief-scope-lock",
+      "title": "Lock Article Scope Before a Virtual Assistant Starts Daily Content Work",
+      "path": "content/blog/virtual-assistant-article-brief-scope-lock.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-brief-scope-lock.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-escalation-ladder",
+      "title": "Create an Escalation Ladder for Virtual Assistant Article Questions",
+      "path": "content/blog/virtual-assistant-article-escalation-ladder.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-escalation-ladder.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-qa-evidence",
+      "title": "Build an Evidence Trail for Virtual Assistant Article QA",
+      "path": "content/blog/virtual-assistant-article-qa-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-qa-evidence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-reader-fit",
+      "title": "Check Reader Fit Before Publishing Virtual Assistant Services Guidance",
+      "path": "content/blog/virtual-assistant-article-reader-fit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-reader-fit.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-review-sla",
+      "title": "Set Review Windows for Virtual Assistant Blog Articles Without Rushing Judgment",
+      "path": "content/blog/virtual-assistant-article-review-sla.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-review-sla.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-version-handoff",
+      "title": "Design Version Handoffs for Virtual Assistant Article Teams",
+      "path": "content/blog/virtual-assistant-article-version-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-version-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-blog-asset-brief",
+      "title": "Write an Asset Brief for Virtual Assistant Blog Articles",
+      "path": "content/blog/virtual-assistant-blog-asset-brief.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-asset-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-fact-pattern",
+      "title": "Use Fact Patterns to Keep Virtual Assistant Services Articles Precise",
+      "path": "content/blog/virtual-assistant-content-fact-pattern.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-fact-pattern.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-refresh-trigger",
+      "title": "Define Refresh Triggers for Virtual Assistant Services Articles",
+      "path": "content/blog/virtual-assistant-content-refresh-trigger.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-refresh-trigger.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-content-retrospective",
+      "title": "Run a Daily Content Retrospective for Virtual Assistant Services Teams",
+      "path": "content/blog/virtual-assistant-daily-content-retrospective.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-content-retrospective.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-manager-article-queue",
+      "title": "Give Managers a Decision Queue for Virtual Assistant Article Work",
+      "path": "content/blog/virtual-assistant-manager-article-queue.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-manager-article-queue.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-archive-rules",
       "title": "Archive Rules for Virtual Assistant Blog Content That Should Not Be Forgotten",
       "path": "content/blog/virtual-assistant-article-archive-rules.mdx",
