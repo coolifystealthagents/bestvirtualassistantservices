@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "contract": "fleet-aug20-research-v5",
+  "family": "research",
+  "targetDate": "2026-08-20",
+  "requiredNewArticleCount": 5,
+  "entries": [
+    {"slug":"virtual-assistant-research-brief-evidence-ladder","route":"/research/virtual-assistant-research-brief-evidence-ladder","sourcePath":"content/research/virtual-assistant-research-brief-evidence-ladder.mdx","imagePath":"public/blog/images/virtual-assistant-research-brief-evidence-ladder.webp","sourceDate":"2026-08-20","renderedDate":"August 20, 2026","promptReceipt":"evidence ladder editorial collage prompt, generated 2026-08-20"},
+    {"slug":"virtual-assistant-editorial-calendar-signal-review","route":"/research/virtual-assistant-editorial-calendar-signal-review","sourcePath":"content/research/virtual-assistant-editorial-calendar-signal-review.mdx","imagePath":"public/blog/images/virtual-assistant-editorial-calendar-signal-review.webp","sourceDate":"2026-08-20","renderedDate":"August 20, 2026","promptReceipt":"editorial calendar signal review collage prompt, generated 2026-08-20"},
+    {"slug":"virtual-assistant-article-research-claim-triage","route":"/research/virtual-assistant-article-research-claim-triage","sourcePath":"content/research/virtual-assistant-article-research-claim-triage.mdx","imagePath":"public/blog/images/virtual-assistant-article-research-claim-triage.webp","sourceDate":"2026-08-20","renderedDate":"August 20, 2026","promptReceipt":"claim triage editorial collage prompt, generated 2026-08-20"},
+    {"slug":"virtual-assistant-content-brief-research-reproducibility","route":"/research/virtual-assistant-content-brief-research-reproducibility","sourcePath":"content/research/virtual-assistant-content-brief-research-reproducibility.mdx","imagePath":"public/blog/images/virtual-assistant-content-brief-research-reproducibility.webp","sourceDate":"2026-08-20","renderedDate":"August 20, 2026","promptReceipt":"research reproducibility editorial collage prompt, generated 2026-08-20"},
+    {"slug":"virtual-assistant-publishing-exception-review","route":"/research/virtual-assistant-publishing-exception-review","sourcePath":"content/research/virtual-assistant-publishing-exception-review.mdx","imagePath":"public/blog/images/virtual-assistant-publishing-exception-review.webp","sourceDate":"2026-08-20","renderedDate":"August 20, 2026","promptReceipt":"publishing exception review editorial collage prompt, generated 2026-08-20"}
+  ]
+}
