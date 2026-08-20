@@ -66,10 +66,10 @@
       "introducedByCommit": "e68cddc93bea966f46af4f30a36350675800e386"
     },
     {
-     "slug": "virtual-assistant-blog-asset-brief",
-      "route": "/blog/virtual-assistant-blog-asset-brief",
-      "sourcePath": "content/blog/virtual-assistant-blog-asset-brief.mdx",
-      "imagePath": "public/blog/images/virtual-assistant-blog-asset-brief.webp",
+     "slug": "virtual-assistant-task-brief-for-repeatable-delegation",
+      "route": "/blog/virtual-assistant-task-brief-for-repeatable-delegation",
+      "sourcePath": "content/blog/virtual-assistant-task-brief-for-repeatable-delegation.mdx",
+      "imagePath": "public/blog/images/virtual-assistant-task-brief-for-repeatable-delegation.webp",
       "sourceDateField": "publishedAt",
       "sourceDate": "2026-08-20",
       "renderedDate": "2026-08-20",

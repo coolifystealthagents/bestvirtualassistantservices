@@ -42,11 +42,16 @@ def render(slug, title, label):
     d.text((60, y+18), "Virtual assistant services · Practical guidance", font=font(22), fill=rgb(CONFIG["colors"]["secondary"]))
     return image
 def main():
-    OUT.mkdir(parents=True, exist_ok=True); count=0
+    OUT.mkdir(parents=True, exist_ok=True); preserved=0; generated=0
     for kind in ("blog", "research"):
         for path in sorted((ROOT/"content"/kind).glob("*.mdx")) + sorted((ROOT/"content"/kind).glob("*.md")):
             fm, _ = parse_frontmatter(path); image_path = str(fm.get("featuredImage", "")); target = ROOT / "public" / image_path.lstrip("/") if image_path else OUT / f"{path.stem}.webp"
             if target.suffix.lower() not in (".webp", ".png", ".jpg", ".jpeg"): target = OUT / f"{path.stem}.webp"
-            target.parent.mkdir(parents=True, exist_ok=True); render(path.stem, fm.get("title", path.stem), fm.get("category", kind)).save(target, "WEBP", quality=88, method=6); count += 1
-    print(f"thumbnail framework PASS: {count} deterministic 1200x630 assets rendered")
+            target.parent.mkdir(parents=True, exist_ok=True)
+            if target.exists():
+                with Image.open(target) as existing: existing.verify()
+                preserved += 1
+                continue
+            render(path.stem, fm.get("title", path.stem), fm.get("category", kind)).save(target, "WEBP", quality=88, method=6); generated += 1
+    print(f"thumbnail framework PASS: {preserved} existing assets preserved; {generated} missing assets rendered")
 if __name__ == "__main__": main()

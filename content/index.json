@@ -53,13 +53,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-blog-asset-brief",
-      "title": "Write an Asset Brief for Virtual Assistant Blog Articles",
-      "path": "content/blog/virtual-assistant-blog-asset-brief.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-blog-asset-brief.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-content-fact-pattern",
       "title": "Use Fact Patterns to Keep Virtual Assistant Services Articles Precise",
       "path": "content/blog/virtual-assistant-content-fact-pattern.mdx",
@@ -85,6 +78,13 @@
       "title": "Give Managers a Decision Queue for Virtual Assistant Article Work",
       "path": "content/blog/virtual-assistant-manager-article-queue.mdx",
       "featuredImage": "/blog/images/virtual-assistant-manager-article-queue.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-task-brief-for-repeatable-delegation",
+      "title": "How to Write a Virtual Assistant Task Brief for Repeatable Delegation",
+      "path": "content/blog/virtual-assistant-task-brief-for-repeatable-delegation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-task-brief-for-repeatable-delegation.webp"
     },
     {
       "type": "blog",
