@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "contract": "fleet-aug21-blog-v5",
+  "family": "blog",
+  "targetDate": "2026-08-21",
+  "minimum": 12,
+  "entries": [
+    {
+      "slug": "virtual-assistant-intake-to-publish-control",
+      "route": "/blog/virtual-assistant-intake-to-publish-control",
+      "sourcePath": "content/blog/virtual-assistant-intake-to-publish-control.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-intake-to-publish-control.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-intake-to-publish-control.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-daily-publishing-recovery",
+      "route": "/blog/virtual-assistant-daily-publishing-recovery",
+      "sourcePath": "content/blog/virtual-assistant-daily-publishing-recovery.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-daily-publishing-recovery.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-daily-publishing-recovery.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-content-brief-approval",
+      "route": "/blog/virtual-assistant-content-brief-approval",
+      "sourcePath": "content/blog/virtual-assistant-content-brief-approval.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-content-brief-approval.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-content-brief-approval.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-article-source-boundary",
+      "route": "/blog/virtual-assistant-article-source-boundary",
+      "sourcePath": "content/blog/virtual-assistant-article-source-boundary.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-source-boundary.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-article-source-boundary.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-daily-article-status",
+      "route": "/blog/virtual-assistant-daily-article-status",
+      "sourcePath": "content/blog/virtual-assistant-daily-article-status.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-daily-article-status.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-daily-article-status.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-article-revision-brief",
+      "route": "/blog/virtual-assistant-article-revision-brief",
+      "sourcePath": "content/blog/virtual-assistant-article-revision-brief.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-revision-brief.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-article-revision-brief.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-content-review-calendar",
+      "route": "/blog/virtual-assistant-content-review-calendar",
+      "sourcePath": "content/blog/virtual-assistant-content-review-calendar.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-content-review-calendar.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-content-review-calendar.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-article-accessibility-check",
+      "route": "/blog/virtual-assistant-article-accessibility-check",
+      "sourcePath": "content/blog/virtual-assistant-article-accessibility-check.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-accessibility-check.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-article-accessibility-check.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-content-exception-log",
+      "route": "/blog/virtual-assistant-content-exception-log",
+      "sourcePath": "content/blog/virtual-assistant-content-exception-log.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-content-exception-log.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-content-exception-log.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-article-metrics-review",
+      "route": "/blog/virtual-assistant-article-metrics-review",
+      "sourcePath": "content/blog/virtual-assistant-article-metrics-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-metrics-review.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-article-metrics-review.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-blog-content-handoff",
+      "route": "/blog/virtual-assistant-blog-content-handoff",
+      "sourcePath": "content/blog/virtual-assistant-blog-content-handoff.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-blog-content-handoff.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-blog-content-handoff.txt",
+      "introducedByCommit": "c5243e3"
+    },
+    {
+      "slug": "virtual-assistant-article-owner-matrix",
+      "route": "/blog/virtual-assistant-article-owner-matrix",
+      "sourcePath": "content/blog/virtual-assistant-article-owner-matrix.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-21",
+      "renderedDate": "2026-08-21",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-owner-matrix.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-21/prompts/virtual-assistant-article-owner-matrix.txt",
+      "introducedByCommit": "c5243e3"
+    }
+  ]
+}

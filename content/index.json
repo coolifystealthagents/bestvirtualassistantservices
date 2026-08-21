@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-accessibility-check",
+      "title": "Add Accessibility Checks to Virtual Assistant Article Publishing",
+      "path": "content/blog/virtual-assistant-article-accessibility-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-accessibility-check.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-metrics-review",
+      "title": "Choose Useful Metrics for Virtual Assistant Article Operations",
+      "path": "content/blog/virtual-assistant-article-metrics-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-metrics-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-owner-matrix",
+      "title": "Create an Owner Matrix for Virtual Assistant Services Articles",
+      "path": "content/blog/virtual-assistant-article-owner-matrix.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-owner-matrix.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-revision-brief",
+      "title": "Write a Revision Brief for Virtual Assistant Blog Articles",
+      "path": "content/blog/virtual-assistant-article-revision-brief.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-revision-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-source-boundary",
+      "title": "Set a Source Boundary for Virtual Assistant Services Articles",
+      "path": "content/blog/virtual-assistant-article-source-boundary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-source-boundary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-blog-content-handoff",
+      "title": "Build a Cross-Role Handoff for Virtual Assistant Blog Content",
+      "path": "content/blog/virtual-assistant-blog-content-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-content-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-brief-approval",
+      "title": "Approve a Virtual Assistant Content Brief With a Decision Checklist",
+      "path": "content/blog/virtual-assistant-content-brief-approval.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-approval.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-exception-log",
+      "title": "Use an Exception Log for Virtual Assistant Daily Publishing",
+      "path": "content/blog/virtual-assistant-content-exception-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-exception-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-review-calendar",
+      "title": "Build a Review Calendar for Virtual Assistant Services Content",
+      "path": "content/blog/virtual-assistant-content-review-calendar.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-review-calendar.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-article-status",
+      "title": "Design Status Signals for a Virtual Assistant Article Queue",
+      "path": "content/blog/virtual-assistant-daily-article-status.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-publishing-recovery",
+      "title": "Plan Recovery Space in a Virtual Assistant Daily Publishing Routine",
+      "path": "content/blog/virtual-assistant-daily-publishing-recovery.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-publishing-recovery.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-intake-to-publish-control",
+      "title": "From Intake to Publish: A Virtual Assistant Workflow for Daily Articles",
+      "path": "content/blog/virtual-assistant-intake-to-publish-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-intake-to-publish-control.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-approval-record",
       "title": "Keep an Approval Record for Virtual Assistant Blog Publishing",
       "path": "content/blog/virtual-assistant-article-approval-record.mdx",
