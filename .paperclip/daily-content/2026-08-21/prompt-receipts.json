@@ -1,0 +1,12 @@
+{
+  "campaignDate": "2026-08-21",
+  "generator": "built-in image generation tool",
+  "receipts": [
+    {"route":"/research/virtual-assistant-daily-article-source-freshness","imagePath":"public/blog/images/virtual-assistant-daily-article-source-freshness.webp","prompt":"Wide editorial research workspace showing dated source documents and a calendar; navy, cream, muted teal; negative space left; no text, logos, watermark, or stock look."},
+    {"route":"/research/virtual-assistant-article-audience-evidence-fit","imagePath":"public/blog/images/virtual-assistant-article-audience-evidence-fit.webp","prompt":"Wide editorial illustration of a buyer decision map connecting a task brief, access boundary, review owner, and evidence cards; navy, cream, muted coral; no text, logos, watermark, or stock look."},
+    {"route":"/research/virtual-assistant-editorial-source-conflict-log","imagePath":"public/blog/images/virtual-assistant-editorial-source-conflict-log.webp","prompt":"Wide editorial illustration of two distinct research documents with different charts and a comparison overlay, showing comparison rather than an average; navy, cream, muted gold; no text, logos, watermark, or stock look."},
+    {"route":"/research/virtual-assistant-article-update-evidence-threshold","imagePath":"public/blog/images/virtual-assistant-article-update-evidence-threshold.webp","prompt":"Wide editorial illustration of a content revision review with an old page, new source, and highlighted change boundary; navy, cream, muted green; no text, logos, watermark, or stock look."},
+    {"route":"/research/virtual-assistant-research-image-rights-review","imagePath":"public/blog/images/virtual-assistant-research-image-rights-review.webp","prompt":"Wide editorial illustration of a hero image asset inside a provenance folder with a permission check symbol; navy, cream, muted violet; no text, logos, watermark, or stock look."
+    }
+  ]
+}

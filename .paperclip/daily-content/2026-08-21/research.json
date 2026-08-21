@@ -1,0 +1,46 @@
+{
+  "campaignDate": "2026-08-21",
+  "family": "research",
+  "entries": [
+    {
+      "route": "/research/virtual-assistant-daily-article-source-freshness",
+      "sourcePaths": [
+        "content/research/virtual-assistant-daily-article-source-freshness.mdx"
+      ],
+      "publishedAt": "2026-08-21",
+      "featuredImage": "public/blog/images/virtual-assistant-daily-article-source-freshness.webp"
+    },
+    {
+      "route": "/research/virtual-assistant-article-audience-evidence-fit",
+      "sourcePaths": [
+        "content/research/virtual-assistant-article-audience-evidence-fit.mdx"
+      ],
+      "publishedAt": "2026-08-21",
+      "featuredImage": "public/blog/images/virtual-assistant-article-audience-evidence-fit.webp"
+    },
+    {
+      "route": "/research/virtual-assistant-editorial-source-conflict-log",
+      "sourcePaths": [
+        "content/research/virtual-assistant-editorial-source-conflict-log.mdx"
+      ],
+      "publishedAt": "2026-08-21",
+      "featuredImage": "public/blog/images/virtual-assistant-editorial-source-conflict-log.webp"
+    },
+    {
+      "route": "/research/virtual-assistant-article-update-evidence-threshold",
+      "sourcePaths": [
+        "content/research/virtual-assistant-article-update-evidence-threshold.mdx"
+      ],
+      "publishedAt": "2026-08-21",
+      "featuredImage": "public/blog/images/virtual-assistant-article-update-evidence-threshold.webp"
+    },
+    {
+      "route": "/research/virtual-assistant-research-image-rights-review",
+      "sourcePaths": [
+        "content/research/virtual-assistant-research-image-rights-review.mdx"
+      ],
+      "publishedAt": "2026-08-21",
+      "featuredImage": "public/blog/images/virtual-assistant-research-image-rights-review.webp"
+    }
+  ]
+}

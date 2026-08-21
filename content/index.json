@@ -1831,6 +1831,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-article-audience-evidence-fit",
+      "title": "What Evidence Shows That a Research Article Fits a Virtual Assistant Buyer?",
+      "path": "content/research/virtual-assistant-article-audience-evidence-fit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-audience-evidence-fit.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-article-citation-context-check",
       "title": "What Citation Context Should a Virtual Assistant Preserve for Articles?",
       "path": "content/research/virtual-assistant-article-citation-context-check.mdx",
@@ -1849,6 +1856,13 @@
       "title": "When Should a Virtual Assistant Stop for Conflicting Article Sources?",
       "path": "content/research/virtual-assistant-article-source-conflict-analysis.mdx",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-article-update-evidence-threshold",
+      "title": "What Evidence Threshold Should Trigger a Virtual Assistant Article Update?",
+      "path": "content/research/virtual-assistant-article-update-evidence-threshold.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-update-evidence-threshold.webp"
     },
     {
       "type": "research",
@@ -2118,6 +2132,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-daily-article-source-freshness",
+      "title": "How Should a Virtual Assistant Test Source Freshness Before a Daily Article?",
+      "path": "content/research/virtual-assistant-daily-article-source-freshness.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-data-enrichment-controls",
       "title": "Data Enrichment Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-data-enrichment-controls.mdx",
@@ -2220,6 +2241,13 @@
       "title": "When Does an Aging Article Queue Become a Quality Risk?",
       "path": "content/research/virtual-assistant-editorial-queue-aging-evidence.mdx",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-editorial-source-conflict-log",
+      "title": "When Should a Virtual Assistant Log Conflicting Sources Instead of Averaging Them?",
+      "path": "content/research/virtual-assistant-editorial-source-conflict-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-editorial-source-conflict-log.webp"
     },
     {
       "type": "research",
@@ -2521,6 +2549,13 @@
       "title": "Research Briefs for Virtual Assistants: Evidence Control and Handoffs",
       "path": "content/research/virtual-assistant-research-briefs.mdx",
       "featuredImage": "/blog/images/virtual-assistant-research-briefs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-research-image-rights-review",
+      "title": "How Can a Virtual Assistant Review Image Rights Before a Research Article Uses a Hero Asset?",
+      "path": "content/research/virtual-assistant-research-image-rights-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-image-rights-review.webp"
     },
     {
       "type": "research",
