@@ -18,7 +18,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-reader-scenario-test.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-reader-scenario-test.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-blog-claim-strength-ladder",
@@ -33,7 +33,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-blog-claim-strength-ladder.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-claim-strength-ladder.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-daily-article-intent-register",
@@ -48,7 +48,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-daily-article-intent-register.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-daily-article-intent-register.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-article-plain-language-pass",
@@ -63,7 +63,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-plain-language-pass.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-plain-language-pass.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-blog-reference-snapshot",
@@ -78,7 +78,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-blog-reference-snapshot.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-reference-snapshot.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-content-brief-decision-owner",
@@ -93,7 +93,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-content-brief-decision-owner.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-content-brief-decision-owner.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-article-approval-window",
@@ -108,7 +108,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-approval-window.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-approval-window.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-blog-coverage-gap-audit",
@@ -123,7 +123,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-blog-coverage-gap-audit.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-coverage-gap-audit.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-article-quote-permission-check",
@@ -138,7 +138,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-quote-permission-check.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-quote-permission-check.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-publishing-rollback-note",
@@ -153,7 +153,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-publishing-rollback-note.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-publishing-rollback-note.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-content-calendar-sequence",
@@ -168,7 +168,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-content-calendar-sequence.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-content-calendar-sequence.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
       "slug": "virtual-assistant-article-search-snippet-review",
@@ -183,7 +183,7 @@
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-search-snippet-review.webp",
       "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-search-snippet-review.txt",
-      "introducedByCommit": "PENDING"
+      "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     }
   ]
 }
