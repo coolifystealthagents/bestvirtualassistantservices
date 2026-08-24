@@ -1936,6 +1936,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-article-scope-drift-measure",
+      "title": "How Can a Virtual Assistant Detect Scope Drift in a Services Research Article?",
+      "path": "content/research/virtual-assistant-article-scope-drift-measure.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-scope-drift-measure.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-article-source-conflict-analysis",
       "title": "When Should a Virtual Assistant Stop for Conflicting Article Sources?",
       "path": "content/research/virtual-assistant-article-source-conflict-analysis.mdx",
@@ -2241,6 +2248,13 @@
       "title": "Virtual Assistant Data Entry Quality Controls: A Research Brief",
       "path": "content/research/virtual-assistant-data-entry-quality-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-data-entry-quality-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-delegation-evidence-transfer",
+      "title": "What Evidence Should Transfer When a Virtual Assistant Hands Research to an Editor?",
+      "path": "content/research/virtual-assistant-delegation-evidence-transfer.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-delegation-evidence-transfer.webp"
     },
     {
       "type": "research",
@@ -2636,10 +2650,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-research-claim-aging-map",
+      "title": "How Can a Virtual Assistant Map Claim Age Before Publishing Service Research?",
+      "path": "content/research/virtual-assistant-research-claim-aging-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-claim-aging-map.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-research-image-rights-review",
       "title": "How Can a Virtual Assistant Review Image Rights Before a Research Article Uses a Hero Asset?",
       "path": "content/research/virtual-assistant-research-image-rights-review.mdx",
       "featuredImage": "/blog/images/virtual-assistant-research-image-rights-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-research-reviewer-calibration",
+      "title": "What Should Reviewers Calibrate Before Trusting Virtual Assistant Research Notes?",
+      "path": "content/research/virtual-assistant-research-reviewer-calibration.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-reviewer-calibration.webp"
     },
     {
       "type": "research",
@@ -2696,6 +2724,13 @@
       "title": "Virtual Assistant SOP Maintenance Controls: A Research Brief",
       "path": "content/research/virtual-assistant-sop-maintenance-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-sop-maintenance-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-source-method-fit-audit",
+      "title": "When Does a Source Method Fit a Virtual Assistant Services Research Question?",
+      "path": "content/research/virtual-assistant-source-method-fit-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-source-method-fit-audit.webp"
     },
     {
       "type": "research",
