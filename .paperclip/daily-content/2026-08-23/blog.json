@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "contract": "fleet-aug23-blog-v7",
+  "family": "blog",
+  "targetDate": "2026-08-23",
+  "minimum": 12,
+  "entries": [
+    {
+      "slug": "virtual-assistant-article-reader-scenario-test",
+      "route": "/blog/virtual-assistant-article-reader-scenario-test",
+      "sourcePath": "content/blog/virtual-assistant-article-reader-scenario-test.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-reader-scenario-test.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-reader-scenario-test.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-claim-strength-ladder",
+      "route": "/blog/virtual-assistant-blog-claim-strength-ladder",
+      "sourcePath": "content/blog/virtual-assistant-blog-claim-strength-ladder.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-blog-claim-strength-ladder.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-claim-strength-ladder.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-daily-article-intent-register",
+      "route": "/blog/virtual-assistant-daily-article-intent-register",
+      "sourcePath": "content/blog/virtual-assistant-daily-article-intent-register.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-daily-article-intent-register.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-daily-article-intent-register.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-plain-language-pass",
+      "route": "/blog/virtual-assistant-article-plain-language-pass",
+      "sourcePath": "content/blog/virtual-assistant-article-plain-language-pass.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-plain-language-pass.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-plain-language-pass.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-reference-snapshot",
+      "route": "/blog/virtual-assistant-blog-reference-snapshot",
+      "sourcePath": "content/blog/virtual-assistant-blog-reference-snapshot.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-blog-reference-snapshot.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-reference-snapshot.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-content-brief-decision-owner",
+      "route": "/blog/virtual-assistant-content-brief-decision-owner",
+      "sourcePath": "content/blog/virtual-assistant-content-brief-decision-owner.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-content-brief-decision-owner.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-content-brief-decision-owner.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-approval-window",
+      "route": "/blog/virtual-assistant-article-approval-window",
+      "sourcePath": "content/blog/virtual-assistant-article-approval-window.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-approval-window.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-approval-window.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-blog-coverage-gap-audit",
+      "route": "/blog/virtual-assistant-blog-coverage-gap-audit",
+      "sourcePath": "content/blog/virtual-assistant-blog-coverage-gap-audit.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-blog-coverage-gap-audit.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-coverage-gap-audit.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-quote-permission-check",
+      "route": "/blog/virtual-assistant-article-quote-permission-check",
+      "sourcePath": "content/blog/virtual-assistant-article-quote-permission-check.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-quote-permission-check.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-quote-permission-check.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-publishing-rollback-note",
+      "route": "/blog/virtual-assistant-publishing-rollback-note",
+      "sourcePath": "content/blog/virtual-assistant-publishing-rollback-note.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-publishing-rollback-note.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-publishing-rollback-note.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-content-calendar-sequence",
+      "route": "/blog/virtual-assistant-content-calendar-sequence",
+      "sourcePath": "content/blog/virtual-assistant-content-calendar-sequence.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-content-calendar-sequence.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-content-calendar-sequence.txt",
+      "introducedByCommit": "PENDING"
+    },
+    {
+      "slug": "virtual-assistant-article-search-snippet-review",
+      "route": "/blog/virtual-assistant-article-search-snippet-review",
+      "sourcePath": "content/blog/virtual-assistant-article-search-snippet-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-08-23",
+      "renderedDate": "2026-08-23",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "public/blog/images/virtual-assistant-article-search-snippet-review.webp",
+      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-search-snippet-review.txt",
+      "introducedByCommit": "PENDING"
+    }
+  ]
+}

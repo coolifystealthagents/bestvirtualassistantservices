@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-approval-window",
+      "title": "Set an Approval Window for Virtual Assistant Services Articles",
+      "path": "content/blog/virtual-assistant-article-approval-window.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-approval-window.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-plain-language-pass",
+      "title": "Run a Plain-Language Pass on Virtual Assistant Services Articles",
+      "path": "content/blog/virtual-assistant-article-plain-language-pass.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-plain-language-pass.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-quote-permission-check",
+      "title": "Add a Quote Permission Check to Virtual Assistant Blog Work",
+      "path": "content/blog/virtual-assistant-article-quote-permission-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-quote-permission-check.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-reader-scenario-test",
+      "title": "Test a Virtual Assistant Services Article With Reader Scenarios",
+      "path": "content/blog/virtual-assistant-article-reader-scenario-test.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-reader-scenario-test.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-search-snippet-review",
+      "title": "Review Search Snippets for Virtual Assistant Services Articles",
+      "path": "content/blog/virtual-assistant-article-search-snippet-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-search-snippet-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-blog-claim-strength-ladder",
+      "title": "Use a Claim Strength Ladder in Virtual Assistant Services Writing",
+      "path": "content/blog/virtual-assistant-blog-claim-strength-ladder.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-claim-strength-ladder.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-blog-coverage-gap-audit",
+      "title": "Audit Coverage Gaps in a Virtual Assistant Services Blog",
+      "path": "content/blog/virtual-assistant-blog-coverage-gap-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-coverage-gap-audit.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-blog-reference-snapshot",
+      "title": "Create a Reference Snapshot for Virtual Assistant Blog Research",
+      "path": "content/blog/virtual-assistant-blog-reference-snapshot.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-reference-snapshot.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-brief-decision-owner",
+      "title": "Name the Decision Owner in a Virtual Assistant Content Brief",
+      "path": "content/blog/virtual-assistant-content-brief-decision-owner.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-decision-owner.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-calendar-sequence",
+      "title": "Sequence a Virtual Assistant Services Content Calendar",
+      "path": "content/blog/virtual-assistant-content-calendar-sequence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-calendar-sequence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-article-intent-register",
+      "title": "Keep an Intent Register for Daily Virtual Assistant Articles",
+      "path": "content/blog/virtual-assistant-daily-article-intent-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-intent-register.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-publishing-rollback-note",
+      "title": "Write a Rollback Note for Virtual Assistant Article Publishing",
+      "path": "content/blog/virtual-assistant-publishing-rollback-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-publishing-rollback-note.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-accessibility-check",
       "title": "Add Accessibility Checks to Virtual Assistant Article Publishing",
       "path": "content/blog/virtual-assistant-article-accessibility-check.mdx",
