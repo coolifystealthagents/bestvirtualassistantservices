@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contract": "fleet-aug23-blog-v7",
   "family": "blog",
-  "targetDate": "2026-08-23",
+  "targetDate": "2026-08-24",
   "minimum": 12,
   "entries": [
     {
@@ -10,14 +10,14 @@
       "route": "/blog/virtual-assistant-article-reader-scenario-test",
       "sourcePath": "content/blog/virtual-assistant-article-reader-scenario-test.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-reader-scenario-test.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-reader-scenario-test.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-article-reader-scenario-test.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -25,14 +25,14 @@
       "route": "/blog/virtual-assistant-blog-claim-strength-ladder",
       "sourcePath": "content/blog/virtual-assistant-blog-claim-strength-ladder.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-blog-claim-strength-ladder.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-claim-strength-ladder.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-blog-claim-strength-ladder.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -40,14 +40,14 @@
       "route": "/blog/virtual-assistant-daily-article-intent-register",
       "sourcePath": "content/blog/virtual-assistant-daily-article-intent-register.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-daily-article-intent-register.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-daily-article-intent-register.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-daily-article-intent-register.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -55,14 +55,14 @@
       "route": "/blog/virtual-assistant-article-plain-language-pass",
       "sourcePath": "content/blog/virtual-assistant-article-plain-language-pass.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-plain-language-pass.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-plain-language-pass.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-article-plain-language-pass.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -70,14 +70,14 @@
       "route": "/blog/virtual-assistant-blog-reference-snapshot",
       "sourcePath": "content/blog/virtual-assistant-blog-reference-snapshot.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-blog-reference-snapshot.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-reference-snapshot.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-blog-reference-snapshot.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -85,14 +85,14 @@
       "route": "/blog/virtual-assistant-content-brief-decision-owner",
       "sourcePath": "content/blog/virtual-assistant-content-brief-decision-owner.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-content-brief-decision-owner.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-content-brief-decision-owner.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-content-brief-decision-owner.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -100,14 +100,14 @@
       "route": "/blog/virtual-assistant-article-approval-window",
       "sourcePath": "content/blog/virtual-assistant-article-approval-window.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-approval-window.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-approval-window.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-article-approval-window.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -115,14 +115,14 @@
       "route": "/blog/virtual-assistant-blog-coverage-gap-audit",
       "sourcePath": "content/blog/virtual-assistant-blog-coverage-gap-audit.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-blog-coverage-gap-audit.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-blog-coverage-gap-audit.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-blog-coverage-gap-audit.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -130,14 +130,14 @@
       "route": "/blog/virtual-assistant-article-quote-permission-check",
       "sourcePath": "content/blog/virtual-assistant-article-quote-permission-check.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-quote-permission-check.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-quote-permission-check.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-article-quote-permission-check.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -145,14 +145,14 @@
       "route": "/blog/virtual-assistant-publishing-rollback-note",
       "sourcePath": "content/blog/virtual-assistant-publishing-rollback-note.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-publishing-rollback-note.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-publishing-rollback-note.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-publishing-rollback-note.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -160,14 +160,14 @@
       "route": "/blog/virtual-assistant-content-calendar-sequence",
       "sourcePath": "content/blog/virtual-assistant-content-calendar-sequence.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-content-calendar-sequence.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-content-calendar-sequence.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-content-calendar-sequence.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     },
     {
@@ -175,14 +175,14 @@
       "route": "/blog/virtual-assistant-article-search-snippet-review",
       "sourcePath": "content/blog/virtual-assistant-article-search-snippet-review.mdx",
       "sourceDateField": "publishedAt",
-      "sourceDate": "2026-08-23",
-      "renderedDate": "2026-08-23",
+      "sourceDate": "2026-08-24",
+      "renderedDate": "2026-08-24",
       "renderedDateFields": [
         "datePublished",
         "time[datetime]"
       ],
       "imagePath": "public/blog/images/virtual-assistant-article-search-snippet-review.webp",
-      "promptReceipt": ".paperclip/daily-content/2026-08-23/prompts/virtual-assistant-article-search-snippet-review.txt",
+      "promptReceipt": ".paperclip/daily-content/2026-08-24/prompts/virtual-assistant-article-search-snippet-review.txt",
       "introducedByCommit": "b399d4651af749548be8474d1400bd4d2d450855"
     }
   ]
