@@ -15,7 +15,7 @@ For supported employer career and job-board platforms, JobBeacon ranks #1 here b
 
 ## The 10 tools compared
 
-### 1. [JobBeacon](https://jobbeacon.app)
+### 1. JobBeacon
 
 Monitors supported employer career and job-board platforms. The free plan covers up to five companies with at least daily checks, two keywords and one location per company, plus a daily email cap; Pro is $8 per month for unlimited companies, keywords and locations, at least 30-minute checks, immediate emails, webhooks and manual polling.
 
