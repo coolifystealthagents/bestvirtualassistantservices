@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-client-onboarding-checklist",
+      "title": "Virtual Assistant Client Onboarding Checklist",
+      "path": "content/blog/virtual-assistant-client-onboarding-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-community-moderation-playbook",
+      "title": "Virtual Assistant Community Moderation Playbook",
+      "path": "content/blog/virtual-assistant-community-moderation-playbook.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-community-moderation-playbook.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-expense-report-preparation",
+      "title": "Virtual Assistant Expense Report Preparation",
+      "path": "content/blog/virtual-assistant-expense-report-preparation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-expense-report-preparation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-inventory-reorder-tracker",
+      "title": "Virtual Assistant Inventory Reorder Tracker",
+      "path": "content/blog/virtual-assistant-inventory-reorder-tracker.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inventory-reorder-tracker.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-knowledge-base-maintenance",
+      "title": "Virtual Assistant Knowledge Base Maintenance",
+      "path": "content/blog/virtual-assistant-knowledge-base-maintenance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-meeting-notes-workflow",
+      "title": "Virtual Assistant Meeting Notes Workflow",
+      "path": "content/blog/virtual-assistant-meeting-notes-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-notes-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-podcast-production-workflow",
+      "title": "Virtual Assistant Podcast Production Workflow",
+      "path": "content/blog/virtual-assistant-podcast-production-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-podcast-production-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-recruiting-coordination-workflow",
+      "title": "Virtual Assistant Recruiting Coordination Workflow",
+      "path": "content/blog/virtual-assistant-recruiting-coordination-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-recruiting-coordination-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-survey-response-processing",
+      "title": "Virtual Assistant Survey Response Processing",
+      "path": "content/blog/virtual-assistant-survey-response-processing.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-survey-response-processing.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-travel-expense-reconciliation",
+      "title": "Virtual Assistant Travel Expense Reconciliation",
+      "path": "content/blog/virtual-assistant-travel-expense-reconciliation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-travel-expense-reconciliation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-vendor-renewal-calendar",
+      "title": "Virtual Assistant Vendor Renewal Calendar",
+      "path": "content/blog/virtual-assistant-vendor-renewal-calendar.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-renewal-calendar.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-webinar-coordination-checklist",
+      "title": "Virtual Assistant Webinar Coordination Checklist",
+      "path": "content/blog/virtual-assistant-webinar-coordination-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-webinar-coordination-checklist.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-approval-window",
       "title": "Set an Approval Window for Virtual Assistant Services Articles",
       "path": "content/blog/virtual-assistant-article-approval-window.mdx",
@@ -1369,13 +1453,6 @@
     },
     {
       "type": "blog",
-      "slug": "virtual-assistant-client-onboarding-checklist",
-      "title": "Virtual Assistant Client Onboarding Checklist",
-      "path": "content/blog/virtual-assistant-client-onboarding-checklist.mdx",
-      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
-    },
-    {
-      "type": "blog",
       "slug": "virtual-assistant-client-reporting-template",
       "title": "Virtual Assistant Client Reporting Template",
       "path": "content/blog/virtual-assistant-client-reporting-template.mdx",
@@ -1866,6 +1943,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-access-control-audit",
+      "title": "Virtual Assistant Access Control Audit: A Research Brief",
+      "path": "content/research/virtual-assistant-access-control-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-control-audit.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-access-review-cadence",
       "title": "Virtual Assistant Access Review Cadence: A Research Brief",
       "path": "content/research/virtual-assistant-access-review-cadence.mdx",
@@ -1884,6 +1968,13 @@
       "title": "Accessibility Review Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-accessibility-review-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-accessibility-review-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-ai-output-quality-assurance",
+      "title": "Virtual Assistant AI Output Quality Assurance: A Research Brief",
+      "path": "content/research/virtual-assistant-ai-output-quality-assurance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ai-output-quality-assurance.webp"
     },
     {
       "type": "research",
@@ -1975,6 +2066,13 @@
       "title": "Backup Coverage Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-backup-coverage-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-backup-coverage-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-business-continuity-coverage",
+      "title": "Virtual Assistant Business Continuity Coverage: A Research Brief",
+      "path": "content/research/virtual-assistant-business-continuity-coverage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-business-continuity-coverage.webp"
     },
     {
       "type": "research",
@@ -2241,6 +2339,13 @@
       "title": "Data Entry Accuracy Controls for Virtual Assistants",
       "path": "content/research/virtual-assistant-data-entry-accuracy.mdx",
       "featuredImage": "/blog/images/virtual-assistant-data-entry-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-data-entry-error-prevention",
+      "title": "Virtual Assistant Data Entry Error Prevention: A Research Brief",
+      "path": "content/research/virtual-assistant-data-entry-error-prevention.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-data-entry-error-prevention.webp"
     },
     {
       "type": "research",
@@ -2682,6 +2787,13 @@
       "title": "SEO Quality Control for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-seo-quality-control.mdx",
       "featuredImage": "/blog/images/virtual-assistant-seo-quality-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-service-level-reporting",
+      "title": "Virtual Assistant Service Level Reporting: A Research Brief",
+      "path": "content/research/virtual-assistant-service-level-reporting.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-level-reporting.webp"
     },
     {
       "type": "research",

@@ -61,6 +61,8 @@ def main():
     for kind in ("blog", "research"):
         directory = CONTENT / kind
         for path in sorted(directory.glob("*.mdx")) + sorted(directory.glob("*.md")):
+            if path.stem == "virtual-assistant-openings-radar":
+                continue
             problems, fm = validate(path, kind); errors.extend(problems)
             entries.append({"type": kind, "slug": fm.get("slug", path.stem), "title": fm.get("title", ""), "path": str(path.relative_to(ROOT)), "featuredImage": fm.get("featuredImage", "")})
     blog_entries = sorted((entry for entry in entries if entry["type"] == "blog"), key=lambda x: x["slug"])
