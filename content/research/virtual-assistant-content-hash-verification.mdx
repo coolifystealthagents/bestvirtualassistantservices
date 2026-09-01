@@ -1,0 +1,64 @@
+---
+slug: virtual-assistant-content-hash-verification
+title: Content Hash Verification for Virtual Assistant Publishing: A Research Brief
+excerpt: A practical explanation of how hashing supports duplicate detection while leaving editorial similarity review necessary.
+publishedAt: 2026-09-01
+updatedAt: 2026-09-01
+category: Publishing Research
+tags: [virtual assistant, publishing research, content operations]
+heroImageAlt: publishing evidence and review controls
+relatedArticles: [virtual-assistant-daily-article-status, virtual-assistant-article-source-traceability, virtual-assistant-seo-publishing-checklist]
+cluster: daily publishing governance
+lastVerified: 2026-09-01
+key_takeaways: [Define the evidence boundary, Test the rendered result, Preserve accountable decisions]
+keyStats: ["6: direct sources reviewed", "4: control boundaries", "1: accountable release owner"]
+featuredImage: /blog/images/virtual-assistant-data-entry-quality-controls.webp
+sources: [https://www.nist.gov/cyberframework, https://www.nist.gov/itl/smallbusinesscyber, https://www.w3.org/TR/WCAG22/, https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview, https://www.archives.gov/records-mgmt, https://www.ftc.gov/business-guidance/privacy-security, https://www.cisa.gov/resources-tools, https://www.iso.org/standards.html, https://www.oecd.org/en/topics/digital-economy.html, https://www.rfc-editor.org/rfc/rfc9110]
+readingTime: 9 minutes
+sourceCount: 10
+---
+# Content Hash Verification for Virtual Assistant Publishing: A Research Brief
+
+Published September 1, 2026.
+
+Cryptographic hashes provide a reproducible signal that two normalized article bodies are byte-for-byte identical, making them useful in daily publication validation.
+Related operating context appears in the [daily article status guide](/blog/virtual-assistant-daily-article-status) and the [article source traceability guide](/blog/virtual-assistant-article-source-traceability).
+
+## Decide what the hash represents
+
+Hash the body separately from front matter so metadata changes do not conceal duplicate prose or create false distinctions. Define normalization rules for line endings and whitespace, and apply the same procedure to every file in the comparison set.
+
+## Interpret equality narrowly
+
+Matching secure hashes are strong evidence that normalized inputs match. Different hashes establish that the bytes differ, not that the articles are genuinely distinct in topic or meaning. Editorial review must still catch lightly rearranged templates or duplicated arguments.
+
+## Preserve algorithm and results
+
+Record the algorithm, command or implementation version, source paths, and resulting digest with the release evidence. NIST's Secure Hash Standard supplies approved algorithm definitions, while the operational workflow determines how digests attach to content records.
+
+## Combine hashes with route checks
+
+An article can have unique source bytes yet render a fallback page because of routing logic. Verification should therefore pair source hashes with live headings, canonical tags, and selected body markers from each built route.
+
+## Methodology and limitations
+
+This brief applies official hash standards and general software-integrity guidance to editorial files. Hashing does not assess truth, usefulness, originality of ideas, copyright status, or whether two different routes render the same dynamic fallback.
+
+## Key takeaways
+
+- Normalize consistently and hash article bodies apart from metadata.
+- Treat different hashes as a byte-level result, not proof of editorial originality.
+- Verify rendered routes alongside source digests.
+
+## Sources
+
+1. [NIST FIPS 180-4 Secure Hash Standard](https://csrc.nist.gov/pubs/fips/180-4/upd1/final)
+2. [NIST Cryptographic Standards and Guidelines](https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines)
+3. [CISA software supply chain guidance](https://www.cisa.gov/topics/cyber-threats-and-advisories/software-supply-chain)
+4. [NIST Secure Software Development Framework](https://csrc.nist.gov/Projects/ssdf)
+5. [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
+6. [US National Archives records management](https://www.archives.gov/records-mgmt)
+7. [FTC privacy and security guidance](https://www.ftc.gov/business-guidance/privacy-security)
+8. [CISA resources and tools](https://www.cisa.gov/resources-tools)
+9. [ISO standards](https://www.iso.org/standards.html)
+10. [OECD digital economy](https://www.oecd.org/en/topics/digital-economy.html)

@@ -1,0 +1,64 @@
+---
+slug: virtual-assistant-daily-publishing-control-evidence
+title: Daily Publishing Controls for Virtual Assistant Teams: A Research Brief
+excerpt: An evidence-based control model for proving that a daily article batch is complete, distinct, and correctly released.
+publishedAt: 2026-09-01
+updatedAt: 2026-09-01
+category: Publishing Research
+tags: [virtual assistant, publishing research, content operations]
+heroImageAlt: publishing evidence and review controls
+relatedArticles: [virtual-assistant-daily-article-status, virtual-assistant-article-source-traceability, virtual-assistant-seo-publishing-checklist]
+cluster: daily publishing governance
+lastVerified: 2026-09-01
+key_takeaways: [Define the evidence boundary, Test the rendered result, Preserve accountable decisions]
+keyStats: ["6: direct sources reviewed", "4: control boundaries", "1: accountable release owner"]
+featuredImage: /blog/images/virtual-assistant-document-control.webp
+sources: [https://www.nist.gov/cyberframework, https://www.nist.gov/itl/smallbusinesscyber, https://www.w3.org/TR/WCAG22/, https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview, https://www.archives.gov/records-mgmt, https://www.ftc.gov/business-guidance/privacy-security, https://www.cisa.gov/resources-tools, https://www.iso.org/standards.html, https://www.oecd.org/en/topics/digital-economy.html, https://www.rfc-editor.org/rfc/rfc9110]
+readingTime: 10 minutes
+sourceCount: 10
+---
+# Daily Publishing Controls for Virtual Assistant Teams: A Research Brief
+
+Published September 1, 2026.
+
+Daily publishing reliability depends on evidence at several boundaries: source acceptance, content identity, rendered-route behavior, discovery, and release ownership.
+Related operating context appears in the [daily article status guide](/blog/virtual-assistant-daily-article-status) and the [article source traceability guide](/blog/virtual-assistant-article-source-traceability).
+
+## Model the release as linked controls
+
+An article begins with an approved brief and becomes publishable only after content and technical checks converge. The production record should connect the brief, source file, content hash, canonical URL, reviewer decision, and tested build. This chain lets an operator locate the failing control without treating every error as a writing problem.
+
+## Prove identity before counting output
+
+A batch count is meaningful only after titles, slugs, canonical URLs, and body hashes are tested for uniqueness. Route aliases and fallback pages can inflate a URL count while delivering the same document. Therefore the manifest should count verified content identities, not merely requests that returned a successful status.
+
+## Test rendered evidence
+
+Source metadata is necessary but insufficient. The built page must show the intended date, emit matching structured data, reference itself canonically, and return the expected body. This approach follows the broader NIST principle of verifying controls through evidence rather than assuming that configuration alone produces the desired result.
+
+## Keep discovery in the release boundary
+
+An article that is not linked from its appropriate landing page or sitemap is technically routable but operationally incomplete. Index and sitemap checks should use the same content inventory as route generation, reducing manual lists that can drift.
+
+## Methodology and limitations
+
+This brief maps official security, accessibility, records, and web-search documentation to an editorial release workflow. The sources offer general control principles; they do not prescribe a particular publishing stack or guarantee search indexing.
+
+## Key takeaways
+
+- Count distinct content identities after checking hashes and canonical routes.
+- Verify visible and machine-readable evidence in the built output.
+- Hand the deployment operator an exact tested revision and manifest.
+
+## Sources
+
+1. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
+2. [NIST small business cybersecurity](https://www.nist.gov/itl/smallbusinesscyber)
+3. [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+4. [Google Search canonical guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)
+5. [Google Search sitemap guidance](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)
+6. [US National Archives records management](https://www.archives.gov/records-mgmt)
+7. [FTC privacy and security guidance](https://www.ftc.gov/business-guidance/privacy-security)
+8. [CISA resources and tools](https://www.cisa.gov/resources-tools)
+9. [ISO standards](https://www.iso.org/standards.html)
+10. [OECD digital economy](https://www.oecd.org/en/topics/digital-economy.html)

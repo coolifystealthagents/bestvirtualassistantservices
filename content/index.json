@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-production-board",
+      "title": "Virtual Assistant Article Production Board Setup",
+      "path": "content/blog/virtual-assistant-article-production-board.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-intake-triage.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-canonical-url-check",
+      "title": "Virtual Assistant Canonical URL Check for Article Publishing",
+      "path": "content/blog/virtual-assistant-canonical-url-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-correction-verification",
+      "title": "Virtual Assistant Article Correction Verification",
+      "path": "content/blog/virtual-assistant-correction-verification.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-revision-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-editorial-standup",
+      "title": "Virtual Assistant Daily Editorial Standup",
+      "path": "content/blog/virtual-assistant-daily-editorial-standup.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-publish-manifest",
+      "title": "Virtual Assistant Daily Publish Manifest",
+      "path": "content/blog/virtual-assistant-daily-publish-manifest.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-draft-intake-check",
+      "title": "Virtual Assistant Draft Intake Check",
+      "path": "content/blog/virtual-assistant-draft-intake-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-task-brief-for-repeatable-delegation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-day-close",
+      "title": "Virtual Assistant Editorial Day-Close Routine",
+      "path": "content/blog/virtual-assistant-editorial-day-close.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-review-handoff",
+      "title": "Virtual Assistant Editorial Review Handoff",
+      "path": "content/blog/virtual-assistant-editorial-review-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-team-handoff-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-internal-link-release-check",
+      "title": "Virtual Assistant Internal Link Release Check",
+      "path": "content/blog/virtual-assistant-internal-link-release-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-publication-date-audit",
+      "title": "Virtual Assistant Publication Date Audit",
+      "path": "content/blog/virtual-assistant-publication-date-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-approval-window.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-sitemap-publication-check",
+      "title": "Virtual Assistant Sitemap Publication Check",
+      "path": "content/blog/virtual-assistant-sitemap-publication-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-source-capture-routine",
+      "title": "Virtual Assistant Source Capture Routine for Daily Articles",
+      "path": "content/blog/virtual-assistant-source-capture-routine.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-research-reproducibility.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-client-onboarding-checklist",
       "title": "Virtual Assistant Client Onboarding Checklist",
       "path": "content/blog/virtual-assistant-client-onboarding-checklist.mdx",
@@ -2020,6 +2104,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-article-date-integrity",
+      "title": "Article Publication Date Integrity: A Virtual Assistant Research Brief",
+      "path": "content/research/virtual-assistant-article-date-integrity.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-approval-window.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-article-research-claim-triage",
       "title": "How Should Virtual Assistants Triage Claims for a Research Article?",
       "path": "content/research/virtual-assistant-article-research-claim-triage.mdx",
@@ -2122,6 +2213,13 @@
       "title": "Calendar Time-Zone Risk Research by Virtual Assistants",
       "path": "content/research/virtual-assistant-calendar-time-zone-risk.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-canonical-route-integrity",
+      "title": "Canonical Route Integrity for Virtual Assistant Content Operations",
+      "path": "content/research/virtual-assistant-canonical-route-integrity.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-update.webp"
     },
     {
       "type": "research",
@@ -2244,6 +2342,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-content-hash-verification",
+      "title": "Content Hash Verification for Virtual Assistant Publishing: A Research Brief",
+      "path": "content/research/virtual-assistant-content-hash-verification.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-data-entry-quality-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-content-repurposing-controls",
       "title": "Content Repurposing Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-content-repurposing-controls.mdx",
@@ -2325,6 +2430,13 @@
       "title": "How Should a Virtual Assistant Test Source Freshness Before a Daily Article?",
       "path": "content/research/virtual-assistant-daily-article-source-freshness.mdx",
       "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-daily-publishing-control-evidence",
+      "title": "Daily Publishing Controls for Virtual Assistant Teams: A Research Brief",
+      "path": "content/research/virtual-assistant-daily-publishing-control-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
     },
     {
       "type": "research",
@@ -2444,6 +2556,13 @@
       "title": "When Does an Aging Article Queue Become a Quality Risk?",
       "path": "content/research/virtual-assistant-editorial-queue-aging-evidence.mdx",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-editorial-queue-aging-research",
+      "title": "Editorial Queue Aging in Virtual Assistant Workflows: A Research Brief",
+      "path": "content/research/virtual-assistant-editorial-queue-aging-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-intake-triage.webp"
     },
     {
       "type": "research",

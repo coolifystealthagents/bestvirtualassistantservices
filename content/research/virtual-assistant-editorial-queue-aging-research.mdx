@@ -1,0 +1,64 @@
+---
+slug: virtual-assistant-editorial-queue-aging-research
+title: Editorial Queue Aging in Virtual Assistant Workflows: A Research Brief
+excerpt: A measurement framework for finding stalled drafts without rewarding speed at the expense of review quality.
+publishedAt: 2026-09-01
+updatedAt: 2026-09-01
+category: Operations Research
+tags: [virtual assistant, publishing research, content operations]
+heroImageAlt: publishing evidence and review controls
+relatedArticles: [virtual-assistant-daily-article-status, virtual-assistant-article-source-traceability, virtual-assistant-seo-publishing-checklist]
+cluster: daily publishing governance
+lastVerified: 2026-09-01
+key_takeaways: [Define the evidence boundary, Test the rendered result, Preserve accountable decisions]
+keyStats: ["6: direct sources reviewed", "4: control boundaries", "1: accountable release owner"]
+featuredImage: /blog/images/virtual-assistant-work-intake-triage.webp
+sources: [https://www.nist.gov/cyberframework, https://www.nist.gov/itl/smallbusinesscyber, https://www.w3.org/TR/WCAG22/, https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview, https://www.archives.gov/records-mgmt, https://www.ftc.gov/business-guidance/privacy-security, https://www.cisa.gov/resources-tools, https://www.iso.org/standards.html, https://www.oecd.org/en/topics/digital-economy.html, https://www.rfc-editor.org/rfc/rfc9110]
+readingTime: 10 minutes
+sourceCount: 10
+---
+# Editorial Queue Aging in Virtual Assistant Workflows: A Research Brief
+
+Published September 1, 2026.
+
+Queue age is useful when it identifies a stalled handoff, but misleading when teams combine active work, intentional holds, and owner decisions into one average.
+Related operating context appears in the [daily article status guide](/blog/virtual-assistant-daily-article-status) and the [article source traceability guide](/blog/virtual-assistant-article-source-traceability).
+
+## Define the clock at each stage
+
+Record a start event and stop event for research, drafting, review, correction, and release verification. Specify business-hour treatment and timezone. A single creation timestamp cannot reveal whether delay occurred with the assistant, editor, source owner, or deployment gate.
+
+## Segment rather than hide variation
+
+Report item counts, median age, oldest item, and age bands by stage. Separate paused work with a documented reason. This follows measurement guidance that definitions and data quality need to remain visible when results inform management decisions.
+
+## Pair age with readiness
+
+An old article may be correctly blocked by missing evidence, while a recent article may lack a brief. Add readiness and blocker fields so an age threshold triggers investigation rather than automatic publication pressure.
+
+## Use escalation thresholds carefully
+
+Define warnings based on service expectations and risk, then name the owner who can resolve each blocker class. The virtual assistant can maintain the measure and route exceptions but should not waive an editorial, legal, security, or factual review.
+
+## Methodology and limitations
+
+This brief translates public quality-management, records, cybersecurity, and statistical principles into a queue-review method. Appropriate thresholds depend on article complexity, staffing, and the organization's review obligations.
+
+## Key takeaways
+
+- Measure time within named stages instead of one undifferentiated queue age.
+- Show distributions, paused items, and blocker ownership beside summaries.
+- Use thresholds to trigger review, not to bypass quality gates.
+
+## Sources
+
+1. [NIST Quality System](https://www.nist.gov/nist-quality-system)
+2. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
+3. [US National Archives records management](https://www.archives.gov/records-mgmt)
+4. [OECD Data Quality Framework](https://www.oecd.org/sdd/qualityframeworkforoecdstatisticalactivities.htm)
+5. [ISO quality management principles](https://www.iso.org/quality-management-principles.html)
+6. [ILO teleworking resources](https://www.ilo.org/global/topics/teleworking)
+7. [FTC privacy and security guidance](https://www.ftc.gov/business-guidance/privacy-security)
+8. [CISA resources and tools](https://www.cisa.gov/resources-tools)
+9. [ISO standards](https://www.iso.org/standards.html)
+10. [OECD digital economy](https://www.oecd.org/en/topics/digital-economy.html)

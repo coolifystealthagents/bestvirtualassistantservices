@@ -1,0 +1,45 @@
+---
+slug: virtual-assistant-publication-date-audit
+title: Virtual Assistant Publication Date Audit
+excerpt: A checklist for aligning visible dates, structured metadata, indexes, and the actual release record.
+publishedAt: 2026-09-01
+updatedAt: 2026-09-01
+category: Publishing Operations
+tags: [virtual assistant, daily publishing, editorial operations]
+heroImageAlt: editorial workflow checklist on a desk
+relatedArticles: [virtual-assistant-content-calendar-workflow, virtual-assistant-editorial-quality-checklist, virtual-assistant-daily-article-status]
+featuredImage: /blog/images/virtual-assistant-article-approval-window.webp
+readingTime: 6 minutes
+---
+# Virtual Assistant Publication Date Audit
+
+Published September 1, 2026.
+
+Publication dates should describe a real release event consistently, not serve as decorative labels.
+Use the [content calendar workflow](/blog/virtual-assistant-content-calendar-workflow) to place this control in the daily sequence, the [editorial quality checklist](/blog/virtual-assistant-editorial-quality-checklist) for adjacent review steps, and [NIST small business cybersecurity guidance](https://www.nist.gov/itl/smallbusinesscyber) when the routine handles business information.
+
+## Virtual Assistant Publication Date Audit: operating steps
+
+Use the date assigned by the publication owner and document the timezone convention. Do not infer a new date from file modification time, build time, or a later correction.
+
+## Compare every representation
+
+Check front matter, visible article text, the HTML time element, structured `datePublished`, open graph metadata where used, and index ordering. Normalize machine values to ISO format while keeping the reader-facing label clear.
+
+## Separate publication from modification
+
+Routine fixes may update `dateModified` without rewriting history. Require explicit approval before changing the original publication date, and preserve evidence of the correction.
+
+## Test the final output
+
+Inspect the built route rather than relying only on source files. Confirm that server rendering did not apply locale drift or convert midnight into the previous calendar day.
+
+## Frequently asked questions
+
+### Should a republished article get a new publication date?
+
+That is an editorial policy decision. Define refresh and republication rules before changing dates.
+
+### Why specify a timezone?
+
+Date parsing can shift a calendar day across environments unless the workflow uses an explicit, consistent convention.

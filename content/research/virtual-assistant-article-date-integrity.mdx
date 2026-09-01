@@ -1,0 +1,64 @@
+---
+slug: virtual-assistant-article-date-integrity
+title: Article Publication Date Integrity: A Virtual Assistant Research Brief
+excerpt: Evidence and controls for keeping visible publication dates aligned with structured metadata and release history.
+publishedAt: 2026-09-01
+updatedAt: 2026-09-01
+category: Metadata Research
+tags: [virtual assistant, publishing research, content operations]
+heroImageAlt: publishing evidence and review controls
+relatedArticles: [virtual-assistant-daily-article-status, virtual-assistant-article-source-traceability, virtual-assistant-seo-publishing-checklist]
+cluster: daily publishing governance
+lastVerified: 2026-09-01
+key_takeaways: [Define the evidence boundary, Test the rendered result, Preserve accountable decisions]
+keyStats: ["6: direct sources reviewed", "4: control boundaries", "1: accountable release owner"]
+featuredImage: /blog/images/virtual-assistant-article-approval-window.webp
+sources: [https://www.nist.gov/cyberframework, https://www.nist.gov/itl/smallbusinesscyber, https://www.w3.org/TR/WCAG22/, https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview, https://www.archives.gov/records-mgmt, https://www.ftc.gov/business-guidance/privacy-security, https://www.cisa.gov/resources-tools, https://www.iso.org/standards.html, https://www.oecd.org/en/topics/digital-economy.html, https://www.rfc-editor.org/rfc/rfc9110]
+readingTime: 10 minutes
+sourceCount: 10
+---
+# Article Publication Date Integrity: A Virtual Assistant Research Brief
+
+Published September 1, 2026.
+
+Date integrity matters because readers, search systems, feeds, and internal operations may each consume a different representation of the same publication event.
+Related operating context appears in the [daily article status guide](/blog/virtual-assistant-daily-article-status) and the [article source traceability guide](/blog/virtual-assistant-article-source-traceability).
+
+## Treat publication as a recorded event
+
+Define `datePublished` as the organization's original public release date and retain the timezone convention used to assign it. Build timestamps and file modification times describe technical activity, not necessarily publication.
+
+## Align human and machine representations
+
+The visible date, HTML time value, Article structured data, and content inventory should refer to the same calendar event. Schema.org defines `datePublished`, while search documentation recommends accurate, consistent dates that are prominent to users.
+
+## Preserve modification history separately
+
+Use `dateModified` for material updates according to a written policy. A correction should not silently erase the original publication date. Retained revision evidence allows reviewers to distinguish a refreshed article from a newly released one.
+
+## Test timezone behavior in output
+
+Parsing a date-only value through local time can display the prior or next day in another environment. An automated check should inspect the built page and structured data under the deployment's actual date handling, not assume the source string is enough.
+
+## Methodology and limitations
+
+This brief synthesizes public structured-data, web-platform, archival, and metadata guidance. It does not set legal record-retention requirements or determine when an editorial update is substantial enough to change modification metadata.
+
+## Key takeaways
+
+- Define the publication event and timezone before entering metadata.
+- Check the visible label and structured value in rendered output.
+- Retain the original date while recording material modifications separately.
+
+## Sources
+
+1. [Schema.org datePublished](https://schema.org/datePublished)
+2. [Google Search article structured data](https://developers.google.com/search/docs/appearance/structured-data/article)
+3. [Google Search byline date guidance](https://developers.google.com/search/docs/appearance/publication-dates)
+4. [WHATWG time element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-time-element)
+5. [Dublin Core date term](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/date/)
+6. [US National Archives records management](https://www.archives.gov/records-mgmt)
+7. [FTC privacy and security guidance](https://www.ftc.gov/business-guidance/privacy-security)
+8. [CISA resources and tools](https://www.cisa.gov/resources-tools)
+9. [ISO standards](https://www.iso.org/standards.html)
+10. [OECD digital economy](https://www.oecd.org/en/topics/digital-economy.html)
