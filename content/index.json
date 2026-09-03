@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-calendar-exception-log",
+      "title": "Build a Calendar Exception Log for Virtual Assistant Support",
+      "path": "content/blog/virtual-assistant-calendar-exception-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-conflict-resolution.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-client-onboarding-dependency-map",
+      "title": "Map Client Onboarding Dependencies Before Delegation",
+      "path": "content/blog/virtual-assistant-client-onboarding-dependency-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-crm-duplicate-merge-queue",
+      "title": "Run a CRM Duplicate Merge Queue Safely",
+      "path": "content/blog/virtual-assistant-crm-duplicate-merge-queue.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-ecommerce-refund-evidence-packet",
+      "title": "Prepare Ecommerce Refund Evidence Packets With a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-ecommerce-refund-evidence-packet.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-customer-returns-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-inbox-aging-band-review",
+      "title": "Review Inbox Aging Bands With a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-inbox-aging-band-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-email-queue-prioritization.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-knowledge-base-broken-path-patrol",
+      "title": "Run a Broken-Path Patrol for a Virtual Assistant Knowledge Base",
+      "path": "content/blog/virtual-assistant-knowledge-base-broken-path-patrol.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-meeting-decision-followup-ledger",
+      "title": "Keep a Meeting Decision Follow-Up Ledger",
+      "path": "content/blog/virtual-assistant-meeting-decision-followup-ledger.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-newsletter-suppression-audit",
+      "title": "Audit Newsletter Suppression Lists Before a Send",
+      "path": "content/blog/virtual-assistant-newsletter-suppression-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-newsletter-list-hygiene.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-podcast-guest-release-check",
+      "title": "Check Podcast Guest Releases Before Publishing Support",
+      "path": "content/blog/virtual-assistant-podcast-guest-release-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-podcast-guest-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-project-status-variance-note",
+      "title": "Write Project Status Variance Notes That Explain the Difference",
+      "path": "content/blog/virtual-assistant-project-status-variance-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-project-status-reporting.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-travel-itinerary-change-control",
+      "title": "Use Change Control for Virtual Assistant Travel Itineraries",
+      "path": "content/blog/virtual-assistant-travel-itinerary-change-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-travel-itinerary-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-vendor-certificate-expiry-tracker",
+      "title": "Track Vendor Certificate Expiry Without Making Compliance Decisions",
+      "path": "content/blog/virtual-assistant-vendor-certificate-expiry-tracker.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-onboarding-controls.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-definition-of-ready",
       "title": "Virtual Assistant Article Definition of Ready",
       "path": "content/blog/virtual-assistant-article-definition-of-ready.mdx",

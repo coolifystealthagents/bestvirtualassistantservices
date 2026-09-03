@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "family": "blog",
+  "targetDate": "2026-09-03",
+  "required": 12,
+  "entries": [
+    {
+      "slug": "virtual-assistant-inbox-aging-band-review",
+      "route": "/blog/virtual-assistant-inbox-aging-band-review",
+      "sourcePath": "content/blog/virtual-assistant-inbox-aging-band-review.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-email-queue-prioritization.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-calendar-exception-log",
+      "route": "/blog/virtual-assistant-calendar-exception-log",
+      "sourcePath": "content/blog/virtual-assistant-calendar-exception-log.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-calendar-conflict-resolution.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-meeting-decision-followup-ledger",
+      "route": "/blog/virtual-assistant-meeting-decision-followup-ledger",
+      "sourcePath": "content/blog/virtual-assistant-meeting-decision-followup-ledger.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-client-onboarding-dependency-map",
+      "route": "/blog/virtual-assistant-client-onboarding-dependency-map",
+      "sourcePath": "content/blog/virtual-assistant-client-onboarding-dependency-map.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-client-onboarding-checklist.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-ecommerce-refund-evidence-packet",
+      "route": "/blog/virtual-assistant-ecommerce-refund-evidence-packet",
+      "sourcePath": "content/blog/virtual-assistant-ecommerce-refund-evidence-packet.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-ecommerce-customer-returns-workflow.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-crm-duplicate-merge-queue",
+      "route": "/blog/virtual-assistant-crm-duplicate-merge-queue",
+      "sourcePath": "content/blog/virtual-assistant-crm-duplicate-merge-queue.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-crm-data-hygiene.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-vendor-certificate-expiry-tracker",
+      "route": "/blog/virtual-assistant-vendor-certificate-expiry-tracker",
+      "sourcePath": "content/blog/virtual-assistant-vendor-certificate-expiry-tracker.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-vendor-onboarding-controls.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-travel-itinerary-change-control",
+      "route": "/blog/virtual-assistant-travel-itinerary-change-control",
+      "sourcePath": "content/blog/virtual-assistant-travel-itinerary-change-control.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-travel-itinerary-review.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-podcast-guest-release-check",
+      "route": "/blog/virtual-assistant-podcast-guest-release-check",
+      "sourcePath": "content/blog/virtual-assistant-podcast-guest-release-check.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-podcast-guest-brief.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-newsletter-suppression-audit",
+      "route": "/blog/virtual-assistant-newsletter-suppression-audit",
+      "sourcePath": "content/blog/virtual-assistant-newsletter-suppression-audit.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-newsletter-list-hygiene.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-knowledge-base-broken-path-patrol",
+      "route": "/blog/virtual-assistant-knowledge-base-broken-path-patrol",
+      "sourcePath": "content/blog/virtual-assistant-knowledge-base-broken-path-patrol.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    },
+    {
+      "slug": "virtual-assistant-project-status-variance-note",
+      "route": "/blog/virtual-assistant-project-status-variance-note",
+      "sourcePath": "content/blog/virtual-assistant-project-status-variance-note.mdx",
+      "sourceDateField": "publishedAt",
+      "sourceDate": "2026-09-03",
+      "renderedDate": "2026-09-03",
+      "renderedDateFields": [
+        "datePublished",
+        "time[datetime]"
+      ],
+      "imagePath": "/blog/images/virtual-assistant-project-status-reporting.webp",
+      "imageStatus": "existing site image retained; September 3 correction requested article replacement only"
+    }
+  ]
+}
