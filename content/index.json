@@ -2202,6 +2202,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-access-expiry-evidence-study",
+      "title": "What Evidence Shows That Virtual Assistant Access Expires as Intended?",
+      "path": "content/research/virtual-assistant-access-expiry-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-control-audit.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-access-review-cadence",
       "title": "Virtual Assistant Access Review Cadence: A Research Brief",
       "path": "content/research/virtual-assistant-access-review-cadence.mdx",
@@ -2374,6 +2381,13 @@
       "title": "How Much Does Time-Zone Ambiguity Matter in Virtual Assistant Calendar Support?",
       "path": "content/research/virtual-assistant-calendar-time-zone-error-cost.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-calendar-time-zone-error-study",
+      "title": "Which Review Method Finds Time-Zone Errors in Virtual Assistant Calendar Handoffs?",
+      "path": "content/research/virtual-assistant-calendar-time-zone-error-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-appointment-reminder-workflow.webp"
     },
     {
       "type": "research",
@@ -2804,6 +2818,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-exception-queue-sampling-study",
+      "title": "Can Exception-Queue Sampling Reveal Weaknesses in Virtual Assistant Workflows?",
+      "path": "content/research/virtual-assistant-exception-queue-sampling-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-escalation-ladder.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-executive-travel-itinerary-change-control",
       "title": "Which Itinerary Changes Should a Virtual Assistant Stop and Escalate?",
       "path": "content/research/virtual-assistant-executive-travel-itinerary-change-control.md",
@@ -2815,6 +2836,13 @@
       "title": "Executive Travel Risk Controls for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-executive-travel-risk-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-executive-travel-risk-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-feedback-coding-reliability-study",
+      "title": "How Reliable Is Feedback Coding by a Virtual Assistant?",
+      "path": "content/research/virtual-assistant-feedback-coding-reliability-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-controls.webp"
     },
     {
       "type": "research",
@@ -2871,6 +2899,13 @@
       "title": "Virtual Assistant Invoice Processing Controls: A Research Brief",
       "path": "content/research/virtual-assistant-invoice-processing-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-invoice-processing-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-knowledge-answer-traceability-study",
+      "title": "Can Readers Trace Knowledge-Base Answers Prepared by a Virtual Assistant?",
+      "path": "content/research/virtual-assistant-knowledge-answer-traceability-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp"
     },
     {
       "type": "research",

@@ -1,0 +1,43 @@
+{
+  "campaignDate": "2026-09-03",
+  "family": "research",
+  "imageStatus": "gemini-unavailable-fallback-text-complete",
+  "imageBlocker": "No Gemini image-generation provider was available. Existing repository imagery was referenced without modification; no stock or newly templated image was substituted.",
+  "entries": [
+    {
+      "route": "/research/virtual-assistant-exception-queue-sampling-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-exception-queue-sampling-study.mdx"
+      ],
+      "publishedAt": "2026-09-03"
+    },
+    {
+      "route": "/research/virtual-assistant-access-expiry-evidence-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-access-expiry-evidence-study.mdx"
+      ],
+      "publishedAt": "2026-09-03"
+    },
+    {
+      "route": "/research/virtual-assistant-feedback-coding-reliability-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-feedback-coding-reliability-study.mdx"
+      ],
+      "publishedAt": "2026-09-03"
+    },
+    {
+      "route": "/research/virtual-assistant-knowledge-answer-traceability-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-knowledge-answer-traceability-study.mdx"
+      ],
+      "publishedAt": "2026-09-03"
+    },
+    {
+      "route": "/research/virtual-assistant-calendar-time-zone-error-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-calendar-time-zone-error-study.mdx"
+      ],
+      "publishedAt": "2026-09-03"
+    }
+  ]
+}
