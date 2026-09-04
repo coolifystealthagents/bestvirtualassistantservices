@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-correction-intake",
+      "title": "Virtual Assistant Article Correction Intake Routine",
+      "path": "content/blog/virtual-assistant-article-correction-intake.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-image-alt-text-review",
+      "title": "Virtual Assistant Article Image Alt Text Review",
+      "path": "content/blog/virtual-assistant-article-image-alt-text-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-accessibility-review-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-source-request-queue",
+      "title": "Virtual Assistant Article Source Request Queue",
+      "path": "content/blog/virtual-assistant-article-source-request-queue.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-research-reproducibility.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-table-mobile-check",
+      "title": "Virtual Assistant Article Table Mobile Check",
+      "path": "content/blog/virtual-assistant-article-table-mobile-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-accessibility-check.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-publishing-dependency-map",
+      "title": "Virtual Assistant Daily Publishing Dependency Map",
+      "path": "content/blog/virtual-assistant-daily-publishing-dependency-map.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-manager-article-queue.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-topic-collision-check",
+      "title": "Virtual Assistant Daily Topic Collision Check",
+      "path": "content/blog/virtual-assistant-daily-topic-collision-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-coverage-gap-audit.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-draft-scope-drift-check",
+      "title": "Virtual Assistant Draft Scope Drift Check",
+      "path": "content/blog/virtual-assistant-draft-scope-drift-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-brief-scope-lock.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-exception-expiry",
+      "title": "Virtual Assistant Editorial Exception Expiry Routine",
+      "path": "content/blog/virtual-assistant-editorial-exception-expiry.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-publishing-exception-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-link-destination-audit",
+      "title": "Virtual Assistant Editorial Link Destination Audit",
+      "path": "content/blog/virtual-assistant-editorial-link-destination-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-evergreen-claim-review-trigger",
+      "title": "Virtual Assistant Evergreen Claim Review Trigger",
+      "path": "content/blog/virtual-assistant-evergreen-claim-review-trigger.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-update-evidence-threshold.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-post-deploy-article-smoke-test",
+      "title": "Virtual Assistant Post-Deploy Article Smoke Test",
+      "path": "content/blog/virtual-assistant-post-deploy-article-smoke-test.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-website-content-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-publish-ready-metadata-handoff",
+      "title": "Virtual Assistant Publish-Ready Metadata Handoff",
+      "path": "content/blog/virtual-assistant-publish-ready-metadata-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-team-handoff-checklist.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-calendar-exception-log",
       "title": "Build a Calendar Exception Log for Virtual Assistant Support",
       "path": "content/blog/virtual-assistant-calendar-exception-log.mdx",
@@ -2510,6 +2594,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-content-change-control-evidence",
+      "title": "Content Change Control Evidence for Virtual Assistant Publishing Teams",
+      "path": "content/research/virtual-assistant-content-change-control-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-content-fact-checking",
       "title": "Content Fact Checking for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-content-fact-checking.mdx",
@@ -2759,6 +2850,20 @@
       "title": "Editorial Queue Aging in Virtual Assistant Workflows: A Research Brief",
       "path": "content/research/virtual-assistant-editorial-queue-aging-research.mdx",
       "featuredImage": "/blog/images/virtual-assistant-work-intake-triage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-editorial-queue-service-levels",
+      "title": "Editorial Queue Service Levels for Virtual Assistant Workflows",
+      "path": "content/research/virtual-assistant-editorial-queue-service-levels.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-editorial-rework-measurement",
+      "title": "Measuring Editorial Rework in Virtual Assistant Article Operations",
+      "path": "content/research/virtual-assistant-editorial-rework-measurement.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-kpi-dashboard.webp"
     },
     {
       "type": "research",
@@ -3189,6 +3294,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-source-diversity-limitations",
+      "title": "Source Diversity and Its Limits in Virtual Assistant Research",
+      "path": "content/research/virtual-assistant-source-diversity-limitations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-source-method-fit-audit.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-source-freshness-controls",
       "title": "Source Freshness Controls for Virtual Assistant Research Work",
       "path": "content/research/virtual-assistant-source-freshness-controls.mdx",
@@ -3249,6 +3361,13 @@
       "title": "Virtual Receptionist Routing by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-virtual-receptionist-routing.mdx",
       "featuredImage": "/blog/images/virtual-assistant-virtual-receptionist-routing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-web-content-accessibility-evidence",
+      "title": "Accessibility Evidence for Virtual Assistant Web Content Checks",
+      "path": "content/research/virtual-assistant-web-content-accessibility-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-accessibility-review-controls.webp"
     },
     {
       "type": "research",
