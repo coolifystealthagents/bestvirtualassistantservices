@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-alt-text-context-pass",
+      "title": "A Context Pass for Article Image Alt Text",
+      "path": "content/blog/virtual-assistant-alt-text-context-pass.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-accessibility-review-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-brief-assumption-register",
+      "title": "The Brief Assumption Register: A Practical Check Before Drafting",
+      "path": "content/blog/virtual-assistant-brief-assumption-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-brief-research-reproducibility.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-correction-intake-note",
+      "title": "Writing a Useful Article Correction Intake Note",
+      "path": "content/blog/virtual-assistant-correction-intake-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-summary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-draft-claim-inventory",
+      "title": "How to Build a Claim Inventory From a Working Draft",
+      "path": "content/blog/virtual-assistant-draft-claim-inventory.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-qa-evidence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-draft-scope-boundary",
+      "title": "Keeping a Draft Inside Its Promised Scope",
+      "path": "content/blog/virtual-assistant-draft-scope-boundary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-approval-window.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-question-log",
+      "title": "An Editorial Question Log That Keeps Daily Publishing Moving",
+      "path": "content/blog/virtual-assistant-editorial-question-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-link-destination-check",
+      "title": "The Link-Destination Check Before an Article Goes Live",
+      "path": "content/blog/virtual-assistant-link-destination-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-mobile-article-proof",
+      "title": "A Mobile Article Proof for Virtual Assistant Publishers",
+      "path": "content/blog/virtual-assistant-mobile-article-proof.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-accessibility-check.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-publication-evidence-packet",
+      "title": "The Small Publication Evidence Packet Every Article Needs",
+      "path": "content/blog/virtual-assistant-publication-evidence-packet.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-retention-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-review-comment-closure",
+      "title": "Closing Review Comments Without Losing the Decision Trail",
+      "path": "content/blog/virtual-assistant-review-comment-closure.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sop-change-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-source-opening-routine",
+      "title": "A Source-Opening Routine for Virtual Assistant Researchers",
+      "path": "content/blog/virtual-assistant-source-opening-routine.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-source-method-fit-audit.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-title-promise-audit",
+      "title": "The Title-Promise Audit for Daily Article Teams",
+      "path": "content/blog/virtual-assistant-title-promise-audit.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-manager-article-queue.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-reading-path-check",
       "title": "The Virtual Assistant Article Reading-Path Check",
       "path": "content/blog/virtual-assistant-article-reading-path-check.mdx",
@@ -2902,6 +2986,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-draft-review-loop-study",
+      "title": "Studying Draft Review Loops in Daily Virtual Assistant Publishing",
+      "path": "content/research/virtual-assistant-draft-review-loop-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-ecommerce-order-escalation",
       "title": "Ecommerce Order Escalation for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-ecommerce-order-escalation.mdx",
@@ -3084,10 +3175,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-image-delivery-observation-study",
+      "title": "Observing Article Image Delivery in Virtual Assistant Publishing",
+      "path": "content/research/virtual-assistant-image-delivery-observation-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-image-rights-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-inbox-triage-service-levels",
       "title": "Inbox Triage Service Levels: Research for Virtual Assistant Buyers",
       "path": "content/research/virtual-assistant-inbox-triage-service-levels.mdx",
       "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-internal-link-sampling-study",
+      "title": "Sampling Internal-Link Quality in a Virtual Assistant Content Library",
+      "path": "content/research/virtual-assistant-internal-link-sampling-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
     },
     {
       "type": "research",
@@ -3266,6 +3371,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-publication-date-consistency-study",
+      "title": "A Study Design for Publication-Date Consistency Across Article Surfaces",
+      "path": "content/research/virtual-assistant-publication-date-consistency-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-publication-evidence-retention",
       "title": "Publication Evidence Retention for Virtual Assistant Content Teams",
       "path": "content/research/virtual-assistant-publication-evidence-retention.mdx",
@@ -3431,6 +3543,13 @@
       "title": "When Does a Source Method Fit a Virtual Assistant Services Research Question?",
       "path": "content/research/virtual-assistant-source-method-fit-audit.mdx",
       "featuredImage": "/blog/images/virtual-assistant-source-method-fit-audit.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-source-retrieval-reliability-study",
+      "title": "Studying Source Retrieval Reliability in Virtual Assistant Research",
+      "path": "content/research/virtual-assistant-source-retrieval-reliability-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
     },
     {
       "type": "research",
