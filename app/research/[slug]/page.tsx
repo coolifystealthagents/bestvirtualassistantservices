@@ -117,6 +117,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
               <p className="eyebrow">Philippines talent research · 2026 report</p>
               <h1>{post.title}</h1>
               <p className="research-report-lead">{post.excerpt}</p>
+              {post.thumbnail ? <img className="article-hero-image research-article-hero-image" data-article-hero="true" src={post.thumbnail} alt={post.title} width="1200" height="675" loading="eager" /> : null}
               <div className="research-report-meta" aria-label="Article details">
                 <span>Published <time dateTime={post.published}>{publishedLabel(post.published)}</time></span>
                 <span>{post.readingMinutes} minute read</span>

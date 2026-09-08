@@ -16,6 +16,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: `${post.title} | ${site.brand}`,
     description: post.excerpt,
     alternates: { canonical: `${site.url}/blog/${post.slug}` },
+    ...(post.featuredImage ? {
+      openGraph: {
+        title: post.title,
+        description: post.excerpt,
+        url: `${site.url}/blog/${post.slug}`,
+        siteName: site.brand,
+        type: 'article' as const,
+        publishedTime: post.published,
+        modifiedTime: post.modified,
+        images: [{ url: `${site.url}${post.featuredImage}`, alt: post.title }],
+      },
+      twitter: { card: 'summary_large_image' as const, title: post.title, description: post.excerpt, images: [`${site.url}${post.featuredImage}`] },
+    } : {}),
   };
 }
 
@@ -49,6 +62,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
             <p className="eyebrow">{site.brand} blog</p>
             <h1>{post.title}</h1>
             <p className="lead">{post.excerpt}</p>
+            {post.featuredImage ? <img className="article-hero-image" data-article-hero="true" src={post.featuredImage} alt={post.title} width="1200" height="675" loading="eager" /> : null}
             {post.published ? <time className="article-date" dateTime={post.published}>Published {formatPublicationDate(post.published)}</time> : null}
             <p className="article-meta">{post.minutes} minute read</p>
 

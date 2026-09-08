@@ -45,6 +45,7 @@ export const publishedContentBlogPosts: BlogPost[] = indexed.filter((item) => it
   const fm = frontMatter(item.path);
   return {
     slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A practical virtual assistant workflow guide.', published: fm.publishedAt, modified: fm.updatedAt || fm.publishedAt, minutes: Number.parseInt(fm.readingTime || '8', 10),
+    featuredImage: item.featuredImage,
     keyTakeaways: ['Use a written brief and definition of done.', 'Keep approvals and escalation rules visible.', 'Review quality before expanding the workflow.'],
     sections: articleBody(item.path), faq: [], sources: [{ name: 'NIST small business cybersecurity guidance', url: 'https://www.nist.gov/itl/smallbusinesscyber' }],
   };
