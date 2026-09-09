@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-redirect-handoff",
+      "title": "The Article Redirect Handoff After a Slug Change",
+      "path": "content/blog/virtual-assistant-article-redirect-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-citation-context-note",
+      "title": "Write a Citation Context Note Before You Use the Source",
+      "path": "content/blog/virtual-assistant-citation-context-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-blog-reference-snapshot.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-publishing-stop-rule",
+      "title": "A Stop Rule for Daily Publishing When Evidence Is Missing",
+      "path": "content/blog/virtual-assistant-daily-publishing-stop-rule.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-exception-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-draft-file-naming-rule",
+      "title": "A Draft File-Naming Rule for Busy Content Queues",
+      "path": "content/blog/virtual-assistant-draft-file-naming-rule.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-version-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-desk-opening-check",
+      "title": "The 15-Minute Editorial Desk Opening Check",
+      "path": "content/blog/virtual-assistant-editorial-desk-opening-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-handoff-cutoff",
+      "title": "Set an Editorial Handoff Cutoff That People Can Use",
+      "path": "content/blog/virtual-assistant-editorial-handoff-cutoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-review-sla.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-example-fact-check",
+      "title": "Fact-Check the Example, Not Just the Main Claim",
+      "path": "content/blog/virtual-assistant-example-fact-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-fact-checking.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-next-morning-publication-check",
+      "title": "The Next-Morning Publication Check",
+      "path": "content/blog/virtual-assistant-next-morning-publication-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-refresh-trigger.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-reader-task-test",
+      "title": "Can the Reader Act on It? Run a Reader Task Test",
+      "path": "content/blog/virtual-assistant-reader-task-test.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-reader-scenario-test.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-screenshot-evidence-label",
+      "title": "Label Screenshot Evidence So Another Reviewer Can Use It",
+      "path": "content/blog/virtual-assistant-screenshot-evidence-label.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-qa-evidence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-source-quote-boundary",
+      "title": "Draw the Boundary Around a Source Quote",
+      "path": "content/blog/virtual-assistant-source-quote-boundary.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-quote-permission-check.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-table-small-screen-review",
+      "title": "How to Review an Article Table on a Small Screen",
+      "path": "content/blog/virtual-assistant-table-small-screen-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-accessibility-check.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-alt-text-context-pass",
       "title": "A Context Pass for Article Image Alt Text",
       "path": "content/blog/virtual-assistant-alt-text-context-pass.mdx",
@@ -2657,6 +2741,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-citation-context-completeness-study",
+      "title": "A Study of Citation Context Completeness in Published Articles",
+      "path": "content/research/virtual-assistant-citation-context-completeness-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-citation-coverage-study",
       "title": "Studying Citation Coverage in Virtual Assistant Research Articles",
       "path": "content/research/virtual-assistant-citation-coverage-study.mdx",
@@ -3042,6 +3133,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-editorial-handoff-delay-study",
+      "title": "Measuring Editorial Handoff Delay in a Daily Article Queue",
+      "path": "content/research/virtual-assistant-editorial-handoff-delay-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-editorial-queue-aging-evidence",
       "title": "When Does an Aging Article Queue Become a Quality Risk?",
       "path": "content/research/virtual-assistant-editorial-queue-aging-evidence.mdx",
@@ -3329,6 +3427,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-mobile-reading-friction-study",
+      "title": "Observing Mobile Reading Friction in Virtual Assistant Articles",
+      "path": "content/research/virtual-assistant-mobile-reading-friction-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-reader-fit.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-newsletter-list-hygiene",
       "title": "Newsletter List Hygiene for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-newsletter-list-hygiene.mdx",
@@ -3347,6 +3452,13 @@
       "title": "Podcast Production Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-podcast-production-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-podcast-production-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-post-release-drift-study",
+      "title": "Tracking Post-Release Drift Across Article Surfaces",
+      "path": "content/research/virtual-assistant-post-release-drift-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
     },
     {
       "type": "research",
@@ -3382,6 +3494,13 @@
       "title": "Publication Evidence Retention for Virtual Assistant Content Teams",
       "path": "content/research/virtual-assistant-publication-evidence-retention.mdx",
       "featuredImage": "/blog/images/virtual-assistant-access-control-audit.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-publication-stop-rule-study",
+      "title": "Studying Publication Stop Rules in Daily Content Operations",
+      "path": "content/research/virtual-assistant-publication-stop-rule-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-approval-record.webp"
     },
     {
       "type": "research",
