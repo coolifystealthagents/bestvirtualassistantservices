@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-article-brief-assumption-log",
+      "title": "Keep an Assumption Log Beside the Article Brief",
+      "path": "content/blog/virtual-assistant-article-brief-assumption-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-image-context-review",
+      "title": "Review Whether an Article Image Fits Its Context",
+      "path": "content/blog/virtual-assistant-article-image-context-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-owner-absence-cover",
+      "title": "Prepare Article Coverage Before the Owner Is Away",
+      "path": "content/blog/virtual-assistant-article-owner-absence-cover.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-article-preview-access-check",
+      "title": "Test Article Preview Access With the Intended Reviewer",
+      "path": "content/blog/virtual-assistant-article-preview-access-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-content-correction-intake",
+      "title": "A Practical Intake Record for Article Corrections",
+      "path": "content/blog/virtual-assistant-content-correction-intake.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-daily-content-closeout-note",
+      "title": "Write a Daily Content Closeout Note That Helps Tomorrow",
+      "path": "content/blog/virtual-assistant-daily-content-closeout-note.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-comment-resolution",
+      "title": "Close Editorial Comments Without Losing the Decision",
+      "path": "content/blog/virtual-assistant-editorial-comment-resolution.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-editorial-queue-aging-review",
+      "title": "How to Review Aging Work in an Editorial Queue",
+      "path": "content/blog/virtual-assistant-editorial-queue-aging-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-heading-outline-proof",
+      "title": "Proof the Heading Outline Before the Final Read",
+      "path": "content/blog/virtual-assistant-heading-outline-proof.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-internal-link-destination-check",
+      "title": "Check the Destination Before Adding an Internal Link",
+      "path": "content/blog/virtual-assistant-internal-link-destination-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-publish-window-time-zone-check",
+      "title": "Put a Time Zone on Every Publishing Window",
+      "path": "content/blog/virtual-assistant-publish-window-time-zone-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-source-access-date-record",
+      "title": "Record When an Online Source Was Actually Checked",
+      "path": "content/blog/virtual-assistant-source-access-date-record.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-article-redirect-handoff",
       "title": "The Article Redirect Handoff After a Slug Change",
       "path": "content/blog/virtual-assistant-article-redirect-handoff.mdx",
@@ -2671,6 +2755,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-brief-assumption-resolution-study",
+      "title": "Studying How Article-Brief Assumptions Get Resolved",
+      "path": "content/research/virtual-assistant-brief-assumption-resolution-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-business-continuity-coverage",
       "title": "Virtual Assistant Business Continuity Coverage: A Research Brief",
       "path": "content/research/virtual-assistant-business-continuity-coverage.mdx",
@@ -2916,6 +3007,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-correction-intake-completeness-study",
+      "title": "A Study of Correction-Intake Completeness",
+      "path": "content/research/virtual-assistant-correction-intake-completeness-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-exception-log.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-correction-response-evidence",
       "title": "Evidence for Article Correction Response in Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-correction-response-evidence.mdx",
@@ -3154,6 +3252,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-editorial-queue-aging-study",
+      "title": "Measuring Work Aging in a Daily Editorial Queue",
+      "path": "content/research/virtual-assistant-editorial-queue-aging-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-editorial-queue-service-levels",
       "title": "Editorial Queue Service Levels for Virtual Assistant Workflows",
       "path": "content/research/virtual-assistant-editorial-queue-service-levels.mdx",
@@ -3291,6 +3396,13 @@
       "title": "Sampling Internal-Link Quality in a Virtual Assistant Content Library",
       "path": "content/research/virtual-assistant-internal-link-sampling-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-seo-publishing-checklist.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-internal-link-task-fit-study",
+      "title": "Testing Internal-Link Task Fit in Virtual Assistant Articles",
+      "path": "content/research/virtual-assistant-internal-link-task-fit-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-reader-fit.webp"
     },
     {
       "type": "research",
@@ -3501,6 +3613,13 @@
       "title": "Studying Publication Stop Rules in Daily Content Operations",
       "path": "content/research/virtual-assistant-publication-stop-rule-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-article-approval-record.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-publish-time-zone-error-study",
+      "title": "Observing Time-Zone Errors in Scheduled Article Releases",
+      "path": "content/research/virtual-assistant-publish-time-zone-error-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
     },
     {
       "type": "research",
