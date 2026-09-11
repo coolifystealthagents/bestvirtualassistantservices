@@ -63,7 +63,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
             <h1>{post.title}</h1>
             <p className="lead">{post.excerpt}</p>
             {post.featuredImage ? <img className="article-hero-image" data-article-hero="true" src={post.featuredImage} alt={post.title} width="1200" height="675" loading="eager" /> : null}
-            {post.published ? <time className="article-date" dateTime={post.published}>Published {formatPublicationDate(post.published)}</time> : null}
+            {post.published ? <time className="article-date" dateTime={post.published}>Published: {formatPublicationDate(post.published)}</time> : null}
             <p className="article-meta">{post.minutes} minute read</p>
 
             <aside className="article-rotation-banner article-rotation-banner-top" data-article-banner="true">
