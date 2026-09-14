@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-customer-request-scope-check",
+      "title": "Run a Scope Check Before Handling a Customer Request",
+      "path": "content/blog/virtual-assistant-customer-request-scope-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-dashboard-definition-check",
+      "title": "Check Metric Definitions Before Updating a Dashboard",
+      "path": "content/blog/virtual-assistant-dashboard-definition-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-deliverable-acceptance-record",
+      "title": "Create an Acceptance Record for Assistant Deliverables",
+      "path": "content/blog/virtual-assistant-deliverable-acceptance-record.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-end-of-day-exception-handoff",
+      "title": "Write an End-of-Day Exception Handoff",
+      "path": "content/blog/virtual-assistant-end-of-day-exception-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-file-naming-governance",
+      "title": "A File-Naming Rule That Supports Reliable Handoffs",
+      "path": "content/blog/virtual-assistant-file-naming-governance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-knowledge-base-stale-page-triage",
+      "title": "Triage Stale Pages in a Virtual Assistant Knowledge Base",
+      "path": "content/blog/virtual-assistant-knowledge-base-stale-page-triage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-meeting-decision-register",
+      "title": "Keep a Decision Register After Virtual Meetings",
+      "path": "content/blog/virtual-assistant-meeting-decision-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-monday-priority-reset",
+      "title": "A Monday Priority Reset for Virtual Assistant Work",
+      "path": "content/blog/virtual-assistant-monday-priority-reset.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-recurring-task-owner-check",
+      "title": "Check the Owner of Every Recurring Assistant Task",
+      "path": "content/blog/virtual-assistant-recurring-task-owner-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-shared-inbox-escalation-clock",
+      "title": "Set an Escalation Clock for a Shared Inbox",
+      "path": "content/blog/virtual-assistant-shared-inbox-escalation-clock.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-vendor-contact-verification",
+      "title": "Verify Vendor Contacts Before a Critical Handoff",
+      "path": "content/blog/virtual-assistant-vendor-contact-verification.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-weekly-access-change-review",
+      "title": "Review Weekly Access Changes for Virtual Assistants",
+      "path": "content/blog/virtual-assistant-weekly-access-change-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-daily-article-status.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-access-removal-checklist",
       "title": "Virtual Assistant Access Removal Checklist",
       "path": "content/blog/virtual-assistant-access-removal-checklist.mdx",
@@ -2699,6 +2783,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-access-change-reconciliation-study",
+      "title": "A Reconciliation Study of Virtual Assistant Access Changes",
+      "path": "content/research/virtual-assistant-access-change-reconciliation-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-access-control-audit",
       "title": "Virtual Assistant Access Control Audit: A Research Brief",
       "path": "content/research/virtual-assistant-access-control-audit.mdx",
@@ -3231,6 +3322,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-decision-register-completeness-study",
+      "title": "Evaluating Virtual Meeting Decision-Register Completeness",
+      "path": "content/research/virtual-assistant-decision-register-completeness-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-delegation-evidence-transfer",
       "title": "What Evidence Should Transfer When a Virtual Assistant Hands Research to an Editor?",
       "path": "content/research/virtual-assistant-delegation-evidence-transfer.mdx",
@@ -3490,6 +3588,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-inbox-escalation-timing-study",
+      "title": "Measuring Shared-Inbox Escalation Timing",
+      "path": "content/research/virtual-assistant-inbox-escalation-timing-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-inbox-response-sampling-study",
       "title": "A Sampling Study of Virtual Assistant Inbox Response Records",
       "path": "content/research/virtual-assistant-inbox-response-sampling-study.mdx",
@@ -3686,6 +3791,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-priority-reset-consistency-study",
+      "title": "Studying Consistency in Virtual Assistant Priority Resets",
+      "path": "content/research/virtual-assistant-priority-reset-consistency-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-procurement-coordination",
       "title": "Procurement Coordination by Virtual Assistants: Approval Boundaries",
       "path": "content/research/virtual-assistant-procurement-coordination.mdx",
@@ -3753,6 +3865,13 @@
       "title": "Digital Record Intake Provenance by Virtual Assistants",
       "path": "content/research/virtual-assistant-record-intake-provenance.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-recurring-task-drift-study",
+      "title": "Observing Drift in Recurring Virtual Assistant Tasks",
+      "path": "content/research/virtual-assistant-recurring-task-drift-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
     },
     {
       "type": "research",
