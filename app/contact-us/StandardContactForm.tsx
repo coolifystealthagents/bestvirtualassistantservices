@@ -76,25 +76,25 @@ export default function StandardContactForm({ endpoint = "/api/submit-lead", enc
   return (
     <div className="sa-form-card">
       <h2>Find Growth In Your Business By Hiring Industry Experienced Virtual Assistants</h2>
-      <form onSubmit={submit} id="contactPageForm">
+      <form action={endpoint} method="post" onSubmit={submit} id="contactPageForm">
         <input className="sa-hp" name="website_url" tabIndex={-1} autoComplete="off" aria-hidden="true" />
         <div className="sa-grid">
-          <label>First Name *<input name="firstName" required autoComplete="given-name" /></label>
-          <label>Last Name *<input name="lastName" required autoComplete="family-name" /></label>
+          <label htmlFor="contact-first-name">First Name *<input id="contact-first-name" name="firstName" required autoComplete="given-name" /></label>
+          <label htmlFor="contact-last-name">Last Name *<input id="contact-last-name" name="lastName" required autoComplete="family-name" /></label>
         </div>
-        <label>Business Email *<input name="email" type="email" required autoComplete="email" /><small>Not Accepting Personal Email</small></label>
-        <label>Phone Number *<span className="sa-phone"><select aria-label="Country code" value={countryCode} onChange={(e) => setCountryCode(e.target.value)}>{countryCodes.map(([flag, code], i) => <option value={code} key={`${code}-${i}`}>{flag} {code}</option>)}</select><input name="phoneLocal" type="tel" required autoComplete="tel-national" placeholder="Phone number" /></span></label>
+        <label htmlFor="contact-email">Business Email *<input id="contact-email" name="email" type="email" required autoComplete="email" /><small>Not Accepting Personal Email</small></label>
+        <label htmlFor="contact-phone">Phone Number *<span className="sa-phone"><select aria-label="Country code" value={countryCode} onChange={(e) => setCountryCode(e.target.value)}>{countryCodes.map(([flag, code], i) => <option value={code} key={`${code}-${i}`}>{flag} {code}</option>)}</select><input id="contact-phone" name="phoneLocal" type="tel" required autoComplete="tel-national" placeholder="Phone number" /></span></label>
         <div className="sa-grid">
-          <label>Company Name *<input name="companyName" required autoComplete="organization" /></label>
-          <label>Website / URL<input name="website" placeholder="example.com" autoComplete="url" /></label>
+          <label htmlFor="contact-company">Company Name *<input id="contact-company" name="companyName" required autoComplete="organization" /></label>
+          <label htmlFor="contact-website">Website / URL<input id="contact-website" name="website" placeholder="example.com" autoComplete="url" /></label>
         </div>
         <div className="sa-grid">
-          <label>Company Size *<select name="companySize" required defaultValue=""><option value="" disabled>Select...</option>{companySizes.map((x) => <option key={x}>{x}</option>)}</select></label>
-          <label>How Many Positions to Fill *<select name="positions" required defaultValue=""><option value="" disabled>Select...</option>{positions.map((x) => <option key={x}>{x}</option>)}</select></label>
+          <label htmlFor="contact-company-size">Company Size *<select id="contact-company-size" name="companySize" required defaultValue=""><option value="" disabled>Select...</option>{companySizes.map((x) => <option key={x}>{x}</option>)}</select></label>
+          <label htmlFor="contact-positions">How Many Positions to Fill *<select id="contact-positions" name="positions" required defaultValue=""><option value="" disabled>Select...</option>{positions.map((x) => <option key={x}>{x}</option>)}</select></label>
         </div>
-        <label>How Did You Hear About Us? *<select name="referral" required value={referral} onChange={(e) => setReferral(e.target.value)}><option value="" disabled>Select...</option>{referrals.map((x) => <option key={x}>{x}</option>)}</select></label>
-        {referral === "Other" ? <label>Please Specify *<input name="referralSpecify" required /></label> : null}
-        <label>Message<textarea name="message" rows={4} /></label>
+        <label htmlFor="contact-referral">How Did You Hear About Us? *<select id="contact-referral" name="referral" required value={referral} onChange={(e) => setReferral(e.target.value)}><option value="" disabled>Select...</option>{referrals.map((x) => <option key={x}>{x}</option>)}</select></label>
+        {referral === "Other" ? <label htmlFor="contact-referral-other">Please Specify *<input id="contact-referral-other" name="referralSpecify" required /></label> : null}
+        <label htmlFor="contact-message">Message<textarea id="contact-message" name="message" rows={4} /></label>
         {error ? <p className="sa-error" role="alert">{error}</p> : null}
         <button type="submit" disabled={submitting}>{submitting ? "Submitting..." : "Book a Free Consultation"}</button>
       </form>
