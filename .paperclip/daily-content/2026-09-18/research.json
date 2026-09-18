@@ -2,6 +2,13 @@
   "runDate": "2026-09-18",
   "family": "research",
   "requiredCount": 5,
+  "verifiedCount": 5,
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "productionBranch": "main",
+  "articleCommit": "6cca66b74a4a521e68db2df63598093a2bcd7180",
+  "verifiedRemoteSha": "42d4d7340b163bd3f3680ff6a00a1b3ea6d4c21a",
+  "deploymentEvidence": "Authenticated Coolify attempts bf9heducqta226rxi4xa9yox and 75xsb2ajjmboseugs7wa3tp0 were cancelled after queuing against stale SHA 991eab8607702b2a0069608605cb3be075c34171; bounded public HTTP verification subsequently proved all five routes live from a production revision containing article commit 6cca66b74a4a521e68db2df63598093a2bcd7180.",
+  "verificationTime": "2026-09-18T14:27:28Z",
   "entries": [
     {
       "family": "research",
@@ -49,7 +56,11 @@
       "checkedDate": "2026-09-18",
       "publishedAt": "2026-09-18",
       "liveUrl": "https://bestvirtualassistantservices.com/research/filipino-virtual-assistant-screening-evidence-study",
-      "status": "pending-live-verification"
+      "contentHash": "a749124b616504cc6bea44529906309eef8ca8de452557392c11856e2ef85e9e",
+      "commitSha": "6cca66b74a4a521e68db2df63598093a2bcd7180",
+      "verificationTime": "2026-09-18T14:27:28Z",
+      "verification": ["HTTP 200", "title", "unique body", "canonical", "datePublished", "visible date", "image asset HTTP 200", "sitemap entry"],
+      "status": "live-verified"
     },
     {
       "family": "research",
@@ -97,7 +108,11 @@
       "checkedDate": "2026-09-18",
       "publishedAt": "2026-09-18",
       "liveUrl": "https://bestvirtualassistantservices.com/research/filipino-virtual-assistant-paid-trial-design-study",
-      "status": "pending-live-verification"
+      "contentHash": "015a3ba7b309e9cf3149378c6781719bee0124574a9e5cb7868d66d39d705b0c",
+      "commitSha": "6cca66b74a4a521e68db2df63598093a2bcd7180",
+      "verificationTime": "2026-09-18T14:27:28Z",
+      "verification": ["HTTP 200", "title", "unique body", "canonical", "datePublished", "visible date", "image asset HTTP 200", "sitemap entry"],
+      "status": "live-verified"
     },
     {
       "family": "research",
@@ -145,7 +160,11 @@
       "checkedDate": "2026-09-18",
       "publishedAt": "2026-09-18",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-model-management-load-study",
-      "status": "pending-live-verification"
+      "contentHash": "9165451d83c9d3285dc7cdf6db290e1194fe115a458859c0c1e6ce3e619d05ee",
+      "commitSha": "6cca66b74a4a521e68db2df63598093a2bcd7180",
+      "verificationTime": "2026-09-18T14:27:28Z",
+      "verification": ["HTTP 200", "title", "unique body", "canonical", "datePublished", "visible date", "image asset HTTP 200", "sitemap entry"],
+      "status": "live-verified"
     },
     {
       "family": "research",
@@ -193,7 +212,11 @@
       "checkedDate": "2026-09-18",
       "publishedAt": "2026-09-18",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-replacement-support-study",
-      "status": "pending-live-verification"
+      "contentHash": "fa5d7d2b5f909122353c577f05c143754b35957686701dc5bb8af1a87202b457",
+      "commitSha": "6cca66b74a4a521e68db2df63598093a2bcd7180",
+      "verificationTime": "2026-09-18T14:27:28Z",
+      "verification": ["HTTP 200", "title", "unique body", "canonical", "datePublished", "visible date", "image asset HTTP 200", "sitemap entry"],
+      "status": "live-verified"
     },
     {
       "family": "research",
@@ -241,7 +264,11 @@
       "checkedDate": "2026-09-18",
       "publishedAt": "2026-09-18",
       "liveUrl": "https://bestvirtualassistantservices.com/research/filipino-virtual-assistant-data-processing-terms-study",
-      "status": "pending-live-verification"
+      "contentHash": "3234dee52c850e27dfd7350c4e06263f02497ad42350a5d3e0467e0c0e716ba7",
+      "commitSha": "6cca66b74a4a521e68db2df63598093a2bcd7180",
+      "verificationTime": "2026-09-18T14:27:28Z",
+      "verification": ["HTTP 200", "title", "unique body", "canonical", "datePublished", "visible date", "image asset HTTP 200", "sitemap entry"],
+      "status": "live-verified"
     }
   ]
 }
