@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "contract": "canonical-daily-blog-publishing",
+  "family": "blog",
+  "domain": "bestvirtualassistantservices.com",
+  "targetDate": "2026-09-18",
+  "required": 12,
+  "verified": 0,
+  "entries": [
+    {
+      "family": "blog",
+      "topic": "How to Score a Virtual Assistant Trial Project",
+      "slug": "virtual-assistant-trial-project-scorecard",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "a5d602e95cdd8930a0388340e71048706d06c133d9a30e1b46182a2d5e68394e",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-trial-project-scorecard",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-trial-project-scorecard",
+      "sourcePath": "content/blog/virtual-assistant-trial-project-scorecard.mdx",
+      "imagePath": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Part-Time vs Full-Time Virtual Assistant: A Workload Test",
+      "slug": "virtual-assistant-part-time-vs-full-time-planning",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "95057cd44d102a47196e2f1425705ca79dd1f5a647991a3ef63a03be2702b792",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-part-time-vs-full-time-planning",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-part-time-vs-full-time-planning",
+      "sourcePath": "content/blog/virtual-assistant-part-time-vs-full-time-planning.mdx",
+      "imagePath": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Agency vs Freelancer: Compare the Operating Model",
+      "slug": "virtual-assistant-agency-vs-freelancer-operations",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "63186758760fcb364ad23fd97895dae0f624cc1b6e5cda53e923738349719c20",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-agency-vs-freelancer-operations",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-agency-vs-freelancer-operations",
+      "sourcePath": "content/blog/virtual-assistant-agency-vs-freelancer-operations.mdx",
+      "imagePath": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Plan Virtual Assistant Coverage Hours Without Guesswork",
+      "slug": "virtual-assistant-coverage-hours-planning",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "5f8f7da554a60dceefee32077868205559e75eb27acbf1f93a02a80be0a54ee8",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-coverage-hours-planning",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-coverage-hours-planning",
+      "sourcePath": "content/blog/virtual-assistant-coverage-hours-planning.mdx",
+      "imagePath": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Security Questions to Ask Before Hiring a Virtual Assistant",
+      "slug": "virtual-assistant-security-questions-before-hiring",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "822ed27ea56af3ef62eb17657872f4ba772e4b713d1a5acf05068726f0d67453",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-security-questions-before-hiring",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-security-questions-before-hiring",
+      "sourcePath": "content/blog/virtual-assistant-security-questions-before-hiring.mdx",
+      "imagePath": "/blog/images/virtual-assistant-security-access-checklist.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "A 30-Day Virtual Assistant Onboarding Plan",
+      "slug": "virtual-assistant-first-30-days-onboarding",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "120ad6550c13aa8cc6e05cdecedc72767cc8807cd3cd857a34d5813997c0799a",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-first-30-days-onboarding",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-first-30-days-onboarding",
+      "sourcePath": "content/blog/virtual-assistant-first-30-days-onboarding.mdx",
+      "imagePath": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Five Metrics for Virtual Assistant Handoff Quality",
+      "slug": "virtual-assistant-handoff-quality-metrics",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "f59415e0e8549b6bf3b27ddca862d96f650a70f3e406ff7f9ffaa2c9f022e37d",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-handoff-quality-metrics",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-handoff-quality-metrics",
+      "sourcePath": "content/blog/virtual-assistant-handoff-quality-metrics.mdx",
+      "imagePath": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Use Change Control for Ecommerce Catalog Updates",
+      "slug": "virtual-assistant-ecommerce-catalog-change-control",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "291985f733cecb38c09ccf4ac82c99ccd4b33e80bc361e5051b392255e02740b",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-ecommerce-catalog-change-control",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-ecommerce-catalog-change-control",
+      "sourcePath": "content/blog/virtual-assistant-ecommerce-catalog-change-control.mdx",
+      "imagePath": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Write CRM Lead-Routing Rules a Virtual Assistant Can Follow",
+      "slug": "virtual-assistant-crm-lead-routing-rules",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "4e0170d68ceb55a7e065ab7af70202fb3ea50110f64a41bc3158e987538a2476",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-crm-lead-routing-rules",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-crm-lead-routing-rules",
+      "sourcePath": "content/blog/virtual-assistant-crm-lead-routing-rules.mdx",
+      "imagePath": "/blog/images/virtual-assistant-lead-qualification-workflow.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "What to Put in an Executive Meeting Brief",
+      "slug": "virtual-executive-assistant-meeting-brief",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "50951f5094371ce997310f9ad83e41d20b2f013daa95cb5d94322d2817e448e6",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-executive-assistant-meeting-brief",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-executive-assistant-meeting-brief",
+      "sourcePath": "content/blog/virtual-executive-assistant-meeting-brief.mdx",
+      "imagePath": "/blog/images/virtual-assistant-meeting-preparation-process.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Build a Refund Authority Matrix for Customer Support",
+      "slug": "virtual-assistant-refund-authority-matrix",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "0622725cd639083b3a23aa49961e2b7d8392e6a9e088097d01d8926096d69262",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-refund-authority-matrix",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-refund-authority-matrix",
+      "sourcePath": "content/blog/virtual-assistant-refund-authority-matrix.mdx",
+      "imagePath": "/blog/images/virtual-assistant-customer-refund-escalation.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Estimate a Virtual Assistant Role Before You Hire",
+      "slug": "virtual-assistant-service-scope-estimator",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "868a91b82adcd286a46975d9759b67a9bbe9a3cd4682e1b6e6efd0bcce512c29",
+      "actualPublicationDate": "2026-09-18",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-service-scope-estimator",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-service-scope-estimator",
+      "sourcePath": "content/blog/virtual-assistant-service-scope-estimator.mdx",
+      "imagePath": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp"
+    }
+  ]
+}

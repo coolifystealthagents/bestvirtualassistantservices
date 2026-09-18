@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-agency-vs-freelancer-operations",
+      "title": "Virtual Assistant Agency vs Freelancer: Compare the Operating Model",
+      "path": "content/blog/virtual-assistant-agency-vs-freelancer-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-coverage-hours-planning",
+      "title": "Plan Virtual Assistant Coverage Hours Without Guesswork",
+      "path": "content/blog/virtual-assistant-coverage-hours-planning.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-crm-lead-routing-rules",
+      "title": "Write CRM Lead-Routing Rules a Virtual Assistant Can Follow",
+      "path": "content/blog/virtual-assistant-crm-lead-routing-rules.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-lead-qualification-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-ecommerce-catalog-change-control",
+      "title": "Use Change Control for Ecommerce Catalog Updates",
+      "path": "content/blog/virtual-assistant-ecommerce-catalog-change-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-first-30-days-onboarding",
+      "title": "A 30-Day Virtual Assistant Onboarding Plan",
+      "path": "content/blog/virtual-assistant-first-30-days-onboarding.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-handoff-quality-metrics",
+      "title": "Five Metrics for Virtual Assistant Handoff Quality",
+      "path": "content/blog/virtual-assistant-handoff-quality-metrics.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-part-time-vs-full-time-planning",
+      "title": "Part-Time vs Full-Time Virtual Assistant: A Workload Test",
+      "path": "content/blog/virtual-assistant-part-time-vs-full-time-planning.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-refund-authority-matrix",
+      "title": "Build a Refund Authority Matrix for Customer Support",
+      "path": "content/blog/virtual-assistant-refund-authority-matrix.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-refund-escalation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-security-questions-before-hiring",
+      "title": "Security Questions to Ask Before Hiring a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-security-questions-before-hiring.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-security-access-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-scope-estimator",
+      "title": "Estimate a Virtual Assistant Role Before You Hire",
+      "path": "content/blog/virtual-assistant-service-scope-estimator.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-trial-project-scorecard",
+      "title": "How to Score a Virtual Assistant Trial Project",
+      "path": "content/blog/virtual-assistant-trial-project-scorecard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-executive-assistant-meeting-brief",
+      "title": "What to Put in an Executive Meeting Brief",
+      "path": "content/blog/virtual-executive-assistant-meeting-brief.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-preparation-process.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-customer-request-scope-check",
       "title": "Run a Scope Check Before Handling a Customer Request",
       "path": "content/blog/virtual-assistant-customer-request-scope-check.mdx",
