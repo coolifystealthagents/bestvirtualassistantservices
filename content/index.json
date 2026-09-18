@@ -2734,6 +2734,27 @@
     },
     {
       "type": "research",
+      "slug": "filipino-virtual-assistant-data-processing-terms-study",
+      "title": "Which Data-Processing Terms Matter When Hiring a Filipino Virtual Assistant Service?",
+      "path": "content/research/filipino-virtual-assistant-data-processing-terms-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "filipino-virtual-assistant-paid-trial-design-study",
+      "title": "How Should Buyers Design a Paid Trial for a Filipino Virtual Assistant?",
+      "path": "content/research/filipino-virtual-assistant-paid-trial-design-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-task-brief-for-repeatable-delegation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "filipino-virtual-assistant-screening-evidence-study",
+      "title": "What Screening Evidence Should a Filipino Virtual Assistant Provider Show?",
+      "path": "content/research/filipino-virtual-assistant-screening-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "grant-application-evidence-index",
       "title": "Grant Application Evidence Indexing by Virtual Assistants",
       "path": "content/research/grant-application-evidence-index.md",
@@ -3819,6 +3840,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-provider-replacement-support-study",
+      "title": "What Does Replacement Support Actually Cover in a Virtual Assistant Service?",
+      "path": "content/research/virtual-assistant-provider-replacement-support-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-version-control.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-publication-date-consistency-study",
       "title": "A Study Design for Publication-Date Consistency Across Article Surfaces",
       "path": "content/research/virtual-assistant-publication-date-consistency-study.mdx",
@@ -3956,6 +3984,13 @@
       "title": "Service-Level Reviews for Virtual Assistant Operations",
       "path": "content/research/virtual-assistant-service-level-review.mdx",
       "featuredImage": "/blog/images/virtual-assistant-service-level-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-service-model-management-load-study",
+      "title": "How Can Buyers Compare Management Load Across Virtual Assistant Service Models?",
+      "path": "content/research/virtual-assistant-service-model-management-load-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
     },
     {
       "type": "research",
