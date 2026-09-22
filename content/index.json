@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "bilingual-virtual-assistant-screening-guide",
+      "title": "Bilingual Virtual Assistant Screening Guide",
+      "path": "content/blog/bilingual-virtual-assistant-screening-guide.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-call-quality-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "compare-virtual-assistant-service-quotes",
+      "title": "How to Compare Virtual Assistant Service Quotes",
+      "path": "content/blog/compare-virtual-assistant-service-quotes.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "dedicated-vs-shared-virtual-assistant-service",
+      "title": "Dedicated vs Shared Virtual Assistant Service: Which Model Fits?",
+      "path": "content/blog/dedicated-vs-shared-virtual-assistant-service.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-capacity-planning.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "managed-virtual-assistant-vs-bpo-customer-support",
+      "title": "Managed Virtual Assistant vs BPO for Customer Support",
+      "path": "content/blog/managed-virtual-assistant-vs-bpo-customer-support.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "philippines-virtual-assistant-holiday-coverage-plan",
+      "title": "Plan Holiday Coverage With a Philippines Virtual Assistant",
+      "path": "content/blog/philippines-virtual-assistant-holiday-coverage-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-backup-coverage-evaluation",
+      "title": "How to Evaluate Virtual Assistant Backup Coverage",
+      "path": "content/blog/virtual-assistant-backup-coverage-evaluation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-business-continuity-coverage.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-data-processing-agreement-questions",
+      "title": "Data Processing Agreement Questions for a Virtual Assistant Service",
+      "path": "content/blog/virtual-assistant-data-processing-agreement-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-interview-scorecard",
+      "title": "Virtual Assistant Interview Scorecard for Service Buyers",
+      "path": "content/blog/virtual-assistant-interview-scorecard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-owner-review-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-minimum-hours-evaluation",
+      "title": "How to Evaluate Virtual Assistant Minimum Hours",
+      "path": "content/blog/virtual-assistant-minimum-hours-evaluation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-provider-reference-check",
+      "title": "How to Run a Virtual Assistant Provider Reference Check",
+      "path": "content/blog/virtual-assistant-provider-reference-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-replacement-policy-questions",
+      "title": "Virtual Assistant Replacement Policy: 12 Questions to Ask",
+      "path": "content/blog/virtual-assistant-replacement-policy-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-contract-exit-checklist",
+      "title": "Virtual Assistant Service Contract Exit Checklist",
+      "path": "content/blog/virtual-assistant-service-contract-exit-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-security-access-checklist.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-agency-vs-freelancer-operations",
       "title": "Virtual Assistant Agency vs Freelancer: Compare the Operating Model",
       "path": "content/blog/virtual-assistant-agency-vs-freelancer-operations.mdx",
