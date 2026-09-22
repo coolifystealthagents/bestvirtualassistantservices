@@ -2839,6 +2839,13 @@
     },
     {
       "type": "research",
+      "slug": "filipino-virtual-assistant-supervision-cadence-study",
+      "title": "How Should Buyers Verify Supervision in a Filipino Virtual Assistant Service?",
+      "path": "content/research/filipino-virtual-assistant-supervision-cadence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-owner-review-scorecard.webp"
+    },
+    {
+      "type": "research",
       "slug": "grant-application-evidence-index",
       "title": "Grant Application Evidence Indexing by Virtual Assistants",
       "path": "content/research/grant-application-evidence-index.md",
@@ -3319,6 +3326,13 @@
       "title": "Course Administration Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-course-admin-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-course-admin-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-coverage-hours-evidence-study",
+      "title": "What Evidence Makes Virtual Assistant Coverage Hours Comparable?",
+      "path": "content/research/virtual-assistant-coverage-hours-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-coverage-hours-planning.webp"
     },
     {
       "type": "research",
@@ -3875,6 +3889,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-onboarding-responsibility-study",
+      "title": "Which Onboarding Responsibilities Stay With a Virtual Assistant Buyer?",
+      "path": "content/research/virtual-assistant-onboarding-responsibility-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-onboarding-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-operations-reporting",
       "title": "Operations Reporting by Virtual Assistants: A Research Brief",
       "path": "content/research/virtual-assistant-operations-reporting.mdx",
@@ -4078,6 +4099,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-service-offboarding-evidence-study",
+      "title": "What Should a Virtual Assistant Service Offboarding Plan Prove?",
+      "path": "content/research/virtual-assistant-service-offboarding-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-removal-checklist.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-service-quality-assurance",
       "title": "Service Quality Assurance by Virtual Assistants: Evidence Controls",
       "path": "content/research/virtual-assistant-service-quality-assurance.mdx",
@@ -4089,6 +4117,13 @@
       "title": "Service Queue Escalation Evidence by Virtual Assistants",
       "path": "content/research/virtual-assistant-service-queue-escalation.md",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-service-quote-scope-study",
+      "title": "How Can Buyers Normalize Scope Across Virtual Assistant Service Quotes?",
+      "path": "content/research/virtual-assistant-service-quote-scope-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
     },
     {
       "type": "research",
