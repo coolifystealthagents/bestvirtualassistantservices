@@ -54,9 +54,9 @@
       "contentHash": "5a169a18647c687f05226efee0322567819eb1840949c5b1cd62cf756aef07f4",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-reference-call-evidence-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Coolify deployment 4n1v1rc5ztbhgmdjdeftp02g queued for expected commit; live verification pending",
+      "deploymentEvidence": "Coolify deployment epqydqdi2rmsaxz19vj1b8cl queued for renderer repair commit 46a10bcb188db816d4614e3fda460ee34200c59b; final live verification pending",
       "verificationTime": null,
-      "status": "pending-live-verification"
+      "status": "pending-corrected-deployment"
     },
     {
       "family": "research",
@@ -106,9 +106,9 @@
       "contentHash": "5923242cd59adf6999490d9e8f5d2dbfd6db89acefce4340558949c87c202c31",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-first-month-cost-evidence-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Coolify deployment 4n1v1rc5ztbhgmdjdeftp02g queued for expected commit; live verification pending",
+      "deploymentEvidence": "Coolify deployment epqydqdi2rmsaxz19vj1b8cl queued for renderer repair commit 46a10bcb188db816d4614e3fda460ee34200c59b; final live verification pending",
       "verificationTime": null,
-      "status": "pending-live-verification"
+      "status": "pending-corrected-deployment"
     },
     {
       "family": "research",
@@ -158,9 +158,9 @@
       "contentHash": "8975bc9d3cdc8474f64df46ace87807da883415d37a1daa00ea743418c2f215d",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-account-manager-authority-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Coolify deployment 4n1v1rc5ztbhgmdjdeftp02g queued for expected commit; live verification pending",
+      "deploymentEvidence": "Coolify deployment epqydqdi2rmsaxz19vj1b8cl queued for renderer repair commit 46a10bcb188db816d4614e3fda460ee34200c59b; final live verification pending",
       "verificationTime": null,
-      "status": "pending-live-verification"
+      "status": "pending-corrected-deployment"
     },
     {
       "family": "research",
@@ -210,9 +210,9 @@
       "contentHash": "62a707b4eadf14e66cb838cf58aa8bdaec25f71439e1511e32b87da394ec0b6c",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-device-credential-responsibility-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Coolify deployment 4n1v1rc5ztbhgmdjdeftp02g queued for expected commit; live verification pending",
+      "deploymentEvidence": "Coolify deployment epqydqdi2rmsaxz19vj1b8cl queued for renderer repair commit 46a10bcb188db816d4614e3fda460ee34200c59b; final live verification pending",
       "verificationTime": null,
-      "status": "pending-live-verification"
+      "status": "pending-corrected-deployment"
     },
     {
       "family": "research",
@@ -262,17 +262,18 @@
       "contentHash": "2589997a6973e211bf09d577861994fbd10affa3ccedd68a8393fee9c3858e6e",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-launch-readiness-gate-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Coolify deployment 4n1v1rc5ztbhgmdjdeftp02g queued for expected commit; live verification pending",
+      "deploymentEvidence": "Coolify deployment epqydqdi2rmsaxz19vj1b8cl queued for renderer repair commit 46a10bcb188db816d4614e3fda460ee34200c59b; final live verification pending",
       "verificationTime": null,
-      "status": "pending-live-verification"
+      "status": "pending-corrected-deployment"
     }
   ],
   "publicationCommitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
   "deploymentEvidence": {
     "applicationUuid": "o48em959jxfxy27gkxx7lnn4",
-    "deploymentUuid": "4n1v1rc5ztbhgmdjdeftp02g",
+    "deploymentUuid": "epqydqdi2rmsaxz19vj1b8cl",
     "status": "queued",
-    "expectedCommit": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-    "note": "Coolify queue has not assigned a worker; public routes remain unavailable."
-  }
+    "expectedCommit": "46a10bcb188db816d4614e3fda460ee34200c59b",
+    "note": "Final corrected deployment remains queued without a Coolify worker; prior live routes expose incomplete source rendering and do not count as fully verified."
+  },
+  "rendererRepairCommitSha": "46a10bcb188db816d4614e3fda460ee34200c59b"
 }
