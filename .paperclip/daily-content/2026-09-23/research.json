@@ -1,0 +1,270 @@
+{
+  "runDate": "2026-09-23",
+  "family": "research",
+  "requiredCount": 5,
+  "verifiedCount": 0,
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "productionBranch": "main",
+  "entries": [
+    {
+      "family": "research",
+      "topic": "What Can a Provider Reference Call Actually Prove About a Virtual Assistant Service?",
+      "slug": "virtual-assistant-provider-reference-call-evidence-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-provider-reference-call-evidence-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NIST Cybersecurity Framework 2.0",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Creating helpful, reliable, people-first content",
+        "Records Management",
+        "Digital security",
+        "Digital Economy Contributes 9.8 Percent to the Philippine Economy in 2025"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "Google Search Central",
+        "U.S. National Archives and Records Administration",
+        "Organisation for Economic Co-operation and Development",
+        "Philippine Statistics Authority"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://www.archives.gov/records-mgmt",
+        "https://www.oecd.org/en/topics/digital-security.html",
+        "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
+      ],
+      "checkedDate": "2026-09-23",
+      "publishedAt": "2026-09-23",
+      "contentHash": "5a169a18647c687f05226efee0322567819eb1840949c5b1cd62cf756aef07f4",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-reference-call-evidence-study",
+      "commitSha": null,
+      "deploymentEvidence": null,
+      "verificationTime": null,
+      "status": "pending-live-verification"
+    },
+    {
+      "family": "research",
+      "topic": "How Should Buyers Estimate the First-Month Cost of a Virtual Assistant Service?",
+      "slug": "virtual-assistant-first-month-cost-evidence-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-first-month-cost-evidence-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NIST Cybersecurity Framework 2.0",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Creating helpful, reliable, people-first content",
+        "Records Management",
+        "Digital security",
+        "Digital Economy Contributes 9.8 Percent to the Philippine Economy in 2025"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "Google Search Central",
+        "U.S. National Archives and Records Administration",
+        "Organisation for Economic Co-operation and Development",
+        "Philippine Statistics Authority"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://www.archives.gov/records-mgmt",
+        "https://www.oecd.org/en/topics/digital-security.html",
+        "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
+      ],
+      "checkedDate": "2026-09-23",
+      "publishedAt": "2026-09-23",
+      "contentHash": "5923242cd59adf6999490d9e8f5d2dbfd6db89acefce4340558949c87c202c31",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-first-month-cost-evidence-study",
+      "commitSha": null,
+      "deploymentEvidence": null,
+      "verificationTime": null,
+      "status": "pending-live-verification"
+    },
+    {
+      "family": "research",
+      "topic": "What Authority Should a Virtual Assistant Account Manager Have?",
+      "slug": "virtual-assistant-account-manager-authority-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-account-manager-authority-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NIST Cybersecurity Framework 2.0",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Creating helpful, reliable, people-first content",
+        "Records Management",
+        "Digital security",
+        "Digital Economy Contributes 9.8 Percent to the Philippine Economy in 2025"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "Google Search Central",
+        "U.S. National Archives and Records Administration",
+        "Organisation for Economic Co-operation and Development",
+        "Philippine Statistics Authority"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://www.archives.gov/records-mgmt",
+        "https://www.oecd.org/en/topics/digital-security.html",
+        "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
+      ],
+      "checkedDate": "2026-09-23",
+      "publishedAt": "2026-09-23",
+      "contentHash": "8975bc9d3cdc8474f64df46ace87807da883415d37a1daa00ea743418c2f215d",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-account-manager-authority-study",
+      "commitSha": null,
+      "deploymentEvidence": null,
+      "verificationTime": null,
+      "status": "pending-live-verification"
+    },
+    {
+      "family": "research",
+      "topic": "Who Should Own Devices and Credentials in a Virtual Assistant Engagement?",
+      "slug": "virtual-assistant-device-credential-responsibility-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-device-credential-responsibility-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NIST Cybersecurity Framework 2.0",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Creating helpful, reliable, people-first content",
+        "Records Management",
+        "Digital security",
+        "Digital Economy Contributes 9.8 Percent to the Philippine Economy in 2025"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "Google Search Central",
+        "U.S. National Archives and Records Administration",
+        "Organisation for Economic Co-operation and Development",
+        "Philippine Statistics Authority"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://www.archives.gov/records-mgmt",
+        "https://www.oecd.org/en/topics/digital-security.html",
+        "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
+      ],
+      "checkedDate": "2026-09-23",
+      "publishedAt": "2026-09-23",
+      "contentHash": "62a707b4eadf14e66cb838cf58aa8bdaec25f71439e1511e32b87da394ec0b6c",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-device-credential-responsibility-study",
+      "commitSha": null,
+      "deploymentEvidence": null,
+      "verificationTime": null,
+      "status": "pending-live-verification"
+    },
+    {
+      "family": "research",
+      "topic": "What Should a Virtual Assistant Launch-Readiness Gate Check?",
+      "slug": "virtual-assistant-launch-readiness-gate-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-launch-readiness-gate-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NIST Cybersecurity Framework 2.0",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Creating helpful, reliable, people-first content",
+        "Records Management",
+        "Digital security",
+        "Digital Economy Contributes 9.8 Percent to the Philippine Economy in 2025"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "Google Search Central",
+        "U.S. National Archives and Records Administration",
+        "Organisation for Economic Co-operation and Development",
+        "Philippine Statistics Authority"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://www.archives.gov/records-mgmt",
+        "https://www.oecd.org/en/topics/digital-security.html",
+        "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
+      ],
+      "checkedDate": "2026-09-23",
+      "publishedAt": "2026-09-23",
+      "contentHash": "2589997a6973e211bf09d577861994fbd10affa3ccedd68a8393fee9c3858e6e",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-launch-readiness-gate-study",
+      "commitSha": null,
+      "deploymentEvidence": null,
+      "verificationTime": null,
+      "status": "pending-live-verification"
+    }
+  ]
+}

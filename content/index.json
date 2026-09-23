@@ -3028,6 +3028,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-account-manager-authority-study",
+      "title": "What Authority Should a Virtual Assistant Account Manager Have?",
+      "path": "content/research/virtual-assistant-account-manager-authority-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-ai-output-quality-assurance",
       "title": "Virtual Assistant AI Output Quality Assurance: A Research Brief",
       "path": "content/research/virtual-assistant-ai-output-quality-assurance.mdx",
@@ -3546,6 +3553,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-device-credential-responsibility-study",
+      "title": "Who Should Own Devices and Credentials in a Virtual Assistant Engagement?",
+      "path": "content/research/virtual-assistant-device-credential-responsibility-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-digital-accessibility-review",
       "title": "Digital Accessibility Reviews for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-digital-accessibility-review.mdx",
@@ -3777,6 +3791,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-first-month-cost-evidence-study",
+      "title": "How Should Buyers Estimate the First-Month Cost of a Virtual Assistant Service?",
+      "path": "content/research/virtual-assistant-first-month-cost-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-invoice-checklist.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-help-desk-routing",
       "title": "Help Desk Routing for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-help-desk-routing.mdx",
@@ -3903,6 +3924,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-launch-readiness-gate-study",
+      "title": "What Should a Virtual Assistant Launch-Readiness Gate Check?",
+      "path": "content/research/virtual-assistant-launch-readiness-gate-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-onboarding-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-lead-research-qualification-boundaries",
       "title": "What Can a Virtual Assistant Research About a Lead Without Making the Sales Decision?",
       "path": "content/research/virtual-assistant-lead-research-qualification-boundaries.md",
@@ -4026,6 +4054,13 @@
       "title": "Virtual Assistant Project Status Reporting: A Research Brief",
       "path": "content/research/virtual-assistant-project-status-reporting.mdx",
       "featuredImage": "/blog/images/virtual-assistant-project-status-reporting.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-provider-reference-call-evidence-study",
+      "title": "What Can a Provider Reference Call Actually Prove About a Virtual Assistant Service?",
+      "path": "content/research/virtual-assistant-provider-reference-call-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
     },
     {
       "type": "research",
