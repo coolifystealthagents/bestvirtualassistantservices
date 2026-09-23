@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { blogPosts, BlogPost } from './data';
-import { researchPosts, ResearchPost } from './fleet-data';
+import { researchPosts, ResearchPost, ResearchSource } from './fleet-data';
 
 type IndexPost = { type: 'blog' | 'research'; slug: string; title: string; path: string; featuredImage?: string };
 
@@ -39,6 +39,29 @@ function articleBody(file: string) {
   });
 }
 
+function researchSources(file: string): ResearchSource[] {
+  const text = fs.readFileSync(path.join(process.cwd(), file), 'utf8');
+  const sourceLines = text.match(/^\d+\. \[.+?\]\(https?:\/\/[^)]+\)\s*:\s*.+$/gm) || [];
+  const parsed = sourceLines.flatMap((line, index) => {
+    const match = line.match(/^\d+\. \[(.+?)\]\((https?:\/\/[^)]+)\)\s*:\s*(.+?)\. Checked /);
+    if (!match) return [];
+    return [{
+      id: index + 1,
+      title: match[1],
+      url: match[2],
+      name: match[3],
+      scope: 'Buyer security standard' as const,
+    }];
+  });
+  return parsed.length ? parsed : [{
+    id: 1,
+    name: 'NIST',
+    title: 'NIST resources',
+    url: 'https://www.nist.gov/standardsgov',
+    scope: 'Buyer security standard',
+  }];
+}
+
 const indexed = readIndex();
 
 export const publishedContentBlogPosts: BlogPost[] = indexed.filter((item) => item.type === 'blog').map((item) => {
@@ -54,10 +77,11 @@ export const publishedContentBlogPosts: BlogPost[] = indexed.filter((item) => it
 export const publishedContentResearchPosts: ResearchPost[] = indexed.filter((item) => item.type === 'research').map((item) => {
   const fm = frontMatter(item.path);
   const body = articleBody(item.path);
+  const sources = researchSources(item.path);
   return {
     slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A source-backed virtual assistant research brief.', published: fm.publishedAt || '2026-08-07', modified: fm.updatedAt || fm.publishedAt || '2026-08-07', readingMinutes: Number.parseInt(fm.readingTime || '8', 10), revision: `${fm.updatedAt || '2026-08-07'}-${item.slug}`,
     keyTakeaways: ['Document the method and source of truth.', 'Separate observations from owner decisions.', 'Record exceptions and review points.'], stats: [{ value: fm.sourceCount || '10', label: 'Direct sources', note: 'Sources listed in the published brief.', citation: 1 }],
-    sections: body.map((section) => ({ heading: section.heading, paragraphs: [{ text: section.body }] })), comparisonTable: { caption: 'Workflow controls', headers: ['Check', 'Action'], rows: [['Source', 'Verify the evidence before summarizing']] }, methodology: [{ text: 'This brief uses the sources listed in the published article and makes its limits visible.' }], faq: [], relatedLinks: [{ title: 'Research library', description: 'Browse the published research.', href: '/research' }], sources: [{ id: 1, name: 'NIST', title: 'NIST resources', url: 'https://www.nist.gov/standardsgov', scope: 'Buyer security standard' }], thumbnail: item.featuredImage,
+    sections: body.map((section) => ({ heading: section.heading, paragraphs: [{ text: section.body }] })), comparisonTable: { caption: 'Workflow controls', headers: ['Check', 'Action'], rows: [['Source', 'Verify the evidence before summarizing']] }, methodology: [{ text: 'This brief uses the sources listed in the published article and makes its limits visible.' }], faq: [], relatedLinks: [{ title: 'Research library', description: 'Browse the published research.', href: '/research' }], sources, thumbnail: item.featuredImage,
   };
 });
 
