@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "contract": "canonical-daily-blog-publishing",
+  "family": "blog",
+  "domain": "bestvirtualassistantservices.com",
+  "targetDate": "2026-09-23",
+  "required": 12,
+  "verified": 0,
+  "entries": [
+    {
+      "family": "blog",
+      "topic": "Executive Calendar Management Service: 15 Scope Questions",
+      "slug": "executive-calendar-management-service-scope-questions",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "94252126c72b647717df23a67cfdf0df6925e40f1587814f1fb929405e203c15",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/executive-calendar-management-service-scope-questions",
+      "verificationTime": "PENDING",
+      "route": "/blog/executive-calendar-management-service-scope-questions",
+      "sourcePath": "content/blog/executive-calendar-management-service-scope-questions.mdx",
+      "imagePath": "/blog/images/virtual-assistant-calendar-delegation-boundaries.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "How to Pilot an Inbox and Correspondence Support Service",
+      "slug": "inbox-correspondence-support-service-pilot",
+      "sources": [
+        "https://www.cisa.gov/secure-our-world/use-strong-passwords"
+      ],
+      "contentHash": "9dc410d4a98c91bd8a30629e5d5e6432e3e06f224460ad5303fc698b2e8b1f10",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/inbox-correspondence-support-service-pilot",
+      "verificationTime": "PENDING",
+      "route": "/blog/inbox-correspondence-support-service-pilot",
+      "sourcePath": "content/blog/inbox-correspondence-support-service-pilot.mdx",
+      "imagePath": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "How to Compare Travel Planning Assistance Proposals",
+      "slug": "compare-travel-planning-assistance-proposals",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "bdf59ef02a65ad759a163e5b417b73908ff353402f7ad7531f69683255e73bbf",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/compare-travel-planning-assistance-proposals",
+      "verificationTime": "PENDING",
+      "route": "/blog/compare-travel-planning-assistance-proposals",
+      "sourcePath": "content/blog/compare-travel-planning-assistance-proposals.mdx",
+      "imagePath": "/blog/images/virtual-assistant-travel-planning-brief.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "CRM Administration Service Readiness Checklist",
+      "slug": "crm-administration-service-readiness-checklist",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "76fb6bfe61edd336184df2a987503c7a2e6bc442d2beb10ea0cd14c0b877c4b7",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/crm-administration-service-readiness-checklist",
+      "verificationTime": "PENDING",
+      "route": "/blog/crm-administration-service-readiness-checklist",
+      "sourcePath": "content/blog/crm-administration-service-readiness-checklist.mdx",
+      "imagePath": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Sales Pipeline Support: What to Delegate and What to Keep",
+      "slug": "sales-pipeline-support-delegation-boundaries",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity"
+      ],
+      "contentHash": "538ca1b1007e091a8f6d9626756ebc69c9bf975990c57fd71117cd8b2c841384",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/sales-pipeline-support-delegation-boundaries",
+      "verificationTime": "PENDING",
+      "route": "/blog/sales-pipeline-support-delegation-boundaries",
+      "sourcePath": "content/blog/sales-pipeline-support-delegation-boundaries.mdx",
+      "imagePath": "/blog/images/virtual-assistant-sales-pipeline-handoffs.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Customer Inbox Support KPI Scorecard for a Virtual Assistant",
+      "slug": "customer-inbox-support-kpi-scorecard",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity"
+      ],
+      "contentHash": "ef6492e8e23de926ca2542d7ef2434dc6049da5110078cff6f599d44a7ab4345",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/customer-inbox-support-kpi-scorecard",
+      "verificationTime": "PENDING",
+      "route": "/blog/customer-inbox-support-kpi-scorecard",
+      "sourcePath": "content/blog/customer-inbox-support-kpi-scorecard.mdx",
+      "imagePath": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "How to Scope an Ecommerce Operations Assistant Role",
+      "slug": "ecommerce-operations-assistant-role-scope",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity"
+      ],
+      "contentHash": "a2b23d70cbd123601cb70a1af2a7bf50880a3cac693b179ee40fd470ff22c33a",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/ecommerce-operations-assistant-role-scope",
+      "verificationTime": "PENDING",
+      "route": "/blog/ecommerce-operations-assistant-role-scope",
+      "sourcePath": "content/blog/ecommerce-operations-assistant-role-scope.mdx",
+      "imagePath": "/blog/images/virtual-assistant-ecommerce-order-support.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "How to Choose Podcast Production Coordination Support",
+      "slug": "podcast-production-coordination-service-selection",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "7b55f629f4867b40867cc3a56d47869ecc1efe4553b3bc95dbf92fa2b88fff86",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/podcast-production-coordination-service-selection",
+      "verificationTime": "PENDING",
+      "route": "/blog/podcast-production-coordination-service-selection",
+      "sourcePath": "content/blog/podcast-production-coordination-service-selection.mdx",
+      "imagePath": "/blog/images/virtual-assistant-podcast-production-controls.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Access Controls for Real Estate Transaction Support",
+      "slug": "real-estate-transaction-support-access-controls",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "01b34f6443c6a2a8d280c438c47d4e70c04faa88fb90fb5eba0d7984e1db2a00",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/real-estate-transaction-support-access-controls",
+      "verificationTime": "PENDING",
+      "route": "/blog/real-estate-transaction-support-access-controls",
+      "sourcePath": "content/blog/real-estate-transaction-support-access-controls.mdx",
+      "imagePath": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "17 Questions for a Legal Administrative Assistance Provider",
+      "slug": "legal-administrative-assistance-provider-questions",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "6bd1de17dafffd30e35cd9cc2ae258830f54d1e69c2c59d706ff906d039072c1",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/legal-administrative-assistance-provider-questions",
+      "verificationTime": "PENDING",
+      "route": "/blog/legal-administrative-assistance-provider-questions",
+      "sourcePath": "content/blog/legal-administrative-assistance-provider-questions.mdx",
+      "imagePath": "/blog/images/virtual-assistant-legal-intake-admin-checklist.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Plan Time-Zone Overlap With a Philippines Virtual Assistant",
+      "slug": "philippines-virtual-assistant-time-zone-overlap-calculator",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "8367214167ad37d6b465e087d8c27aaabc9b6b0a7fe2f0309d4636ab054e5715",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/philippines-virtual-assistant-time-zone-overlap-calculator",
+      "verificationTime": "PENDING",
+      "route": "/blog/philippines-virtual-assistant-time-zone-overlap-calculator",
+      "sourcePath": "content/blog/philippines-virtual-assistant-time-zone-overlap-calculator.mdx",
+      "imagePath": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Service Discovery Call: 20 Questions to Ask",
+      "slug": "virtual-assistant-service-discovery-call-questions",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "531ceaecd6cba4ad24a7256e3538d90ec7d3b176f59ec0fcd919610936243273",
+      "actualPublicationDate": "2026-09-23",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-service-discovery-call-questions",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-service-discovery-call-questions",
+      "sourcePath": "content/blog/virtual-assistant-service-discovery-call-questions.mdx",
+      "imagePath": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+    }
+  ],
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "productionBranch": "main",
+  "commitSha": "PENDING",
+  "remoteSha": "PENDING",
+  "deploymentId": "PENDING",
+  "verificationTime": "PENDING"
+}

@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "compare-travel-planning-assistance-proposals",
+      "title": "How to Compare Travel Planning Assistance Proposals",
+      "path": "content/blog/compare-travel-planning-assistance-proposals.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-travel-planning-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "crm-administration-service-readiness-checklist",
+      "title": "CRM Administration Service Readiness Checklist",
+      "path": "content/blog/crm-administration-service-readiness-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "customer-inbox-support-kpi-scorecard",
+      "title": "Customer Inbox Support KPI Scorecard for a Virtual Assistant",
+      "path": "content/blog/customer-inbox-support-kpi-scorecard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "ecommerce-operations-assistant-role-scope",
+      "title": "How to Scope an Ecommerce Operations Assistant Role",
+      "path": "content/blog/ecommerce-operations-assistant-role-scope.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-ecommerce-order-support.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "executive-calendar-management-service-scope-questions",
+      "title": "Executive Calendar Management Service: 15 Scope Questions",
+      "path": "content/blog/executive-calendar-management-service-scope-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-delegation-boundaries.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "inbox-correspondence-support-service-pilot",
+      "title": "How to Pilot an Inbox and Correspondence Support Service",
+      "path": "content/blog/inbox-correspondence-support-service-pilot.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "legal-administrative-assistance-provider-questions",
+      "title": "17 Questions for a Legal Administrative Assistance Provider",
+      "path": "content/blog/legal-administrative-assistance-provider-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-legal-intake-admin-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "philippines-virtual-assistant-time-zone-overlap-calculator",
+      "title": "Plan Time-Zone Overlap With a Philippines Virtual Assistant",
+      "path": "content/blog/philippines-virtual-assistant-time-zone-overlap-calculator.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "podcast-production-coordination-service-selection",
+      "title": "How to Choose Podcast Production Coordination Support",
+      "path": "content/blog/podcast-production-coordination-service-selection.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-podcast-production-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "real-estate-transaction-support-access-controls",
+      "title": "Access Controls for Real Estate Transaction Support",
+      "path": "content/blog/real-estate-transaction-support-access-controls.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "sales-pipeline-support-delegation-boundaries",
+      "title": "Sales Pipeline Support: What to Delegate and What to Keep",
+      "path": "content/blog/sales-pipeline-support-delegation-boundaries.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-sales-pipeline-handoffs.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-discovery-call-questions",
+      "title": "Virtual Assistant Service Discovery Call: 20 Questions to Ask",
+      "path": "content/blog/virtual-assistant-service-discovery-call-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+    },
+    {
+      "type": "blog",
       "slug": "bilingual-virtual-assistant-screening-guide",
       "title": "Bilingual Virtual Assistant Screening Guide",
       "path": "content/blog/bilingual-virtual-assistant-screening-guide.mdx",
