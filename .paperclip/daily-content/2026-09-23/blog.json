@@ -17,12 +17,14 @@
       "contentHash": "94252126c72b647717df23a67cfdf0df6925e40f1587814f1fb929405e203c15",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/executive-calendar-management-service-scope-questions",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/executive-calendar-management-service-scope-questions",
       "sourcePath": "content/blog/executive-calendar-management-service-scope-questions.mdx",
-      "imagePath": "/blog/images/virtual-assistant-calendar-delegation-boundaries.webp"
+      "imagePath": "/blog/images/virtual-assistant-calendar-delegation-boundaries.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -34,12 +36,14 @@
       "contentHash": "9dc410d4a98c91bd8a30629e5d5e6432e3e06f224460ad5303fc698b2e8b1f10",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/inbox-correspondence-support-service-pilot",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/inbox-correspondence-support-service-pilot",
       "sourcePath": "content/blog/inbox-correspondence-support-service-pilot.mdx",
-      "imagePath": "/blog/images/virtual-assistant-inbox-triage-workflow.webp"
+      "imagePath": "/blog/images/virtual-assistant-inbox-triage-workflow.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -51,12 +55,14 @@
       "contentHash": "bdf59ef02a65ad759a163e5b417b73908ff353402f7ad7531f69683255e73bbf",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/compare-travel-planning-assistance-proposals",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/compare-travel-planning-assistance-proposals",
       "sourcePath": "content/blog/compare-travel-planning-assistance-proposals.mdx",
-      "imagePath": "/blog/images/virtual-assistant-travel-planning-brief.webp"
+      "imagePath": "/blog/images/virtual-assistant-travel-planning-brief.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -68,12 +74,14 @@
       "contentHash": "76fb6bfe61edd336184df2a987503c7a2e6bc442d2beb10ea0cd14c0b877c4b7",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/crm-administration-service-readiness-checklist",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/crm-administration-service-readiness-checklist",
       "sourcePath": "content/blog/crm-administration-service-readiness-checklist.mdx",
-      "imagePath": "/blog/images/virtual-assistant-crm-data-hygiene.webp"
+      "imagePath": "/blog/images/virtual-assistant-crm-data-hygiene.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -85,12 +93,14 @@
       "contentHash": "538ca1b1007e091a8f6d9626756ebc69c9bf975990c57fd71117cd8b2c841384",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/sales-pipeline-support-delegation-boundaries",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/sales-pipeline-support-delegation-boundaries",
       "sourcePath": "content/blog/sales-pipeline-support-delegation-boundaries.mdx",
-      "imagePath": "/blog/images/virtual-assistant-sales-pipeline-handoffs.webp"
+      "imagePath": "/blog/images/virtual-assistant-sales-pipeline-handoffs.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -102,12 +112,14 @@
       "contentHash": "ef6492e8e23de926ca2542d7ef2434dc6049da5110078cff6f599d44a7ab4345",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/customer-inbox-support-kpi-scorecard",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/customer-inbox-support-kpi-scorecard",
       "sourcePath": "content/blog/customer-inbox-support-kpi-scorecard.mdx",
-      "imagePath": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp"
+      "imagePath": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -119,12 +131,14 @@
       "contentHash": "a2b23d70cbd123601cb70a1af2a7bf50880a3cac693b179ee40fd470ff22c33a",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/ecommerce-operations-assistant-role-scope",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/ecommerce-operations-assistant-role-scope",
       "sourcePath": "content/blog/ecommerce-operations-assistant-role-scope.mdx",
-      "imagePath": "/blog/images/virtual-assistant-ecommerce-order-support.webp"
+      "imagePath": "/blog/images/virtual-assistant-ecommerce-order-support.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -136,12 +150,14 @@
       "contentHash": "7b55f629f4867b40867cc3a56d47869ecc1efe4553b3bc95dbf92fa2b88fff86",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/podcast-production-coordination-service-selection",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/podcast-production-coordination-service-selection",
       "sourcePath": "content/blog/podcast-production-coordination-service-selection.mdx",
-      "imagePath": "/blog/images/virtual-assistant-podcast-production-controls.webp"
+      "imagePath": "/blog/images/virtual-assistant-podcast-production-controls.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -153,12 +169,14 @@
       "contentHash": "01b34f6443c6a2a8d280c438c47d4e70c04faa88fb90fb5eba0d7984e1db2a00",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/real-estate-transaction-support-access-controls",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/real-estate-transaction-support-access-controls",
       "sourcePath": "content/blog/real-estate-transaction-support-access-controls.mdx",
-      "imagePath": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp"
+      "imagePath": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -170,12 +188,14 @@
       "contentHash": "6bd1de17dafffd30e35cd9cc2ae258830f54d1e69c2c59d706ff906d039072c1",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/legal-administrative-assistance-provider-questions",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/legal-administrative-assistance-provider-questions",
       "sourcePath": "content/blog/legal-administrative-assistance-provider-questions.mdx",
-      "imagePath": "/blog/images/virtual-assistant-legal-intake-admin-checklist.webp"
+      "imagePath": "/blog/images/virtual-assistant-legal-intake-admin-checklist.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -187,12 +207,14 @@
       "contentHash": "8367214167ad37d6b465e087d8c27aaabc9b6b0a7fe2f0309d4636ab054e5715",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/philippines-virtual-assistant-time-zone-overlap-calculator",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/philippines-virtual-assistant-time-zone-overlap-calculator",
       "sourcePath": "content/blog/philippines-virtual-assistant-time-zone-overlap-calculator.mdx",
-      "imagePath": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+      "imagePath": "/blog/images/virtual-assistant-time-zone-handoff.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     },
     {
       "family": "blog",
@@ -204,18 +226,26 @@
       "contentHash": "531ceaecd6cba4ad24a7256e3538d90ec7d3b176f59ec0fcd919610936243273",
       "actualPublicationDate": "2026-09-23",
       "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-      "deploymentEvidence": "Coolify3 application o48em959jxfxy27gkxx7lnn4; authenticated application status running; serving deployment identifier unavailable from the active-deployments API; public HTTP 200 with title, unique content, self-canonical, hero image, visible publication date, datePublished, Blog index entry, and sitemap entry verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-service-discovery-call-questions",
       "verificationTime": "2026-09-23T19:37:00Z",
       "route": "/blog/virtual-assistant-service-discovery-call-questions",
       "sourcePath": "content/blog/virtual-assistant-service-discovery-call-questions.mdx",
-      "imagePath": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+      "imagePath": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp",
+      "status": "live-verified",
+      "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95"
     }
   ],
   "repository": "coolifystealthagents/bestvirtualassistantservices",
   "productionBranch": "main",
   "commitSha": "246d349ca871c8abcc9353d4ce7052eb3c271042",
-  "remoteSha": "5b2924431fa1709674a85c8754c43cba70100b34",
+  "remoteSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95",
   "deploymentId": "unavailable-public-verification",
-  "verificationTime": "2026-09-23T19:37:00Z"
+  "verificationTime": "2026-09-23T19:37:00Z",
+  "combinedProductionEvidence": {
+    "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95",
+    "authenticatedCoolifyStatus": "unavailable (HTTP 401 during final continuation)",
+    "publicVerification": "Passed HTTP 200, title, unique content, canonical, visible 2026-09-23 date, datePublished, asset, and sitemap checks on every route.",
+    "publicVerificationTime": "2026-09-23T21:06:59Z"
+  }
 }

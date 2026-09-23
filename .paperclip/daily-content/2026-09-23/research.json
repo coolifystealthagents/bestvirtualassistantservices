@@ -54,7 +54,7 @@
       "contentHash": "5a169a18647c687f05226efee0322567819eb1840949c5b1cd62cf756aef07f4",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-reference-call-evidence-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Combined deployment 2b3r9gjvntlno5ku3plhfih2; HTTP 200 and title, unique content, canonical, 2026-09-23 visible/structured date, asset, source URLs, and sitemap verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "verificationTime": "2026-09-23T21:06:59Z",
       "status": "live-verified"
     },
@@ -106,7 +106,7 @@
       "contentHash": "5923242cd59adf6999490d9e8f5d2dbfd6db89acefce4340558949c87c202c31",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-first-month-cost-evidence-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Combined deployment 2b3r9gjvntlno5ku3plhfih2; HTTP 200 and title, unique content, canonical, 2026-09-23 visible/structured date, asset, source URLs, and sitemap verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "verificationTime": "2026-09-23T21:06:59Z",
       "status": "live-verified"
     },
@@ -158,7 +158,7 @@
       "contentHash": "8975bc9d3cdc8474f64df46ace87807da883415d37a1daa00ea743418c2f215d",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-account-manager-authority-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Combined deployment 2b3r9gjvntlno5ku3plhfih2; HTTP 200 and title, unique content, canonical, 2026-09-23 visible/structured date, asset, source URLs, and sitemap verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "verificationTime": "2026-09-23T21:06:59Z",
       "status": "live-verified"
     },
@@ -210,7 +210,7 @@
       "contentHash": "62a707b4eadf14e66cb838cf58aa8bdaec25f71439e1511e32b87da394ec0b6c",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-device-credential-responsibility-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Combined deployment 2b3r9gjvntlno5ku3plhfih2; HTTP 200 and title, unique content, canonical, 2026-09-23 visible/structured date, asset, source URLs, and sitemap verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "verificationTime": "2026-09-23T21:06:59Z",
       "status": "live-verified"
     },
@@ -262,20 +262,25 @@
       "contentHash": "2589997a6973e211bf09d577861994fbd10affa3ccedd68a8393fee9c3858e6e",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-launch-readiness-gate-study",
       "commitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
-      "deploymentEvidence": "Combined deployment 2b3r9gjvntlno5ku3plhfih2; HTTP 200 and title, unique content, canonical, 2026-09-23 visible/structured date, asset, source URLs, and sitemap verified",
+      "deploymentEvidence": "Authenticated Coolify status unavailable; combined production head publicly verified.",
       "verificationTime": "2026-09-23T21:06:59Z",
       "status": "live-verified"
     }
   ],
   "publicationCommitSha": "a27e7d4da31452982fbded33bfbb284305d23f2e",
   "deploymentEvidence": {
-    "applicationUuid": "o48em959jxfxy27gkxx7lnn4",
-    "deploymentUuid": "2b3r9gjvntlno5ku3plhfih2",
-    "status": "finished",
-    "deployedCommit": "7a1820e6f776b78aac75b47746438d9678b6d822",
-    "authenticatedObservation": "finished at 2026-09-23T16:46:54Z; current Coolify API returned 401 during continuation check",
-    "publicEvidence": "All five Research routes returned HTTP 200 with matching title, unique excerpt, canonical, visible date, datePublished, asset, ten recorded source URLs, and sitemap entry."
+    "status": "publicly-verified",
+    "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95",
+    "authenticatedCoolifyStatus": "unavailable (HTTP 401 during final continuation)",
+    "publicVerificationTime": "2026-09-23T21:06:59Z",
+    "publicEvidence": "All five Research routes passed HTTP 200, title, unique content, canonical, visible 2026-09-23 date, datePublished, asset, ten recorded source URLs, and sitemap checks."
   },
   "rendererRepairCommitSha": "46a10bcb188db816d4614e3fda460ee34200c59b",
-  "verificationTime": "2026-09-23T21:06:59Z"
+  "verificationTime": "2026-09-23T21:06:59Z",
+  "combinedProductionEvidence": {
+    "combinedProductionContentSha": "93208ecc6d7ae05bd87ea386b2aace1430ba0b95",
+    "authenticatedCoolifyStatus": "unavailable (HTTP 401 during final continuation)",
+    "publicVerification": "Passed HTTP 200, title, unique content, canonical, visible 2026-09-23 date, datePublished, asset, and sitemap checks on every route.",
+    "publicVerificationTime": "2026-09-23T21:06:59Z"
+  }
 }
