@@ -5,6 +5,9 @@
   "verifiedCount": 0,
   "repository": "coolifystealthagents/bestvirtualassistantservices",
   "productionBranch": "main",
+  "articleCommitSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+  "deploymentEvidence": "Configured Coolify3 application o48em959jxfxy27gkxx7lnn4 returned 401 Unauthenticated. Public transition checks through 2026-09-24T14:13:37Z returned HTTP 404 for all five new routes; live verification remains pending.",
+  "lastTransitionCheck": "2026-09-24T14:13:37Z",
   "entries": [
     {
       "family": "research",
@@ -53,8 +56,8 @@
       "publishedAt": "2026-09-24",
       "contentHash": "e5d0b3b02b0032f693b6e0631a47e963a8c6c0f6710d44a84d795d39e7713c43",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-bilingual-support-evidence-study",
-      "commitSha": null,
-      "deploymentEvidence": null,
+      "commitSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+      "deploymentEvidence": "Coolify3 authentication unavailable; public route returned HTTP 404 at 2026-09-24T14:13:37Z.",
       "verificationTime": null,
       "status": "pending-live-verification"
     },
@@ -105,8 +108,8 @@
       "publishedAt": "2026-09-24",
       "contentHash": "1451bcbeac83106fa8b1fe285534bd4f83393fb063d4d5371d51da22b4558daf",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-workload-capacity-evidence-study",
-      "commitSha": null,
-      "deploymentEvidence": null,
+      "commitSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+      "deploymentEvidence": "Coolify3 authentication unavailable; public route returned HTTP 404 at 2026-09-24T14:13:37Z.",
       "verificationTime": null,
       "status": "pending-live-verification"
     },
@@ -157,8 +160,8 @@
       "publishedAt": "2026-09-24",
       "contentHash": "9468829669f06cc189ab560c7d618b9fbb6526d616a00e861ed282233ba97e0b",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-quality-sampling-evidence-study",
-      "commitSha": null,
-      "deploymentEvidence": null,
+      "commitSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+      "deploymentEvidence": "Coolify3 authentication unavailable; public route returned HTTP 404 at 2026-09-24T14:13:37Z.",
       "verificationTime": null,
       "status": "pending-live-verification"
     },
@@ -209,8 +212,8 @@
       "publishedAt": "2026-09-24",
       "contentHash": "dc171ccc245269a1e2682b8f9f17d80fd51ff60cd66de8cdb5284b3652477f40",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-role-change-control-study",
-      "commitSha": null,
-      "deploymentEvidence": null,
+      "commitSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+      "deploymentEvidence": "Coolify3 authentication unavailable; public route returned HTTP 404 at 2026-09-24T14:13:37Z.",
       "verificationTime": null,
       "status": "pending-live-verification"
     },
@@ -261,8 +264,8 @@
       "publishedAt": "2026-09-24",
       "contentHash": "a4ed641bfb49b2d900b530827f7551875a96316dcd9517cdcdc566eb15be246a",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-language-proficiency-review-study",
-      "commitSha": null,
-      "deploymentEvidence": null,
+      "commitSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+      "deploymentEvidence": "Coolify3 authentication unavailable; public route returned HTTP 404 at 2026-09-24T14:13:37Z.",
       "verificationTime": null,
       "status": "pending-live-verification"
     }
