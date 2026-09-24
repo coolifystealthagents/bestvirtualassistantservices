@@ -3308,6 +3308,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-bilingual-support-evidence-study",
+      "title": "How Should Buyers Test Bilingual Virtual Assistant Support Claims?",
+      "path": "content/research/virtual-assistant-bilingual-support-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-support-quality-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-brief-assumption-resolution-study",
       "title": "Studying How Article-Brief Assumptions Get Resolved",
       "path": "content/research/virtual-assistant-brief-assumption-resolution-study.mdx",
@@ -4092,6 +4099,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-language-proficiency-review-study",
+      "title": "Who Should Review Language Proficiency for a Customer-Facing Virtual Assistant?",
+      "path": "content/research/virtual-assistant-language-proficiency-review-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-launch-readiness-gate-study",
       "title": "What Should a Virtual Assistant Launch-Readiness Gate Check?",
       "path": "content/research/virtual-assistant-launch-readiness-gate-study.mdx",
@@ -4281,6 +4295,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-quality-sampling-evidence-study",
+      "title": "How Should Buyers Sample Virtual Assistant Work for Quality Review?",
+      "path": "content/research/virtual-assistant-quality-sampling-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-article-qa-evidence.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-record-intake-provenance",
       "title": "Digital Record Intake Provenance by Virtual Assistants",
       "path": "content/research/virtual-assistant-record-intake-provenance.md",
@@ -4348,6 +4369,13 @@
       "title": "What Should Reviewers Calibrate Before Trusting Virtual Assistant Research Notes?",
       "path": "content/research/virtual-assistant-research-reviewer-calibration.mdx",
       "featuredImage": "/blog/images/virtual-assistant-research-reviewer-calibration.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-role-change-control-study",
+      "title": "When Should a Virtual Assistant Role Change Trigger Re-Onboarding?",
+      "path": "content/research/virtual-assistant-role-change-control-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
     },
     {
       "type": "research",
@@ -4572,6 +4600,13 @@
       "title": "Workflow Documentation for Virtual Assistants",
       "path": "content/research/virtual-assistant-workflow-documentation.mdx",
       "featuredImage": "/blog/images/virtual-assistant-workflow-documentation.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-workload-capacity-evidence-study",
+      "title": "What Evidence Shows a Virtual Assistant Has Sustainable Workload Capacity?",
+      "path": "content/research/virtual-assistant-workload-capacity-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     }
   ]
 }
