@@ -16,13 +16,14 @@
       ],
       "contentHash": "09fe451c2e7122a576519ee3de1ca73df6d7b75be00097f14c858028775cb2b0",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-service-rfp-requirements",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-service-rfp-requirements",
       "sourcePath": "content/blog/virtual-assistant-service-rfp-requirements.mdx",
-      "imagePath": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+      "imagePath": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -33,13 +34,14 @@
       ],
       "contentHash": "98863efe3e1c60dfc0884dde7f5d9fdaccf946279a8f02b59eb7b369af99b7a0",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/managed-virtual-assistant-implementation-timeline",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/managed-virtual-assistant-implementation-timeline",
       "sourcePath": "content/blog/managed-virtual-assistant-implementation-timeline.mdx",
-      "imagePath": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+      "imagePath": "/blog/images/virtual-assistant-client-onboarding-checklist.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -50,13 +52,14 @@
       ],
       "contentHash": "31f7b6c5c4ad5e6e4c84d606c8d63cbf841242a537c1bb2a782133135d599b96",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-backup-coverage-evidence",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-backup-coverage-evidence",
       "sourcePath": "content/blog/virtual-assistant-backup-coverage-evidence.mdx",
-      "imagePath": "/blog/images/virtual-assistant-backup-coverage-controls.webp"
+      "imagePath": "/blog/images/virtual-assistant-backup-coverage-controls.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -67,13 +70,14 @@
       ],
       "contentHash": "616a96f613f92c5b1409a7237bd05a9ac5cb874e0b0d17988edc42740f1aa921",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-confidentiality-agreement-operations",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-confidentiality-agreement-operations",
       "sourcePath": "content/blog/virtual-assistant-confidentiality-agreement-operations.mdx",
-      "imagePath": "/blog/images/virtual-assistant-document-access-governance.webp"
+      "imagePath": "/blog/images/virtual-assistant-document-access-governance.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -84,13 +88,14 @@
       ],
       "contentHash": "b74f79916bd1f455815d03766e6591ae85e6e499d942d4fab2cd4543a3885268",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-pricing-model-comparison",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-pricing-model-comparison",
       "sourcePath": "content/blog/virtual-assistant-pricing-model-comparison.mdx",
-      "imagePath": "/blog/images/virtual-assistant-service-cost-calculator.webp"
+      "imagePath": "/blog/images/virtual-assistant-service-cost-calculator.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -101,13 +106,14 @@
       ],
       "contentHash": "5e0fb1e94fffcda40906451535d82c84b590e2427fc210978c0f6f6f3e618931",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-transition-handoff-documentation",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-transition-handoff-documentation",
       "sourcePath": "content/blog/virtual-assistant-transition-handoff-documentation.mdx",
-      "imagePath": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+      "imagePath": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -118,13 +124,14 @@
       ],
       "contentHash": "170c8eae39189f2561966d7e48edff416492df76cd62d734a968bde45fdcef50",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/bilingual-virtual-assistant-service-evaluation",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/bilingual-virtual-assistant-service-evaluation",
       "sourcePath": "content/blog/bilingual-virtual-assistant-service-evaluation.mdx",
-      "imagePath": "/blog/images/virtual-assistant-call-quality-review.webp"
+      "imagePath": "/blog/images/virtual-assistant-call-quality-review.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -135,13 +142,14 @@
       ],
       "contentHash": "b1e89714cd94a0411778f4da14d7c9b2c6043ab4ee09569e7a5247e81d406594",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-supervision-model-comparison",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-supervision-model-comparison",
       "sourcePath": "content/blog/virtual-assistant-supervision-model-comparison.mdx",
-      "imagePath": "/blog/images/virtual-assistant-owner-review-scorecard.webp"
+      "imagePath": "/blog/images/virtual-assistant-owner-review-scorecard.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -152,13 +160,14 @@
       ],
       "contentHash": "b72ebc9d3f1954dd359de73530af719b2c7080f435eb351013b2d46e41ded6b7",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/30-day-virtual-assistant-onboarding-plan",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/30-day-virtual-assistant-onboarding-plan",
       "sourcePath": "content/blog/30-day-virtual-assistant-onboarding-plan.mdx",
-      "imagePath": "/blog/images/virtual-assistant-remote-onboarding-controls.webp"
+      "imagePath": "/blog/images/virtual-assistant-remote-onboarding-controls.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -169,13 +178,14 @@
       ],
       "contentHash": "d102fb752038d662aaf2f83f742c9d50ad7492734d85e4a0bc59d6124f281fb9",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-performance-review-cadence",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-performance-review-cadence",
       "sourcePath": "content/blog/virtual-assistant-performance-review-cadence.mdx",
-      "imagePath": "/blog/images/virtual-assistant-quality-scorecard.webp"
+      "imagePath": "/blog/images/virtual-assistant-quality-scorecard.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -186,13 +196,14 @@
       ],
       "contentHash": "8f34e90b6e3e074f7a3e0f29359a7fa3d2898048b4a4c72c0ec7e0fe999ee38f",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-service-exit-transition-plan",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-service-exit-transition-plan",
       "sourcePath": "content/blog/virtual-assistant-service-exit-transition-plan.mdx",
-      "imagePath": "/blog/images/virtual-assistant-access-removal.webp"
+      "imagePath": "/blog/images/virtual-assistant-access-removal.webp",
+      "status": "pushed-not-live-http-404"
     },
     {
       "family": "blog",
@@ -203,19 +214,21 @@
       ],
       "contentHash": "b5baab35db5795baad07f9a94ca219d77fa58adf375f3fe97340c714774834fa",
       "actualPublicationDate": "2026-09-24",
-      "commitSha": "PENDING",
-      "deploymentEvidence": "PENDING",
+      "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+      "deploymentEvidence": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks.",
       "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-security-incident-response-questions",
-      "verificationTime": "PENDING",
+      "verificationTime": "2026-09-24T14:14:01Z",
       "route": "/blog/virtual-assistant-security-incident-response-questions",
       "sourcePath": "content/blog/virtual-assistant-security-incident-response-questions.mdx",
-      "imagePath": "/blog/images/virtual-assistant-security-access-checklist.webp"
+      "imagePath": "/blog/images/virtual-assistant-security-access-checklist.webp",
+      "status": "pushed-not-live-http-404"
     }
   ],
   "repository": "coolifystealthagents/bestvirtualassistantservices",
   "productionBranch": "main",
-  "commitSha": "PENDING",
-  "remoteSha": "PENDING",
-  "deploymentId": "PENDING",
-  "verificationTime": "PENDING"
+  "commitSha": "f718c661f0daea3532e81f466b219d44d718af95",
+  "remoteSha": "263ec72da598fbf0d3df1ad8c92a1308fbbb2c16",
+  "deploymentId": "unavailable-authentication-failed",
+  "verificationTime": "2026-09-24T14:14:01Z",
+  "blocker": "Production deployment unavailable: content commit is an ancestor of remote main, but all new routes returned HTTP 404 through the bounded transition window. Coolify3 API authentication returned HTTP 401 and the configured internal endpoint timed out. Recovery owner: site infrastructure administrator; restore this application's Coolify API access or trigger and confirm deployment of remote main, then rerun all live verification checks."
 }
