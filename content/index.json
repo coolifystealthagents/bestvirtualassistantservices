@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "30-day-virtual-assistant-onboarding-plan",
+      "title": "30-Day Virtual Assistant Onboarding Plan for a New Service Engagement",
+      "path": "content/blog/30-day-virtual-assistant-onboarding-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-onboarding-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bilingual-virtual-assistant-service-evaluation",
+      "title": "How to Evaluate a Bilingual Virtual Assistant Service",
+      "path": "content/blog/bilingual-virtual-assistant-service-evaluation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-call-quality-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "managed-virtual-assistant-implementation-timeline",
+      "title": "Managed Virtual Assistant Implementation Timeline: From Scope to Steady State",
+      "path": "content/blog/managed-virtual-assistant-implementation-timeline.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-backup-coverage-evidence",
+      "title": "How to Verify a Virtual Assistant Provider's Backup Coverage",
+      "path": "content/blog/virtual-assistant-backup-coverage-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-confidentiality-agreement-operations",
+      "title": "Make a Virtual Assistant Confidentiality Agreement Work in Daily Operations",
+      "path": "content/blog/virtual-assistant-confidentiality-agreement-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-performance-review-cadence",
+      "title": "Virtual Assistant Performance Reviews: A Practical Cadence and Scorecard",
+      "path": "content/blog/virtual-assistant-performance-review-cadence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-pricing-model-comparison",
+      "title": "Virtual Assistant Pricing Models: Compare Hourly, Retainer, and Managed Service Offers",
+      "path": "content/blog/virtual-assistant-pricing-model-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-cost-calculator.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-security-incident-response-questions",
+      "title": "Security Incident Response Questions for a Virtual Assistant Provider",
+      "path": "content/blog/virtual-assistant-security-incident-response-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-security-access-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-exit-transition-plan",
+      "title": "Virtual Assistant Service Exit Plan: Protect Access, Records, and Continuity",
+      "path": "content/blog/virtual-assistant-service-exit-transition-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-removal.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-rfp-requirements",
+      "title": "Virtual Assistant Service RFP: Requirements That Produce Comparable Proposals",
+      "path": "content/blog/virtual-assistant-service-rfp-requirements.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-supervision-model-comparison",
+      "title": "Compare Virtual Assistant Supervision Models Before You Buy",
+      "path": "content/blog/virtual-assistant-supervision-model-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-owner-review-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-transition-handoff-documentation",
+      "title": "Virtual Assistant Transition Handoff: Documents to Require Before Work Moves",
+      "path": "content/blog/virtual-assistant-transition-handoff-documentation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp"
+    },
+    {
+      "type": "blog",
       "slug": "compare-travel-planning-assistance-proposals",
       "title": "How to Compare Travel Planning Assistance Proposals",
       "path": "content/blog/compare-travel-planning-assistance-proposals.mdx",
