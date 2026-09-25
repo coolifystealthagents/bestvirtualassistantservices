@@ -3294,6 +3294,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-ai-tool-disclosure-study",
+      "title": "What Should Buyers Ask About AI Tools Used by a Virtual Assistant Service?",
+      "path": "content/research/virtual-assistant-ai-tool-disclosure-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-content-fact-checking.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-ai-use-policy-handoffs",
       "title": "AI Use Policy Handoffs for Virtual Assistants",
       "path": "content/research/virtual-assistant-ai-use-policy-handoffs.mdx",
@@ -3700,6 +3707,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-customer-complaint-authority-study",
+      "title": "Where Should a Virtual Assistant's Authority End in Customer Complaint Handling?",
+      "path": "content/research/virtual-assistant-customer-complaint-authority-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-escalation-notes.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-customer-escalation-evidence",
       "title": "What Evidence Improves Virtual Assistant Customer Escalation Decisions?",
       "path": "content/research/virtual-assistant-customer-escalation-evidence.mdx",
@@ -3795,6 +3809,13 @@
       "title": "Evaluating Virtual Meeting Decision-Register Completeness",
       "path": "content/research/virtual-assistant-decision-register-completeness-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-article-research-claim-triage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-delegated-mailbox-authentication-study",
+      "title": "How Should Buyers Control Authentication for a Delegated Virtual Assistant Mailbox?",
+      "path": "content/research/virtual-assistant-delegated-mailbox-authentication-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-email-security-controls.webp"
     },
     {
       "type": "research",
@@ -4050,6 +4071,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-financial-approval-boundary-study",
+      "title": "How Should Buyers Set Financial Approval Boundaries for a Virtual Assistant?",
+      "path": "content/research/virtual-assistant-financial-approval-boundary-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-invoice-processing-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-first-month-cost-evidence-study",
       "title": "How Should Buyers Estimate the First-Month Cost of a Virtual Assistant Service?",
       "path": "content/research/virtual-assistant-first-month-cost-evidence-study.mdx",
@@ -4061,6 +4089,13 @@
       "title": "Help Desk Routing for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-help-desk-routing.mdx",
       "featuredImage": "/blog/images/virtual-assistant-help-desk-routing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-holiday-coverage-evidence-study",
+      "title": "What Evidence Supports a Virtual Assistant Holiday Coverage Promise?",
+      "path": "content/research/virtual-assistant-holiday-coverage-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-coverage-plan.webp"
     },
     {
       "type": "research",
