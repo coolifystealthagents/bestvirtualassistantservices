@@ -11,6 +11,7 @@
   "combinedReleaseRequired": true,
   "researchMayPushOrDeploy": false,
   "baseProductionSha": "190aa4017c74ba6d1441d391d59502e13d28446a",
+  "articleCommitSha": "1e8e7964b7ee4094ec5a8b0623b22be0e7ae497c",
   "entries": [
     {
       "family": "research",
@@ -59,7 +60,7 @@
       "publishedAt": "2026-09-25",
       "contentHash": "fc85436aee8ec6e405be6fe50583ac3f9967c682092852f818ec467ad9505740",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-delegated-mailbox-authentication-study",
-      "commitSha": null,
+      "commitSha": "1e8e7964b7ee4094ec5a8b0623b22be0e7ae497c",
       "deploymentEvidence": "Research staged locally for the combined 12 Blog + 5 Research release; Blog integrator and browser operator own the single production push, deployment, and public route verification.",
       "verificationTime": null,
       "status": "staged-for-combined-release"
@@ -111,7 +112,7 @@
       "publishedAt": "2026-09-25",
       "contentHash": "58f3a6d37030dce156c57423f0ebda6686975e2e8bdae46e1a412f305f312f22",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-customer-complaint-authority-study",
-      "commitSha": null,
+      "commitSha": "1e8e7964b7ee4094ec5a8b0623b22be0e7ae497c",
       "deploymentEvidence": "Research staged locally for the combined 12 Blog + 5 Research release; Blog integrator and browser operator own the single production push, deployment, and public route verification.",
       "verificationTime": null,
       "status": "staged-for-combined-release"
@@ -163,7 +164,7 @@
       "publishedAt": "2026-09-25",
       "contentHash": "acedc1561e75bea050e4e0612eb41511db45c2753a932f6be8a0900953bd48e2",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-ai-tool-disclosure-study",
-      "commitSha": null,
+      "commitSha": "1e8e7964b7ee4094ec5a8b0623b22be0e7ae497c",
       "deploymentEvidence": "Research staged locally for the combined 12 Blog + 5 Research release; Blog integrator and browser operator own the single production push, deployment, and public route verification.",
       "verificationTime": null,
       "status": "staged-for-combined-release"
@@ -215,7 +216,7 @@
       "publishedAt": "2026-09-25",
       "contentHash": "651f60411c8647514bef5938d14cc7f72a01dc564e2427b32a595620f8324e7e",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-holiday-coverage-evidence-study",
-      "commitSha": null,
+      "commitSha": "1e8e7964b7ee4094ec5a8b0623b22be0e7ae497c",
       "deploymentEvidence": "Research staged locally for the combined 12 Blog + 5 Research release; Blog integrator and browser operator own the single production push, deployment, and public route verification.",
       "verificationTime": null,
       "status": "staged-for-combined-release"
@@ -267,7 +268,7 @@
       "publishedAt": "2026-09-25",
       "contentHash": "ce77a7f55055a3581a54f2a98679c70b122f06f3cb28b3e459693baf216d69ee",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-financial-approval-boundary-study",
-      "commitSha": null,
+      "commitSha": "1e8e7964b7ee4094ec5a8b0623b22be0e7ae497c",
       "deploymentEvidence": "Research staged locally for the combined 12 Blog + 5 Research release; Blog integrator and browser operator own the single production push, deployment, and public route verification.",
       "verificationTime": null,
       "status": "staged-for-combined-release"
