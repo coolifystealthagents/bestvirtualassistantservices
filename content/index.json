@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-account-ownership-checklist",
+      "title": "Virtual Assistant Account Ownership Checklist: Keep Business Control",
+      "path": "content/blog/virtual-assistant-account-ownership-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-agency-contract-review-checklist",
+      "title": "Virtual Assistant Agency Contract Review Checklist for Service Buyers",
+      "path": "content/blog/virtual-assistant-agency-contract-review-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-renewal-tracking.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-capacity-planning-calculator",
+      "title": "Virtual Assistant Capacity Planning: Estimate Hours Before You Buy",
+      "path": "content/blog/virtual-assistant-capacity-planning-calculator.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-communication-plan",
+      "title": "Virtual Assistant Communication Plan for Daily Work and Escalations",
+      "path": "content/blog/virtual-assistant-communication-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-first-week-checklist",
+      "title": "Virtual Assistant First-Week Checklist for a Safe Service Launch",
+      "path": "content/blog/virtual-assistant-first-week-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-onboarding-controls.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-invoice-review-checklist",
+      "title": "Virtual Assistant Invoice Review Checklist for Managed Services",
+      "path": "content/blog/virtual-assistant-invoice-review-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-invoice-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-monthly-report-template",
+      "title": "Virtual Assistant Monthly Report Template for Service Reviews",
+      "path": "content/blog/virtual-assistant-monthly-report-template.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-weekly-operations-report.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-pilot-project-plan",
+      "title": "Virtual Assistant Pilot Project Plan: From Test to Buying Decision",
+      "path": "content/blog/virtual-assistant-pilot-project-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-provider-reference-check-questions",
+      "title": "Virtual Assistant Provider Reference Check: Questions That Test Fit",
+      "path": "content/blog/virtual-assistant-provider-reference-check-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-quarterly-business-review-agenda",
+      "title": "Virtual Assistant Quarterly Business Review Agenda for Service Buyers",
+      "path": "content/blog/virtual-assistant-quarterly-business-review-agenda.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-owner-review-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-level-agreement-guide",
+      "title": "Virtual Assistant Service Level Agreement: A Buyer\u2019s Practical Guide",
+      "path": "content/blog/virtual-assistant-service-level-agreement-guide.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-vendor-data-inventory",
+      "title": "Build a Vendor Data Inventory Before Hiring a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-vendor-data-inventory.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "blog",
       "slug": "30-day-virtual-assistant-onboarding-plan",
       "title": "30-Day Virtual Assistant Onboarding Plan for a New Service Engagement",
       "path": "content/blog/30-day-virtual-assistant-onboarding-plan.mdx",

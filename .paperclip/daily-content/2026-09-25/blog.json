@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "contract": "canonical-daily-blog-publishing",
+  "family": "blog",
+  "domain": "bestvirtualassistantservices.com",
+  "targetDate": "2026-09-25",
+  "required": 12,
+  "verified": 0,
+  "entries": [
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Agency Contract Review Checklist for Service Buyers",
+      "slug": "virtual-assistant-agency-contract-review-checklist",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "5abc371b0fde0eaf7790826692ffbc3fdb31f4f6674547db95cc7f769f8c82cd",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-agency-contract-review-checklist",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-agency-contract-review-checklist",
+      "sourcePath": "content/blog/virtual-assistant-agency-contract-review-checklist.mdx",
+      "imagePath": "/blog/images/virtual-assistant-vendor-renewal-tracking.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Service Level Agreement: A Buyer\u2019s Practical Guide",
+      "slug": "virtual-assistant-service-level-agreement-guide",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "9f49ee13df5419a25a9722dcc228b9b1bcc60733a986da013ea0b52c464d93d8",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-service-level-agreement-guide",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-service-level-agreement-guide",
+      "sourcePath": "content/blog/virtual-assistant-service-level-agreement-guide.mdx",
+      "imagePath": "/blog/images/virtual-assistant-quality-scorecard.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Build a Vendor Data Inventory Before Hiring a Virtual Assistant",
+      "slug": "virtual-assistant-vendor-data-inventory",
+      "sources": [
+        "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity"
+      ],
+      "contentHash": "5747b7380d7f2e430753bb1072f498baa3fbf7892871ca71f10b04fddf25ec7e",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-vendor-data-inventory",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-vendor-data-inventory",
+      "sourcePath": "content/blog/virtual-assistant-vendor-data-inventory.mdx",
+      "imagePath": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Monthly Report Template for Service Reviews",
+      "slug": "virtual-assistant-monthly-report-template",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "6340488a9cd60de4ab394dba99e19e95d1278baa67435ceb6512e68ec22fd483",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-monthly-report-template",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-monthly-report-template",
+      "sourcePath": "content/blog/virtual-assistant-monthly-report-template.mdx",
+      "imagePath": "/blog/images/virtual-assistant-weekly-operations-report.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Capacity Planning: Estimate Hours Before You Buy",
+      "slug": "virtual-assistant-capacity-planning-calculator",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "ae1488226a82ddc08381ae2f46ad8b01b9667f9770aa2216fcfa2aa3f4f95c20",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-capacity-planning-calculator",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-capacity-planning-calculator",
+      "sourcePath": "content/blog/virtual-assistant-capacity-planning-calculator.mdx",
+      "imagePath": "/blog/images/virtual-assistant-task-estimation-methods.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant First-Week Checklist for a Safe Service Launch",
+      "slug": "virtual-assistant-first-week-checklist",
+      "sources": [
+        "https://www.nist.gov/itl/smallbusinesscyber"
+      ],
+      "contentHash": "bcf12be92288e462c3e96a48acba5e13e7937220e9ffb596629bc80b11fb0aad",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-first-week-checklist",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-first-week-checklist",
+      "sourcePath": "content/blog/virtual-assistant-first-week-checklist.mdx",
+      "imagePath": "/blog/images/virtual-assistant-remote-onboarding-controls.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Provider Reference Check: Questions That Test Fit",
+      "slug": "virtual-assistant-provider-reference-check-questions",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "9b69dc92874619a54a9fab723ede835fc73dfba77cb25b14c481b5c9580dc830",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-provider-reference-check-questions",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-provider-reference-check-questions",
+      "sourcePath": "content/blog/virtual-assistant-provider-reference-check-questions.mdx",
+      "imagePath": "/blog/images/virtual-assistant-work-sample-review.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Account Ownership Checklist: Keep Business Control",
+      "slug": "virtual-assistant-account-ownership-checklist",
+      "sources": [
+        "https://www.cisa.gov/secure-our-world/use-strong-passwords"
+      ],
+      "contentHash": "71c8d18727494c3de955d5c50035bf2a5e61e780e35c662ca4ee384d51cd1138",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-account-ownership-checklist",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-account-ownership-checklist",
+      "sourcePath": "content/blog/virtual-assistant-account-ownership-checklist.mdx",
+      "imagePath": "/blog/images/virtual-assistant-access-review.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Pilot Project Plan: From Test to Buying Decision",
+      "slug": "virtual-assistant-pilot-project-plan",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "ca37b37c57ee6cfda53d7040fc634229befa2a9ce511af501d979c5277ca03e2",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-pilot-project-plan",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-pilot-project-plan",
+      "sourcePath": "content/blog/virtual-assistant-pilot-project-plan.mdx",
+      "imagePath": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Communication Plan for Daily Work and Escalations",
+      "slug": "virtual-assistant-communication-plan",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "21137cee375f245626c8723f441eeea4082c0466c611b26f059635aa17c39113",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-communication-plan",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-communication-plan",
+      "sourcePath": "content/blog/virtual-assistant-communication-plan.mdx",
+      "imagePath": "/blog/images/virtual-assistant-time-zone-handoff.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Invoice Review Checklist for Managed Services",
+      "slug": "virtual-assistant-invoice-review-checklist",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "4243a6554d7e7cceff62b2188c82f487f364dee2d633ee8cfb80834259f8a3b7",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-invoice-review-checklist",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-invoice-review-checklist",
+      "sourcePath": "content/blog/virtual-assistant-invoice-review-checklist.mdx",
+      "imagePath": "/blog/images/virtual-assistant-vendor-invoice-checklist.webp"
+    },
+    {
+      "family": "blog",
+      "topic": "Virtual Assistant Quarterly Business Review Agenda for Service Buyers",
+      "slug": "virtual-assistant-quarterly-business-review-agenda",
+      "sources": [
+        "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
+      ],
+      "contentHash": "333e50d97b19be9d825106cef70c2f90ab8ce34227d9e3c5cd8f66f89f15dce5",
+      "actualPublicationDate": "2026-09-25",
+      "commitSha": "PENDING",
+      "deploymentEvidence": "PENDING",
+      "liveUrl": "https://bestvirtualassistantservices.com/blog/virtual-assistant-quarterly-business-review-agenda",
+      "verificationTime": "PENDING",
+      "route": "/blog/virtual-assistant-quarterly-business-review-agenda",
+      "sourcePath": "content/blog/virtual-assistant-quarterly-business-review-agenda.mdx",
+      "imagePath": "/blog/images/virtual-assistant-owner-review-scorecard.webp"
+    }
+  ],
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "productionBranch": "main",
+  "commitSha": "PENDING",
+  "remoteSha": "PENDING",
+  "deploymentId": "PENDING",
+  "verificationTime": "PENDING"
+}
