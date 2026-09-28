@@ -3483,6 +3483,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-bilingual-support-calibration-study",
+      "title": "How Can Buyers Calibrate Bilingual Virtual Assistant Customer Support?",
+      "path": "content/research/virtual-assistant-bilingual-support-calibration-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-customer-feedback-controls.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-bilingual-support-evidence-study",
       "title": "How Should Buyers Test Bilingual Virtual Assistant Support Claims?",
       "path": "content/research/virtual-assistant-bilingual-support-evidence-study.mdx",
@@ -3529,6 +3536,13 @@
       "title": "How Should Virtual Assistants Research Calendar Capacity Before Scheduling?",
       "path": "content/research/virtual-assistant-calendar-capacity-research.mdx",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-calendar-collision-control-study",
+      "title": "How Should Buyers Test Calendar Collision Controls Before Delegating Scheduling?",
+      "path": "content/research/virtual-assistant-calendar-collision-control-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
     },
     {
       "type": "research",
@@ -3774,6 +3788,13 @@
       "title": "What Evidence Makes Virtual Assistant Coverage Hours Comparable?",
       "path": "content/research/virtual-assistant-coverage-hours-evidence-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-coverage-hours-planning.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-crm-contact-merge-study",
+      "title": "What Evidence Makes CRM Contact Merging Safe to Delegate?",
+      "path": "content/research/virtual-assistant-crm-contact-merge-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
     },
     {
       "type": "research",
@@ -4708,10 +4729,24 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-time-tracking-evidence-study",
+      "title": "What Can Virtual Assistant Time-Tracking Evidence Actually Prove?",
+      "path": "content/research/virtual-assistant-time-tracking-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-operations-reporting.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-vendor-comparison-methodology",
       "title": "When Is Virtual Assistant Vendor Research Comparable?",
       "path": "content/research/virtual-assistant-vendor-comparison-methodology.mdx",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-vendor-identity-change-study",
+      "title": "How Should a Virtual Assistant Verify Vendor Identity Changes?",
+      "path": "content/research/virtual-assistant-vendor-identity-change-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-risk-review.webp"
     },
     {
       "type": "research",
