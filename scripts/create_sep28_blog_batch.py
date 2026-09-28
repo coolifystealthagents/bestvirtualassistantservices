@@ -5,6 +5,8 @@ import hashlib, json
 
 ROOT = Path(__file__).resolve().parents[1]
 DATE = "2026-09-28"
+BLOG_CONTENT_COMMIT = "9331242fc92a65168cbd4e10a9cba1fc62632845"
+COMBINED_VALIDATED_HEAD = "251ec0b"
 IMAGE = "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
 SOURCE = "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
 
@@ -70,12 +72,13 @@ entries=[]
 for topic in topics:
  p=ROOT/f"content/blog/{topic['slug']}.mdx"
  entries.append({"family":"blog","topic":topic["topic"],"slug":topic["slug"],"sources":[SOURCE],
-  "contentHash":hashlib.sha256(p.read_bytes()).hexdigest(),"actualPublicationDate":DATE,"commitSha":"PENDING",
-  "deploymentEvidence":"PENDING","liveUrl":f"https://bestvirtualassistantservices.com/blog/{topic['slug']}",
+  "contentHash":hashlib.sha256(p.read_bytes()).hexdigest(),"actualPublicationDate":DATE,"commitSha":BLOG_CONTENT_COMMIT,
+  "deploymentEvidence":"Combined release prepared for the sole production push; Browser Operator owns deployment and user owns public route/date verification.","liveUrl":f"https://bestvirtualassistantservices.com/blog/{topic['slug']}",
   "verificationTime":"PENDING","route":f"/blog/{topic['slug']}","sourcePath":str(p.relative_to(ROOT)),"imagePath":IMAGE})
 manifest={"schemaVersion":2,"contract":"canonical-daily-blog-publishing","family":"blog",
  "domain":"bestvirtualassistantservices.com","targetDate":DATE,"timezone":"UTC","required":12,"verified":0,
  "entries":entries,"repository":"coolifystealthagents/bestvirtualassistantservices","productionBranch":"main",
- "commitSha":"PENDING","remoteSha":"PENDING","deploymentId":"PENDING","verificationTime":"PENDING"}
+ "contentCommitSha":BLOG_CONTENT_COMMIT,"combinedValidatedHead":COMBINED_VALIDATED_HEAD,"remoteSha":"PENDING_SOLE_PUSH",
+ "deploymentId":"Browser Operator only: o48em959jxfxy27gkxx7lnn4","verificationTime":"PENDING_USER_VERIFICATION"}
 (ROOT/f".paperclip/daily-content/{DATE}/blog.json").write_text(json.dumps(manifest,indent=2)+"\n")
 print(f"created {len(items)} Blog drafts and exact-{len(entries)} manifest for {DATE}")
