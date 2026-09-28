@@ -1,0 +1,21 @@
+{
+  "cycleLabel": "September28",
+  "publicationDate": "2026-09-28",
+  "timezone": "UTC",
+  "baselineSha": "d58dc21c00ad8cb1a7a7bd080c3eb5f52e7920a5",
+  "required": 12,
+  "topics": [
+    {"slug":"virtual-assistant-agency-vs-freelancer-decision","topic":"Choose between a virtual assistant agency and a freelancer","pillar":"provider selection"},
+    {"slug":"virtual-assistant-dedicated-vs-shared-support","topic":"Compare dedicated and shared virtual assistant support","pillar":"service model"},
+    {"slug":"virtual-assistant-language-assessment-guide","topic":"Assess working language skills with role-specific evidence","pillar":"provider selection"},
+    {"slug":"virtual-assistant-data-processing-agreement-review","topic":"Review data-processing terms for a virtual assistant service","pillar":"risk management"},
+    {"slug":"virtual-assistant-holiday-coverage-plan","topic":"Plan holiday coverage without creating unclear authority","pillar":"continuity"},
+    {"slug":"virtual-assistant-supervisor-ratio-questions","topic":"Evaluate a provider's supervision model and manager workload","pillar":"service model"},
+    {"slug":"virtual-assistant-onboarding-fee-comparison","topic":"Compare onboarding fees by deliverable and ownership","pillar":"commercial evaluation"},
+    {"slug":"virtual-assistant-minimum-contract-term-review","topic":"Evaluate minimum contract terms against implementation risk","pillar":"commercial evaluation"},
+    {"slug":"virtual-assistant-backup-coverage-questions","topic":"Test backup coverage claims before service begins","pillar":"continuity"},
+    {"slug":"virtual-assistant-service-transition-plan","topic":"Plan a controlled transition between virtual assistant providers","pillar":"risk management"},
+    {"slug":"virtual-assistant-quality-assurance-model-comparison","topic":"Compare virtual assistant quality assurance models","pillar":"service quality"},
+    {"slug":"virtual-assistant-equipment-and-connectivity-questions","topic":"Verify equipment and connectivity assumptions for remote support","pillar":"service readiness"}
+  ]
+}
