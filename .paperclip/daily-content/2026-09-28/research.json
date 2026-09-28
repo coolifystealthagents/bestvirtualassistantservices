@@ -13,6 +13,7 @@
   "combinedReleaseRequired": true,
   "researchMayPushOrDeploy": false,
   "baseProductionSha": "d58dc21c00ad8cb1a7a7bd080c3eb5f52e7920a5",
+  "articleCommitSha": "6c5a8e1c32cecacb10afaf1079dc58a0df0defba",
   "coolifyApplication": "o48em959jxfxy27gkxx7lnn4 (Browser Operator only)",
   "entries": [
     {
@@ -63,7 +64,7 @@
       "publishedAt": "2026-09-28",
       "contentHash": "64bb527cb5cf5711b2efbf61932b064c0ae5d59d5911332d6494813699a61570",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-time-tracking-evidence-study",
-      "commitSha": null,
+      "commitSha": "6c5a8e1c32cecacb10afaf1079dc58a0df0defba",
       "deploymentEvidence": "Local Research handoff only. Blog integrator owns the sole combined push; Browser Operator owns deployment; user owns article route/date verification.",
       "verificationTime": null,
       "status": "staged-local-handoff"
@@ -116,7 +117,7 @@
       "publishedAt": "2026-09-28",
       "contentHash": "da29a020db40396bdf8262187ec37aeeb9a795ffe13186f283b8dc72e48469ad",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-calendar-collision-control-study",
-      "commitSha": null,
+      "commitSha": "6c5a8e1c32cecacb10afaf1079dc58a0df0defba",
       "deploymentEvidence": "Local Research handoff only. Blog integrator owns the sole combined push; Browser Operator owns deployment; user owns article route/date verification.",
       "verificationTime": null,
       "status": "staged-local-handoff"
@@ -169,7 +170,7 @@
       "publishedAt": "2026-09-28",
       "contentHash": "157979bb428e279e71f5d936a703715a958607c48fb8760e41726fb6d6048445",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-crm-contact-merge-study",
-      "commitSha": null,
+      "commitSha": "6c5a8e1c32cecacb10afaf1079dc58a0df0defba",
       "deploymentEvidence": "Local Research handoff only. Blog integrator owns the sole combined push; Browser Operator owns deployment; user owns article route/date verification.",
       "verificationTime": null,
       "status": "staged-local-handoff"
@@ -222,7 +223,7 @@
       "publishedAt": "2026-09-28",
       "contentHash": "19332785e7e31461ab0595b100e1ae9182992262d3ed52c55a275fc144938dea",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-vendor-identity-change-study",
-      "commitSha": null,
+      "commitSha": "6c5a8e1c32cecacb10afaf1079dc58a0df0defba",
       "deploymentEvidence": "Local Research handoff only. Blog integrator owns the sole combined push; Browser Operator owns deployment; user owns article route/date verification.",
       "verificationTime": null,
       "status": "staged-local-handoff"
@@ -275,7 +276,7 @@
       "publishedAt": "2026-09-28",
       "contentHash": "5db7eabfb518c39fa69dc26cc31ee05d177cfc10635f9d342cfe5c8fe35f2b66",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-bilingual-support-calibration-study",
-      "commitSha": null,
+      "commitSha": "6c5a8e1c32cecacb10afaf1079dc58a0df0defba",
       "deploymentEvidence": "Local Research handoff only. Blog integrator owns the sole combined push; Browser Operator owns deployment; user owns article route/date verification.",
       "verificationTime": null,
       "status": "staged-local-handoff"
