@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-agency-vs-freelancer-decision",
+      "title": "Virtual Assistant Agency vs Freelancer: A Decision Framework",
+      "path": "content/blog/virtual-assistant-agency-vs-freelancer-decision.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-backup-coverage-questions",
+      "title": "Virtual Assistant Backup Coverage: Questions to Test the Promise",
+      "path": "content/blog/virtual-assistant-backup-coverage-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-data-processing-agreement-review",
+      "title": "Review a Data Processing Agreement for Virtual Assistant Services",
+      "path": "content/blog/virtual-assistant-data-processing-agreement-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-dedicated-vs-shared-support",
+      "title": "Dedicated vs Shared Virtual Assistant Support: What Buyers Should Compare",
+      "path": "content/blog/virtual-assistant-dedicated-vs-shared-support.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-equipment-and-connectivity-questions",
+      "title": "Equipment and Connectivity Questions for Virtual Assistant Providers",
+      "path": "content/blog/virtual-assistant-equipment-and-connectivity-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-holiday-coverage-plan",
+      "title": "Build a Virtual Assistant Holiday Coverage Plan",
+      "path": "content/blog/virtual-assistant-holiday-coverage-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-language-assessment-guide",
+      "title": "How to Assess a Virtual Assistant's Working Language Skills",
+      "path": "content/blog/virtual-assistant-language-assessment-guide.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-minimum-contract-term-review",
+      "title": "How to Review a Virtual Assistant Minimum Contract Term",
+      "path": "content/blog/virtual-assistant-minimum-contract-term-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-onboarding-fee-comparison",
+      "title": "Compare Virtual Assistant Onboarding Fees by Deliverable",
+      "path": "content/blog/virtual-assistant-onboarding-fee-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-quality-assurance-model-comparison",
+      "title": "Compare Virtual Assistant Quality Assurance Models",
+      "path": "content/blog/virtual-assistant-quality-assurance-model-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-transition-plan",
+      "title": "Plan a Safe Transition Between Virtual Assistant Providers",
+      "path": "content/blog/virtual-assistant-service-transition-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-supervisor-ratio-questions",
+      "title": "Virtual Assistant Supervisor Ratios: Questions for Service Buyers",
+      "path": "content/blog/virtual-assistant-supervisor-ratio-questions.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-account-ownership-checklist",
       "title": "Virtual Assistant Account Ownership Checklist: Keep Business Control",
       "path": "content/blog/virtual-assistant-account-ownership-checklist.mdx",
