@@ -59,14 +59,14 @@
         "https://www.archives.gov/records-mgmt"
       ],
       "checkedDate": "2026-10-02",
-      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publicationDateStatus": "actual first-publication date verified in UTC; local public-copy correction pending authorization",
       "publishedAt": "2026-10-02",
-      "contentHash": "ea354d4da0ec7a99113dbea1b9a25f375836426f49b0498407be68a60f9cc8d3",
+      "contentHash": "833681682772bcc8479f673740e83b2ab582a322e8dd44cab5a16783b9af0422",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-account-recovery-control-study",
       "commitSha": "e8c32a01299d1fde263dc4ac3110509899770613",
-      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
-      "verificationTime": null,
-      "status": "staged-local-handoff",
+      "deploymentEvidence": "Coolify3 deployment rlt72prkhqugmejwbcyhmqmt succeeded for exact SHA c576d337d5eef04c3f1a97d4500380494dc61cd3; corrected source is local only and not deployed.",
+      "verificationTime": "2026-10-02T13:09:04Z",
+      "status": "live-original-revision-corrective-source-pending-authorization",
       "bodyWordCount": 1385
     },
     {
@@ -113,14 +113,14 @@
         "https://www.archives.gov/records-mgmt"
       ],
       "checkedDate": "2026-10-02",
-      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publicationDateStatus": "actual first-publication date verified in UTC; local public-copy correction pending authorization",
       "publishedAt": "2026-10-02",
-      "contentHash": "cb9ff452d28686d6a12bfa5e021737ef4ae532c887de56d54dd4bc8ec61777db",
+      "contentHash": "90807c6874804ffa8e5e10f95343378d97532503f93ac791675a32b0b475ebec",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-meeting-recording-governance-study",
       "commitSha": "e8c32a01299d1fde263dc4ac3110509899770613",
-      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
-      "verificationTime": null,
-      "status": "staged-local-handoff",
+      "deploymentEvidence": "Coolify3 deployment rlt72prkhqugmejwbcyhmqmt succeeded for exact SHA c576d337d5eef04c3f1a97d4500380494dc61cd3; corrected source is local only and not deployed.",
+      "verificationTime": "2026-10-02T13:09:04Z",
+      "status": "live-original-revision-corrective-source-pending-authorization",
       "bodyWordCount": 1407
     },
     {
@@ -167,14 +167,14 @@
         "https://www.archives.gov/records-mgmt"
       ],
       "checkedDate": "2026-10-02",
-      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publicationDateStatus": "actual first-publication date verified in UTC; local public-copy correction pending authorization",
       "publishedAt": "2026-10-02",
-      "contentHash": "b2bb192831b2836d7e22f1d3dc4f5bfd6171b653e4d60c5863d671c6e6942f8c",
+      "contentHash": "2915360e3591ced0e56e0656856c14e0c92a800346f6ae835be3fdacc513d311",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-data-rights-request-intake-study",
       "commitSha": "e8c32a01299d1fde263dc4ac3110509899770613",
-      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
-      "verificationTime": null,
-      "status": "staged-local-handoff",
+      "deploymentEvidence": "Coolify3 deployment rlt72prkhqugmejwbcyhmqmt succeeded for exact SHA c576d337d5eef04c3f1a97d4500380494dc61cd3; corrected source is local only and not deployed.",
+      "verificationTime": "2026-10-02T13:09:04Z",
+      "status": "live-original-revision-corrective-source-pending-authorization",
       "bodyWordCount": 1418
     },
     {
@@ -221,14 +221,14 @@
         "https://www.archives.gov/records-mgmt"
       ],
       "checkedDate": "2026-10-02",
-      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publicationDateStatus": "actual first-publication date verified in UTC; local public-copy correction pending authorization",
       "publishedAt": "2026-10-02",
-      "contentHash": "30488b2fea129e5b1f72634d676210b99e0cbab11f24c8f3864909252b032edc",
+      "contentHash": "d514b02102c117802898bc64fd7d9e43eb9ac142163e3b020ee62e5110867ec8",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-suspicious-attachment-intake-study",
       "commitSha": "e8c32a01299d1fde263dc4ac3110509899770613",
-      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
-      "verificationTime": null,
-      "status": "staged-local-handoff",
+      "deploymentEvidence": "Coolify3 deployment rlt72prkhqugmejwbcyhmqmt succeeded for exact SHA c576d337d5eef04c3f1a97d4500380494dc61cd3; corrected source is local only and not deployed.",
+      "verificationTime": "2026-10-02T13:09:04Z",
+      "status": "live-original-revision-corrective-source-pending-authorization",
       "bodyWordCount": 1394
     },
     {
@@ -275,14 +275,14 @@
         "https://www.archives.gov/records-mgmt"
       ],
       "checkedDate": "2026-10-02",
-      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publicationDateStatus": "actual first-publication date verified in UTC; local public-copy correction pending authorization",
       "publishedAt": "2026-10-02",
-      "contentHash": "ff6831cb0cad4b4ec43e8dadf492ec38fa963676827c9383bce14bdd25a4e43d",
+      "contentHash": "2f12ff63b80c175d17140084aab2ab1ab4a1a338ea6e951005c478e06e3c2fd1",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-social-account-recovery-study",
       "commitSha": "e8c32a01299d1fde263dc4ac3110509899770613",
-      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
-      "verificationTime": null,
-      "status": "staged-local-handoff",
+      "deploymentEvidence": "Coolify3 deployment rlt72prkhqugmejwbcyhmqmt succeeded for exact SHA c576d337d5eef04c3f1a97d4500380494dc61cd3; corrected source is local only and not deployed.",
+      "verificationTime": "2026-10-02T13:09:04Z",
+      "status": "live-original-revision-corrective-source-pending-authorization",
       "bodyWordCount": 1420
     }
   ],

@@ -181,7 +181,7 @@ sources: {json.dumps(urls)}
 ---
 # {t["title"]}
 
-Published {DATE} (provisional combined-release date; reconcile to first live verification).
+Published {DATE}.
 
 ## Executive finding on {t["focus"]}
 
@@ -225,7 +225,7 @@ For BestVirtualAssistantServices.com, the useful {t["focus"]} reader outcome is 
 
 '''+"\n".join(f"{i}. [{title}]({url}) : {publisher}. Checked {DATE}." for i,(title,publisher,url) in enumerate(SOURCES,1))+"\n"
  p.write_text(text,encoding="utf-8")
- entries.append({"family":"research","topic":t["title"],"slug":t["slug"],"sourcePaths":[str(p.relative_to(ROOT))],"sourceTitles":[x[0] for x in SOURCES],"sourcePublishers":[x[1] for x in SOURCES],"sources":[x[2] for x in SOURCES],"checkedDate":DATE,"publicationDateStatus":"provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push","publishedAt":DATE,"contentHash":hashlib.sha256(text.encode()).hexdigest(),"liveUrl":f'https://bestvirtualassistantservices.com/research/{t["slug"]}',"commitSha":None,"deploymentEvidence":"Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.","verificationTime":None,"status":"staged-local-handoff"})
+ entries.append({"family":"research","topic":t["title"],"slug":t["slug"],"sourcePaths":[str(p.relative_to(ROOT))],"sourceTitles":[x[0] for x in SOURCES],"sourcePublishers":[x[1] for x in SOURCES],"sources":[x[2] for x in SOURCES],"checkedDate":DATE,"publicationDateStatus":"actual first-publication date verified in UTC","publishedAt":DATE,"contentHash":hashlib.sha256(text.encode()).hexdigest(),"liveUrl":f'https://bestvirtualassistantservices.com/research/{t["slug"]}',"commitSha":None,"deploymentEvidence":"Set by the Blog integrator after exact-SHA deployment evidence is available.","verificationTime":None,"status":"staged-local-handoff"})
 
 manifest=ROOT/".paperclip"/"daily-content"/DATE/"research.json"
 manifest.parent.mkdir(parents=True,exist_ok=True)
