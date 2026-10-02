@@ -3455,6 +3455,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-account-recovery-control-study",
+      "title": "How Should Buyers Test Account Recovery Before Delegating Access to a Virtual Assistant?",
+      "path": "content/research/virtual-assistant-account-recovery-control-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-ai-output-quality-assurance",
       "title": "Virtual Assistant AI Output Quality Assurance: A Research Brief",
       "path": "content/research/virtual-assistant-ai-output-quality-assurance.mdx",
@@ -3994,6 +4001,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-data-rights-request-intake-study",
+      "title": "Can a Virtual Assistant Safely Triage Personal-Data Rights Requests?",
+      "path": "content/research/virtual-assistant-data-rights-request-intake-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-onboarding-metrics.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-decision-register-completeness-study",
       "title": "Evaluating Virtual Meeting Decision-Register Completeness",
       "path": "content/research/virtual-assistant-decision-register-completeness-study.mdx",
@@ -4470,6 +4484,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-meeting-recording-governance-study",
+      "title": "What Should Buyers Verify Before a Virtual Assistant Records or Transcribes Meetings?",
+      "path": "content/research/virtual-assistant-meeting-recording-governance-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-membership-record-retention",
       "title": "Membership Record Retention Research by Virtual Assistants",
       "path": "content/research/virtual-assistant-membership-record-retention.md",
@@ -4750,6 +4771,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-social-account-recovery-study",
+      "title": "Who Should Control Social Media Account Recovery When a Virtual Assistant Publishes Posts?",
+      "path": "content/research/virtual-assistant-social-account-recovery-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-social-media-moderation.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-social-media-moderation",
       "title": "Social Media Moderation by Virtual Assistants: Research and Control Brief",
       "path": "content/research/virtual-assistant-social-media-moderation.mdx",
@@ -4810,6 +4838,13 @@
       "title": "Survey Operations Controls for Virtual Assistant Teams",
       "path": "content/research/virtual-assistant-survey-operations-controls.mdx",
       "featuredImage": "/blog/images/virtual-assistant-survey-operations-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-suspicious-attachment-intake-study",
+      "title": "How Should a Virtual Assistant Handle Suspicious Email Attachments Without Opening Them?",
+      "path": "content/research/virtual-assistant-suspicious-attachment-intake-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-email-security-controls.webp"
     },
     {
       "type": "research",

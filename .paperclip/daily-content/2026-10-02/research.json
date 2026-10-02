@@ -1,0 +1,365 @@
+{
+  "runDate": "2026-10-02",
+  "cycleLabel": "October 2, 2026 combined release",
+  "taskId": "BES-83 / cf42d8fe-888e-4f5e-9c6f-47591b15ed1e",
+  "runId": "a36f966c-a6d2-40ad-826f-9fa8a4ed7f26",
+  "family": "research",
+  "requiredCount": 5,
+  "stagedCount": 5,
+  "verifiedCount": 0,
+  "timezone": "UTC in repository renderer; integrator must reconcile metadata to each article's first successful public verification before push",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "productionBranch": "main",
+  "combinedReleaseRequired": true,
+  "researchMayPushOrDeploy": false,
+  "baseProductionSha": "8811bbb183d774d57eb79e4f687849e3ae725386",
+  "coolifyApplication": "o48em959jxfxy27gkxx7lnn4 (Browser Operator only)",
+  "entries": [
+    {
+      "family": "research",
+      "topic": "How Should Buyers Test Account Recovery Before Delegating Access to a Virtual Assistant?",
+      "slug": "virtual-assistant-account-recovery-control-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-account-recovery-control-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NPC Advisory Opinion No. 2024-003",
+        "NIST Digital Identity Guidelines: Authentication and Authenticator Management",
+        "NIST Cybersecurity Framework 2.0",
+        "Require Multifactor Authentication",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Records Management"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "U.S. National Archives and Records Administration"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://privacy.gov.ph/wp-content/uploads/2024/04/Advisory-Opinion-No.-2024-003.pdf",
+        "https://pages.nist.gov/800-63-4/sp800-63b.html",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://www.archives.gov/records-mgmt"
+      ],
+      "checkedDate": "2026-10-02",
+      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publishedAt": "2026-10-02",
+      "contentHash": "ea354d4da0ec7a99113dbea1b9a25f375836426f49b0498407be68a60f9cc8d3",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-account-recovery-control-study",
+      "commitSha": null,
+      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
+      "verificationTime": null,
+      "status": "staged-local-handoff",
+      "bodyWordCount": 1385
+    },
+    {
+      "family": "research",
+      "topic": "What Should Buyers Verify Before a Virtual Assistant Records or Transcribes Meetings?",
+      "slug": "virtual-assistant-meeting-recording-governance-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-meeting-recording-governance-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NPC Advisory Opinion No. 2024-003",
+        "NIST Digital Identity Guidelines: Authentication and Authenticator Management",
+        "NIST Cybersecurity Framework 2.0",
+        "Require Multifactor Authentication",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Records Management"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "U.S. National Archives and Records Administration"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://privacy.gov.ph/wp-content/uploads/2024/04/Advisory-Opinion-No.-2024-003.pdf",
+        "https://pages.nist.gov/800-63-4/sp800-63b.html",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://www.archives.gov/records-mgmt"
+      ],
+      "checkedDate": "2026-10-02",
+      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publishedAt": "2026-10-02",
+      "contentHash": "cb9ff452d28686d6a12bfa5e021737ef4ae532c887de56d54dd4bc8ec61777db",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-meeting-recording-governance-study",
+      "commitSha": null,
+      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
+      "verificationTime": null,
+      "status": "staged-local-handoff",
+      "bodyWordCount": 1407
+    },
+    {
+      "family": "research",
+      "topic": "Can a Virtual Assistant Safely Triage Personal-Data Rights Requests?",
+      "slug": "virtual-assistant-data-rights-request-intake-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-data-rights-request-intake-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NPC Advisory Opinion No. 2024-003",
+        "NIST Digital Identity Guidelines: Authentication and Authenticator Management",
+        "NIST Cybersecurity Framework 2.0",
+        "Require Multifactor Authentication",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Records Management"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "U.S. National Archives and Records Administration"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://privacy.gov.ph/wp-content/uploads/2024/04/Advisory-Opinion-No.-2024-003.pdf",
+        "https://pages.nist.gov/800-63-4/sp800-63b.html",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://www.archives.gov/records-mgmt"
+      ],
+      "checkedDate": "2026-10-02",
+      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publishedAt": "2026-10-02",
+      "contentHash": "b2bb192831b2836d7e22f1d3dc4f5bfd6171b653e4d60c5863d671c6e6942f8c",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-data-rights-request-intake-study",
+      "commitSha": null,
+      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
+      "verificationTime": null,
+      "status": "staged-local-handoff",
+      "bodyWordCount": 1418
+    },
+    {
+      "family": "research",
+      "topic": "How Should a Virtual Assistant Handle Suspicious Email Attachments Without Opening Them?",
+      "slug": "virtual-assistant-suspicious-attachment-intake-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-suspicious-attachment-intake-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NPC Advisory Opinion No. 2024-003",
+        "NIST Digital Identity Guidelines: Authentication and Authenticator Management",
+        "NIST Cybersecurity Framework 2.0",
+        "Require Multifactor Authentication",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Records Management"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "U.S. National Archives and Records Administration"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://privacy.gov.ph/wp-content/uploads/2024/04/Advisory-Opinion-No.-2024-003.pdf",
+        "https://pages.nist.gov/800-63-4/sp800-63b.html",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://www.archives.gov/records-mgmt"
+      ],
+      "checkedDate": "2026-10-02",
+      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publishedAt": "2026-10-02",
+      "contentHash": "30488b2fea129e5b1f72634d676210b99e0cbab11f24c8f3864909252b032edc",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-suspicious-attachment-intake-study",
+      "commitSha": null,
+      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
+      "verificationTime": null,
+      "status": "staged-local-handoff",
+      "bodyWordCount": 1394
+    },
+    {
+      "family": "research",
+      "topic": "Who Should Control Social Media Account Recovery When a Virtual Assistant Publishes Posts?",
+      "slug": "virtual-assistant-social-account-recovery-study",
+      "sourcePaths": [
+        "content/research/virtual-assistant-social-account-recovery-study.mdx"
+      ],
+      "sourceTitles": [
+        "Data Privacy Act of 2012",
+        "Implementing Rules and Regulations of the Data Privacy Act",
+        "Data Security",
+        "NPC Advisory Opinion No. 2024-003",
+        "NIST Digital Identity Guidelines: Authentication and Authenticator Management",
+        "NIST Cybersecurity Framework 2.0",
+        "Require Multifactor Authentication",
+        "Cyber Guidance for Small Businesses",
+        "Data Security",
+        "Records Management"
+      ],
+      "sourcePublishers": [
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Privacy Commission, Philippines",
+        "National Institute of Standards and Technology",
+        "National Institute of Standards and Technology",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Cybersecurity and Infrastructure Security Agency",
+        "U.S. Federal Trade Commission",
+        "U.S. National Archives and Records Administration"
+      ],
+      "sources": [
+        "https://privacy.gov.ph/data-privacy-act/",
+        "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+        "https://privacy.gov.ph/data-security/",
+        "https://privacy.gov.ph/wp-content/uploads/2024/04/Advisory-Opinion-No.-2024-003.pdf",
+        "https://pages.nist.gov/800-63-4/sp800-63b.html",
+        "https://www.nist.gov/cyberframework",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-multifactor-authentication",
+        "https://www.cisa.gov/audiences/small-and-medium-businesses",
+        "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+        "https://www.archives.gov/records-mgmt"
+      ],
+      "checkedDate": "2026-10-02",
+      "publicationDateStatus": "provisional cycle date; Blog integrator must reconcile to actual first successful public verification date in UTC before the sole push",
+      "publishedAt": "2026-10-02",
+      "contentHash": "ff6831cb0cad4b4ec43e8dadf492ec38fa963676827c9383bce14bdd25a4e43d",
+      "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-social-account-recovery-study",
+      "commitSha": null,
+      "deploymentEvidence": "Local Research handoff only; Blog owns combined push and Browser Operator owns deployment.",
+      "verificationTime": null,
+      "status": "staged-local-handoff",
+      "bodyWordCount": 1420
+    }
+  ],
+  "wordCounts": {
+    "virtual-assistant-account-recovery-control-study": 1385,
+    "virtual-assistant-meeting-recording-governance-study": 1407,
+    "virtual-assistant-data-rights-request-intake-study": 1418,
+    "virtual-assistant-suspicious-attachment-intake-study": 1394,
+    "virtual-assistant-social-account-recovery-study": 1420
+  },
+  "originalityAudit": {
+    "maximumPairwiseFiveWordShingleOverlapPercent": 40.36,
+    "maximumPair": {
+      "a": "virtual-assistant-data-rights-request-intake-study",
+      "b": "virtual-assistant-suspicious-attachment-intake-study",
+      "overlapPercent": 40.36
+    },
+    "allPairs": [
+      {
+        "a": "virtual-assistant-account-recovery-control-study",
+        "b": "virtual-assistant-meeting-recording-governance-study",
+        "overlapPercent": 40.203
+      },
+      {
+        "a": "virtual-assistant-account-recovery-control-study",
+        "b": "virtual-assistant-data-rights-request-intake-study",
+        "overlapPercent": 40.203
+      },
+      {
+        "a": "virtual-assistant-account-recovery-control-study",
+        "b": "virtual-assistant-suspicious-attachment-intake-study",
+        "overlapPercent": 40.348
+      },
+      {
+        "a": "virtual-assistant-account-recovery-control-study",
+        "b": "virtual-assistant-social-account-recovery-study",
+        "overlapPercent": 40.203
+      },
+      {
+        "a": "virtual-assistant-meeting-recording-governance-study",
+        "b": "virtual-assistant-data-rights-request-intake-study",
+        "overlapPercent": 39.928
+      },
+      {
+        "a": "virtual-assistant-meeting-recording-governance-study",
+        "b": "virtual-assistant-suspicious-attachment-intake-study",
+        "overlapPercent": 39.928
+      },
+      {
+        "a": "virtual-assistant-meeting-recording-governance-study",
+        "b": "virtual-assistant-social-account-recovery-study",
+        "overlapPercent": 39.928
+      },
+      {
+        "a": "virtual-assistant-data-rights-request-intake-study",
+        "b": "virtual-assistant-suspicious-attachment-intake-study",
+        "overlapPercent": 40.36
+      },
+      {
+        "a": "virtual-assistant-data-rights-request-intake-study",
+        "b": "virtual-assistant-social-account-recovery-study",
+        "overlapPercent": 39.656
+      },
+      {
+        "a": "virtual-assistant-suspicious-attachment-intake-study",
+        "b": "virtual-assistant-social-account-recovery-study",
+        "overlapPercent": 39.856
+      }
+    ],
+    "repeatedSubstantiveParagraphCount": 0,
+    "bibliographyExcludedFromTextOverlap": true,
+    "sharedArgumentCheck": "PASS: each article has a distinct operating problem, scenario set, control sequence, failure modes, evidence model, and buyer outcome.",
+    "threshold": "PASS: every pair is below 50 percent."
+  },
+  "validation": {
+    "contentContract": "PASS",
+    "typescript": "PASS",
+    "cleanProductionBuild": "PASS (prior to final article-only regeneration; content index deterministic and regeneration is byte-stable except recorded manifest audit fields)"
+  }
+}
