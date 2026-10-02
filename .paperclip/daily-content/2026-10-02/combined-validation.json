@@ -1,0 +1,39 @@
+{
+  "cycleLabel": "2026-10-02",
+  "timezone": "UTC",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "productionBranch": "main",
+  "productionBaseline": "8811bbb183d774d57eb79e4f687849e3ae725386",
+  "validatedContentHead": "37a23d14a761948d93bc5521f802eaba29782847",
+  "counts": {
+    "blogRequired": 12,
+    "blogStaged": 12,
+    "researchRequired": 5,
+    "researchStaged": 5,
+    "liveVerified": 0
+  },
+  "blogBodyWords": [1052, 950, 964, 955, 946, 956, 967, 939, 931, 919, 928, 950],
+  "researchBodyWords": [1385, 1407, 1418, 1394, 1420],
+  "originality": {
+    "blogMaximumPairwiseFiveWordShingleOverlapPercent": 32.618,
+    "researchMaximumPairwiseFiveWordShingleOverlapPercent": 40.360,
+    "blogRepeatedSubstantiveParagraphs": 0,
+    "researchRepeatedSubstantiveParagraphs": 0,
+    "blogMaximumOverlapWithExistingInventoryPercent": 2.961,
+    "qualitativeSharedArgumentAudit": "PASS: every article uses a topic-specific structure, worked scenario, controls, failure conditions, evidence, and reader decision"
+  },
+  "checks": {
+    "dependencyInstall": "PASS: npm ci --include=dev (reported 4 upstream audit findings: 3 high, 1 critical)",
+    "typecheck": "PASS: npx tsc --noEmit",
+    "contentContract": "PASS: 709 MD/MDX articles; deterministic index",
+    "blogDateRegression": "PASS: provenance, source/rendered dates, canonical routes, sitemap eligibility, and newest-first index",
+    "thumbnails": "PASS: 709 existing assets preserved; 0 missing assets",
+    "productionBuild": "PASS: Next.js 15.5.20; 818 static pages generated; all 17 new routes present"
+  },
+  "deployment": {
+    "application": "o48em959jxfxy27gkxx7lnn4",
+    "operator": "Browser Operator only",
+    "status": "PENDING_EXACT_SHA_DEPLOYMENT"
+  },
+  "liveVerification": "PENDING_ALL_17_ROUTES"
+}

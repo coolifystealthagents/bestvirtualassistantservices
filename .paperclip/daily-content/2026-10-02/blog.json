@@ -230,7 +230,7 @@
   "productionBranch": "main",
   "baselineRemoteSha": "8811bbb183d774d57eb79e4f687849e3ae725386",
   "contentCommitSha": "2e958eb71164d671e22dc5a394558a2b78158900",
-  "combinedValidatedHead": "PENDING_FINAL_VALIDATION",
+  "combinedValidatedHead": "37a23d14a761948d93bc5521f802eaba29782847",
   "remoteSha": "PENDING_SOLE_PUSH",
   "deploymentId": "Browser Operator only: o48em959jxfxy27gkxx7lnn4",
   "verificationTime": "PENDING_LIVE_VERIFICATION"
