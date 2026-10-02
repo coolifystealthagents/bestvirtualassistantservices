@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-access-provisioning-checklist",
+      "title": "An Access-Provisioning Checklist for Virtual Assistants",
+      "path": "content/blog/virtual-assistant-access-provisioning-checklist.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-communication-cadence-plan",
+      "title": "Set a Communication Cadence for Virtual Assistant Work",
+      "path": "content/blog/virtual-assistant-communication-cadence-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-delegation-readiness-assessment",
+      "title": "Assess Whether a Task Is Ready for a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-delegation-readiness-assessment.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-invoice-verification-guide",
+      "title": "Verify a Virtual Assistant Service Invoice Before Approval",
+      "path": "content/blog/virtual-assistant-invoice-verification-guide.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-knowledge-transfer-package",
+      "title": "Create a Virtual Assistant Knowledge-Transfer Package",
+      "path": "content/blog/virtual-assistant-knowledge-transfer-package.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-onboarding-timeline-plan",
+      "title": "Build a Realistic Virtual Assistant Onboarding Timeline",
+      "path": "content/blog/virtual-assistant-onboarding-timeline-plan.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-paid-work-sample-design",
+      "title": "Design a Fair Paid Work Sample for a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-paid-work-sample-design.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-performance-review-scorecard",
+      "title": "Build a Virtual Assistant Performance Review Scorecard",
+      "path": "content/blog/virtual-assistant-performance-review-scorecard.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-replacement-clause-review",
+      "title": "Review a Virtual Assistant Replacement Clause Before Signing",
+      "path": "content/blog/virtual-assistant-replacement-clause-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-scope-change-control",
+      "title": "Control Scope Changes in a Virtual Assistant Service",
+      "path": "content/blog/virtual-assistant-scope-change-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-time-zone-coverage-design",
+      "title": "Design Time-Zone Coverage for Virtual Assistant Services",
+      "path": "content/blog/virtual-assistant-time-zone-coverage-design.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-total-cost-comparison",
+      "title": "How to Compare the Total Cost of Virtual Assistant Services",
+      "path": "content/blog/virtual-assistant-total-cost-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-agency-vs-freelancer-decision",
       "title": "Virtual Assistant Agency vs Freelancer: A Decision Framework",
       "path": "content/blog/virtual-assistant-agency-vs-freelancer-decision.mdx",
