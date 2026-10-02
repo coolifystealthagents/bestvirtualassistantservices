@@ -8,6 +8,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 DATE = "2026-10-02"
 IMAGE = "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+BLOG_CONTENT_COMMIT = "2e958eb71164d671e22dc5a394558a2b78158900"
 
 SOURCES = {
     "sba": "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees",
@@ -290,7 +291,7 @@ for article in ARTICLES:
     entries.append({
       "family":"blog","topic":article["title"],"slug":article["slug"],
       "sources":[SOURCES[article["source"]]],"contentHash":hashlib.sha256(path.read_bytes()).hexdigest(),
-      "actualPublicationDate":DATE,"commitSha":"PENDING_COMBINED_COMMIT",
+      "actualPublicationDate":DATE,"commitSha":BLOG_CONTENT_COMMIT,
       "deploymentEvidence":"PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
       "liveUrl":f'https://bestvirtualassistantservices.com/blog/{article["slug"]}',
       "verificationTime":"PENDING_LIVE_VERIFICATION","route":f'/blog/{article["slug"]}',
@@ -302,7 +303,7 @@ manifest={"schemaVersion":2,"contract":"canonical-daily-blog-publishing","family
 "required":12,"verified":0,"entries":entries,
 "repository":"coolifystealthagents/bestvirtualassistantservices","productionBranch":"main",
 "baselineRemoteSha":"8811bbb183d774d57eb79e4f687849e3ae725386",
-"contentCommitSha":"PENDING_COMBINED_COMMIT","combinedValidatedHead":"PENDING_COMBINED_COMMIT",
+"contentCommitSha":BLOG_CONTENT_COMMIT,"combinedValidatedHead":"PENDING_FINAL_VALIDATION",
 "remoteSha":"PENDING_SOLE_PUSH","deploymentId":"Browser Operator only: o48em959jxfxy27gkxx7lnn4",
 "verificationTime":"PENDING_LIVE_VERIFICATION"}
 manifest_path=ROOT/f".paperclip/daily-content/{DATE}/blog.json"
