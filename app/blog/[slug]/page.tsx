@@ -32,8 +32,41 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
-function ArticleHtml({ html }: { html: string }) {
-  return <p dangerouslySetInnerHTML={{ __html: html }} />;
+function escapeAttribute(value: string) {
+  return value.replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+}
+
+function escapeText(value: string) {
+  return value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+}
+
+function renderArticleLinks(html: string) {
+  return html.replace(/\[([^\]\n]+)\]\((\/[^\s)]*|https?:\/\/[^\s)]+)\)/g, (markdown, label: string, href: string) => {
+    const safeInternal = href.startsWith('/') && !href.startsWith('//');
+    const safeExternal = /^https?:\/\//.test(href);
+    if (!safeInternal && !safeExternal) return markdown;
+    const externalAttributes = safeExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+    return `<a href="${escapeAttribute(href)}"${externalAttributes}>${escapeText(label)}</a>`;
+  });
+}
+
+const october2RenderedLinkSlugs = new Set([
+  'virtual-assistant-total-cost-comparison',
+  'virtual-assistant-onboarding-timeline-plan',
+  'virtual-assistant-paid-work-sample-design',
+  'virtual-assistant-scope-change-control',
+  'virtual-assistant-communication-cadence-plan',
+  'virtual-assistant-time-zone-coverage-design',
+  'virtual-assistant-access-provisioning-checklist',
+  'virtual-assistant-performance-review-scorecard',
+  'virtual-assistant-invoice-verification-guide',
+  'virtual-assistant-replacement-clause-review',
+  'virtual-assistant-knowledge-transfer-package',
+  'virtual-assistant-delegation-readiness-assessment',
+]);
+
+function ArticleHtml({ html, renderLinks }: { html: string; renderLinks: boolean }) {
+  return <p dangerouslySetInnerHTML={{ __html: renderLinks ? renderArticleLinks(html) : html }} />;
 }
 
 const publicationDateFormatter = new Intl.DateTimeFormat('en-US', {
@@ -83,7 +116,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
             {post.sections.map((section, index) => (
               <section className="card article-card" key={section.heading}>
                 <h2>{section.heading}</h2>
-                <ArticleHtml html={section.body} />
+                <ArticleHtml html={section.body} renderLinks={october2RenderedLinkSlugs.has(post.slug)} />
                 {section.bullets ? (
                   <ul>
                     {section.bullets.map((item) => <li key={item}>{item}</li>)}
