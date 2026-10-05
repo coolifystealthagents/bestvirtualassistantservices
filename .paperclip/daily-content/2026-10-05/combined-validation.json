@@ -9,8 +9,8 @@
       "records": [
         {
           "slug": "property-management-virtual-assistant-tenant-communications",
-          "bodyWordCount": 1227,
-          "contentHash": "0b57a1407efad4a2ea8435d5e7fa58121f1f1ae8d953cd28f607bcc242e3004f",
+          "bodyWordCount": 1126,
+          "contentHash": "cc36fcb1995badb6ce1d4dd717754595c4ba9688897e1dbf22a467440f70797f",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -38,8 +38,8 @@
         },
         {
           "slug": "construction-virtual-assistant-bid-coordination",
-          "bodyWordCount": 1191,
-          "contentHash": "fa77934b6bcd1329d9ecb3b4ca6c5f6b9761eddffb9ef6443c294090253f4a3a",
+          "bodyWordCount": 1109,
+          "contentHash": "3f9f371427ef796b20c9faf8837299cf12ce3f36ba0ef67d407177344c6e05e5",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -67,8 +67,8 @@
         },
         {
           "slug": "architecture-firm-virtual-assistant-submittal-tracking",
-          "bodyWordCount": 1116,
-          "contentHash": "51f222eb76bf3abbc57d82e305201c17f91f50c0159eb23df0cc1b790272e481",
+          "bodyWordCount": 1064,
+          "contentHash": "0d0c27632baaf21a7ee34a74c5dedde329d54a7e2dd6cffa5398187ea70b160d",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -96,8 +96,8 @@
         },
         {
           "slug": "saas-virtual-assistant-customer-onboarding-scope",
-          "bodyWordCount": 1098,
-          "contentHash": "d92c5c8693aa2513abd0b470b095784fb5a7d28ef4ee821667092e1515363fa4",
+          "bodyWordCount": 1033,
+          "contentHash": "3875043dd90605166e3076b625302ab745ebc873bb447b1c470410392aff805d",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -125,8 +125,8 @@
         },
         {
           "slug": "online-course-virtual-assistant-student-operations",
-          "bodyWordCount": 1095,
-          "contentHash": "4abf6e6daf6de5a7f2ecc7b348f3a5d517cb7b17ef4630069d8061b8a602d117",
+          "bodyWordCount": 1020,
+          "contentHash": "9ee19dbd3204aa0de080545c8607876bd8e62950b1c389ffa6b9d98d5f1dc1a7",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -154,8 +154,8 @@
         },
         {
           "slug": "membership-association-virtual-assistant-renewal-operations",
-          "bodyWordCount": 1078,
-          "contentHash": "ffa2f0d2cb42cf2826a821ea70516c2d4e650c13b0c6bafbef77b774b4dd646b",
+          "bodyWordCount": 1019,
+          "contentHash": "28763fa606e0bd99e56a2433f75d372207587b019b7dcb5712eebabbb0361f42",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -183,8 +183,8 @@
         },
         {
           "slug": "nonprofit-virtual-assistant-donor-records-workflow",
-          "bodyWordCount": 902,
-          "contentHash": "f7f3f4ac4791e0f138e7a63340d0aff285bedc1ffeaadef00f1b8686ddcaa6f7",
+          "bodyWordCount": 921,
+          "contentHash": "f0f5f99931bdbf50dde2b2440b21b5331973a7eb9f9cecbe488468f43129ed6a",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -212,8 +212,8 @@
         },
         {
           "slug": "marketplace-seller-virtual-assistant-catalog-operations",
-          "bodyWordCount": 904,
-          "contentHash": "d2340aa10d4ab0629c3d7152778491c95bfd85325415ae6de401e49c37cb1b69",
+          "bodyWordCount": 937,
+          "contentHash": "ee127706d6f342d32499983f5ce427dcb7573f756df10df9b259e46d0fef2cba",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -241,8 +241,8 @@
         },
         {
           "slug": "healthcare-virtual-assistant-referral-coordination",
-          "bodyWordCount": 912,
-          "contentHash": "4143c56b864e3a545bd314b9061ea37d88279279be8bc74042a91cf15c3696cf",
+          "bodyWordCount": 947,
+          "contentHash": "1ebc1c34feb21ebf527f88a0917e7494567f8cb1b628d8b57d023c93c546ca76",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -270,8 +270,8 @@
         },
         {
           "slug": "accounting-firm-virtual-assistant-client-document-intake",
-          "bodyWordCount": 908,
-          "contentHash": "4187b071fae4841b2e66f57945d70f0d7235c066ece5a2ec0749f3d2f5a836cb",
+          "bodyWordCount": 933,
+          "contentHash": "b8b2e10311a969f4223abbc551749541049d39ea2deec6e4047ac970e2a087da",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -299,8 +299,8 @@
         },
         {
           "slug": "insurance-agency-virtual-assistant-policy-service-intake",
-          "bodyWordCount": 928,
-          "contentHash": "6659708a995769cc2e8506d78f2fdbdf9e8b9ed011b4aeb5d53a16c59d8bbdc8",
+          "bodyWordCount": 958,
+          "contentHash": "7b96ab8e4d7d413d84b80a341b2cf23a66ab93ad37655e8bd4cab8f743d6e4ce",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -328,8 +328,8 @@
         },
         {
           "slug": "home-services-virtual-assistant-dispatch-intake",
-          "bodyWordCount": 901,
-          "contentHash": "4e9320ee15d901a406d7e62dfd635fce630aec51cc68a733b8638a2811becd8a",
+          "bodyWordCount": 942,
+          "contentHash": "62d1e02a6e4e113eaac9b9fd3378242901670b701937ca6a7c3268c2e6cc1e76",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -364,19 +364,10 @@
           "Design the maintenance handoff around a complete ticket",
           "Score the service on safe resolution, not message count",
           "Run a pilot with ordinary and difficult cases",
-          "Boundary rehearsal for property manager reviewing a tenant communications workflow with a virtual assistant",
-          "Evidence tests for How to Evaluate a Virtual Assistant for Property Management Communications",
-          "1. Which message classes may the assistant close without review?",
-          "2. What observable conditions trigger the emergency route?",
-          "3. Who decides accommodations, disputes, concessions, and lease questions?",
-          "4. How are scripts approved, versioned, and withdrawn?",
-          "5. Which details may be disclosed to vendors?",
-          "6. What evidence proves the after-hours handoff reached a person?",
-          "Decision rule for property manager reviewing a tenant communications workflow with a virtual assistant",
-          "Practical questions about property manager reviewing a tenant communications workflow with a virtual assistant",
-          "Can the assistant answer leasing questions?",
-          "Should the provider receive access to every property record?",
-          "Is a fast first response the main KPI?"
+          "When a routine inbox becomes an emergency channel",
+          "Accommodation language, leasing scripts, and the point to stop",
+          "Follow one maintenance record into the vendor handoff",
+          "What should outweigh first-response speed"
         ],
         "construction-virtual-assistant-bid-coordination": [
           "How to Scope Virtual Assistant Support for Construction Bid Coordination: Begin with the bid/no-bid gate",
@@ -385,19 +376,11 @@
           "Structure subcontractor outreach without making promises",
           "Build the estimator handoff around exceptions",
           "Test submission rehearsal and failure recovery",
-          "Boundary rehearsal for construction estimator reviewing a bid coordination register prepared by a virtual assistant",
-          "Evidence tests for How to Scope Virtual Assistant Support for Construction Bid Coordination",
-          "1. Who can make and record the bid/no-bid decision?",
-          "2. Where is the controlling document index?",
-          "3. How is an addendum acknowledged by the estimator?",
-          "4. Which subcontractors may receive which files?",
-          "5. What is the final portal-check cutoff?",
-          "6. What evidence proves an authorized submission was accepted?",
-          "Decision rule for construction estimator reviewing a bid coordination register prepared by a virtual assistant",
-          "Practical questions about construction estimator reviewing a bid coordination register prepared by a virtual assistant",
-          "Can a virtual assistant perform takeoffs?",
-          "May the assistant submit the bid?",
-          "How often should portals be checked?"
+          "Addendum 3 arrives with less than four hours left",
+          "Reconstruct the package before scoring the coordinator",
+          "Put outreach, RFIs, and estimating authority on separate tracks",
+          "A failed upload is part of the work sample",
+          "Read the exception brief as the final buying test"
         ],
         "architecture-firm-virtual-assistant-submittal-tracking": [
           "Evaluate Virtual Assistant Support for Architecture Submittal Tracking: Model the firm's real submittal path",
@@ -406,19 +389,12 @@
           "Route by a maintained responsibility matrix",
           "Report aging without inventing contractual conclusions",
           "Pilot with a resubmission and conflicting comments",
-          "Boundary rehearsal for architect reviewing a submittal register and routing workflow",
-          "Evidence tests for Evaluate Virtual Assistant Support for Architecture Submittal Tracking",
-          "1. Which system is the official submittal record?",
-          "2. Who defines review targets and pause rules?",
-          "3. Which statuses may administrative staff apply?",
-          "4. How are resubmissions linked without overwriting history?",
-          "5. Who consolidates consultant comments?",
-          "6. What permissions prevent draft comments from being issued?",
-          "Decision rule for architect reviewing a submittal register and routing workflow",
-          "Practical questions about architect reviewing a submittal register and routing workflow",
-          "Can an assistant mark a submittal approved?",
-          "Should reminders include attachments?",
-          "What makes the pilot representative?"
+          "Start the evaluation with the ambiguous resubmission",
+          "A responsibility matrix is useful only when its history is visible",
+          "Conflicting consultant comments test the professional boundary",
+          "Dates describe aging; they do not decide contractual consequences",
+          "Try to issue the draft, then retrieve the authorized return",
+          "The record another architect must be able to reconstruct"
         ],
         "saas-virtual-assistant-customer-onboarding-scope": [
           "Scope a Virtual Assistant for SaaS Customer Onboarding: Segment the journey by decision owner",
@@ -427,19 +403,12 @@
           "Coordinate training around a customer outcome",
           "Route technical issues without becoming support engineering",
           "Accept onboarding using evidence chosen in advance",
-          "Boundary rehearsal for SaaS operations manager mapping a customer onboarding workflow",
-          "Evidence tests for Scope a Virtual Assistant for SaaS Customer Onboarding",
-          "1. What evidence moves an account into each onboarding state?",
-          "2. Who resolves conflicts between the order and sales notes?",
-          "3. Which setup actions require specialist approval?",
-          "4. What customer data may enter the onboarding tracker?",
-          "5. Who sets incident severity and customer commitments?",
-          "6. What exactly constitutes onboarding acceptance?",
-          "Decision rule for SaaS operations manager mapping a customer onboarding workflow",
-          "Practical questions about SaaS operations manager mapping a customer onboarding workflow",
-          "Can an assistant configure the SaaS product?",
-          "Should adoption metrics determine completion?",
-          "How should custom requests be handled?"
+          "Define completion before looking at activity",
+          "Let a custom integration request disrupt the happy path",
+          "Use a permission mistake to inspect recovery",
+          "Training failure and accessibility are ownership tests",
+          "Why a green dashboard can still hide an unfinished account",
+          "The evidence that can survive the support handoff"
         ],
         "online-course-virtual-assistant-student-operations": [
           "Choose a Virtual Assistant for Online Course Student Operations: Inventory the learner journey and promises",
@@ -448,19 +417,12 @@
           "Moderate from rules, not personal instinct",
           "Preserve instructor authority over learning decisions",
           "Pilot around the course's busiest week",
-          "Boundary rehearsal for course creator reviewing student support operations with a virtual assistant",
-          "Evidence tests for Choose a Virtual Assistant for Online Course Student Operations",
-          "1. Which published promise controls each course stage?",
-          "2. What identity check precedes an account change?",
-          "3. Who owns accessibility and refund decisions?",
-          "4. Which moderation actions may occur without review?",
-          "5. Who determines completion and certificate eligibility?",
-          "6. How is support covered during launches and live events?",
-          "Decision rule for course creator reviewing student support operations with a virtual assistant",
-          "Practical questions about course creator reviewing student support operations with a virtual assistant",
-          "Can the assistant issue certificates?",
-          "Should all learner data live in the community tool?",
-          "Is platform experience enough to select a provider?"
+          "Begin with the learner who paid but cannot enter",
+          "Move accessibility out of the public thread without losing it",
+          "Late work separates queue handling from academic judgment",
+          "Certificate issuance needs a disputed-result stop",
+          "Remove a moderator before trusting launch-week coverage",
+          "Reconcile the learner across five systems"
         ],
         "membership-association-virtual-assistant-renewal-operations": [
           "Design Virtual Assistant Support for Membership Renewal Operations: Define membership status from authoritative events",
@@ -469,19 +431,12 @@
           "Constrain payment handling",
           "Reconcile benefits separately from billing",
           "Close the cycle with decisions, not just totals",
-          "Boundary rehearsal for association manager reviewing a membership renewal dashboard",
-          "Evidence tests for Design Virtual Assistant Support for Membership Renewal Operations",
-          "1. What exact events change membership status?",
-          "2. Which system wins when records disagree?",
-          "3. Who approves pricing and category exceptions?",
-          "4. What data is excluded from assistant access and exports?",
-          "5. How are benefits reconciled after payment?",
-          "6. Which measures will guide the next renewal cycle?",
-          "Decision rule for association manager reviewing a membership renewal dashboard",
-          "Practical questions about association manager reviewing a membership renewal dashboard",
-          "Can an assistant negotiate renewal terms?",
-          "Should lapsed members keep benefits during outreach?",
-          "What is the best renewal metric?"
+          "Three members, three different renewal rules",
+          "A discount request reveals who owns the commercial decision",
+          "Consent still applies when another address is available",
+          "Do not turn a mismatched payment into a renewed status",
+          "A shared address is not identity evidence",
+          "Read renewal totals beside benefit errors and rework"
         ],
         "nonprofit-virtual-assistant-donor-records-workflow": [
           "Scope a Virtual Assistant for Nonprofit Donor Records: Reconcile gifts before thanking donors",
@@ -490,16 +445,12 @@
           "Honor communication and recognition preferences",
           "Separate restricted-gift decisions",
           "Audit a sample end to end",
-          "Boundary rehearsal for donor records and acknowledgement workflow",
-          "Evidence tests for Scope a Virtual Assistant for Nonprofit Donor Records",
-          "1. Which source establishes receipt and amount?",
-          "2. Who decides restrictions and noncash valuation?",
-          "3. What evidence permits a duplicate merge?",
-          "4. How are anonymous gifts protected in exports?",
-          "5. Who approves acknowledgement language?",
-          "6. How are corrections propagated to reports?",
-          "Operational acceptance review for donor records and acknowledgement workflow",
-          "Decision rule for donor records and acknowledgement workflow"
+          "The restricted-check conflict should remain visible",
+          "Reconcile settlement evidence before generating thanks",
+          "Test identity and anonymity in the same export cycle",
+          "Noncash gifts expose the limit of administrative coding",
+          "Trace one correction through every donor-facing artifact",
+          "Decide whether the record protects intent, not just totals"
         ],
         "marketplace-seller-virtual-assistant-catalog-operations": [
           "Evaluate a Virtual Assistant for Marketplace Catalog Operations: Choose a product source hierarchy",
@@ -508,16 +459,12 @@
           "Stage high-impact changes",
           "Monitor platform feedback carefully",
           "Reconcile the customer view",
-          "Boundary rehearsal for marketplace catalog workflow",
-          "Evidence tests for Evaluate a Virtual Assistant for Marketplace Catalog Operations",
-          "1. Which source controls each attribute?",
-          "2. Who approves claims and safety information?",
-          "3. How are variation relationships tested?",
-          "4. Which edits require preview approval?",
-          "5. Who answers marketplace compliance notices?",
-          "6. What live-page evidence closes the change?",
-          "Operational acceptance review for marketplace catalog workflow",
-          "Decision rule for marketplace catalog workflow"
+          "One color changes inside a shared parent",
+          "Challenge a claim before testing the upload",
+          "Break the variation family on purpose",
+          "A suppression notice is not an invitation to duplicate",
+          "Rollback, regional preview, and the order placed during the error",
+          "Close on the customer page, not the accepted feed"
         ],
         "healthcare-virtual-assistant-referral-coordination": [
           "Set Boundaries for Virtual Assistant Referral Coordination: Define the referral order source",
@@ -526,16 +473,13 @@
           "Track authorization without interpreting coverage",
           "Respect patient choice and identity controls",
           "Close the loop with evidence",
-          "Boundary rehearsal for healthcare referral coordination",
-          "Evidence tests for Set Boundaries for Virtual Assistant Referral Coordination",
-          "1. What document creates an authorized referral?",
-          "2. Which records may be shared with each recipient?",
-          "3. What words trigger clinical escalation?",
-          "4. Who interprets payer decisions?",
-          "5. How is patient identity verified?",
-          "6. What evidence proves referral-loop closure?",
-          "Operational acceptance review for healthcare referral coordination",
-          "Decision rule for healthcare referral coordination"
+          "Build the packet without rewriting the order",
+          "A new symptom ends the scheduling script",
+          "Keep payer status separate from payer interpretation",
+          "Patient choice begins after identity control",
+          "Transmission is only the middle of this workflow",
+          "The rejected packet is the better closure test",
+          "What may appear on the general task board"
         ],
         "accounting-firm-virtual-assistant-client-document-intake": [
           "Design Virtual Assistant Support for Accounting Client Document Intake: Build requests from an engagement-owned list",
@@ -544,16 +488,13 @@
           "Distinguish present from acceptable",
           "Escalate sensitive mismatches",
           "Hand off a reconciled index",
-          "Boundary rehearsal for accounting client document intake",
-          "Evidence tests for Design Virtual Assistant Support for Accounting Client Document Intake",
-          "1. Who owns each engagement request list?",
-          "2. Which channel is approved for uploads?",
-          "3. How is provenance retained after naming changes?",
-          "4. Who decides whether a document is sufficient?",
-          "5. What triggers the security route?",
-          "6. What states appear in the professional handoff?",
-          "Operational acceptance review for accounting client document intake",
-          "Decision rule for accounting client document intake"
+          "Duplicate payroll reports belong in an exception, not a final folder",
+          "Tie each request to this engagement and period",
+          "Present is not the same state as professionally sufficient",
+          "Wrong-client material changes the response entirely",
+          "Rename for order without sacrificing provenance",
+          "Test the index after revoking temporary access",
+          "The professional handoff should expose the mess honestly"
         ],
         "insurance-agency-virtual-assistant-policy-service-intake": [
           "Scope Virtual Assistant Support for Insurance Policy Service Intake: Classify by requested outcome",
@@ -562,16 +503,13 @@
           "Control certificate preparation",
           "Treat claims reports as time-sensitive intake",
           "Audit communications and access",
-          "Boundary rehearsal for insurance policy service intake",
-          "Evidence tests for Scope Virtual Assistant Support for Insurance Policy Service Intake",
-          "1. Which categories may administrative staff resolve?",
-          "2. How are callers and representatives verified?",
-          "3. Who interprets and changes coverage?",
-          "4. What certificate fields require review?",
-          "5. Where do new claim reports go?",
-          "6. How are material communication errors escalated?",
-          "Operational acceptance review for insurance policy service intake",
-          "Decision rule for insurance policy service intake"
+          "A rental-car question should not become instant coverage advice",
+          "Authority must be established before familiarity matters",
+          "Certificate wording is a separate approval surface",
+          "Claims facts and coverage questions travel on different paths",
+          "Audit the fast answer for material accuracy",
+          "Correct a billing date without expanding administrative authority",
+          "Reopen the record after the assistant loses access"
         ],
         "home-services-virtual-assistant-dispatch-intake": [
           "Evaluate a Virtual Assistant for Home-Service Dispatch Intake: Define bookable work types",
@@ -580,23 +518,24 @@
           "Offer windows from real capacity",
           "Separate estimates from commitments",
           "Verify the shift handoff",
-          "Boundary rehearsal for home-service dispatch intake",
-          "Evidence tests for Evaluate a Virtual Assistant for Home-Service Dispatch Intake",
-          "1. Which work types are directly bookable?",
-          "2. What customer reports trigger an urgent route?",
-          "3. Who can change route priority?",
-          "4. Which access details are restricted?",
-          "5. Who approves price and warranty exceptions?",
-          "6. How is the shift handoff acknowledged?",
-          "Operational acceptance review for home-service dispatch intake",
-          "Decision rule for home-service dispatch intake"
+          "Book the ordinary call before introducing the hazard",
+          "Make the fallback fail visibly during the rehearsal",
+          "A technician callout tests whether windows reflect capacity",
+          "Entry details need a narrower audience than the calendar",
+          "Diagnostic fees do not authorize a repair promise",
+          "Reopen a completed job when the customer reports a new risk",
+          "The shift handoff ends only with ownership"
         ]
       },
-      "maxPairwiseFiveWordShingleOverlapPercent": 1.156,
+      "maxPairwiseFiveWordShingleOverlapPercent": 1.099,
       "maxRepeatedSubstantiveParagraphs": 0,
       "maxRepeatedSubstantiveSentences": 0,
       "maxNearSentenceTokenJaccard": 0.636,
+      "maxNearParagraphTokenJaccard": 0.423,
+      "longestExactBodyTokenRun": 12,
+      "maxTailOutlineTokenJaccard": 0.127,
       "maxExactSharedHeadingsPerPair": 0,
+      "semanticSequenceAudit": "pass: tail section counts, order, worked-example placement, evidence logic, and reader outcomes are independently developed",
       "qualitativeAudit": "pass: topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes pass exact and near-duplicate checks",
       "pairs": [
         {
@@ -604,10 +543,18 @@
             "property-management-virtual-assistant-tenant-communications",
             "construction-virtual-assistant-bid-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 0.173,
+          "fiveWordShingleOverlapPercent": 0.091,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.444,
+          "maxNearSentenceTokenJaccard": 0.412,
+          "maxNearParagraphTokenJaccard": 0.194,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.046,
           "exactSharedHeadings": []
         },
         {
@@ -615,10 +562,18 @@
             "property-management-virtual-assistant-tenant-communications",
             "architecture-firm-virtual-assistant-submittal-tracking"
           ],
-          "fiveWordShingleOverlapPercent": 0.274,
+          "fiveWordShingleOverlapPercent": 0.284,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.44,
+          "maxNearParagraphTokenJaccard": 0.268,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "roles in the service library services",
+          "tailOutlineTokenJaccard": 0.071,
           "exactSharedHeadings": []
         },
         {
@@ -626,10 +581,18 @@
             "property-management-virtual-assistant-tenant-communications",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 0.186,
+          "fiveWordShingleOverlapPercent": 0.195,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.423,
+          "maxNearParagraphTokenJaccard": 0.259,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the service library services then",
+          "tailOutlineTokenJaccard": 0.092,
           "exactSharedHeadings": []
         },
         {
@@ -637,494 +600,854 @@
             "property-management-virtual-assistant-tenant-communications",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 0.562,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.417,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "membership-association-virtual-assistant-renewal-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.094,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.333,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "nonprofit-virtual-assistant-donor-records-workflow"
-          ],
-          "fiveWordShingleOverlapPercent": 0.34,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.462,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "marketplace-seller-virtual-assistant-catalog-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.453,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.5,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.556,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.52,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.454,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.5,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.111,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.393,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "property-management-virtual-assistant-tenant-communications",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.809,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.636,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "architecture-firm-virtual-assistant-submittal-tracking"
-          ],
-          "fiveWordShingleOverlapPercent": 0.366,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.412,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "saas-virtual-assistant-customer-onboarding-scope"
-          ],
-          "fiveWordShingleOverlapPercent": 0.093,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.412,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "online-course-virtual-assistant-student-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.094,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.36,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "membership-association-virtual-assistant-renewal-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.094,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.412,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "nonprofit-virtual-assistant-donor-records-workflow"
-          ],
-          "fiveWordShingleOverlapPercent": 0.113,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.412,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "marketplace-seller-virtual-assistant-catalog-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.113,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.458,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.111,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.321,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.114,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.389,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.446,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.471,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "construction-virtual-assistant-bid-coordination",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 1.04,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.5,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "saas-virtual-assistant-customer-onboarding-scope"
-          ],
-          "fiveWordShingleOverlapPercent": 0.186,
+          "fiveWordShingleOverlapPercent": 0.198,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.4,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "online-course-virtual-assistant-student-operations"
+          "maxNearParagraphTokenJaccard": 0.281,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi"
           ],
-          "fiveWordShingleOverlapPercent": 0.468,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.435,
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "in the service library services",
+          "tailOutlineTokenJaccard": 0.044,
           "exactSharedHeadings": []
         },
         {
           "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
+            "property-management-virtual-assistant-tenant-communications",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 0.094,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.467,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "nonprofit-virtual-assistant-donor-records-workflow"
-          ],
-          "fiveWordShingleOverlapPercent": 0.453,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.5,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "marketplace-seller-virtual-assistant-catalog-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.34,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.467,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.556,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.44,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.568,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.545,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.334,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "architecture-firm-virtual-assistant-submittal-tracking",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 1.156,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.478,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "online-course-virtual-assistant-student-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.187,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "membership-association-virtual-assistant-renewal-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.189,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.375,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "nonprofit-virtual-assistant-donor-records-workflow"
-          ],
-          "fiveWordShingleOverlapPercent": 0.906,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.571,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "marketplace-seller-virtual-assistant-catalog-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.113,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.522,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.333,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.423,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.114,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.4,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.223,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "saas-virtual-assistant-customer-onboarding-scope",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.116,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.467,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "membership-association-virtual-assistant-renewal-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.094,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "nonprofit-virtual-assistant-donor-records-workflow"
-          ],
-          "fiveWordShingleOverlapPercent": 0.227,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "marketplace-seller-virtual-assistant-catalog-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.566,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.533,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.333,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.4,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.341,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.5,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.223,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.385,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "online-course-virtual-assistant-student-operations",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.347,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "membership-association-virtual-assistant-renewal-operations",
-            "nonprofit-virtual-assistant-donor-records-workflow"
-          ],
-          "fiveWordShingleOverlapPercent": 0.113,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.375,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "membership-association-virtual-assistant-renewal-operations",
-            "marketplace-seller-virtual-assistant-catalog-operations"
-          ],
-          "fiveWordShingleOverlapPercent": 0.566,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.467,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "membership-association-virtual-assistant-renewal-operations",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.111,
+          "fiveWordShingleOverlapPercent": 0.099,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.276,
+          "maxNearParagraphTokenJaccard": 0.246,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.078,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "property-management-virtual-assistant-tenant-communications",
+            "nonprofit-virtual-assistant-donor-records-workflow"
+          ],
+          "fiveWordShingleOverlapPercent": 0.33,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.462,
+          "maxNearParagraphTokenJaccard": 0.293,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the reviewer should see the",
+          "tailOutlineTokenJaccard": 0.076,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "property-management-virtual-assistant-tenant-communications",
+            "marketplace-seller-virtual-assistant-catalog-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.435,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.44,
+          "maxNearParagraphTokenJaccard": 0.263,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "with the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.097,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "property-management-virtual-assistant-tenant-communications",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.532,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.52,
+          "maxNearParagraphTokenJaccard": 0.333,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 8,
+          "longestExactBodyTokenRunText": "roles in the service library services then score",
+          "tailOutlineTokenJaccard": 0.044,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "property-management-virtual-assistant-tenant-communications",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.438,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.5,
+          "maxNearParagraphTokenJaccard": 0.268,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "roles in the service library services",
+          "tailOutlineTokenJaccard": 0.097,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "property-management-virtual-assistant-tenant-communications",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.107,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.393,
+          "maxNearParagraphTokenJaccard": 0.254,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.068,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "property-management-virtual-assistant-tenant-communications",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.769,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.636,
+          "maxNearParagraphTokenJaccard": 0.345,
+          "nearParagraphExcerpts": [
+            "Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material](https://www.hud.gov/fairhousing) as",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "roles in the service library services",
+          "tailOutlineTokenJaccard": 0.054,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "architecture-firm-virtual-assistant-submittal-tracking"
+          ],
+          "fiveWordShingleOverlapPercent": 0.379,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.357,
+          "maxNearParagraphTokenJaccard": 0.34,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "https www sba gov business-guide manage-your-business hire-manage-employees",
+          "tailOutlineTokenJaccard": 0.076,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "saas-virtual-assistant-customer-onboarding-scope"
+          ],
+          "fiveWordShingleOverlapPercent": 0.098,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.293,
+          "nearParagraphExcerpts": [
+            "Introduce a technical RFI during outreach. The assistant records and routes the question without interpreting the drawing, promising selection, or turning an estimator's informal remark into an issued answer.",
+            "Add a custom integration request during kickoff. The assistant records dependencies and routes commercial and technical decisions without promising feasibility, delivery dates, or an entitlement absent from the agreement."
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.052,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "online-course-virtual-assistant-student-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.099,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.36,
+          "maxNearParagraphTokenJaccard": 0.237,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.08,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "membership-association-virtual-assistant-renewal-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.099,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.268,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.068,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "nonprofit-virtual-assistant-donor-records-workflow"
+          ],
+          "fiveWordShingleOverlapPercent": 0.11,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.321,
+          "maxNearParagraphTokenJaccard": 0.23,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.066,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "marketplace-seller-virtual-assistant-catalog-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.109,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.458,
+          "maxNearParagraphTokenJaccard": 0.263,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.099,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.106,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.321,
+          "maxNearParagraphTokenJaccard": 0.188,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.095,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.11,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.346,
+          "maxNearParagraphTokenJaccard": 0.246,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.099,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.428,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.407,
+          "maxNearParagraphTokenJaccard": 0.276,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "use the service library services to",
+          "tailOutlineTokenJaccard": 0.1,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "construction-virtual-assistant-bid-coordination",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.989,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.5,
+          "maxNearParagraphTokenJaccard": 0.423,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource](https://www.sba.gov/business-guide/manage-your-busine",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 12,
+          "longestExactBodyTokenRunText": "the sba management resource https www sba gov business-guide manage-your-business hire-manage-employees offers",
+          "tailOutlineTokenJaccard": 0.06,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "saas-virtual-assistant-customer-onboarding-scope"
+          ],
+          "fiveWordShingleOverlapPercent": 0.195,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.4,
+          "maxNearParagraphTokenJaccard": 0.228,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.035,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "online-course-virtual-assistant-student-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.495,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.435,
+          "maxNearParagraphTokenJaccard": 0.228,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the service library services and",
+          "tailOutlineTokenJaccard": 0.035,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "membership-association-virtual-assistant-renewal-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.099,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.296,
+          "maxNearParagraphTokenJaccard": 0.236,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.089,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "nonprofit-virtual-assistant-donor-records-workflow"
+          ],
+          "fiveWordShingleOverlapPercent": 0.44,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.5,
+          "maxNearParagraphTokenJaccard": 0.263,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se"
+          ],
+          "longestExactBodyTokenRun": 8,
+          "longestExactBodyTokenRunText": "trials in the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.073,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "marketplace-seller-virtual-assistant-catalog-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.326,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.417,
+          "maxNearParagraphTokenJaccard": 0.232,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the service library services and",
+          "tailOutlineTokenJaccard": 0.062,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.532,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.44,
+          "maxNearParagraphTokenJaccard": 0.237,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.06,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.548,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.545,
+          "maxNearParagraphTokenJaccard": 0.283,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "roles in the service library services and",
+          "tailOutlineTokenJaccard": 0.079,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.321,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.423,
+          "maxNearParagraphTokenJaccard": 0.246,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.08,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "architecture-firm-virtual-assistant-submittal-tracking",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 1.099,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.478,
+          "maxNearParagraphTokenJaccard": 0.365,
+          "nearParagraphExcerpts": [
+            "Locate adjacent document-control roles in the [service library](/services) and record submittal trials in the [provider comparison guide](/compare). The [SBA management material](https://www.sba.gov/business-guide/manage-your-business/hire-",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 8,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare the sba management",
+          "tailOutlineTokenJaccard": 0.08,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "online-course-virtual-assistant-student-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.198,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.417,
+          "maxNearParagraphTokenJaccard": 0.263,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.05,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "membership-association-virtual-assistant-renewal-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.198,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.333,
+          "maxNearParagraphTokenJaccard": 0.273,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the assistant records the request",
+          "tailOutlineTokenJaccard": 0.079,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "nonprofit-virtual-assistant-donor-records-workflow"
+          ],
+          "fiveWordShingleOverlapPercent": 0.549,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.48,
+          "maxNearParagraphTokenJaccard": 0.276,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "through the service library services then",
+          "tailOutlineTokenJaccard": 0.05,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "marketplace-seller-virtual-assistant-catalog-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.109,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.522,
+          "maxNearParagraphTokenJaccard": 0.392,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.08,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.319,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.423,
+          "maxNearParagraphTokenJaccard": 0.271,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.024,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.11,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.4,
+          "maxNearParagraphTokenJaccard": 0.228,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.082,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.214,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.407,
+          "maxNearParagraphTokenJaccard": 0.281,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.046,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "saas-virtual-assistant-customer-onboarding-scope",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.11,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.4,
+          "maxNearParagraphTokenJaccard": 0.237,
+          "nearParagraphExcerpts": [
+            "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusi",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.071,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "membership-association-virtual-assistant-renewal-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.099,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.308,
+          "maxNearParagraphTokenJaccard": 0.228,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.038,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "nonprofit-virtual-assistant-donor-records-workflow"
+          ],
+          "fiveWordShingleOverlapPercent": 0.22,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.4,
+          "maxNearParagraphTokenJaccard": 0.254,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.05,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "marketplace-seller-virtual-assistant-catalog-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.544,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.435,
+          "maxNearParagraphTokenJaccard": 0.291,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare use the",
+          "tailOutlineTokenJaccard": 0.038,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.319,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.4,
+          "maxNearParagraphTokenJaccard": 0.25,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.063,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.329,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.5,
+          "maxNearParagraphTokenJaccard": 0.273,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the service library services and",
+          "tailOutlineTokenJaccard": 0.034,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.214,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.259,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.071,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "online-course-virtual-assistant-student-operations",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.33,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.435,
+          "maxNearParagraphTokenJaccard": 0.304,
+          "nearParagraphExcerpts": [
+            "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context whi",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the service library services and",
+          "tailOutlineTokenJaccard": 0.046,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "membership-association-virtual-assistant-renewal-operations",
+            "nonprofit-virtual-assistant-donor-records-workflow"
+          ],
+          "fiveWordShingleOverlapPercent": 0.11,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.276,
+          "maxNearParagraphTokenJaccard": 0.2,
+          "nearParagraphExcerpts": [
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines",
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.079,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "membership-association-virtual-assistant-renewal-operations",
+            "marketplace-seller-virtual-assistant-catalog-operations"
+          ],
+          "fiveWordShingleOverlapPercent": 0.544,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.423,
+          "maxNearParagraphTokenJaccard": 0.38,
+          "nearParagraphExcerpts": [
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 8,
+          "longestExactBodyTokenRunText": "https www ftc gov business-guidance small-businesses cybersecurity when",
+          "tailOutlineTokenJaccard": 0.082,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "membership-association-virtual-assistant-renewal-operations",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.106,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.276,
+          "maxNearParagraphTokenJaccard": 0.237,
+          "nearParagraphExcerpts": [
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.065,
           "exactSharedHeadings": []
         },
         {
@@ -1132,10 +1455,18 @@
             "membership-association-virtual-assistant-renewal-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 0.568,
+          "fiveWordShingleOverlapPercent": 0.219,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.533,
+          "maxNearSentenceTokenJaccard": 0.296,
+          "maxNearParagraphTokenJaccard": 0.214,
+          "nearParagraphExcerpts": [
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "design virtual assistant support for",
+          "tailOutlineTokenJaccard": 0.071,
           "exactSharedHeadings": []
         },
         {
@@ -1143,10 +1474,18 @@
             "membership-association-virtual-assistant-renewal-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 0.111,
+          "fiveWordShingleOverlapPercent": 0.107,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
+          "maxNearSentenceTokenJaccard": 0.273,
+          "maxNearParagraphTokenJaccard": 0.246,
+          "nearParagraphExcerpts": [
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.072,
           "exactSharedHeadings": []
         },
         {
@@ -1154,10 +1493,18 @@
             "membership-association-virtual-assistant-renewal-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 0.116,
+          "fiveWordShingleOverlapPercent": 0.11,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.375,
+          "maxNearSentenceTokenJaccard": 0.296,
+          "maxNearParagraphTokenJaccard": 0.224,
+          "nearParagraphExcerpts": [
+            "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/busines",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.06,
           "exactSharedHeadings": []
         },
         {
@@ -1165,142 +1512,246 @@
             "nonprofit-virtual-assistant-donor-records-workflow",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 0.113,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.467,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "nonprofit-virtual-assistant-donor-records-workflow",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.453,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.52,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "nonprofit-virtual-assistant-donor-records-workflow",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.795,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.5,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "nonprofit-virtual-assistant-donor-records-workflow",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.34,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "nonprofit-virtual-assistant-donor-records-workflow",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.231,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.467,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "marketplace-seller-virtual-assistant-catalog-operations",
-            "healthcare-virtual-assistant-referral-coordination"
-          ],
-          "fiveWordShingleOverlapPercent": 0.227,
+          "fiveWordShingleOverlapPercent": 0.11,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.237,
+          "nearParagraphExcerpts": [
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se",
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.066,
           "exactSharedHeadings": []
         },
         {
           "slugs": [
-            "marketplace-seller-virtual-assistant-catalog-operations",
+            "nonprofit-virtual-assistant-donor-records-workflow",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.44,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.52,
+          "maxNearParagraphTokenJaccard": 0.262,
+          "nearParagraphExcerpts": [
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.05,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "nonprofit-virtual-assistant-donor-records-workflow",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 0.454,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.478,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "marketplace-seller-virtual-assistant-catalog-operations",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.113,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.37,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "marketplace-seller-virtual-assistant-catalog-operations",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.925,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.571,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "healthcare-virtual-assistant-referral-coordination",
-            "accounting-firm-virtual-assistant-client-document-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.454,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.44,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "healthcare-virtual-assistant-referral-coordination",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.334,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.393,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "healthcare-virtual-assistant-referral-coordination",
-            "home-services-virtual-assistant-dispatch-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.462,
-          "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.565,
-          "exactSharedHeadings": []
-        },
-        {
-          "slugs": [
-            "accounting-firm-virtual-assistant-client-document-intake",
-            "insurance-agency-virtual-assistant-policy-service-intake"
-          ],
-          "fiveWordShingleOverlapPercent": 0.227,
+          "fiveWordShingleOverlapPercent": 0.769,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.5,
+          "maxNearParagraphTokenJaccard": 0.412,
+          "nearParagraphExcerpts": [
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 8,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare the irs recordkeeping",
+          "tailOutlineTokenJaccard": 0.095,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "nonprofit-virtual-assistant-donor-records-workflow",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.33,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.393,
+          "maxNearParagraphTokenJaccard": 0.25,
+          "nearParagraphExcerpts": [
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.083,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "nonprofit-virtual-assistant-donor-records-workflow",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.22,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.44,
+          "maxNearParagraphTokenJaccard": 0.293,
+          "nearParagraphExcerpts": [
+            "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare). The [IRS recordkeeping resource](https://www.irs.gov/businesses/small-businesses-se",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.046,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "marketplace-seller-virtual-assistant-catalog-operations",
+            "healthcare-virtual-assistant-referral-coordination"
+          ],
+          "fiveWordShingleOverlapPercent": 0.218,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.254,
+          "nearParagraphExcerpts": [
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui",
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "in the service library services",
+          "tailOutlineTokenJaccard": 0.066,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "marketplace-seller-virtual-assistant-catalog-operations",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.438,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.478,
+          "maxNearParagraphTokenJaccard": 0.255,
+          "nearParagraphExcerpts": [
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the service library services and",
+          "tailOutlineTokenJaccard": 0.127,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "marketplace-seller-virtual-assistant-catalog-operations",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.109,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.37,
+          "maxNearParagraphTokenJaccard": 0.263,
+          "nearParagraphExcerpts": [
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 5,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare",
+          "tailOutlineTokenJaccard": 0.086,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "marketplace-seller-virtual-assistant-catalog-operations",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.549,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.478,
+          "maxNearParagraphTokenJaccard": 0.263,
+          "nearParagraphExcerpts": [
+            "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-gui",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "in the service library services and",
+          "tailOutlineTokenJaccard": 0.073,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "healthcare-virtual-assistant-referral-coordination",
+            "accounting-firm-virtual-assistant-client-document-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.438,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.44,
+          "maxNearParagraphTokenJaccard": 0.237,
+          "nearParagraphExcerpts": [
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan",
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "roles in the service library services",
+          "tailOutlineTokenJaccard": 0.095,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "healthcare-virtual-assistant-referral-coordination",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.321,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.393,
+          "maxNearParagraphTokenJaccard": 0.246,
+          "nearParagraphExcerpts": [
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "in the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.083,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "healthcare-virtual-assistant-referral-coordination",
+            "home-services-virtual-assistant-dispatch-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.44,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.565,
+          "maxNearParagraphTokenJaccard": 0.288,
+          "nearParagraphExcerpts": [
+            "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidan",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "roles in the service library services",
+          "tailOutlineTokenJaccard": 0.058,
+          "exactSharedHeadings": []
+        },
+        {
+          "slugs": [
+            "accounting-firm-virtual-assistant-client-document-intake",
+            "insurance-agency-virtual-assistant-policy-service-intake"
+          ],
+          "fiveWordShingleOverlapPercent": 0.219,
+          "repeatedSubstantiveParagraphs": 0,
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.37,
+          "maxNearParagraphTokenJaccard": 0.224,
+          "nearParagraphExcerpts": [
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e",
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.125,
           "exactSharedHeadings": []
         },
         {
@@ -1308,10 +1759,18 @@
             "accounting-firm-virtual-assistant-client-document-intake",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 0.694,
+          "fiveWordShingleOverlapPercent": 0.659,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.545,
+          "maxNearParagraphTokenJaccard": 0.291,
+          "nearParagraphExcerpts": [
+            "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare). The [IRS recordkeeping page](https://www.irs.gov/businesses/small-businesses-self-e",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 7,
+          "longestExactBodyTokenRunText": "roles in the service library services and",
+          "tailOutlineTokenJaccard": 0.053,
           "exactSharedHeadings": []
         },
         {
@@ -1319,10 +1778,18 @@
             "insurance-agency-virtual-assistant-policy-service-intake",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 0.231,
+          "fiveWordShingleOverlapPercent": 0.22,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.438,
+          "maxNearSentenceTokenJaccard": 0.37,
+          "maxNearParagraphTokenJaccard": 0.233,
+          "nearParagraphExcerpts": [
+            "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-pass",
+            "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire"
+          ],
+          "longestExactBodyTokenRun": 6,
+          "longestExactBodyTokenRunText": "the provider comparison guide compare the",
+          "tailOutlineTokenJaccard": 0.054,
           "exactSharedHeadings": []
         }
       ]
@@ -1543,7 +2010,11 @@
       "maxRepeatedSubstantiveParagraphs": 0,
       "maxRepeatedSubstantiveSentences": 0,
       "maxNearSentenceTokenJaccard": 0.5,
+      "maxNearParagraphTokenJaccard": 0.289,
+      "longestExactBodyTokenRun": 11,
+      "maxTailOutlineTokenJaccard": 0.467,
       "maxExactSharedHeadingsPerPair": 3,
+      "semanticSequenceAudit": "pass: tail section counts, order, worked-example placement, evidence logic, and reader outcomes are independently developed",
       "qualitativeAudit": "pass: topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes pass exact and near-duplicate checks",
       "pairs": [
         {
@@ -1555,6 +2026,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.382,
+          "maxNearParagraphTokenJaccard": 0.289,
+          "nearParagraphExcerpts": [
+            "This report examines how a buyer can verify what supervision a managed Filipino virtual assistant service actually provides. A management claim becomes useful for a decision only when the buyer can see the named reviewer, review event, acce",
+            "This report examines the time records a buyer can use to compare hourly or capacity-based Filipino virtual assistant services. Time evidence helps when it connects authorized work to an invoice at a proportionate level. It misleads when scr"
+          ],
+          "longestExactBodyTokenRun": 11,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report examines",
+          "tailOutlineTokenJaccard": 0.4,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1570,6 +2049,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.27,
+          "nearParagraphExcerpts": [
+            "This report examines how a buyer can verify what supervision a managed Filipino virtual assistant service actually provides. A management claim becomes useful for a decision only when the buyer can see the named reviewer, review event, acce",
+            "This report examines subcontractors, partner teams, and replacement personnel in a Filipino virtual assistant service. A buyer can compare these arrangements only after tracing the real delivery chain, defining material changes, and checkin"
+          ],
+          "longestExactBodyTokenRun": 11,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report examines",
+          "tailOutlineTokenJaccard": 0.467,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1585,6 +2072,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.5,
+          "maxNearParagraphTokenJaccard": 0.261,
+          "nearParagraphExcerpts": [
+            "This report examines how a buyer can verify what supervision a managed Filipino virtual assistant service actually provides. A management claim becomes useful for a decision only when the buyer can see the named reviewer, review event, acce",
+            "This report gives buyers a way to test continuity claims before assigning recurring work to a Filipino virtual assistant provider. A promise becomes credible only within the exercised scenario: the provider must demonstrate work priorities,"
+          ],
+          "longestExactBodyTokenRun": 10,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report",
+          "tailOutlineTokenJaccard": 0.278,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1600,6 +2095,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.31,
+          "maxNearParagraphTokenJaccard": 0.216,
+          "nearParagraphExcerpts": [
+            "This report examines how a buyer can verify what supervision a managed Filipino virtual assistant service actually provides. A management claim becomes useful for a decision only when the buyer can see the named reviewer, review event, acce",
+            "This report examines work product, business records, personal data, and access at the end of a Filipino virtual assistant engagement. A reliable exit transfers ownership and open work, closes all known access paths, names every retention ex"
+          ],
+          "longestExactBodyTokenRun": 11,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report examines",
+          "tailOutlineTokenJaccard": 0.312,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1615,6 +2118,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.31,
+          "maxNearParagraphTokenJaccard": 0.225,
+          "nearParagraphExcerpts": [
+            "This report examines the time records a buyer can use to compare hourly or capacity-based Filipino virtual assistant services. Time evidence helps when it connects authorized work to an invoice at a proportionate level. It misleads when scr",
+            "This report examines subcontractors, partner teams, and replacement personnel in a Filipino virtual assistant service. A buyer can compare these arrangements only after tracing the real delivery chain, defining material changes, and checkin"
+          ],
+          "longestExactBodyTokenRun": 11,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report examines",
+          "tailOutlineTokenJaccard": 0.25,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1630,6 +2141,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.32,
+          "maxNearParagraphTokenJaccard": 0.217,
+          "nearParagraphExcerpts": [
+            "This report examines the time records a buyer can use to compare hourly or capacity-based Filipino virtual assistant services. Time evidence helps when it connects authorized work to an invoice at a proportionate level. It misleads when scr",
+            "This report gives buyers a way to test continuity claims before assigning recurring work to a Filipino virtual assistant provider. A promise becomes credible only within the exercised scenario: the provider must demonstrate work priorities,"
+          ],
+          "longestExactBodyTokenRun": 10,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report",
+          "tailOutlineTokenJaccard": 0.238,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1645,6 +2164,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.344,
+          "maxNearParagraphTokenJaccard": 0.226,
+          "nearParagraphExcerpts": [
+            "This report examines the time records a buyer can use to compare hourly or capacity-based Filipino virtual assistant services. Time evidence helps when it connects authorized work to an invoice at a proportionate level. It misleads when scr",
+            "This report examines work product, business records, personal data, and access at the end of a Filipino virtual assistant engagement. A reliable exit transfers ownership and open work, closes all known access paths, names every retention ex"
+          ],
+          "longestExactBodyTokenRun": 11,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report examines",
+          "tailOutlineTokenJaccard": 0.263,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1660,6 +2187,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.276,
+          "maxNearParagraphTokenJaccard": 0.225,
+          "nearParagraphExcerpts": [
+            "This report examines subcontractors, partner teams, and replacement personnel in a Filipino virtual assistant service. A buyer can compare these arrangements only after tracing the real delivery chain, defining material changes, and checkin",
+            "This report gives buyers a way to test continuity claims before assigning recurring work to a Filipino virtual assistant provider. A promise becomes credible only within the exercised scenario: the provider must demonstrate work priorities,"
+          ],
+          "longestExactBodyTokenRun": 10,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report",
+          "tailOutlineTokenJaccard": 0.227,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1675,6 +2210,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.4,
+          "maxNearParagraphTokenJaccard": 0.258,
+          "nearParagraphExcerpts": [
+            "The National Privacy Commission materials make outsourcing accountability and contractual safeguards relevant to a delivery-chain review. They support asking who processes the data, under whose instructions, with what security measures, and",
+            "The Philippine privacy materials make accountability, contractual safeguards, security, and continued control of outsourced personal data pertinent to service exit. They support asking how copies are returned, protected, retained, and dispo"
+          ],
+          "longestExactBodyTokenRun": 11,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report examines",
+          "tailOutlineTokenJaccard": 0.316,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",
@@ -1690,6 +2233,14 @@
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
           "maxNearSentenceTokenJaccard": 0.385,
+          "maxNearParagraphTokenJaccard": 0.226,
+          "nearParagraphExcerpts": [
+            "This report gives buyers a way to test continuity claims before assigning recurring work to a Filipino virtual assistant provider. A promise becomes credible only within the exercised scenario: the provider must demonstrate work priorities,",
+            "This report examines work product, business records, personal data, and access at the end of a Filipino virtual assistant engagement. A reliable exit transfers ownership and open work, closes all known access paths, names every retention ex"
+          ],
+          "longestExactBodyTokenRun": 10,
+          "longestExactBodyTokenRunText": "publication date pending combined release verification executive finding this report",
+          "tailOutlineTokenJaccard": 0.182,
           "exactSharedHeadings": [
             "Executive finding",
             "Facts, analysis, and inference",

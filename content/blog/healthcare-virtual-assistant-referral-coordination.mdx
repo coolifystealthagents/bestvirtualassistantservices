@@ -41,43 +41,39 @@ Verify identity using the organization's process and present approved options wi
 
 Completion means the defined result arrived and was reconciled, not merely that a fax or portal upload showed sent.
 
-## Boundary rehearsal for healthcare referral coordination
-
-A patient awaiting a routine specialist visit reports a new symptom during a status call. The assistant stops the scheduling script and uses the practice's clinical escalation route, preserving the patient's words. The assistant does not label the symptom urgent or advise the patient medically. After clinical staff give an authorized next step, the administrative referral record is updated without copying unnecessary clinical detail into a general task board.
-
-## Evidence tests for Set Boundaries for Virtual Assistant Referral Coordination
-
-### 1. What document creates an authorized referral?
+## Build the packet without rewriting the order
 
 Build a referral packet from the ordering record and the practice's destination-specific checklist. The assistant should not rewrite clinical intent or send an entire chart merely because it is easier.
 
-### 2. Which records may be shared with each recipient?
+## A new symptom ends the scheduling script
+
+A patient awaiting a routine specialist visit reports a new symptom during a status call. The assistant stops the scheduling script and uses the practice's clinical escalation route, preserving the patient's words. The assistant does not label the symptom urgent or advise the patient medically. After clinical staff give an authorized next step, the administrative referral record is updated without copying unnecessary clinical detail into a general task board.
 
 During a status call, introduce a new symptom. The scheduling script must stop, the patient's exact words must reach clinical staff, and no administrative label should imply a triage conclusion.
 
-### 3. What words trigger clinical escalation?
+## Keep payer status separate from payer interpretation
 
 Return a payer request for additional documents. Record the request and authorization state exactly while benefits meaning, denial consequences, and appeal strategy remain with trained owners.
 
-### 4. Who interprets payer decisions?
+Time in queue should be separated by owner: practice preparation, patient response, payer response, destination review, and clinical decision. That view supports follow-up without letting an assistant label a clinical delay or promise an appointment. It also shows whether administrative effort is addressing the actual bottleneck or simply generating more status contacts.
+
+## Patient choice begins after identity control
 
 Offer two approved destinations to a verified patient. The assistant follows documented choice policy without steering based on personal preference or disclosing health information before identity checks succeed.
 
-### 5. How is patient identity verified?
+## Transmission is only the middle of this workflow
 
 Send a packet through the approved channel but withhold completion. Closure requires the defined recipient result and reconciliation, not merely a successful fax or portal transmission status.
 
-### 6. What evidence proves referral-loop closure?
-
-Audit the general task board after the scenario. It should show only the minimum operational status; clinical detail belongs in the controlled health record and access should match the organization's rules.
-
-## Operational acceptance review for healthcare referral coordination
-
 Test separate administrative and clinical complications. One case has a valid order but a missing destination requirement. The assistant identifies the missing item from an approved checklist without rewriting clinical intent or selecting extra chart material. A second case begins as an ordinary status call and then includes a new symptom. The assistant stops scheduling, preserves the patient's exact words, and uses the clinical escalation path without assigning urgency or giving advice. A third case receives a payer request whose consequences are unclear. The record can show authorization status and requested documentation, but trained staff interpret benefits, denial meaning, and response strategy. Across all cases, examine identity checks, patient choice, approved transfer channels, and minimum-necessary disclosure. A recipient asking for more information does not automatically gain the entire chart. A patient asking which specialist is best receives only options permitted by policy, with recommendations routed appropriately. Closure needs its own test: a fax confirmation or portal receipt proves transmission, not referral completion. Define whether the result is appointment acceptance, consultation documentation, returned findings, or another practice-owned event, and reconcile that result to the order. Inspect the general task board to ensure it contains operational status rather than copied clinical narrative. Access logs should show who opened the packet, corrections should retain their source, and unresolved clinical or payer questions should have named owners. This design lets administrative staff pursue missing paperwork and status efficiently while making every privacy, clinical, and coverage boundary visible.
+
+## The rejected packet is the better closure test
 
 Ask the receiving office to reject one incomplete packet and return a specific reason. The assistant should connect that response to the original referral, obtain the missing approved item, retransmit through the controlled channel, and keep both attempts visible. Clinical staff decide whether the delay or new information changes care instructions. Confirm that the patient receives only the status language approved for that stage and knows which clinical contact handles care questions.
 
-## Decision rule for healthcare referral coordination
+Audit the general task board after the scenario. It should show only the minimum operational status; clinical detail belongs in the controlled health record and access should match the organization's rules.
+
+## What may appear on the general task board
 
 A referral process is acceptable when the intended recipient receives the minimum authorized packet, patient choice is preserved, and completion returns to the practice as reconciled evidence. Clinical questions, new symptoms, and payer meaning must visibly leave the administrative lane without leaking health detail into general work systems.
 

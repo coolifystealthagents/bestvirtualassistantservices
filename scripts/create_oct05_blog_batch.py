@@ -309,6 +309,15 @@ MORE_ADDENDA = {
 "home-services-virtual-assistant-dispatch-intake":"Reopen a completed booking after the customer changes access instructions and reports a new hazard. The workflow should protect the new entry detail, reactivate the safety route, notify the assigned operational owner, and prevent the old completion state from hiding the change. Dispatch history should show what changed, when, and who accepted responsibility.",
 }
 
+MORE_CLOSING_DETAILS = {
+"nonprofit-virtual-assistant-donor-records-workflow":"Record the queue states that prevent premature acknowledgement: awaiting settlement, identity uncertain, designation conflict, noncash review, and communication preference unresolved. Each state needs an owner and a release condition. This lets staff see why a gift is held without allowing the assistant to settle the underlying fundraising, accounting, or tax question.",
+"marketplace-seller-virtual-assistant-catalog-operations":"Require a change set that lists every parent, child, region, and offer expected to move. After publication, compare that set with the platform result and explain additions or omissions. A provider who cannot bound the blast radius before an edit should not receive broader bulk-update authority merely because the sample eventually looked correct.",
+"healthcare-virtual-assistant-referral-coordination":"Time in queue should be separated by owner: practice preparation, patient response, payer response, destination review, and clinical decision. That view supports follow-up without letting an assistant label a clinical delay or promise an appointment. It also shows whether administrative effort is addressing the actual bottleneck or simply generating more status contacts.",
+"accounting-firm-virtual-assistant-client-document-intake":"Measure intake quality through unresolved exceptions, provenance completeness, duplicate handling, security events, and professional rework rather than uploaded-file volume. A lower count may reflect a deliberately bounded engagement, while a high count can conceal repeated statements, irrelevant exports, or records the professional cannot use for the requested period.",
+"insurance-agency-virtual-assistant-policy-service-intake":"The queue should distinguish administrative information supplied from licensed review requested, licensed response received, customer communication delivered, and follow-up still open. Collapsing those events into resolved makes it impossible to know whether the agency merely routed a coverage question or actually completed the authorized communication to the verified client.",
+"home-services-virtual-assistant-dispatch-intake":"Review schedule utilization separately from safe intake. Filling a vacant window is not a positive result when the job requires a different skill, lies outside the approved area, or contains an unacknowledged hazard. The dispatch owner needs both capacity evidence and the exception record before deciding whether the assistant's booking authority should expand.",
+}
+
 LINK_NOTES = {
 "property-management-virtual-assistant-tenant-communications":f"Compare inbox and escalation roles in the [service library](/services), then score competing property demonstrations with the [provider comparison guide](/compare). Consult the [HUD fair-housing material]({SOURCES['hud']}) as background while qualified owners define the property's actual housing procedures.",
 "construction-virtual-assistant-bid-coordination":f"Use the [service library](/services) to separate coordination from estimating and the [provider comparison guide](/compare) to retain bid-workflow evidence. The [SBA management resource]({SOURCES['sba']}) offers general staffing context, not construction scope or submission authority.",
@@ -324,20 +333,115 @@ LINK_NOTES = {
 "home-services-virtual-assistant-dispatch-intake":f"Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource]({SOURCES['sba']}) offers staffing context while operational owners establish safety, pricing, and route authority.",
 }
 
+# Each plan deliberately uses a different analytical order.  Component names refer
+# to article-specific prose below, not a shared public-facing outline.
+TAIL_PLANS = {
+"property-management-virtual-assistant-tenant-communications":[
+("When a routine inbox becomes an emergency channel",["scenario","a0","a5"]),
+("Accommodation language, leasing scripts, and the point to stop",["a1","a3","faq0"]),
+("Follow one maintenance record into the vendor handoff",["a2","a4","faq1"]),
+("What should outweigh first-response speed",["faq2","decision","links"])],
+"construction-virtual-assistant-bid-coordination":[
+("Addendum 3 arrives with less than four hours left",["scenario","a1"]),
+("Reconstruct the package before scoring the coordinator",["a0","a2","faq2"]),
+("Put outreach, RFIs, and estimating authority on separate tracks",["a3","faq0"]),
+("A failed upload is part of the work sample",["a4","faq1"]),
+("Read the exception brief as the final buying test",["a5","decision","links"])],
+"architecture-firm-virtual-assistant-submittal-tracking":[
+("Start the evaluation with the ambiguous resubmission",["scenario","a0"]),
+("A responsibility matrix is useful only when its history is visible",["a2","faq1"]),
+("Conflicting consultant comments test the professional boundary",["a1","faq0"]),
+("Dates describe aging; they do not decide contractual consequences",["a3"]),
+("Try to issue the draft, then retrieve the authorized return",["a4","a5","faq2"]),
+("The record another architect must be able to reconstruct",["decision","links"])],
+"saas-virtual-assistant-customer-onboarding-scope":[
+("Define completion before looking at activity",["a0","faq1"]),
+("Let a custom integration request disrupt the happy path",["a1","faq2"]),
+("Use a permission mistake to inspect recovery",["a2","faq0"]),
+("Training failure and accessibility are ownership tests",["a3"]),
+("Why a green dashboard can still hide an unfinished account",["a4","scenario"]),
+("The evidence that can survive the support handoff",["a5","decision","links"])],
+"online-course-virtual-assistant-student-operations":[
+("Begin with the learner who paid but cannot enter",["a0","scenario"]),
+("Move accessibility out of the public thread without losing it",["a1","faq1"]),
+("Late work separates queue handling from academic judgment",["a2"]),
+("Certificate issuance needs a disputed-result stop",["a3","faq0"]),
+("Remove a moderator before trusting launch-week coverage",["a4"]),
+("Reconcile the learner across five systems",["a5","faq2","decision","links"])],
+"membership-association-virtual-assistant-renewal-operations":[
+("Three members, three different renewal rules",["a0","faq1"]),
+("A discount request reveals who owns the commercial decision",["a1","faq0"]),
+("Consent still applies when another address is available",["a2"]),
+("Do not turn a mismatched payment into a renewed status",["a3","scenario"]),
+("A shared address is not identity evidence",["a4"]),
+("Read renewal totals beside benefit errors and rework",["a5","faq2","decision","links"])],
+"nonprofit-virtual-assistant-donor-records-workflow":[
+("The restricted-check conflict should remain visible",["scenario","a2"]),
+("Reconcile settlement evidence before generating thanks",["a0","review"]),
+("Test identity and anonymity in the same export cycle",["a1","a4"]),
+("Noncash gifts expose the limit of administrative coding",["a3"]),
+("Trace one correction through every donor-facing artifact",["a5","addendum"]),
+("Decide whether the record protects intent, not just totals",["detail","decision","links"])],
+"marketplace-seller-virtual-assistant-catalog-operations":[
+("One color changes inside a shared parent",["scenario","a0"]),
+("Challenge a claim before testing the upload",["a1","detail"]),
+("Break the variation family on purpose",["a2","review"]),
+("A suppression notice is not an invitation to duplicate",["a3"]),
+("Rollback, regional preview, and the order placed during the error",["a4","addendum"]),
+("Close on the customer page, not the accepted feed",["a5","decision","links"])],
+"healthcare-virtual-assistant-referral-coordination":[
+("Build the packet without rewriting the order",["a0"]),
+("A new symptom ends the scheduling script",["scenario","a1"]),
+("Keep payer status separate from payer interpretation",["a2","detail"]),
+("Patient choice begins after identity control",["a3"]),
+("Transmission is only the middle of this workflow",["a4","review"]),
+("The rejected packet is the better closure test",["addendum","a5"]),
+("What may appear on the general task board",["decision","links"])],
+"accounting-firm-virtual-assistant-client-document-intake":[
+("Duplicate payroll reports belong in an exception, not a final folder",["scenario","a1"]),
+("Tie each request to this engagement and period",["a0"]),
+("Present is not the same state as professionally sufficient",["a2","review","detail"]),
+("Wrong-client material changes the response entirely",["a3"]),
+("Rename for order without sacrificing provenance",["a4"]),
+("Test the index after revoking temporary access",["addendum","a5"]),
+("The professional handoff should expose the mess honestly",["decision","links"])],
+"insurance-agency-virtual-assistant-policy-service-intake":[
+("A rental-car question should not become instant coverage advice",["scenario","a0"]),
+("Authority must be established before familiarity matters",["a1"]),
+("Certificate wording is a separate approval surface",["a2"]),
+("Claims facts and coverage questions travel on different paths",["a3","review"]),
+("Audit the fast answer for material accuracy",["a4","detail"]),
+("Correct a billing date without expanding administrative authority",["addendum"]),
+("Reopen the record after the assistant loses access",["a5","decision","links"])],
+"home-services-virtual-assistant-dispatch-intake":[
+("Book the ordinary call before introducing the hazard",["a0","scenario"]),
+("Make the fallback fail visibly during the rehearsal",["a1"]),
+("A technician callout tests whether windows reflect capacity",["a2","review","detail"]),
+("Entry details need a narrower audience than the calendar",["a3"]),
+("Diagnostic fees do not authorize a repair promise",["a4"]),
+("Reopen a completed job when the customer reports a new risk",["addendum"]),
+("The shift handoff ends only with ownership",["a5","decision","links"])],
+}
+
+def render_tail(a):
+    parts={"scenario":a["scenario"],"decision":DECISION_NOTES[a["slug"]],"links":LINK_NOTES[a["slug"]]}
+    parts.update({f"a{i}":text for i,text in enumerate(AUDIT_ACTIONS[a["slug"]])})
+    if a.get("generatedFaq"):
+        parts.update({"review":MORE_OPERATIONAL_REVIEWS[a["slug"]],"addendum":MORE_ADDENDA[a["slug"]],"detail":MORE_CLOSING_DETAILS[a["slug"]]})
+    else:
+        parts.update({f"faq{i}":answer for i,(_,answer) in enumerate(a["faq"])})
+    rendered=[]
+    for heading,keys in TAIL_PLANS[a["slug"]]:
+        rendered += ["",f"## {heading}"]
+        for key in keys: rendered += ["",parts[key]]
+    return rendered
+
 def render(a):
     body=[f"# {a['title']}","",f"Published {PUBDATE}.","",a["intro"]]
     for index,(heading,text) in enumerate(a["sections"]):
         shown = f"{a['title']}: {heading}" if index == 0 else heading
         body += ["",f"## {shown}","",text]
-    body += ["",f"## Boundary rehearsal for {a['alt']}","",a["scenario"],"",f"## Evidence tests for {a['title']}",""]
-    for i,q in enumerate(a["questions"],1):
-        body += [f"### {i}. {q}","",AUDIT_ACTIONS[a['slug']][i-1],""]
-    if a.get("generatedFaq"):
-        body += [f"## Operational acceptance review for {a['alt']}","",MORE_OPERATIONAL_REVIEWS[a['slug']],"",MORE_ADDENDA[a['slug']],""]
-    body += [f"## Decision rule for {a['alt']}","",DECISION_NOTES[a['slug']],"",LINK_NOTES[a['slug']]]
-    if not a.get("generatedFaq"):
-        body += ["",f"## Practical questions about {a['alt']}"]
-        for q,ans in a["faq"]: body += ["",f"### {q}","",ans]
+    body += render_tail(a)
     front=f"---\nslug: {a['slug']}\ntitle: {a['title']}\nexcerpt: {a['excerpt']}\npublishedAt: {PUBDATE}\nupdatedAt: {PUBDATE}\ncategory: {a['category']}\ntags: [virtual assistant, service evaluation, workflow design]\nfeaturedImage: {IMAGE}\nheroImageAlt: {a['alt']}\nreadingTime: 10 minutes\nrelatedArticles: [{', '.join(a['related'])}]\n---\n"
     return front+"\n".join(body)+"\n"
 
