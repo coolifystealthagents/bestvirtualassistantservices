@@ -34,7 +34,7 @@ The proposed observation unit is one disruption scenario traced from detection t
 
 A support assistant loses connectivity during a high-volume period while the provider's primary messaging channel is also unavailable. The buyer needs to know which tasks pause, how priority customers are protected, whether backup coverage exists, and how duplicate or missed actions are reconciled after service returns.
 
-The unit must retain both the result and its decision path. At minimum, preserve the applicable rule, the input available at the time, the action taken, the exception or question raised, the owner who decided, and the final disposition. If the record contains only the clean final output, the buyer cannot tell whether the workflow produced it consistently or whether an undocumented rescue occurred.
+A continuity test needs an event timeline rather than a polished after-action summary. Retain the injected disruption, first detection, declaration, safe-pause decision, alternate contact, backup activation, access grant, actions taken in degraded mode, restoration, queue reconciliation, and unresolved items. Actual timestamps and failed steps matter because a reconstructed ideal sequence hides dependencies that will still exist during the next outage.
 
 
 
@@ -75,11 +75,11 @@ Decide the next step by failure mode. A communication miss may require a tested 
 
 ## Facts, analysis, and inference
 
-The cited Philippine Data Privacy Act and its implementing rules are facts about the published legal framework. The National Privacy Commission states that controllers remain responsible for personal data under their custody, including data outsourced or transferred for processing, and its rules call for appropriate contractual and security measures. Those statements do not establish that a particular buyer is a Philippine personal information controller, that a particular provider is a processor, or that a proposed contract complies with every applicable law.
+Privacy and security obligations remain relevant during disruption; an outage does not make broad credential sharing or improvised transfer of customer records safe by default. The Philippine sources support examining safeguards and accountable processing across outsourced work. They do not prescribe this study's recovery targets or prove a particular continuity design compliant. Buyers must connect any legal assessment to their data, service, contracts, and jurisdictions.
 
-The analysis in this article is that buyer due diligence works better when claims are decomposed into activities, owners, artifacts, and exceptions. The further inference is that this structure makes competing offers more comparable. Those are research judgments based on the sources and operating logic, not regulator findings or promises of a commercial outcome.
+The analysis treats continuity as a demonstrated sequence of safe degradation, recovery, and reconciliation rather than a document or uptime promise. Its inference is that scenario tests expose shared dependencies and retained buyer actions that proposal language misses. This is a test-design judgment, not evidence that any provider will meet a recovery objective outside the exercised task, timing, systems, and staffing conditions.
 
-The PSA reported that the Philippine digital economy accounted for 9.8 percent of the country's economy in 2025 and employed 10.39 million people, using its Digital Economy Satellite Account. That fact supplies market context, but it is not a count of virtual assistants and must not be presented as one. This distinction matters because broad labor or digital-economy numbers can create false precision around a narrower hiring market.
+The PSA's national digital-economy figures indicate the broader importance of digitally delivered work, but they say nothing about a virtual assistant provider's backup connectivity, staffing resilience, recovery time, or queue reconciliation. This report does not convert those totals into continuity claims. The relevant evidence is the observed exercise, its dependency map, and the corrective actions that are subsequently retested.
 
 
 

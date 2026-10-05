@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "accounting-firm-virtual-assistant-client-document-intake",
+      "title": "Design Virtual Assistant Support for Accounting Client Document Intake",
+      "path": "content/blog/accounting-firm-virtual-assistant-client-document-intake.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "architecture-firm-virtual-assistant-submittal-tracking",
+      "title": "Evaluate Virtual Assistant Support for Architecture Submittal Tracking",
+      "path": "content/blog/architecture-firm-virtual-assistant-submittal-tracking.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "construction-virtual-assistant-bid-coordination",
+      "title": "How to Scope Virtual Assistant Support for Construction Bid Coordination",
+      "path": "content/blog/construction-virtual-assistant-bid-coordination.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "healthcare-virtual-assistant-referral-coordination",
+      "title": "Set Boundaries for Virtual Assistant Referral Coordination",
+      "path": "content/blog/healthcare-virtual-assistant-referral-coordination.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "home-services-virtual-assistant-dispatch-intake",
+      "title": "Evaluate a Virtual Assistant for Home-Service Dispatch Intake",
+      "path": "content/blog/home-services-virtual-assistant-dispatch-intake.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "insurance-agency-virtual-assistant-policy-service-intake",
+      "title": "Scope Virtual Assistant Support for Insurance Policy Service Intake",
+      "path": "content/blog/insurance-agency-virtual-assistant-policy-service-intake.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "marketplace-seller-virtual-assistant-catalog-operations",
+      "title": "Evaluate a Virtual Assistant for Marketplace Catalog Operations",
+      "path": "content/blog/marketplace-seller-virtual-assistant-catalog-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "membership-association-virtual-assistant-renewal-operations",
+      "title": "Design Virtual Assistant Support for Membership Renewal Operations",
+      "path": "content/blog/membership-association-virtual-assistant-renewal-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "nonprofit-virtual-assistant-donor-records-workflow",
+      "title": "Scope a Virtual Assistant for Nonprofit Donor Records",
+      "path": "content/blog/nonprofit-virtual-assistant-donor-records-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "online-course-virtual-assistant-student-operations",
+      "title": "Choose a Virtual Assistant for Online Course Student Operations",
+      "path": "content/blog/online-course-virtual-assistant-student-operations.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "property-management-virtual-assistant-tenant-communications",
+      "title": "How to Evaluate a Virtual Assistant for Property Management Communications",
+      "path": "content/blog/property-management-virtual-assistant-tenant-communications.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "saas-virtual-assistant-customer-onboarding-scope",
+      "title": "Scope a Virtual Assistant for SaaS Customer Onboarding",
+      "path": "content/blog/saas-virtual-assistant-customer-onboarding-scope.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-access-provisioning-checklist",
       "title": "An Access-Provisioning Checklist for Virtual Assistants",
       "path": "content/blog/virtual-assistant-access-provisioning-checklist.mdx",

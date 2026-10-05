@@ -54,8 +54,8 @@
       "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-supervision-evidence-study",
       "status": "staged-pending-combined-release",
-      "bodyWordCount": 1229,
-      "contentHash": "efb1df9a9a97c8aead4db8c04e59539a2d41967309e56199688a041438f1dc6b",
+      "bodyWordCount": 1248,
+      "contentHash": "97e1c76ebf65894be25c42d8eea5ab67d1c45e3c57b6b1a8eaeb00204a650ca0",
       "imagePath": "/blog/images/virtual-assistant-service-quality-assurance.webp",
       "imageDimensions": [
         1200,
@@ -115,8 +115,8 @@
       "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-billing-time-reconciliation-study",
       "status": "staged-pending-combined-release",
-      "bodyWordCount": 1225,
-      "contentHash": "574baa7604726ef6b2191a6fed1229a6b2165523e18014ef9230ea7267cd1e9b",
+      "bodyWordCount": 1219,
+      "contentHash": "ed68965f032c3ad6a2f29ce6905ec47d21f1b53ee00600b6cce27a6307edf398",
       "imagePath": "/blog/images/virtual-assistant-weekly-operations-report.webp",
       "imageDimensions": [
         1200,
@@ -176,8 +176,8 @@
       "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-subcontractor-transparency-study",
       "status": "staged-pending-combined-release",
-      "bodyWordCount": 1271,
-      "contentHash": "fee6292c97199d20a81071ad04b532725749e929a034bd3be1abed882825bb51",
+      "bodyWordCount": 1262,
+      "contentHash": "2570cbe66dea0948fe12749a51b859cb1c5698e10e9dbae6eb214b2d87fd1eec",
       "imagePath": "/blog/images/virtual-assistant-vendor-risk-review.webp",
       "imageDimensions": [
         1200,
@@ -237,8 +237,8 @@
       "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-business-continuity-test-study",
       "status": "staged-pending-combined-release",
-      "bodyWordCount": 1230,
-      "contentHash": "cd975671ec5c495f0374ce9335791360b4a20d4e1ce9041aab3c23c73f39f039",
+      "bodyWordCount": 1207,
+      "contentHash": "35e545a1e1eb423ef76daac7bb1092a4ca648de8d0fd12b918c79680e667ff30",
       "imagePath": "/blog/images/virtual-assistant-remote-work-continuity.webp",
       "imageDimensions": [
         1200,
@@ -298,8 +298,8 @@
       "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-exit-data-return-study",
       "status": "staged-pending-combined-release",
-      "bodyWordCount": 1266,
-      "contentHash": "f1c3bfd007b204e53d13f049a1c05a63ed669797b9ca51972fb3a04820a9732b",
+      "bodyWordCount": 1257,
+      "contentHash": "0b97e0f1b0ecac59f137bb1f48cfaf0572a5100ed30a8e4db18cc8a5064c1188",
       "imagePath": "/blog/images/virtual-assistant-document-access-governance.webp",
       "imageDimensions": [
         1200,
@@ -315,9 +315,9 @@
   "validation": {
     "status": "pass",
     "substantiveWordRule": ">=1200 excluding frontmatter and numbered source list",
-    "maxPairwiseFiveWordShingleOverlapPercent": 31.67,
-    "repeatedParagraphFinding": "Four shared source/method boundary paragraphs per pair; topic arguments, scenarios, examples, tests, decision records, and reader outcomes are distinct.",
-    "sharedArgumentSequenceFinding": "No shared topic-specific argument sequence detected; common material is limited to disclosed research/source boundaries.",
+    "maxPairwiseFiveWordShingleOverlapPercent": 10.06,
+    "repeatedParagraphFinding": "Maximum repeated substantive paragraphs per pair: 0. Generic reusable reasoning was replaced with study-specific units, source interpretation, methodology, limitations, and conclusions; numbered source citations are excluded from this paragraph metric.",
+    "sharedArgumentSequenceFinding": "Manual section-sequence and example review found distinct topic-specific arguments, tests, decision records, limitations, and reader outcomes across all five studies.",
     "publicationGate": "BES-86 must reconcile publishedAt, updatedAt, visible date, lastVerified, index, sitemap, and ledger to each route actual first-live UTC date before the sole push."
   }
 }

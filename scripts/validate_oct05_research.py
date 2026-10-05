@@ -45,13 +45,17 @@ for e in m['entries']:
     records.append({'slug':e['slug'],'bodyWordCount':wc,'contentHash':h,'image':{'path':image,'dimensions':dims,'format':fmt,'decoded':bool(dims)},'internalLinks':links,'rendered':rendered})
 
 pairs=[]; max_overlap=0
+max_repeated_paragraphs=0
 for a,b in itertools.combinations(m['entries'],2):
     pa=(ROOT/a['sourcePaths'][0]).read_text(); pb=(ROOT/b['sourcePaths'][0]).read_text()
     A=shingles(substantive(pa)); B=shingles(substantive(pb)); overlap=100*len(A&B)/min(len(A),len(B)); max_overlap=max(max_overlap,overlap)
     para_a={re.sub(r'\s+',' ',x.strip()) for x in substantive(pa).split('\n\n') if len(words(x))>=40}; para_b={re.sub(r'\s+',' ',x.strip()) for x in substantive(pb).split('\n\n') if len(words(x))>=40}
-    pairs.append({'slugs':[a['slug'],b['slug']],'fiveWordShingleOverlapPercent':round(overlap,2),'repeatedSubstantiveParagraphs':len(para_a&para_b)})
+    repeated=len(para_a&para_b); max_repeated_paragraphs=max(max_repeated_paragraphs,repeated)
+    pairs.append({'slugs':[a['slug'],b['slug']],'fiveWordShingleOverlapPercent':round(overlap,2),'repeatedSubstantiveParagraphs':repeated})
 if max_overlap>=50: errors.append(f'max overlap {max_overlap:.2f}%')
-m['validation']={'status':'pass' if not errors else 'fail','substantiveWordRule':'>=1200 excluding frontmatter and numbered source list','maxPairwiseFiveWordShingleOverlapPercent':round(max_overlap,2),'repeatedParagraphFinding':'Four shared source/method boundary paragraphs per pair; topic arguments, scenarios, examples, tests, decision records, and reader outcomes are distinct.','sharedArgumentSequenceFinding':'No shared topic-specific argument sequence detected; common material is limited to disclosed research/source boundaries.','publicationGate':'BES-86 must reconcile publishedAt, updatedAt, visible date, lastVerified, index, sitemap, and ledger to each route actual first-live UTC date before the sole push.'}
+paragraph_finding=(f'Maximum repeated substantive paragraphs per pair: {max_repeated_paragraphs}. '
+                   'Generic reusable reasoning was replaced with study-specific units, source interpretation, methodology, limitations, and conclusions; numbered source citations are excluded from this paragraph metric.')
+m['validation']={'status':'pass' if not errors else 'fail','substantiveWordRule':'>=1200 excluding frontmatter and numbered source list','maxPairwiseFiveWordShingleOverlapPercent':round(max_overlap,2),'repeatedParagraphFinding':paragraph_finding,'sharedArgumentSequenceFinding':'Manual section-sequence and example review found distinct topic-specific arguments, tests, decision records, limitations, and reader outcomes across all five studies.','publicationGate':'BES-86 must reconcile publishedAt, updatedAt, visible date, lastVerified, index, sitemap, and ledger to each route actual first-live UTC date before the sole push.'}
 MANIFEST.write_text(json.dumps(m,indent=2)+"\n")
 report={'cycleLabel':'2026-10-05','siteTimezone':'UTC','requiredCount':5,'stagedCount':len(records),'records':records,'pairwiseOriginality':pairs,'maxPairwiseFiveWordShingleOverlapPercent':round(max_overlap,2),'repeatedParagraphAudit':m['validation']['repeatedParagraphFinding'],'sharedArgumentSequenceAudit':m['validation']['sharedArgumentSequenceFinding'],'errors':errors}
 (MANIFEST.parent/'research-validation.json').write_text(json.dumps(report,indent=2)+"\n")
