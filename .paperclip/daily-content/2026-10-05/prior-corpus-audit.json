@@ -1,0 +1,556 @@
+{
+  "baseline": "de7a4524f46e323421c51041a930d84bf4b61414",
+  "priorCorpus": {
+    "blog": 471,
+    "research": 238,
+    "total": 709
+  },
+  "candidateCount": 17,
+  "records": [
+    {
+      "family": "blog",
+      "slug": "property-management-virtual-assistant-tenant-communications",
+      "title": "How to Evaluate a Virtual Assistant for Property Management Communications",
+      "contentHash": "cc36fcb1995badb6ce1d4dd717754595c4ba9688897e1dbf22a467440f70797f",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior bilingual-service guide evaluates language capability. This article instead models resident-message classes, housing-decision boundaries, maintenance evidence, vendor disclosure, and an acknowledged emergency route.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "bilingual-virtual-assistant-service-evaluation",
+        "title": "How to Evaluate a Bilingual Virtual Assistant Service",
+        "path": "content/blog/bilingual-virtual-assistant-service-evaluation.mdx",
+        "contentHash": "170c8eae39189f2561966d7e48edff416492df76cd62d734a968bde45fdcef50",
+        "titleTokenJaccard": 0.5,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.169,
+        "currentExcerpt": "Withdraw an outdated leasing script during the exercise. Search the inbox and knowledge source afterward to prove the old answer is no longer available and that an exception reaches a manager instead of being answered from memory.",
+        "priorExcerpt": "Choosing a virtual assistant is easier when the work is described as an operating system rather than a list of attractive traits. This guide turns trial project into a decision a manager can inspect. It uses a realistic example, a five-day inbox classification exercise, and keeps preparation separate from the judgments that still belong to the business owner.",
+        "priorSlug": "virtual-assistant-trial-project-scorecard"
+      },
+      "nearestSentence": {
+        "score": 0.222,
+        "currentExcerpt": "The assistant does not promise a repair time or tell the resident the unit is safe.",
+        "priorExcerpt": "Do not tell an assistant to \u201cuse judgment\u201d when the business has not defined the available evidence or the safe stopping point.",
+        "priorSlug": "bilingual-virtual-assistant-service-evaluation"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "construction-virtual-assistant-bid-coordination",
+      "title": "How to Scope Virtual Assistant Support for Construction Bid Coordination",
+      "contentHash": "3f9f371427ef796b20c9faf8837299cf12ce3f36ba0ef67d407177344c6e05e5",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior task-brief article is a general delegation format. This article follows a bid package through addenda, subcontractor outreach, estimator exceptions, portal failure, and authorized submission evidence.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-task-brief-for-repeatable-delegation",
+        "title": "How to Write a Virtual Assistant Task Brief for Repeatable Delegation",
+        "path": "content/blog/virtual-assistant-task-brief-for-repeatable-delegation.mdx",
+        "contentHash": "9c6db966fe891d4125f605552f361409b7f8ec66a54c5da50a38937eade1e70a",
+        "titleTokenJaccard": 0.312,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.183,
+        "currentExcerpt": "The business should decide who has authority. A preparer can stage files while final approval and submission remain with an authorized person.",
+        "priorExcerpt": "For every task, identify who prepares, who decides, who approves, who communicates, and who records the result. One person may hold several roles, but the ownership should still be explicit. Financial commitments, policy exceptions, sensitive access, legal conclusions, and promises beyond an approved script should remain with an authorized business owner unless a qualified arrangement says otherwi",
+        "priorSlug": "compare-virtual-assistant-service-quotes"
+      },
+      "nearestSentence": {
+        "score": 0.233,
+        "currentExcerpt": "The estimator should be able to identify missing quotes, unresolved RFIs, new addenda, and the next decision cutoff without reconstructing a chronological inbox.",
+        "priorExcerpt": "State who uses the finished work and what they should be able to do next.",
+        "priorSlug": "virtual-assistant-task-brief-for-repeatable-delegation"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "architecture-firm-virtual-assistant-submittal-tracking",
+      "title": "Evaluate Virtual Assistant Support for Architecture Submittal Tracking",
+      "contentHash": "0d0c27632baaf21a7ee34a74c5dedde329d54a7e2dd6cffa5398187ea70b160d",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior inventory-controls study concerns stock records. This article treats linked submittal revisions, discipline routing, professional comment conflicts, contractual aging data, and controls against issuing a draft disposition.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-inventory-tracking-controls",
+        "title": "Inventory Tracking Controls for Virtual Assistant Teams",
+        "path": "content/research/virtual-assistant-inventory-tracking-controls.mdx",
+        "contentHash": "fe81e31254b9d4b9f135ca11d2c640efee2290f88ad1b26866f26350410de7dc",
+        "titleTokenJaccard": 0.364,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.173,
+        "currentExcerpt": "Change the responsibility matrix midway through the sample. Confirm its effective date, absence coverage, and treatment of work already in review rather than silently applying a new reviewer to the historical record.",
+        "priorExcerpt": "A stable intake format, explicit acceptance criteria, named permissions, a change record, and a review cadence make the work reproducible. When one of those is missing, log the gap and ask the owner to resolve it.",
+        "priorSlug": "virtual-assistant-vendor-renewal-tracking"
+      },
+      "nearestSentence": {
+        "score": 0.25,
+        "currentExcerpt": "Record the project system, naming convention, contractual timing rule selected by the project lead, and the source of the official status.",
+        "priorExcerpt": "Record approvals, source dates, version status, and offboarding actions in the approved system.",
+        "priorSlug": "virtual-assistant-inventory-tracking-controls"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "saas-virtual-assistant-customer-onboarding-scope",
+      "title": "Scope a Virtual Assistant for SaaS Customer Onboarding",
+      "contentHash": "3875043dd90605166e3076b625302ab745ebc873bb447b1c470410392aff805d",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior customer-onboarding checklist is a general onboarding aid. This article tests purchased SaaS outcomes, configuration permissions, custom-integration ownership, accessibility during training, and acceptance into support.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-customer-onboarding-checklist",
+        "title": "Virtual Assistant Customer Onboarding Checklist",
+        "path": "content/blog/virtual-assistant-customer-onboarding-checklist.mdx",
+        "contentHash": "837bc3ce009246fe9e7496bcc584eb11be720ade8bcdcace04a1fc48966684c6",
+        "titleTokenJaccard": 0.444,
+        "fiveWordShingleOverlapPercent": 1.429
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.233,
+        "currentExcerpt": "Map onboarding and support boundaries through the [service library](/services), then compare customer-outcome evidence in the [provider comparison guide](/compare). Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusinesscyber) when owners design access controls for the selected product workflow.",
+        "priorExcerpt": "For a related planning reference, see the [client onboarding checklist](/blog/virtual-assistant-client-onboarding-checklist) and the [weekly task prioritization guide](/blog/virtual-assistant-weekly-task-prioritization). Use the [NIST small business cybersecurity guidance](https://www.nist.gov/itl/smallbusinesscyber) when access or information handling is part of the work.",
+        "priorSlug": "virtual-assistant-customer-onboarding-checklist"
+      },
+      "nearestSentence": {
+        "score": 0.333,
+        "currentExcerpt": "Apply the [NIST small-business guidance](https://www.nist.gov/itl/smallbusinesscyber) when owners design access controls for the selected product workflow.",
+        "priorExcerpt": "Use the [NIST small business cybersecurity guidance](https://www.nist.gov/itl/smallbusinesscyber) when access or information handling is part of the work.",
+        "priorSlug": "virtual-assistant-customer-onboarding-checklist"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "online-course-virtual-assistant-student-operations",
+      "title": "Choose a Virtual Assistant for Online Course Student Operations",
+      "contentHash": "9ee19dbd3204aa0de080545c8607876bd8e62950b1c389ffa6b9d98d5f1dc1a7",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior article-metrics piece concerns content operations. This article addresses learner access, accessibility privacy, moderation, late-work judgment, certificate eligibility, and launch-week continuity.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-article-metrics-review",
+        "title": "Choose Useful Metrics for Virtual Assistant Article Operations",
+        "path": "content/blog/virtual-assistant-article-metrics-review.mdx",
+        "contentHash": "c6a751f2aa01ea7eb5abade9417726c208e628c8f0b019e1bd6678c14307a4d4",
+        "titleTokenJaccard": 0.417,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.197,
+        "currentExcerpt": "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare). Use the [ADA web guidance](https://www.ada.gov/resources/web-guidance/) as accessibility context while course owners establish their specific accommodation process.",
+        "priorExcerpt": "Use the [virtual assistant services library](/services) to compare adjacent support lanes and the [provider vetting guide](/provider-vetting) when defining supervision and backup questions. For a general access baseline, consult the [NIST small business cybersecurity guidance](https://www.nist.gov/itl/smallbusinesscyber).",
+        "priorSlug": "virtual-assistant-aug18-22-blog-month-end-quality-review"
+      },
+      "nearestSentence": {
+        "score": 0.292,
+        "currentExcerpt": "Review learner-support options in the [service library](/services) and preserve pilot results in the [provider comparison guide](/compare).",
+        "priorExcerpt": "For adjacent service questions, see the [virtual assistant services library](/services) and [provider vetting guide](/provider-vetting).",
+        "priorSlug": "virtual-assistant-article-metrics-review"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "membership-association-virtual-assistant-renewal-operations",
+      "title": "Design Virtual Assistant Support for Membership Renewal Operations",
+      "contentHash": "28763fa606e0bd99e56a2433f75d372207587b019b7dcb5712eebabbb0361f42",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior service-level review discusses general operational performance. This article reconciles dues events, renewal segments, grace and discount authority, benefit access, consent, and payment discrepancies.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-service-level-review",
+        "title": "Service-Level Reviews for Virtual Assistant Operations",
+        "path": "content/research/virtual-assistant-service-level-review.mdx",
+        "contentHash": "e873978df109bc83a7d7e1210f55656d00df318148e745b2b59b2b85614da71e",
+        "titleTokenJaccard": 0.4,
+        "fiveWordShingleOverlapPercent": 0.192
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.178,
+        "currentExcerpt": "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence. Refer to the [FTC cybersecurity material](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) when designing access and communication safeguards.",
+        "priorExcerpt": "Can a reviewer identify the reader, evidence boundary, current owner, and next decision for this backup coverage record? If not, pause the handoff and clarify it. Use the [services library](/services) for adjacent support lanes and the [provider vetting guide](/provider-vetting) when defining supervision and backup questions. For an access baseline, consult the [NIST small business cybersecurity g",
+        "priorSlug": "virtual-assistant-content-operations-backup"
+      },
+      "nearestSentence": {
+        "score": 0.296,
+        "currentExcerpt": "The [service library](/services) helps distinguish renewal administration from member-policy ownership, while the [provider comparison guide](/compare) captures evidence.",
+        "priorExcerpt": "The [service library](/services) can help narrow the role, while the [provider comparison overview](/compare) offers adjacent buying questions.",
+        "priorSlug": "virtual-assistant-time-zone-coverage-design"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "nonprofit-virtual-assistant-donor-records-workflow",
+      "title": "Scope a Virtual Assistant for Nonprofit Donor Records",
+      "contentHash": "f0f5f99931bdbf50dde2b2440b21b5331973a7eb9f9cecbe488468f43129ed6a",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior donor-controls research states broad controls. This article works through settlement reconciliation, conflicting gift designations, duplicate identity evidence, noncash review, anonymity exports, and acknowledgement release states.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-donor-records-controls",
+        "title": "Donor Records Controls for Virtual Assistant Teams",
+        "path": "content/research/virtual-assistant-donor-records-controls.mdx",
+        "contentHash": "a773563feaaeefc694913bedafca830a087e1d1f39c5444f035776bbfa40a523",
+        "titleTokenJaccard": 0.5,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.15,
+        "currentExcerpt": "Record the queue states that prevent premature acknowledgement: awaiting settlement, identity uncertain, designation conflict, noncash review, and communication preference unresolved. Each state needs an owner and a release condition. This lets staff see why a gift is held without allowing the assistant to settle the underlying fundraising, accounting, or tax question.",
+        "priorExcerpt": "List the recurring decisions in the workflow: daily priority changes, approval of exceptions, acceptance of completed work, and periodic changes to scope. Then choose the lightest communication that supports each one. A queue status may belong in a shared record, while an access incident needs immediate escalation and a service-model decision belongs in a review.",
+        "priorSlug": "virtual-assistant-communication-cadence-plan"
+      },
+      "nearestSentence": {
+        "score": 0.241,
+        "currentExcerpt": "Match reconciliation and CRM roles through the [service library](/services), then document donor-record trials in the [provider comparison guide](/compare).",
+        "priorExcerpt": "The [service library](/services) can help narrow the role, while the [provider comparison overview](/compare) offers adjacent buying questions.",
+        "priorSlug": "virtual-assistant-communication-cadence-plan"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "marketplace-seller-virtual-assistant-catalog-operations",
+      "title": "Evaluate a Virtual Assistant for Marketplace Catalog Operations",
+      "contentHash": "ee127706d6f342d32499983f5ce427dcb7573f756df10df9b259e46d0fef2cba",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior daily-retrospective article concerns editorial operations. This article tests parent-child catalog inheritance, product-claim evidence, suppressions, regional preview, rollback, and the actual customer listing.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-daily-article-retrospective",
+        "title": "A Daily Retrospective for Virtual Assistant Article Operations",
+        "path": "content/blog/virtual-assistant-daily-article-retrospective.mdx",
+        "contentHash": "bfcf20827ab3c57796eb34a4b8a6e0093da1d1ce56b3d59fdd68cb4497e8e24d",
+        "titleTokenJaccard": 0.455,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.208,
+        "currentExcerpt": "Compare catalog and content-control support in the [service library](/services) and retain live-listing evidence with the [provider comparison guide](/compare). Use the [FTC small-business security guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) when product owners approve account and data safeguards.",
+        "priorExcerpt": "Can a reviewer identify the reader, evidence boundary, current owner, and next decision for this backup coverage record? If not, pause the handoff and clarify it. Use the [services library](/services) for adjacent support lanes and the [provider vetting guide](/provider-vetting) when defining supervision and backup questions. For an access baseline, consult the [NIST small business cybersecurity g",
+        "priorSlug": "virtual-assistant-content-operations-backup"
+      },
+      "nearestSentence": {
+        "score": 0.348,
+        "currentExcerpt": "Use the [FTC small-business security guidance](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) when product owners approve account and data safeguards.",
+        "priorExcerpt": "[FTC privacy and security guidance](https://www.ftc.gov/business-guidance/privacy-security) 4.",
+        "priorSlug": "virtual-assistant-service-level-review"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "healthcare-virtual-assistant-referral-coordination",
+      "title": "Set Boundaries for Virtual Assistant Referral Coordination",
+      "contentHash": "1ebc1c34feb21ebf527f88a0917e7494567f8cb1b628d8b57d023c93c546ca76",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior financial-boundary study concerns spending authority. This article follows an ordered referral, minimum-necessary packet, symptom interruption, payer-status boundary, patient choice, rejected packet, and loop closure.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-financial-approval-boundary-study",
+        "title": "How Should Buyers Set Financial Approval Boundaries for a Virtual Assistant?",
+        "path": "content/research/virtual-assistant-financial-approval-boundary-study.mdx",
+        "contentHash": "ce77a7f55055a3581a54f2a98679c70b122f06f3cb28b3e459693baf216d69ee",
+        "titleTokenJaccard": 0.385,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.183,
+        "currentExcerpt": "Find bounded scheduling and document roles in the [service library](/services), then score referral controls in the [provider comparison guide](/compare). The [HHS privacy guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/index.html) informs safeguards while the organization and qualified advisers set its clinical and privacy procedures.",
+        "priorExcerpt": "Use the [services library](/services) to define coordination support, while the [provider vetting guide](/provider-vetting) frames supervision and continuity. [NIST guidance](https://www.nist.gov/itl/smallbusinesscyber) is a useful general reference for recruiting-system access.",
+        "priorSlug": "virtual-assistant-aug17-15-recruiting-schedule"
+      },
+      "nearestSentence": {
+        "score": 0.286,
+        "currentExcerpt": "A second case begins as an ordinary status call and then includes a new symptom.",
+        "priorExcerpt": "Second, choose three cases: an ordinary case, an ambiguous case, and a case that should stop.",
+        "priorSlug": "virtual-assistant-financial-approval-boundary-study"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "accounting-firm-virtual-assistant-client-document-intake",
+      "title": "Design Virtual Assistant Support for Accounting Client Document Intake",
+      "contentHash": "b8b2e10311a969f4223abbc551749541049d39ea2deec6e4047ac970e2a087da",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior intake-call article prepares a client conversation. This article preserves document provenance, separates presence from sufficiency, handles conflicting payroll reports and wrong-client data, and produces an engagement-owned exception index.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-client-intake-call-preparation",
+        "title": "Virtual Assistant Client Intake Call Preparation",
+        "path": "content/blog/virtual-assistant-client-intake-call-preparation.mdx",
+        "contentHash": "274281204033ae982727945c9bb181ba38460fef19060bca8ef1fb8fb798d436",
+        "titleTokenJaccard": 0.364,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.189,
+        "currentExcerpt": "Provide a file that opens but covers the wrong period. The assistant can mark it present and awaiting professional review, not acceptable or sufficient for accounting purposes.",
+        "priorExcerpt": "Record the fields that must be present, examples of an acceptable result, the local and client time zones, and the review cadence. The assistant may collect approved documents and route access requests. The assistant should not approve a client, change contract terms, or grant unrestricted access.",
+        "priorSlug": "virtual-assistant-client-onboarding-controls"
+      },
+      "nearestSentence": {
+        "score": 0.259,
+        "currentExcerpt": "Review secure document-support roles in the [service library](/services) and compare chain-of-custody trials with the [provider comparison guide](/compare).",
+        "priorExcerpt": "The [service library](/services) can help narrow the role, while the [provider comparison overview](/compare) offers adjacent buying questions.",
+        "priorSlug": "virtual-assistant-time-zone-coverage-design"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "insurance-agency-virtual-assistant-policy-service-intake",
+      "title": "Scope Virtual Assistant Support for Insurance Policy Service Intake",
+      "contentHash": "7b96ab8e4d7d413d84b80a341b2cf23a66ab93ad37655e8bd4cab8f743d6e4ce",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior interview scorecard is a general provider-selection tool. This article separates verified identity, licensed coverage interpretation, certificate wording, claim facts, corrections, and communication evidence.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-interview-scorecard",
+        "title": "Virtual Assistant Interview Scorecard for Service Buyers",
+        "path": "content/blog/virtual-assistant-interview-scorecard.mdx",
+        "contentHash": "cf07691498385b2753783ef293f3a4c44f91f0eecd0ee3deaf519a4561d1497a",
+        "titleTokenJaccard": 0.333,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.172,
+        "currentExcerpt": "Use the [service library](/services) to bound intake and customer-support duties, then record licensed handoffs in the [provider comparison guide](/compare). The [CISA password guidance](https://www.cisa.gov/secure-our-world/use-strong-passwords) supports access planning but does not define insurance authority.",
+        "priorExcerpt": "Use control scope changes in a virtual assistant service to prepare a one-page decision record for the specific service under review. Keep assumptions separate from observed facts, and attach the examples or records that support the choice. The [service library](/services) can help narrow the role, while the [provider comparison overview](/compare) offers adjacent buying questions. The [SBA guidan",
+        "priorSlug": "virtual-assistant-scope-change-control"
+      },
+      "nearestSentence": {
+        "score": 0.25,
+        "currentExcerpt": "The licensed owner responds through the approved channel, and the assistant records the communication event without converting it into independent advice.",
+        "priorExcerpt": "The assistant might prepare an option, while an owner approves it; the assistant then communicates the approved choice and records the outcome.",
+        "priorSlug": "virtual-assistant-monthly-report-template"
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "home-services-virtual-assistant-dispatch-intake",
+      "title": "Evaluate a Virtual Assistant for Home-Service Dispatch Intake",
+      "contentHash": "62d1e02a6e4e113eaac9b9fd3378242901670b701937ca6a7c3268c2e6cc1e76",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior daily-article intake piece is an editorial queue design. This article tests dispatch capacity, observable safety triggers, restricted entry details, diagnostic-fee language, new hazards, and acknowledged shift ownership.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-daily-article-intake",
+        "title": "A Daily Article Intake Desk for Virtual Assistant Services",
+        "path": "content/blog/virtual-assistant-daily-article-intake.mdx",
+        "contentHash": "aaf42b588893df4cb6d58c1b599d55e1e30cd11a67039d971949467b9b9cdc38",
+        "titleTokenJaccard": 0.417,
+        "fiveWordShingleOverlapPercent": 0.0
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.198,
+        "currentExcerpt": "Compare scheduling and inbox roles in the [service library](/services), and score dispatch rehearsals with the [provider comparison guide](/compare). The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) offers staffing context while operational owners establish safety, pricing, and route authority.",
+        "priorExcerpt": "Use set a communication cadence for virtual assistant work to prepare a one-page decision record for the specific service under review. Keep assumptions separate from observed facts, and attach the examples or records that support the choice. The [service library](/services) can help narrow the role, while the [provider comparison overview](/compare) offers adjacent buying questions. The [SBA guid",
+        "priorSlug": "virtual-assistant-communication-cadence-plan"
+      },
+      "nearestSentence": {
+        "score": 0.333,
+        "currentExcerpt": "The [SBA management resource](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) offers staffing context while operational owners establish safety, pricing, and route authority.",
+        "priorExcerpt": "The [SBA guidance on hiring and managing people](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) provides general small-business context.",
+        "priorSlug": "virtual-assistant-communication-cadence-plan"
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-provider-supervision-evidence-study",
+      "title": "How Can Buyers Verify Supervision in a Managed Virtual Assistant Service?",
+      "contentHash": "d701e6be0f0b3da8c9aa51aa66500a3698143442e5ee80a317577153a0aafe6e",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior supervision-cadence study asks whether a managed-service label is verifiable and proposes a general cadence test. This study decomposes supervision into intake, method review, acceptance, and recovery, then compares detection and correction evidence through a role-matched pilot and decision record.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "filipino-virtual-assistant-supervision-cadence-study",
+        "title": "How Should Buyers Verify Supervision in a Filipino Virtual Assistant Service?",
+        "path": "content/research/filipino-virtual-assistant-supervision-cadence-study.mdx",
+        "contentHash": "001c18f36349b91c864fbfd4ef29f3f28e797276bdbd169f8c4496d11bee81de",
+        "titleTokenJaccard": 0.692,
+        "fiveWordShingleOverlapPercent": 1.548
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.451,
+        "currentExcerpt": "This report examines how a buyer can verify what supervision a managed Filipino virtual assistant service actually provides. A management claim becomes useful for a decision only when the buyer can see the named reviewer, review event, acceptance rule, escalation boundary, correction loop, and evidence for the work that matters. The report derives that test from the control and evidence principles",
+        "priorExcerpt": "This report examines how a buyer can verify a Philippines-based virtual assistant provider's claim that a service is managed or supervised. Its practical conclusion is bounded: Managed supervision is comparable only when the provider names the reviewer, observation method, cadence, decision rights, evidence retained, and escalation point for the buyer. That conclusion is an analytical inference fr",
+        "priorSlug": "filipino-virtual-assistant-supervision-cadence-study"
+      },
+      "nearestSentence": {
+        "score": 0.45,
+        "currentExcerpt": "The report derives that test from the control and evidence principles in its cited sources.",
+        "priorExcerpt": "That conclusion is an analytical inference from the control and evidence principles in the sources below.",
+        "priorSlug": "filipino-virtual-assistant-supervision-cadence-study"
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-billing-time-reconciliation-study",
+      "title": "What Time-Tracking Evidence Helps Buyers Compare Virtual Assistant Services?",
+      "contentHash": "60720b26777a2bb93122a8f071bbdfd91d1a7bb4b3200ab1ecf4f539327f4000",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior time-tracking study asks what activity evidence can prove. This study begins with the commercial invoice question, reconciles billed categories backward to accepted outputs, tests pause and rework exceptions, and limits monitoring through a privacy boundary. The closest sentence repeats the same cited PSA statistic, not an argument or example.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-time-tracking-evidence-study",
+        "title": "What Can Virtual Assistant Time-Tracking Evidence Actually Prove?",
+        "path": "content/research/virtual-assistant-time-tracking-evidence-study.mdx",
+        "contentHash": "64bb527cb5cf5711b2efbf61932b064c0ae5d59d5911332d6494813699a61570",
+        "titleTokenJaccard": 0.417,
+        "fiveWordShingleOverlapPercent": 0.996
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.321,
+        "currentExcerpt": "The PSA reports that the Philippine digital economy represented 9.8 percent of the economy in 2025 and employed 10.39 million people. Those figures describe a broad national category; they provide no benchmark for virtual assistant utilization, billable-hour norms, idle-time policy, or monitoring practices. This study therefore treats them as context only and bases the proposed reconciliation test",
+        "priorExcerpt": "The PSA reported that the Philippine digital economy represented 9.8 percent of the country's economy in 2025 and employed 10.39 million people. That is broad context, not a count of virtual assistants or evidence about an individual provider. Avoid converting national statistics into unsupported hiring-market precision.",
+        "priorSlug": "virtual-assistant-time-tracking-evidence-study"
+      },
+      "nearestSentence": {
+        "score": 0.864,
+        "currentExcerpt": "The PSA reports that the Philippine digital economy represented 9.8 percent of the economy in 2025 and employed 10.39 million people.",
+        "priorExcerpt": "The PSA reported that the Philippine digital economy represented 9.8 percent of the country's economy in 2025 and employed 10.39 million people.",
+        "priorSlug": "virtual-assistant-time-tracking-evidence-study"
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-subcontractor-transparency-study",
+      "title": "How Should Buyers Assess Subcontractor Use by a Virtual Assistant Provider?",
+      "contentHash": "7b58f4553a0c88d359d44e6e6b2b5a0c432d7aea6f4695b27868976bf50f20f5",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior supervision study concerns reviewer evidence. This study maps the delivery chain across subcontractors, partner teams, replacements, material-change notice, incident oversight, access inheritance, and exit obligations.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "filipino-virtual-assistant-supervision-cadence-study",
+        "title": "How Should Buyers Verify Supervision in a Filipino Virtual Assistant Service?",
+        "path": "content/research/filipino-virtual-assistant-supervision-cadence-study.mdx",
+        "contentHash": "001c18f36349b91c864fbfd4ef29f3f28e797276bdbd169f8c4496d11bee81de",
+        "titleTokenJaccard": 0.375,
+        "fiveWordShingleOverlapPercent": 0.491
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.247,
+        "currentExcerpt": "This report examines subcontractors, partner teams, and replacement personnel in a Filipino virtual assistant service. A buyer can compare these arrangements only after tracing the real delivery chain, defining material changes, and checking that task, access, evidence, and exit obligations follow the work. This is a due-diligence interpretation of the cited sources, not a performance assessment o",
+        "priorExcerpt": "This report examines how a buyer can test a bilingual support claim for a Filipino virtual assistant role without assuming a fluency label proves task readiness. Its practical conclusion is bounded: Bilingual support is decision-grade only when the provider demonstrates the exact communication tasks, review standard, and escalation boundary the buyer needs. That conclusion is an analytical inferen",
+        "priorSlug": "virtual-assistant-bilingual-support-evidence-study"
+      },
+      "nearestSentence": {
+        "score": 0.348,
+        "currentExcerpt": "The [provider-comparison methodology](/research/virtual-assistant-vendor-comparison-methodology) keeps disclosures comparable, while the [service-quality research](/research/virtual-assistant-service-quality-assurance) helps test the evidence behind them.",
+        "priorExcerpt": "It also keeps the review connected to the site's [provider-comparison methodology](/research/virtual-assistant-vendor-comparison-methodology) and [service-quality research](/research/virtual-assistant-service-quality-assurance).",
+        "priorSlug": "virtual-assistant-account-recovery-control-study"
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-business-continuity-test-study",
+      "title": "How Can Buyers Test a Virtual Assistant Provider's Business Continuity Claims?",
+      "contentHash": "f97b1139d3f04d176f22f5c4b6f3a2711b2fe645077f069698caab177d55186e",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior bilingual-support study tests language claims. This study runs a service-interruption exercise across alternate communications, queue truth, backup access, recovery priorities, and post-test learning.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-bilingual-support-evidence-study",
+        "title": "How Should Buyers Test Bilingual Virtual Assistant Support Claims?",
+        "path": "content/research/virtual-assistant-bilingual-support-evidence-study.mdx",
+        "contentHash": "e5d0b3b02b0032f693b6e0631a47e963a8c6c0f6710d44a84d795d39e7713c43",
+        "titleTokenJaccard": 0.429,
+        "fiveWordShingleOverlapPercent": 0.166
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.218,
+        "currentExcerpt": "Continuity belongs in the shortlist before live access is granted. Start with consistent questions from the [provider-comparison methodology](/research/virtual-assistant-vendor-comparison-methodology), then use the [service-quality research](/research/virtual-assistant-service-quality-assurance) to inspect the demonstration. The provider needs to preserve safe communication and recoverable work du",
+        "priorExcerpt": "The question belongs near the start of a shortlist. The site's [provider-comparison methodology](/research/virtual-assistant-vendor-comparison-methodology) emphasizes consistent questions, while its [service-quality research](/research/virtual-assistant-service-quality-assurance) explains why a polished output is not enough without an inspectable process. Here, the buyer's choice is which quote re",
+        "priorSlug": "virtual-assistant-service-quote-scope-study"
+      },
+      "nearestSentence": {
+        "score": 0.35,
+        "currentExcerpt": "It does not report measured continuity results for BestVirtualAssistantServices.com or another service.",
+        "priorExcerpt": "It is not a measured result for BestVirtualAssistantServices.com, a provider, or any individual assistant.",
+        "priorSlug": "virtual-assistant-bilingual-support-evidence-study"
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-service-exit-data-return-study",
+      "title": "What Should Buyers Verify About Data Return and Deletion When a Virtual Assistant Service Ends?",
+      "contentHash": "6adadab7506d8beec98376dcc15c05aa6d7f83a1fa13986f7caa4632384c35ed",
+      "decision": "pass",
+      "qualitativeDistinction": "The prior AI-disclosure study examines tool transparency; the separately reviewed offboarding article provides a broad exit test. This study narrows the decision to return of work product and business records, open-work reconciliation, hidden access paths, inventory-based deletion exceptions, and two independent sign-offs.",
+      "exactSlugCollision": null,
+      "exactTitleCollision": null,
+      "nearestPrior": {
+        "slug": "virtual-assistant-ai-tool-disclosure-study",
+        "title": "What Should Buyers Ask About AI Tools Used by a Virtual Assistant Service?",
+        "path": "content/research/virtual-assistant-ai-tool-disclosure-study.mdx",
+        "contentHash": "acedc1561e75bea050e4e0612eb41511db45c2753a932f6be8a0900953bd48e2",
+        "titleTokenJaccard": 0.4,
+        "fiveWordShingleOverlapPercent": 0.329
+      },
+      "exactReusedSubstantiveParagraphs": [],
+      "exactReusedSubstantiveSentences": [],
+      "nearestParagraph": {
+        "score": 0.255,
+        "currentExcerpt": "This report examines work product, business records, personal data, and access at the end of a Filipino virtual assistant engagement. A reliable exit transfers ownership and open work, closes all known access paths, names every retention exception, and ties deletion evidence to an inventory. Those criteria come from an operational reading of the cited sources. They are not measured results for Bes",
+        "priorExcerpt": "This report examines what a buyer should verify before ending or changing a Filipino virtual assistant service relationship. Its practical conclusion is bounded: Offboarding is complete only when access, records, unfinished work, recurring obligations, and operational knowledge have each reached a verified disposition with a named owner. That conclusion is an analytical inference from the control ",
+        "priorSlug": "virtual-assistant-service-offboarding-evidence-study"
+      },
+      "nearestSentence": {
+        "score": 0.36,
+        "currentExcerpt": "Compare providers with the same questions from the [provider-comparison methodology](/research/virtual-assistant-vendor-comparison-methodology), and judge their artifacts using the site's [service-quality research](/research/virtual-assistant-service-quality-assurance).",
+        "priorExcerpt": "It also keeps the review connected to the site's [provider-comparison methodology](/research/virtual-assistant-vendor-comparison-methodology) and [service-quality research](/research/virtual-assistant-service-quality-assurance).",
+        "priorSlug": "virtual-assistant-meeting-recording-governance-study"
+      }
+    }
+  ],
+  "errors": []
+}
