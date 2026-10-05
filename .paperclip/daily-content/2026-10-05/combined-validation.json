@@ -9,8 +9,8 @@
       "records": [
         {
           "slug": "property-management-virtual-assistant-tenant-communications",
-          "bodyWordCount": 1465,
-          "contentHash": "4686f7933d2328b7dafdc5e1c67735039f48134104f55f94ba398bfae6ed59b8",
+          "bodyWordCount": 1227,
+          "contentHash": "0b57a1407efad4a2ea8435d5e7fa58121f1f1ae8d953cd28f607bcc242e3004f",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -38,8 +38,8 @@
         },
         {
           "slug": "construction-virtual-assistant-bid-coordination",
-          "bodyWordCount": 1428,
-          "contentHash": "0d634a077f6b28c88c0b473f2960acb71b968dca91639b7a5039531758273a7a",
+          "bodyWordCount": 1191,
+          "contentHash": "fa77934b6bcd1329d9ecb3b4ca6c5f6b9761eddffb9ef6443c294090253f4a3a",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -67,8 +67,8 @@
         },
         {
           "slug": "architecture-firm-virtual-assistant-submittal-tracking",
-          "bodyWordCount": 1336,
-          "contentHash": "5cd03ab08c66f816f7770051df8ad5b39798196133f7355fa7beee54b62a57bc",
+          "bodyWordCount": 1116,
+          "contentHash": "51f222eb76bf3abbc57d82e305201c17f91f50c0159eb23df0cc1b790272e481",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -96,8 +96,8 @@
         },
         {
           "slug": "saas-virtual-assistant-customer-onboarding-scope",
-          "bodyWordCount": 1316,
-          "contentHash": "938e2878cb61f5ea3a057f2ab20e02efb71cbc9e63514230437b56734e1af497",
+          "bodyWordCount": 1098,
+          "contentHash": "d92c5c8693aa2513abd0b470b095784fb5a7d28ef4ee821667092e1515363fa4",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -125,8 +125,8 @@
         },
         {
           "slug": "online-course-virtual-assistant-student-operations",
-          "bodyWordCount": 1326,
-          "contentHash": "95568069bf442490d657d0fc4c724a226fa87bff52aaada317a31f7134d5289e",
+          "bodyWordCount": 1095,
+          "contentHash": "4abf6e6daf6de5a7f2ecc7b348f3a5d517cb7b17ef4630069d8061b8a602d117",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -154,8 +154,8 @@
         },
         {
           "slug": "membership-association-virtual-assistant-renewal-operations",
-          "bodyWordCount": 1309,
-          "contentHash": "3344aea91aaddccf2a970429aeb9b00cbb5393887f6d8621a4c3260b1ae4068c",
+          "bodyWordCount": 1078,
+          "contentHash": "ffa2f0d2cb42cf2826a821ea70516c2d4e650c13b0c6bafbef77b774b4dd646b",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -183,8 +183,8 @@
         },
         {
           "slug": "nonprofit-virtual-assistant-donor-records-workflow",
-          "bodyWordCount": 988,
-          "contentHash": "fcd629d7e7a3fe0c448d1eedbbef67da79d9816e6023e10bfe0a4b1c53a24d2f",
+          "bodyWordCount": 902,
+          "contentHash": "f7f3f4ac4791e0f138e7a63340d0aff285bedc1ffeaadef00f1b8686ddcaa6f7",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -212,8 +212,8 @@
         },
         {
           "slug": "marketplace-seller-virtual-assistant-catalog-operations",
-          "bodyWordCount": 927,
-          "contentHash": "a004c17add6ba9f6b41d462a2e9432a602eb68e71dca6341507230ac52df7793",
+          "bodyWordCount": 904,
+          "contentHash": "d2340aa10d4ab0629c3d7152778491c95bfd85325415ae6de401e49c37cb1b69",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -241,8 +241,8 @@
         },
         {
           "slug": "healthcare-virtual-assistant-referral-coordination",
-          "bodyWordCount": 932,
-          "contentHash": "b5c66e2ab7ea4942264d2a240996efdb86a548b154cc55f942c9ac788a1db07d",
+          "bodyWordCount": 912,
+          "contentHash": "4143c56b864e3a545bd314b9061ea37d88279279be8bc74042a91cf15c3696cf",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -270,8 +270,8 @@
         },
         {
           "slug": "accounting-firm-virtual-assistant-client-document-intake",
-          "bodyWordCount": 959,
-          "contentHash": "620fc0845084fff0a20cecff4bf59fec3786dcbd08237ec9ed1ddc6d63a25ceb",
+          "bodyWordCount": 908,
+          "contentHash": "4187b071fae4841b2e66f57945d70f0d7235c066ece5a2ec0749f3d2f5a836cb",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -299,8 +299,8 @@
         },
         {
           "slug": "insurance-agency-virtual-assistant-policy-service-intake",
-          "bodyWordCount": 935,
-          "contentHash": "fe2d79a481fc7029159706bb45ddd39c73834efa7ac5b78f3c677b1afb4e3f51",
+          "bodyWordCount": 928,
+          "contentHash": "6659708a995769cc2e8506d78f2fdbdf9e8b9ed011b4aeb5d53a16c59d8bbdc8",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -328,8 +328,8 @@
         },
         {
           "slug": "home-services-virtual-assistant-dispatch-intake",
-          "bodyWordCount": 941,
-          "contentHash": "e89786bd1c0396bdb59872b4fd315c7212626e3245bf58d1f3133f12aceb5fd6",
+          "bodyWordCount": 901,
+          "contentHash": "4e9320ee15d901a406d7e62dfd635fce630aec51cc68a733b8638a2811becd8a",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -364,16 +364,16 @@
           "Design the maintenance handoff around a complete ticket",
           "Score the service on safe resolution, not message count",
           "Run a pilot with ordinary and difficult cases",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for property manager reviewing a tenant communications workflow with a virtual assistant",
+          "Evidence tests for How to Evaluate a Virtual Assistant for Property Management Communications",
           "1. Which message classes may the assistant close without review?",
           "2. What observable conditions trigger the emergency route?",
           "3. Who decides accommodations, disputes, concessions, and lease questions?",
           "4. How are scripts approved, versioned, and withdrawn?",
           "5. Which details may be disclosed to vendors?",
           "6. What evidence proves the after-hours handoff reached a person?",
-          "Make the buying decision",
-          "Frequently asked questions",
+          "Decision rule for property manager reviewing a tenant communications workflow with a virtual assistant",
+          "Practical questions about property manager reviewing a tenant communications workflow with a virtual assistant",
           "Can the assistant answer leasing questions?",
           "Should the provider receive access to every property record?",
           "Is a fast first response the main KPI?"
@@ -385,16 +385,16 @@
           "Structure subcontractor outreach without making promises",
           "Build the estimator handoff around exceptions",
           "Test submission rehearsal and failure recovery",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for construction estimator reviewing a bid coordination register prepared by a virtual assistant",
+          "Evidence tests for How to Scope Virtual Assistant Support for Construction Bid Coordination",
           "1. Who can make and record the bid/no-bid decision?",
           "2. Where is the controlling document index?",
           "3. How is an addendum acknowledged by the estimator?",
           "4. Which subcontractors may receive which files?",
           "5. What is the final portal-check cutoff?",
           "6. What evidence proves an authorized submission was accepted?",
-          "Make the buying decision",
-          "Frequently asked questions",
+          "Decision rule for construction estimator reviewing a bid coordination register prepared by a virtual assistant",
+          "Practical questions about construction estimator reviewing a bid coordination register prepared by a virtual assistant",
           "Can a virtual assistant perform takeoffs?",
           "May the assistant submit the bid?",
           "How often should portals be checked?"
@@ -406,16 +406,16 @@
           "Route by a maintained responsibility matrix",
           "Report aging without inventing contractual conclusions",
           "Pilot with a resubmission and conflicting comments",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for architect reviewing a submittal register and routing workflow",
+          "Evidence tests for Evaluate Virtual Assistant Support for Architecture Submittal Tracking",
           "1. Which system is the official submittal record?",
           "2. Who defines review targets and pause rules?",
           "3. Which statuses may administrative staff apply?",
           "4. How are resubmissions linked without overwriting history?",
           "5. Who consolidates consultant comments?",
           "6. What permissions prevent draft comments from being issued?",
-          "Make the buying decision",
-          "Frequently asked questions",
+          "Decision rule for architect reviewing a submittal register and routing workflow",
+          "Practical questions about architect reviewing a submittal register and routing workflow",
           "Can an assistant mark a submittal approved?",
           "Should reminders include attachments?",
           "What makes the pilot representative?"
@@ -427,16 +427,16 @@
           "Coordinate training around a customer outcome",
           "Route technical issues without becoming support engineering",
           "Accept onboarding using evidence chosen in advance",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for SaaS operations manager mapping a customer onboarding workflow",
+          "Evidence tests for Scope a Virtual Assistant for SaaS Customer Onboarding",
           "1. What evidence moves an account into each onboarding state?",
           "2. Who resolves conflicts between the order and sales notes?",
           "3. Which setup actions require specialist approval?",
           "4. What customer data may enter the onboarding tracker?",
           "5. Who sets incident severity and customer commitments?",
           "6. What exactly constitutes onboarding acceptance?",
-          "Make the buying decision",
-          "Frequently asked questions",
+          "Decision rule for SaaS operations manager mapping a customer onboarding workflow",
+          "Practical questions about SaaS operations manager mapping a customer onboarding workflow",
           "Can an assistant configure the SaaS product?",
           "Should adoption metrics determine completion?",
           "How should custom requests be handled?"
@@ -448,16 +448,16 @@
           "Moderate from rules, not personal instinct",
           "Preserve instructor authority over learning decisions",
           "Pilot around the course's busiest week",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for course creator reviewing student support operations with a virtual assistant",
+          "Evidence tests for Choose a Virtual Assistant for Online Course Student Operations",
           "1. Which published promise controls each course stage?",
           "2. What identity check precedes an account change?",
           "3. Who owns accessibility and refund decisions?",
           "4. Which moderation actions may occur without review?",
           "5. Who determines completion and certificate eligibility?",
           "6. How is support covered during launches and live events?",
-          "Make the buying decision",
-          "Frequently asked questions",
+          "Decision rule for course creator reviewing student support operations with a virtual assistant",
+          "Practical questions about course creator reviewing student support operations with a virtual assistant",
           "Can the assistant issue certificates?",
           "Should all learner data live in the community tool?",
           "Is platform experience enough to select a provider?"
@@ -469,16 +469,16 @@
           "Constrain payment handling",
           "Reconcile benefits separately from billing",
           "Close the cycle with decisions, not just totals",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for association manager reviewing a membership renewal dashboard",
+          "Evidence tests for Design Virtual Assistant Support for Membership Renewal Operations",
           "1. What exact events change membership status?",
           "2. Which system wins when records disagree?",
           "3. Who approves pricing and category exceptions?",
           "4. What data is excluded from assistant access and exports?",
           "5. How are benefits reconciled after payment?",
           "6. Which measures will guide the next renewal cycle?",
-          "Make the buying decision",
-          "Frequently asked questions",
+          "Decision rule for association manager reviewing a membership renewal dashboard",
+          "Practical questions about association manager reviewing a membership renewal dashboard",
           "Can an assistant negotiate renewal terms?",
           "Should lapsed members keep benefits during outreach?",
           "What is the best renewal metric?"
@@ -490,19 +490,16 @@
           "Honor communication and recognition preferences",
           "Separate restricted-gift decisions",
           "Audit a sample end to end",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for donor records and acknowledgement workflow",
+          "Evidence tests for Scope a Virtual Assistant for Nonprofit Donor Records",
           "1. Which source establishes receipt and amount?",
           "2. Who decides restrictions and noncash valuation?",
           "3. What evidence permits a duplicate merge?",
           "4. How are anonymous gifts protected in exports?",
           "5. Who approves acknowledgement language?",
           "6. How are corrections propagated to reports?",
-          "Make the buying decision",
-          "Frequently asked questions",
-          "What should a provider demonstrate before live work?",
-          "Can the scope expand after the pilot?",
-          "Who retains judgment outside the administrative lane?"
+          "Operational acceptance review for donor records and acknowledgement workflow",
+          "Decision rule for donor records and acknowledgement workflow"
         ],
         "marketplace-seller-virtual-assistant-catalog-operations": [
           "Evaluate a Virtual Assistant for Marketplace Catalog Operations: Choose a product source hierarchy",
@@ -511,19 +508,16 @@
           "Stage high-impact changes",
           "Monitor platform feedback carefully",
           "Reconcile the customer view",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for marketplace catalog workflow",
+          "Evidence tests for Evaluate a Virtual Assistant for Marketplace Catalog Operations",
           "1. Which source controls each attribute?",
           "2. Who approves claims and safety information?",
           "3. How are variation relationships tested?",
           "4. Which edits require preview approval?",
           "5. Who answers marketplace compliance notices?",
           "6. What live-page evidence closes the change?",
-          "Make the buying decision",
-          "Frequently asked questions",
-          "What should a provider demonstrate before live work?",
-          "Can the scope expand after the pilot?",
-          "Who retains judgment outside the administrative lane?"
+          "Operational acceptance review for marketplace catalog workflow",
+          "Decision rule for marketplace catalog workflow"
         ],
         "healthcare-virtual-assistant-referral-coordination": [
           "Set Boundaries for Virtual Assistant Referral Coordination: Define the referral order source",
@@ -532,19 +526,16 @@
           "Track authorization without interpreting coverage",
           "Respect patient choice and identity controls",
           "Close the loop with evidence",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for healthcare referral coordination",
+          "Evidence tests for Set Boundaries for Virtual Assistant Referral Coordination",
           "1. What document creates an authorized referral?",
           "2. Which records may be shared with each recipient?",
           "3. What words trigger clinical escalation?",
           "4. Who interprets payer decisions?",
           "5. How is patient identity verified?",
           "6. What evidence proves referral-loop closure?",
-          "Make the buying decision",
-          "Frequently asked questions",
-          "What should a provider demonstrate before live work?",
-          "Can the scope expand after the pilot?",
-          "Who retains judgment outside the administrative lane?"
+          "Operational acceptance review for healthcare referral coordination",
+          "Decision rule for healthcare referral coordination"
         ],
         "accounting-firm-virtual-assistant-client-document-intake": [
           "Design Virtual Assistant Support for Accounting Client Document Intake: Build requests from an engagement-owned list",
@@ -553,19 +544,16 @@
           "Distinguish present from acceptable",
           "Escalate sensitive mismatches",
           "Hand off a reconciled index",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for accounting client document intake",
+          "Evidence tests for Design Virtual Assistant Support for Accounting Client Document Intake",
           "1. Who owns each engagement request list?",
           "2. Which channel is approved for uploads?",
           "3. How is provenance retained after naming changes?",
           "4. Who decides whether a document is sufficient?",
           "5. What triggers the security route?",
           "6. What states appear in the professional handoff?",
-          "Make the buying decision",
-          "Frequently asked questions",
-          "What should a provider demonstrate before live work?",
-          "Can the scope expand after the pilot?",
-          "Who retains judgment outside the administrative lane?"
+          "Operational acceptance review for accounting client document intake",
+          "Decision rule for accounting client document intake"
         ],
         "insurance-agency-virtual-assistant-policy-service-intake": [
           "Scope Virtual Assistant Support for Insurance Policy Service Intake: Classify by requested outcome",
@@ -574,19 +562,16 @@
           "Control certificate preparation",
           "Treat claims reports as time-sensitive intake",
           "Audit communications and access",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for insurance policy service intake",
+          "Evidence tests for Scope Virtual Assistant Support for Insurance Policy Service Intake",
           "1. Which categories may administrative staff resolve?",
           "2. How are callers and representatives verified?",
           "3. Who interprets and changes coverage?",
           "4. What certificate fields require review?",
           "5. Where do new claim reports go?",
           "6. How are material communication errors escalated?",
-          "Make the buying decision",
-          "Frequently asked questions",
-          "What should a provider demonstrate before live work?",
-          "Can the scope expand after the pilot?",
-          "Who retains judgment outside the administrative lane?"
+          "Operational acceptance review for insurance policy service intake",
+          "Decision rule for insurance policy service intake"
         ],
         "home-services-virtual-assistant-dispatch-intake": [
           "Evaluate a Virtual Assistant for Home-Service Dispatch Intake: Define bookable work types",
@@ -595,1128 +580,750 @@
           "Offer windows from real capacity",
           "Separate estimates from commitments",
           "Verify the shift handoff",
-          "A realistic boundary test",
-          "Questions to put in the provider scorecard",
+          "Boundary rehearsal for home-service dispatch intake",
+          "Evidence tests for Evaluate a Virtual Assistant for Home-Service Dispatch Intake",
           "1. Which work types are directly bookable?",
           "2. What customer reports trigger an urgent route?",
           "3. Who can change route priority?",
           "4. Which access details are restricted?",
           "5. Who approves price and warranty exceptions?",
           "6. How is the shift handoff acknowledged?",
-          "Make the buying decision",
-          "Frequently asked questions",
-          "What should a provider demonstrate before live work?",
-          "Can the scope expand after the pilot?",
-          "Who retains judgment outside the administrative lane?"
+          "Operational acceptance review for home-service dispatch intake",
+          "Decision rule for home-service dispatch intake"
         ]
       },
-      "maxPairwiseFiveWordShingleOverlapPercent": 39.64,
+      "maxPairwiseFiveWordShingleOverlapPercent": 1.156,
       "maxRepeatedSubstantiveParagraphs": 0,
       "maxRepeatedSubstantiveSentences": 0,
-      "maxNearSentenceTokenJaccard": 0.826,
-      "maxExactSharedHeadingsPerPair": 7,
-      "qualitativeAudit": "fail: shared sentence, section, or argument templates require substantive rewriting",
+      "maxNearSentenceTokenJaccard": 0.636,
+      "maxExactSharedHeadingsPerPair": 0,
+      "qualitativeAudit": "pass: topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes pass exact and near-duplicate checks",
       "pairs": [
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "construction-virtual-assistant-bid-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 19.632,
+          "fiveWordShingleOverlapPercent": 0.173,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.656,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.444,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "architecture-firm-virtual-assistant-submittal-tracking"
           ],
-          "fiveWordShingleOverlapPercent": 18.51,
+          "fiveWordShingleOverlapPercent": 0.274,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.767,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.44,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 18.464,
+          "fiveWordShingleOverlapPercent": 0.186,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.667,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.423,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 21.803,
+          "fiveWordShingleOverlapPercent": 0.562,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.697,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.417,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.419,
+          "fiveWordShingleOverlapPercent": 0.094,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.656,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.333,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 24.702,
+          "fiveWordShingleOverlapPercent": 0.34,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.71,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.462,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 25.587,
+          "fiveWordShingleOverlapPercent": 0.453,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.667,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 25.501,
+          "fiveWordShingleOverlapPercent": 0.556,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.52,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 24.972,
+          "fiveWordShingleOverlapPercent": 0.454,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.677,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.676,
+          "fiveWordShingleOverlapPercent": 0.111,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.677,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.393,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.664,
+          "fiveWordShingleOverlapPercent": 0.809,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.733,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.636,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "architecture-firm-virtual-assistant-submittal-tracking"
           ],
-          "fiveWordShingleOverlapPercent": 19.071,
+          "fiveWordShingleOverlapPercent": 0.366,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.412,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 18.382,
+          "fiveWordShingleOverlapPercent": 0.093,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.677,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.412,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 20.574,
+          "fiveWordShingleOverlapPercent": 0.094,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.36,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.174,
+          "fiveWordShingleOverlapPercent": 0.094,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.656,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.412,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 24.052,
+          "fiveWordShingleOverlapPercent": 0.113,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.692,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.412,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 25.363,
+          "fiveWordShingleOverlapPercent": 0.113,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.714,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.458,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 25.39,
+          "fiveWordShingleOverlapPercent": 0.111,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.321,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.86,
+          "fiveWordShingleOverlapPercent": 0.114,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.712,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.389,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.113,
+          "fiveWordShingleOverlapPercent": 0.446,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.714,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.471,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 26.327,
+          "fiveWordShingleOverlapPercent": 1.04,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.72,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 19.771,
+          "fiveWordShingleOverlapPercent": 0.186,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.677,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.4,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.934,
+          "fiveWordShingleOverlapPercent": 0.468,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.435,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.337,
+          "fiveWordShingleOverlapPercent": 0.094,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.667,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.467,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 26.002,
+          "fiveWordShingleOverlapPercent": 0.453,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.724,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 26.816,
+          "fiveWordShingleOverlapPercent": 0.34,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.704,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.467,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 25.278,
+          "fiveWordShingleOverlapPercent": 0.556,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.725,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.44,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.194,
+          "fiveWordShingleOverlapPercent": 0.568,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.712,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.545,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.45,
+          "fiveWordShingleOverlapPercent": 0.334,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.731,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 26.659,
+          "fiveWordShingleOverlapPercent": 1.156,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.714,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.478,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.525,
+          "fiveWordShingleOverlapPercent": 0.187,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.759,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.709,
+          "fiveWordShingleOverlapPercent": 0.189,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.656,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.375,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 25.569,
+          "fiveWordShingleOverlapPercent": 0.906,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.692,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.571,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 26.48,
+          "fiveWordShingleOverlapPercent": 0.113,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.68,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.522,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 25.39,
+          "fiveWordShingleOverlapPercent": 0.333,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.423,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 24.972,
+          "fiveWordShingleOverlapPercent": 0.114,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.72,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.4,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.225,
+          "fiveWordShingleOverlapPercent": 0.223,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.759,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 24.889,
+          "fiveWordShingleOverlapPercent": 0.116,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.7,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.467,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 18.443,
+          "fiveWordShingleOverlapPercent": 0.094,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.677,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 25.027,
+          "fiveWordShingleOverlapPercent": 0.227,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.706,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 25.587,
+          "fiveWordShingleOverlapPercent": 0.566,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.714,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.533,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 24.833,
+          "fiveWordShingleOverlapPercent": 0.333,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.724,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.4,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 24.75,
+          "fiveWordShingleOverlapPercent": 0.341,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.692,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 26.239,
+          "fiveWordShingleOverlapPercent": 0.223,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.724,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.385,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 26.106,
+          "fiveWordShingleOverlapPercent": 0.347,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.724,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 24.16,
+          "fiveWordShingleOverlapPercent": 0.113,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.679,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.375,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 26.257,
+          "fiveWordShingleOverlapPercent": 0.566,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.727,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.467,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 25.724,
+          "fiveWordShingleOverlapPercent": 0.111,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.759,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.276,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 24.861,
+          "fiveWordShingleOverlapPercent": 0.568,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.696,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.533,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 25.338,
+          "fiveWordShingleOverlapPercent": 0.111,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.727,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 24.889,
+          "fiveWordShingleOverlapPercent": 0.116,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.733,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard"
-          ]
+          "maxNearSentenceTokenJaccard": 0.375,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 39.553,
+          "fiveWordShingleOverlapPercent": 0.113,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.792,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.467,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 36.971,
+          "fiveWordShingleOverlapPercent": 0.453,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.72,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.52,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.958,
+          "fiveWordShingleOverlapPercent": 0.795,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.758,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 38.176,
+          "fiveWordShingleOverlapPercent": 0.34,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.808,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.611,
+          "fiveWordShingleOverlapPercent": 0.231,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.741,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.467,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 36.983,
+          "fiveWordShingleOverlapPercent": 0.227,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.759,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.385,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.318,
+          "fiveWordShingleOverlapPercent": 0.454,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.72,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.478,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.5,
+          "fiveWordShingleOverlapPercent": 0.113,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.769,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.37,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.654,
+          "fiveWordShingleOverlapPercent": 0.925,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.769,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.571,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "healthcare-virtual-assistant-referral-coordination",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.528,
+          "fiveWordShingleOverlapPercent": 0.454,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.792,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.44,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "healthcare-virtual-assistant-referral-coordination",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 37.05,
+          "fiveWordShingleOverlapPercent": 0.334,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.75,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.393,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "healthcare-virtual-assistant-referral-coordination",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 36.748,
+          "fiveWordShingleOverlapPercent": 0.462,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.786,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.565,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "accounting-firm-virtual-assistant-client-document-intake",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 38.739,
+          "fiveWordShingleOverlapPercent": 0.227,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.792,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "accounting-firm-virtual-assistant-client-document-intake",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 38.069,
+          "fiveWordShingleOverlapPercent": 0.694,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.792,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.545,
+          "exactSharedHeadings": []
         },
         {
           "slugs": [
             "insurance-agency-virtual-assistant-policy-service-intake",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 39.64,
+          "fiveWordShingleOverlapPercent": 0.231,
           "repeatedSubstantiveParagraphs": 0,
           "repeatedSubstantiveSentences": 0,
-          "maxNearSentenceTokenJaccard": 0.826,
-          "exactSharedHeadings": [
-            "A realistic boundary test",
-            "Can the scope expand after the pilot?",
-            "Frequently asked questions",
-            "Make the buying decision",
-            "Questions to put in the provider scorecard",
-            "What should a provider demonstrate before live work?",
-            "Who retains judgment outside the administrative lane?"
-          ]
+          "maxNearSentenceTokenJaccard": 0.438,
+          "exactSharedHeadings": []
         }
       ]
     },
@@ -2092,7 +1699,5 @@
       ]
     }
   },
-  "errors": [
-    "blog: originality overlap=39.640, repeated paragraphs=0, repeated sentences=0, near-sentence=0.826, shared headings=7"
-  ]
+  "errors": []
 }
