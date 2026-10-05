@@ -6,8 +6,8 @@
   "records": [
     {
       "slug": "virtual-assistant-provider-supervision-evidence-study",
-      "bodyWordCount": 1248,
-      "contentHash": "97e1c76ebf65894be25c42d8eea5ab67d1c45e3c57b6b1a8eaeb00204a650ca0",
+      "bodyWordCount": 1231,
+      "contentHash": "d701e6be0f0b3da8c9aa51aa66500a3698143442e5ee80a317577153a0aafe6e",
       "image": {
         "path": "/blog/images/virtual-assistant-service-quality-assurance.webp",
         "dimensions": [
@@ -33,8 +33,8 @@
     },
     {
       "slug": "virtual-assistant-billing-time-reconciliation-study",
-      "bodyWordCount": 1219,
-      "contentHash": "ed68965f032c3ad6a2f29ce6905ec47d21f1b53ee00600b6cce27a6307edf398",
+      "bodyWordCount": 1209,
+      "contentHash": "60720b26777a2bb93122a8f071bbdfd91d1a7bb4b3200ab1ecf4f539327f4000",
       "image": {
         "path": "/blog/images/virtual-assistant-weekly-operations-report.webp",
         "dimensions": [
@@ -60,8 +60,8 @@
     },
     {
       "slug": "virtual-assistant-subcontractor-transparency-study",
-      "bodyWordCount": 1262,
-      "contentHash": "2570cbe66dea0948fe12749a51b859cb1c5698e10e9dbae6eb214b2d87fd1eec",
+      "bodyWordCount": 1226,
+      "contentHash": "7b58f4553a0c88d359d44e6e6b2b5a0c432d7aea6f4695b27868976bf50f20f5",
       "image": {
         "path": "/blog/images/virtual-assistant-vendor-risk-review.webp",
         "dimensions": [
@@ -87,8 +87,8 @@
     },
     {
       "slug": "virtual-assistant-business-continuity-test-study",
-      "bodyWordCount": 1207,
-      "contentHash": "35e545a1e1eb423ef76daac7bb1092a4ca648de8d0fd12b918c79680e667ff30",
+      "bodyWordCount": 1208,
+      "contentHash": "f97b1139d3f04d176f22f5c4b6f3a2711b2fe645077f069698caab177d55186e",
       "image": {
         "path": "/blog/images/virtual-assistant-remote-work-continuity.webp",
         "dimensions": [
@@ -114,8 +114,8 @@
     },
     {
       "slug": "virtual-assistant-service-exit-data-return-study",
-      "bodyWordCount": 1257,
-      "contentHash": "0b97e0f1b0ecac59f137bb1f48cfaf0572a5100ed30a8e4db18cc8a5064c1188",
+      "bodyWordCount": 1218,
+      "contentHash": "6adadab7506d8beec98376dcc15c05aa6d7f83a1fa13986f7caa4632384c35ed",
       "image": {
         "path": "/blog/images/virtual-assistant-document-access-governance.webp",
         "dimensions": [
@@ -146,7 +146,7 @@
         "virtual-assistant-provider-supervision-evidence-study",
         "virtual-assistant-billing-time-reconciliation-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.79,
+      "fiveWordShingleOverlapPercent": 1.08,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -154,7 +154,7 @@
         "virtual-assistant-provider-supervision-evidence-study",
         "virtual-assistant-subcontractor-transparency-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.73,
+      "fiveWordShingleOverlapPercent": 0.82,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -162,7 +162,7 @@
         "virtual-assistant-provider-supervision-evidence-study",
         "virtual-assistant-business-continuity-test-study"
       ],
-      "fiveWordShingleOverlapPercent": 10.06,
+      "fiveWordShingleOverlapPercent": 0.66,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -170,7 +170,7 @@
         "virtual-assistant-provider-supervision-evidence-study",
         "virtual-assistant-service-exit-data-return-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.57,
+      "fiveWordShingleOverlapPercent": 1.07,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -178,7 +178,7 @@
         "virtual-assistant-billing-time-reconciliation-study",
         "virtual-assistant-subcontractor-transparency-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.71,
+      "fiveWordShingleOverlapPercent": 0.91,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -186,7 +186,7 @@
         "virtual-assistant-billing-time-reconciliation-study",
         "virtual-assistant-business-continuity-test-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.64,
+      "fiveWordShingleOverlapPercent": 0.83,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -194,7 +194,7 @@
         "virtual-assistant-billing-time-reconciliation-study",
         "virtual-assistant-service-exit-data-return-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.79,
+      "fiveWordShingleOverlapPercent": 1.33,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -202,7 +202,7 @@
         "virtual-assistant-subcontractor-transparency-study",
         "virtual-assistant-business-continuity-test-study"
       ],
-      "fiveWordShingleOverlapPercent": 10.06,
+      "fiveWordShingleOverlapPercent": 0.83,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -210,7 +210,7 @@
         "virtual-assistant-subcontractor-transparency-study",
         "virtual-assistant-service-exit-data-return-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.26,
+      "fiveWordShingleOverlapPercent": 0.99,
       "repeatedSubstantiveParagraphs": 0
     },
     {
@@ -218,11 +218,11 @@
         "virtual-assistant-business-continuity-test-study",
         "virtual-assistant-service-exit-data-return-study"
       ],
-      "fiveWordShingleOverlapPercent": 9.56,
+      "fiveWordShingleOverlapPercent": 1.0,
       "repeatedSubstantiveParagraphs": 0
     }
   ],
-  "maxPairwiseFiveWordShingleOverlapPercent": 10.06,
+  "maxPairwiseFiveWordShingleOverlapPercent": 1.33,
   "repeatedParagraphAudit": "Maximum repeated substantive paragraphs per pair: 0. Generic reusable reasoning was replaced with study-specific units, source interpretation, methodology, limitations, and conclusions; numbered source citations are excluded from this paragraph metric.",
   "sharedArgumentSequenceAudit": "Manual section-sequence and example review found distinct topic-specific arguments, tests, decision records, limitations, and reader outcomes across all five studies.",
   "errors": []

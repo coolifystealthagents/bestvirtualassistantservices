@@ -16,7 +16,7 @@
       "sources": [
         "https://www.hud.gov/fairhousing"
       ],
-      "contentHash": "412e6c79a774e31e91d29ba9b35709d16c2aa8acd0e98a4ac04ccbe315701b8b",
+      "contentHash": "4686f7933d2328b7dafdc5e1c67735039f48134104f55f94ba398bfae6ed59b8",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -24,7 +24,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/property-management-virtual-assistant-tenant-communications.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 1523
+      "bodyWords": 1469
     },
     {
       "family": "blog",
@@ -33,7 +33,7 @@
       "sources": [
         "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
       ],
-      "contentHash": "cd98e87ad1ff51a72e109671878bddd0833722e5771ee95514a1e3ccf1f3ef5a",
+      "contentHash": "0d634a077f6b28c88c0b473f2960acb71b968dca91639b7a5039531758273a7a",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -41,7 +41,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/construction-virtual-assistant-bid-coordination.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 1507
+      "bodyWords": 1430
     },
     {
       "family": "blog",
@@ -50,7 +50,7 @@
       "sources": [
         "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
       ],
-      "contentHash": "e9462c00545eaa4ffcaf016513a420e8a835bc41a86ea8c91130c267d5e1d7e1",
+      "contentHash": "5cd03ab08c66f816f7770051df8ad5b39798196133f7355fa7beee54b62a57bc",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -58,7 +58,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/architecture-firm-virtual-assistant-submittal-tracking.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 1431
+      "bodyWords": 1344
     },
     {
       "family": "blog",
@@ -67,7 +67,7 @@
       "sources": [
         "https://www.nist.gov/itl/smallbusinesscyber"
       ],
-      "contentHash": "6293b2c98220079e871da06fc457c5efda2ceda6d4343ad80250505007a1a890",
+      "contentHash": "938e2878cb61f5ea3a057f2ab20e02efb71cbc9e63514230437b56734e1af497",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -75,7 +75,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/saas-virtual-assistant-customer-onboarding-scope.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 1401
+      "bodyWords": 1317
     },
     {
       "family": "blog",
@@ -84,7 +84,7 @@
       "sources": [
         "https://www.ada.gov/resources/web-guidance/"
       ],
-      "contentHash": "41b46a0f772367e69d36213f7326b20dffd54b23802e681b6c5b2bd6982d2388",
+      "contentHash": "95568069bf442490d657d0fc4c724a226fa87bff52aaada317a31f7134d5289e",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -92,7 +92,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/online-course-virtual-assistant-student-operations.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 1413
+      "bodyWords": 1332
     },
     {
       "family": "blog",
@@ -101,7 +101,7 @@
       "sources": [
         "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity"
       ],
-      "contentHash": "f779328e73bb298af1603870537e3a91797827e65d96c3daf0bd04841b507a68",
+      "contentHash": "3344aea91aaddccf2a970429aeb9b00cbb5393887f6d8621a4c3260b1ae4068c",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -109,7 +109,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/membership-association-virtual-assistant-renewal-operations.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 1399
+      "bodyWords": 1311
     },
     {
       "family": "blog",
@@ -118,7 +118,7 @@
       "sources": [
         "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
       ],
-      "contentHash": "dd1e90bfd87180acfa3a934053d3fed7d9925f6c06a9887dad6c4a906e0922f5",
+      "contentHash": "fcd629d7e7a3fe0c448d1eedbbef67da79d9816e6023e10bfe0a4b1c53a24d2f",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -135,7 +135,7 @@
       "sources": [
         "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity"
       ],
-      "contentHash": "649ffbace242be96d34a9c57c6e26236102f1f08a152fb21925066a418642541",
+      "contentHash": "a004c17add6ba9f6b41d462a2e9432a602eb68e71dca6341507230ac52df7793",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -143,7 +143,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/marketplace-seller-virtual-assistant-catalog-operations.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 952
+      "bodyWords": 928
     },
     {
       "family": "blog",
@@ -152,7 +152,7 @@
       "sources": [
         "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/index.html"
       ],
-      "contentHash": "b88dd7550520558663dcadcea9ffc18acb87efb370aaaa364dba426ab49135ea",
+      "contentHash": "b5c66e2ab7ea4942264d2a240996efdb86a548b154cc55f942c9ac788a1db07d",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -160,7 +160,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/healthcare-virtual-assistant-referral-coordination.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 956
+      "bodyWords": 936
     },
     {
       "family": "blog",
@@ -169,7 +169,7 @@
       "sources": [
         "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
       ],
-      "contentHash": "7921f45b719b51142682824952500cf948270c840beb569119c6bc2c862f5a6d",
+      "contentHash": "620fc0845084fff0a20cecff4bf59fec3786dcbd08237ec9ed1ddc6d63a25ceb",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -177,7 +177,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/accounting-firm-virtual-assistant-client-document-intake.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 963
+      "bodyWords": 960
     },
     {
       "family": "blog",
@@ -186,7 +186,7 @@
       "sources": [
         "https://www.cisa.gov/secure-our-world/use-strong-passwords"
       ],
-      "contentHash": "a474c186f76eaa4c199f4a1e5852c99e0191cb325a7d6a1ad5da224b3dd0f354",
+      "contentHash": "fe2d79a481fc7029159706bb45ddd39c73834efa7ac5b78f3c677b1afb4e3f51",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -194,7 +194,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/insurance-agency-virtual-assistant-policy-service-intake.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 951
+      "bodyWords": 937
     },
     {
       "family": "blog",
@@ -203,7 +203,7 @@
       "sources": [
         "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees"
       ],
-      "contentHash": "97957a9392ddddb12cc1b2e38fc4bd581b7508191ccadda5fb8053c4ea9b1dec",
+      "contentHash": "e89786bd1c0396bdb59872b4fd315c7212626e3245bf58d1f3133f12aceb5fd6",
       "actualPublicationDate": "2026-10-05",
       "commitSha": "PENDING_COMBINED_COMMIT",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
@@ -211,7 +211,7 @@
       "verificationTime": "PENDING_LIVE_VERIFICATION",
       "sourcePath": "content/blog/home-services-virtual-assistant-dispatch-intake.mdx",
       "imagePath": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
-      "bodyWords": 965
+      "bodyWords": 945
     }
   ],
   "repository": "coolifystealthagents/bestvirtualassistantservices",

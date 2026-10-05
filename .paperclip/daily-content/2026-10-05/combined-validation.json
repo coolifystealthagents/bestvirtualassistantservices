@@ -9,8 +9,8 @@
       "records": [
         {
           "slug": "property-management-virtual-assistant-tenant-communications",
-          "bodyWordCount": 1519,
-          "contentHash": "412e6c79a774e31e91d29ba9b35709d16c2aa8acd0e98a4ac04ccbe315701b8b",
+          "bodyWordCount": 1465,
+          "contentHash": "4686f7933d2328b7dafdc5e1c67735039f48134104f55f94ba398bfae6ed59b8",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -38,8 +38,8 @@
         },
         {
           "slug": "construction-virtual-assistant-bid-coordination",
-          "bodyWordCount": 1505,
-          "contentHash": "cd98e87ad1ff51a72e109671878bddd0833722e5771ee95514a1e3ccf1f3ef5a",
+          "bodyWordCount": 1428,
+          "contentHash": "0d634a077f6b28c88c0b473f2960acb71b968dca91639b7a5039531758273a7a",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -67,8 +67,8 @@
         },
         {
           "slug": "architecture-firm-virtual-assistant-submittal-tracking",
-          "bodyWordCount": 1424,
-          "contentHash": "e9462c00545eaa4ffcaf016513a420e8a835bc41a86ea8c91130c267d5e1d7e1",
+          "bodyWordCount": 1336,
+          "contentHash": "5cd03ab08c66f816f7770051df8ad5b39798196133f7355fa7beee54b62a57bc",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -96,8 +96,8 @@
         },
         {
           "slug": "saas-virtual-assistant-customer-onboarding-scope",
-          "bodyWordCount": 1400,
-          "contentHash": "6293b2c98220079e871da06fc457c5efda2ceda6d4343ad80250505007a1a890",
+          "bodyWordCount": 1316,
+          "contentHash": "938e2878cb61f5ea3a057f2ab20e02efb71cbc9e63514230437b56734e1af497",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -125,8 +125,8 @@
         },
         {
           "slug": "online-course-virtual-assistant-student-operations",
-          "bodyWordCount": 1408,
-          "contentHash": "41b46a0f772367e69d36213f7326b20dffd54b23802e681b6c5b2bd6982d2388",
+          "bodyWordCount": 1326,
+          "contentHash": "95568069bf442490d657d0fc4c724a226fa87bff52aaada317a31f7134d5289e",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -154,8 +154,8 @@
         },
         {
           "slug": "membership-association-virtual-assistant-renewal-operations",
-          "bodyWordCount": 1397,
-          "contentHash": "f779328e73bb298af1603870537e3a91797827e65d96c3daf0bd04841b507a68",
+          "bodyWordCount": 1309,
+          "contentHash": "3344aea91aaddccf2a970429aeb9b00cbb5393887f6d8621a4c3260b1ae4068c",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -183,8 +183,8 @@
         },
         {
           "slug": "nonprofit-virtual-assistant-donor-records-workflow",
-          "bodyWordCount": 989,
-          "contentHash": "dd1e90bfd87180acfa3a934053d3fed7d9925f6c06a9887dad6c4a906e0922f5",
+          "bodyWordCount": 988,
+          "contentHash": "fcd629d7e7a3fe0c448d1eedbbef67da79d9816e6023e10bfe0a4b1c53a24d2f",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -212,8 +212,8 @@
         },
         {
           "slug": "marketplace-seller-virtual-assistant-catalog-operations",
-          "bodyWordCount": 952,
-          "contentHash": "649ffbace242be96d34a9c57c6e26236102f1f08a152fb21925066a418642541",
+          "bodyWordCount": 927,
+          "contentHash": "a004c17add6ba9f6b41d462a2e9432a602eb68e71dca6341507230ac52df7793",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -241,8 +241,8 @@
         },
         {
           "slug": "healthcare-virtual-assistant-referral-coordination",
-          "bodyWordCount": 953,
-          "contentHash": "b88dd7550520558663dcadcea9ffc18acb87efb370aaaa364dba426ab49135ea",
+          "bodyWordCount": 932,
+          "contentHash": "b5c66e2ab7ea4942264d2a240996efdb86a548b154cc55f942c9ac788a1db07d",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -270,8 +270,8 @@
         },
         {
           "slug": "accounting-firm-virtual-assistant-client-document-intake",
-          "bodyWordCount": 963,
-          "contentHash": "7921f45b719b51142682824952500cf948270c840beb569119c6bc2c862f5a6d",
+          "bodyWordCount": 959,
+          "contentHash": "620fc0845084fff0a20cecff4bf59fec3786dcbd08237ec9ed1ddc6d63a25ceb",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -299,8 +299,8 @@
         },
         {
           "slug": "insurance-agency-virtual-assistant-policy-service-intake",
-          "bodyWordCount": 950,
-          "contentHash": "a474c186f76eaa4c199f4a1e5852c99e0191cb325a7d6a1ad5da224b3dd0f354",
+          "bodyWordCount": 935,
+          "contentHash": "fe2d79a481fc7029159706bb45ddd39c73834efa7ac5b78f3c677b1afb4e3f51",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -328,8 +328,8 @@
         },
         {
           "slug": "home-services-virtual-assistant-dispatch-intake",
-          "bodyWordCount": 962,
-          "contentHash": "97957a9392ddddb12cc1b2e38fc4bd581b7508191ccadda5fb8053c4ea9b1dec",
+          "bodyWordCount": 941,
+          "contentHash": "e89786bd1c0396bdb59872b4fd315c7212626e3245bf58d1f3133f12aceb5fd6",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05"
@@ -356,604 +356,604 @@
           }
         }
       ],
-      "maxPairwiseFiveWordShingleOverlapPercent": 42.295,
+      "maxPairwiseFiveWordShingleOverlapPercent": 39.64,
       "maxRepeatedSubstantiveParagraphs": 0,
-      "maxRepeatedSubstantiveSentences": 9,
-      "qualitativeAudit": "fail: shared sentence templates require substantive rewriting",
+      "maxRepeatedSubstantiveSentences": 0,
+      "qualitativeAudit": "pass: distinct topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes",
       "pairs": [
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "construction-virtual-assistant-bid-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 15.506,
+          "fiveWordShingleOverlapPercent": 19.632,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "architecture-firm-virtual-assistant-submittal-tracking"
           ],
-          "fiveWordShingleOverlapPercent": 15.949,
+          "fiveWordShingleOverlapPercent": 18.51,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 16.048,
+          "fiveWordShingleOverlapPercent": 18.464,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 17.523,
+          "fiveWordShingleOverlapPercent": 21.803,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 15.884,
+          "fiveWordShingleOverlapPercent": 18.419,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 26.612,
+          "fiveWordShingleOverlapPercent": 24.702,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 27.807,
+          "fiveWordShingleOverlapPercent": 25.587,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 27.711,
+          "fiveWordShingleOverlapPercent": 25.501,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.397,
+          "fiveWordShingleOverlapPercent": 24.972,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 28.196,
+          "fiveWordShingleOverlapPercent": 25.676,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "property-management-virtual-assistant-tenant-communications",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.891,
+          "fiveWordShingleOverlapPercent": 25.664,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "architecture-firm-virtual-assistant-submittal-tracking"
           ],
-          "fiveWordShingleOverlapPercent": 16.83,
+          "fiveWordShingleOverlapPercent": 19.071,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 6
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 15.948,
+          "fiveWordShingleOverlapPercent": 18.382,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 16.616,
+          "fiveWordShingleOverlapPercent": 20.574,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 15.784,
+          "fiveWordShingleOverlapPercent": 18.174,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 25.95,
+          "fiveWordShingleOverlapPercent": 24.052,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 27.634,
+          "fiveWordShingleOverlapPercent": 25.363,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 27.539,
+          "fiveWordShingleOverlapPercent": 25.39,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.74,
+          "fiveWordShingleOverlapPercent": 25.86,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.671,
+          "fiveWordShingleOverlapPercent": 25.113,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "construction-virtual-assistant-bid-coordination",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 29.082,
+          "fiveWordShingleOverlapPercent": 26.327,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 6
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "saas-virtual-assistant-customer-onboarding-scope"
           ],
-          "fiveWordShingleOverlapPercent": 16.75,
+          "fiveWordShingleOverlapPercent": 19.771,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 16.314,
+          "fiveWordShingleOverlapPercent": 18.934,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 15.984,
+          "fiveWordShingleOverlapPercent": 18.337,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 27.273,
+          "fiveWordShingleOverlapPercent": 26.002,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 28.325,
+          "fiveWordShingleOverlapPercent": 26.816,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 27.367,
+          "fiveWordShingleOverlapPercent": 25.278,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.226,
+          "fiveWordShingleOverlapPercent": 25.194,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.846,
+          "fiveWordShingleOverlapPercent": 25.45,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "architecture-firm-virtual-assistant-submittal-tracking",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 29.422,
+          "fiveWordShingleOverlapPercent": 26.659,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 6
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "online-course-virtual-assistant-student-operations"
           ],
-          "fiveWordShingleOverlapPercent": 16.113,
+          "fiveWordShingleOverlapPercent": 18.525,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 16.249,
+          "fiveWordShingleOverlapPercent": 18.709,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 26.942,
+          "fiveWordShingleOverlapPercent": 25.569,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 28.325,
+          "fiveWordShingleOverlapPercent": 26.48,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 27.539,
+          "fiveWordShingleOverlapPercent": 25.39,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.226,
+          "fiveWordShingleOverlapPercent": 24.972,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.846,
+          "fiveWordShingleOverlapPercent": 25.225,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "saas-virtual-assistant-customer-onboarding-scope",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.041,
+          "fiveWordShingleOverlapPercent": 24.889,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "membership-association-virtual-assistant-renewal-operations"
           ],
-          "fiveWordShingleOverlapPercent": 16.012,
+          "fiveWordShingleOverlapPercent": 18.443,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 26.612,
+          "fiveWordShingleOverlapPercent": 25.027,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 27.979,
+          "fiveWordShingleOverlapPercent": 25.587,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 27.367,
+          "fiveWordShingleOverlapPercent": 24.833,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.055,
+          "fiveWordShingleOverlapPercent": 24.75,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 28.371,
+          "fiveWordShingleOverlapPercent": 26.239,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "online-course-virtual-assistant-student-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 28.061,
+          "fiveWordShingleOverlapPercent": 26.106,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "nonprofit-virtual-assistant-donor-records-workflow"
           ],
-          "fiveWordShingleOverlapPercent": 26.116,
+          "fiveWordShingleOverlapPercent": 24.16,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 29.361,
+          "fiveWordShingleOverlapPercent": 26.257,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 6
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 27.539,
+          "fiveWordShingleOverlapPercent": 25.724,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.226,
+          "fiveWordShingleOverlapPercent": 24.861,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.846,
+          "fiveWordShingleOverlapPercent": 25.338,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "membership-association-virtual-assistant-renewal-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 27.041,
+          "fiveWordShingleOverlapPercent": 24.889,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "marketplace-seller-virtual-assistant-catalog-operations"
           ],
-          "fiveWordShingleOverlapPercent": 41.451,
+          "fiveWordShingleOverlapPercent": 39.553,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 40.448,
+          "fiveWordShingleOverlapPercent": 36.971,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 42.295,
+          "fiveWordShingleOverlapPercent": 37.958,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 9
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 41.506,
+          "fiveWordShingleOverlapPercent": 38.176,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "nonprofit-virtual-assistant-donor-records-workflow",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 40.476,
+          "fiveWordShingleOverlapPercent": 37.611,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "healthcare-virtual-assistant-referral-coordination"
           ],
-          "fiveWordShingleOverlapPercent": 40.587,
+          "fiveWordShingleOverlapPercent": 36.983,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 40.76,
+          "fiveWordShingleOverlapPercent": 37.318,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 41.156,
+          "fiveWordShingleOverlapPercent": 37.5,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "marketplace-seller-virtual-assistant-catalog-operations",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 41.105,
+          "fiveWordShingleOverlapPercent": 37.654,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "healthcare-virtual-assistant-referral-coordination",
             "accounting-firm-virtual-assistant-client-document-intake"
           ],
-          "fiveWordShingleOverlapPercent": 40.792,
+          "fiveWordShingleOverlapPercent": 37.528,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "healthcare-virtual-assistant-referral-coordination",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 41.156,
+          "fiveWordShingleOverlapPercent": 37.05,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "healthcare-virtual-assistant-referral-coordination",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 40.275,
+          "fiveWordShingleOverlapPercent": 36.748,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "accounting-firm-virtual-assistant-client-document-intake",
             "insurance-agency-virtual-assistant-policy-service-intake"
           ],
-          "fiveWordShingleOverlapPercent": 41.506,
+          "fiveWordShingleOverlapPercent": 38.739,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "accounting-firm-virtual-assistant-client-document-intake",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 40.582,
+          "fiveWordShingleOverlapPercent": 38.069,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "insurance-agency-virtual-assistant-policy-service-intake",
             "home-services-virtual-assistant-dispatch-intake"
           ],
-          "fiveWordShingleOverlapPercent": 41.856,
+          "fiveWordShingleOverlapPercent": 39.64,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 8
+          "repeatedSubstantiveSentences": 0
         }
       ]
     },
@@ -964,8 +964,8 @@
       "records": [
         {
           "slug": "virtual-assistant-provider-supervision-evidence-study",
-          "bodyWordCount": 1248,
-          "contentHash": "97e1c76ebf65894be25c42d8eea5ab67d1c45e3c57b6b1a8eaeb00204a650ca0",
+          "bodyWordCount": 1231,
+          "contentHash": "d701e6be0f0b3da8c9aa51aa66500a3698143442e5ee80a317577153a0aafe6e",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05",
@@ -994,8 +994,8 @@
         },
         {
           "slug": "virtual-assistant-billing-time-reconciliation-study",
-          "bodyWordCount": 1219,
-          "contentHash": "ed68965f032c3ad6a2f29ce6905ec47d21f1b53ee00600b6cce27a6307edf398",
+          "bodyWordCount": 1209,
+          "contentHash": "60720b26777a2bb93122a8f071bbdfd91d1a7bb4b3200ab1ecf4f539327f4000",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05",
@@ -1024,8 +1024,8 @@
         },
         {
           "slug": "virtual-assistant-subcontractor-transparency-study",
-          "bodyWordCount": 1262,
-          "contentHash": "2570cbe66dea0948fe12749a51b859cb1c5698e10e9dbae6eb214b2d87fd1eec",
+          "bodyWordCount": 1226,
+          "contentHash": "7b58f4553a0c88d359d44e6e6b2b5a0c432d7aea6f4695b27868976bf50f20f5",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05",
@@ -1054,8 +1054,8 @@
         },
         {
           "slug": "virtual-assistant-business-continuity-test-study",
-          "bodyWordCount": 1207,
-          "contentHash": "35e545a1e1eb423ef76daac7bb1092a4ca648de8d0fd12b918c79680e667ff30",
+          "bodyWordCount": 1208,
+          "contentHash": "f97b1139d3f04d176f22f5c4b6f3a2711b2fe645077f069698caab177d55186e",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05",
@@ -1084,8 +1084,8 @@
         },
         {
           "slug": "virtual-assistant-service-exit-data-return-study",
-          "bodyWordCount": 1257,
-          "contentHash": "0b97e0f1b0ecac59f137bb1f48cfaf0572a5100ed30a8e4db18cc8a5064c1188",
+          "bodyWordCount": 1218,
+          "contentHash": "6adadab7506d8beec98376dcc15c05aa6d7f83a1fa13986f7caa4632384c35ed",
           "dates": {
             "publishedAt": "2026-10-05",
             "updatedAt": "2026-10-05",
@@ -1113,106 +1113,103 @@
           }
         }
       ],
-      "maxPairwiseFiveWordShingleOverlapPercent": 10.058,
+      "maxPairwiseFiveWordShingleOverlapPercent": 1.328,
       "maxRepeatedSubstantiveParagraphs": 0,
-      "maxRepeatedSubstantiveSentences": 5,
-      "qualitativeAudit": "fail: shared sentence templates require substantive rewriting",
+      "maxRepeatedSubstantiveSentences": 0,
+      "qualitativeAudit": "pass: distinct topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes",
       "pairs": [
         {
           "slugs": [
             "virtual-assistant-provider-supervision-evidence-study",
             "virtual-assistant-billing-time-reconciliation-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.794,
+          "fiveWordShingleOverlapPercent": 1.079,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-provider-supervision-evidence-study",
             "virtual-assistant-subcontractor-transparency-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.727,
+          "fiveWordShingleOverlapPercent": 0.818,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-provider-supervision-evidence-study",
             "virtual-assistant-business-continuity-test-study"
           ],
-          "fiveWordShingleOverlapPercent": 10.058,
+          "fiveWordShingleOverlapPercent": 0.664,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-provider-supervision-evidence-study",
             "virtual-assistant-service-exit-data-return-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.566,
+          "fiveWordShingleOverlapPercent": 1.071,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-billing-time-reconciliation-study",
             "virtual-assistant-subcontractor-transparency-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.712,
+          "fiveWordShingleOverlapPercent": 0.913,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-billing-time-reconciliation-study",
             "virtual-assistant-business-continuity-test-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.643,
+          "fiveWordShingleOverlapPercent": 0.831,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-billing-time-reconciliation-study",
             "virtual-assistant-service-exit-data-return-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.794,
+          "fiveWordShingleOverlapPercent": 1.328,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-subcontractor-transparency-study",
             "virtual-assistant-business-continuity-test-study"
           ],
-          "fiveWordShingleOverlapPercent": 10.058,
+          "fiveWordShingleOverlapPercent": 0.831,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-subcontractor-transparency-study",
             "virtual-assistant-service-exit-data-return-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.258,
+          "fiveWordShingleOverlapPercent": 0.988,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         },
         {
           "slugs": [
             "virtual-assistant-business-continuity-test-study",
             "virtual-assistant-service-exit-data-return-study"
           ],
-          "fiveWordShingleOverlapPercent": 9.559,
+          "fiveWordShingleOverlapPercent": 0.997,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 5
+          "repeatedSubstantiveSentences": 0
         }
       ]
     }
   },
-  "errors": [
-    "blog: originality overlap=42.295, repeated paragraphs=0, repeated sentences=9",
-    "research: originality overlap=10.058, repeated paragraphs=0, repeated sentences=5"
-  ]
+  "errors": []
 }
