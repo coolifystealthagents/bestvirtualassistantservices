@@ -3588,6 +3588,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-billing-time-reconciliation-study",
+      "title": "What Time-Tracking Evidence Helps Buyers Compare Virtual Assistant Services?",
+      "path": "content/research/virtual-assistant-billing-time-reconciliation-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-weekly-operations-report.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-brief-assumption-resolution-study",
       "title": "Studying How Article-Brief Assumptions Get Resolved",
       "path": "content/research/virtual-assistant-brief-assumption-resolution-study.mdx",
@@ -3606,6 +3613,13 @@
       "title": "What Should Virtual Assistant Business-Continuity Handoffs Prove?",
       "path": "content/research/virtual-assistant-business-continuity-handoff.mdx",
       "featuredImage": "/blog/images/virtual-assistant-document-control.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-business-continuity-test-study",
+      "title": "How Can Buyers Test a Virtual Assistant Provider's Business Continuity Claims?",
+      "path": "content/research/virtual-assistant-business-continuity-test-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-remote-work-continuity.webp"
     },
     {
       "type": "research",
@@ -4582,6 +4596,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-provider-supervision-evidence-study",
+      "title": "How Can Buyers Verify Supervision in a Managed Virtual Assistant Service?",
+      "path": "content/research/virtual-assistant-provider-supervision-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-quality-assurance.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-publication-date-consistency-study",
       "title": "A Study Design for Publication-Date Consistency Across Article Surfaces",
       "path": "content/research/virtual-assistant-publication-date-consistency-study.mdx",
@@ -4722,6 +4743,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-service-exit-data-return-study",
+      "title": "What Should Buyers Verify About Data Return and Deletion When a Virtual Assistant Service Ends?",
+      "path": "content/research/virtual-assistant-service-exit-data-return-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-service-level-reporting",
       "title": "Virtual Assistant Service Level Reporting: A Research Brief",
       "path": "content/research/virtual-assistant-service-level-reporting.mdx",
@@ -4831,6 +4859,13 @@
       "title": "Studying Source Retrieval Reliability in Virtual Assistant Research",
       "path": "content/research/virtual-assistant-source-retrieval-reliability-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-daily-article-source-freshness.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-subcontractor-transparency-study",
+      "title": "How Should Buyers Assess Subcontractor Use by a Virtual Assistant Provider?",
+      "path": "content/research/virtual-assistant-subcontractor-transparency-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-vendor-risk-review.webp"
     },
     {
       "type": "research",

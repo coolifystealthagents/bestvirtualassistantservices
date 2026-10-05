@@ -1,0 +1,229 @@
+{
+  "cycleLabel": "2026-10-05",
+  "siteTimezone": "UTC",
+  "requiredCount": 5,
+  "stagedCount": 5,
+  "records": [
+    {
+      "slug": "virtual-assistant-provider-supervision-evidence-study",
+      "bodyWordCount": 1229,
+      "contentHash": "efb1df9a9a97c8aead4db8c04e59539a2d41967309e56199688a041438f1dc6b",
+      "image": {
+        "path": "/blog/images/virtual-assistant-service-quality-assurance.webp",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP",
+        "decoded": true
+      },
+      "internalLinks": [
+        "/research/virtual-assistant-vendor-comparison-methodology",
+        "/research/virtual-assistant-service-quality-assurance"
+      ],
+      "rendered": {
+        "htmlPath": ".next/server/app/research/virtual-assistant-provider-supervision-evidence-study.html",
+        "fullTitle": true,
+        "allSubstantiveParagraphs": true,
+        "canonical": true,
+        "featuredImageReference": true,
+        "researchIndexEntry": true,
+        "sitemapEntry": true
+      }
+    },
+    {
+      "slug": "virtual-assistant-billing-time-reconciliation-study",
+      "bodyWordCount": 1225,
+      "contentHash": "574baa7604726ef6b2191a6fed1229a6b2165523e18014ef9230ea7267cd1e9b",
+      "image": {
+        "path": "/blog/images/virtual-assistant-weekly-operations-report.webp",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP",
+        "decoded": true
+      },
+      "internalLinks": [
+        "/research/virtual-assistant-vendor-comparison-methodology",
+        "/research/virtual-assistant-service-quality-assurance"
+      ],
+      "rendered": {
+        "htmlPath": ".next/server/app/research/virtual-assistant-billing-time-reconciliation-study.html",
+        "fullTitle": true,
+        "allSubstantiveParagraphs": true,
+        "canonical": true,
+        "featuredImageReference": true,
+        "researchIndexEntry": true,
+        "sitemapEntry": true
+      }
+    },
+    {
+      "slug": "virtual-assistant-subcontractor-transparency-study",
+      "bodyWordCount": 1271,
+      "contentHash": "fee6292c97199d20a81071ad04b532725749e929a034bd3be1abed882825bb51",
+      "image": {
+        "path": "/blog/images/virtual-assistant-vendor-risk-review.webp",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP",
+        "decoded": true
+      },
+      "internalLinks": [
+        "/research/virtual-assistant-vendor-comparison-methodology",
+        "/research/virtual-assistant-service-quality-assurance"
+      ],
+      "rendered": {
+        "htmlPath": ".next/server/app/research/virtual-assistant-subcontractor-transparency-study.html",
+        "fullTitle": true,
+        "allSubstantiveParagraphs": true,
+        "canonical": true,
+        "featuredImageReference": true,
+        "researchIndexEntry": true,
+        "sitemapEntry": true
+      }
+    },
+    {
+      "slug": "virtual-assistant-business-continuity-test-study",
+      "bodyWordCount": 1230,
+      "contentHash": "cd975671ec5c495f0374ce9335791360b4a20d4e1ce9041aab3c23c73f39f039",
+      "image": {
+        "path": "/blog/images/virtual-assistant-remote-work-continuity.webp",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP",
+        "decoded": true
+      },
+      "internalLinks": [
+        "/research/virtual-assistant-vendor-comparison-methodology",
+        "/research/virtual-assistant-service-quality-assurance"
+      ],
+      "rendered": {
+        "htmlPath": ".next/server/app/research/virtual-assistant-business-continuity-test-study.html",
+        "fullTitle": true,
+        "allSubstantiveParagraphs": true,
+        "canonical": true,
+        "featuredImageReference": true,
+        "researchIndexEntry": true,
+        "sitemapEntry": true
+      }
+    },
+    {
+      "slug": "virtual-assistant-service-exit-data-return-study",
+      "bodyWordCount": 1266,
+      "contentHash": "f1c3bfd007b204e53d13f049a1c05a63ed669797b9ca51972fb3a04820a9732b",
+      "image": {
+        "path": "/blog/images/virtual-assistant-document-access-governance.webp",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP",
+        "decoded": true
+      },
+      "internalLinks": [
+        "/research/virtual-assistant-vendor-comparison-methodology",
+        "/research/virtual-assistant-service-quality-assurance"
+      ],
+      "rendered": {
+        "htmlPath": ".next/server/app/research/virtual-assistant-service-exit-data-return-study.html",
+        "fullTitle": true,
+        "allSubstantiveParagraphs": true,
+        "canonical": true,
+        "featuredImageReference": true,
+        "researchIndexEntry": true,
+        "sitemapEntry": true
+      }
+    }
+  ],
+  "pairwiseOriginality": [
+    {
+      "slugs": [
+        "virtual-assistant-provider-supervision-evidence-study",
+        "virtual-assistant-billing-time-reconciliation-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.37,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-provider-supervision-evidence-study",
+        "virtual-assistant-subcontractor-transparency-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.59,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-provider-supervision-evidence-study",
+        "virtual-assistant-business-continuity-test-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.67,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-provider-supervision-evidence-study",
+        "virtual-assistant-service-exit-data-return-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.27,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-billing-time-reconciliation-study",
+        "virtual-assistant-subcontractor-transparency-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.45,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-billing-time-reconciliation-study",
+        "virtual-assistant-business-continuity-test-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.37,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-billing-time-reconciliation-study",
+        "virtual-assistant-service-exit-data-return-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.37,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-subcontractor-transparency-study",
+        "virtual-assistant-business-continuity-test-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.65,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-subcontractor-transparency-study",
+        "virtual-assistant-service-exit-data-return-study"
+      ],
+      "fiveWordShingleOverlapPercent": 30.27,
+      "repeatedSubstantiveParagraphs": 4
+    },
+    {
+      "slugs": [
+        "virtual-assistant-business-continuity-test-study",
+        "virtual-assistant-service-exit-data-return-study"
+      ],
+      "fiveWordShingleOverlapPercent": 31.16,
+      "repeatedSubstantiveParagraphs": 4
+    }
+  ],
+  "maxPairwiseFiveWordShingleOverlapPercent": 31.67,
+  "repeatedParagraphAudit": "Four shared source/method boundary paragraphs per pair; topic arguments, scenarios, examples, tests, decision records, and reader outcomes are distinct.",
+  "sharedArgumentSequenceAudit": "No shared topic-specific argument sequence detected; common material is limited to disclosed research/source boundaries.",
+  "errors": []
+}
