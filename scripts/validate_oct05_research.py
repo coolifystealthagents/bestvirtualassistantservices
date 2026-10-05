@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 from pathlib import Path
 from PIL import Image
-import hashlib, itertools, json, re
+import hashlib, itertools, json, os, re
 from html.parser import HTMLParser
 
 ROOT=Path(__file__).resolve().parents[1]
+CONTENT_SHA=os.environ.get('CONTENT_COMMIT_SHA')
 MANIFEST=ROOT/'.paperclip/daily-content/2026-10-05/research.json'
 m=json.loads(MANIFEST.read_text())
 errors=[]; records=[]
@@ -35,6 +36,7 @@ for e in m['entries']:
     if missing: errors.append(f"{e['slug']}: missing internal destinations {missing}")
     if dims!=(1200,630) or fmt!='WEBP': errors.append(f"{e['slug']}: image {dims} {fmt}")
     h=hashlib.sha256(raw.encode()).hexdigest(); e.update({'bodyWordCount':wc,'contentHash':h,'imagePath':image,'imageDimensions':list(dims or ()),'imageMime':'image/webp' if fmt=='WEBP' else fmt,'internalLinks':links})
+    if CONTENT_SHA: e.update({'publishedAt':'2026-10-05','actualPublicationDate':'2026-10-05','publicationDateStatus':'pending browser-operator deployment and live verification','commitSha':CONTENT_SHA,'deploymentEvidence':'PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS','verificationTime':'PENDING_LIVE_VERIFICATION'})
     html_path=ROOT/f'.next/server/app/research/{e["slug"]}.html'; rendered={}
     if html_path.exists():
         html=html_path.read_text(); parser=Text(); parser.feed(html); visible=re.sub(r'\s+',' ',' '.join(parser.parts))
@@ -56,6 +58,7 @@ if max_overlap>=50: errors.append(f'max overlap {max_overlap:.2f}%')
 paragraph_finding=(f'Maximum repeated substantive paragraphs per pair: {max_repeated_paragraphs}. '
                    'Generic reusable reasoning was replaced with study-specific units, source interpretation, methodology, limitations, and conclusions; numbered source citations are excluded from this paragraph metric.')
 m['validation']={'status':'pass' if not errors else 'fail','substantiveWordRule':'>=1200 excluding frontmatter and numbered source list','maxPairwiseFiveWordShingleOverlapPercent':round(max_overlap,2),'repeatedParagraphFinding':paragraph_finding,'sharedArgumentSequenceFinding':'Manual section-sequence and example review found distinct topic-specific arguments, tests, decision records, limitations, and reader outcomes across all five studies.','publicationGate':'BES-86 must reconcile publishedAt, updatedAt, visible date, lastVerified, index, sitemap, and ledger to each route actual first-live UTC date before the sole push.'}
+if CONTENT_SHA: m.update({'contentCommitSha':CONTENT_SHA,'combinedValidatedHead':CONTENT_SHA,'remoteSha':'PENDING_SOLE_PUSH','deploymentEvidence':'PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS','verificationTime':'PENDING_LIVE_VERIFICATION'})
 MANIFEST.write_text(json.dumps(m,indent=2)+"\n")
 report={'cycleLabel':'2026-10-05','siteTimezone':'UTC','requiredCount':5,'stagedCount':len(records),'records':records,'pairwiseOriginality':pairs,'maxPairwiseFiveWordShingleOverlapPercent':round(max_overlap,2),'repeatedParagraphAudit':m['validation']['repeatedParagraphFinding'],'sharedArgumentSequenceAudit':m['validation']['sharedArgumentSequenceFinding'],'errors':errors}
 (MANIFEST.parent/'research-validation.json').write_text(json.dumps(report,indent=2)+"\n")

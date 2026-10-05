@@ -50,8 +50,8 @@
         "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
       ],
       "checkedDate": "2026-10-05",
-      "publishedAt": null,
-      "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
+      "publishedAt": "2026-10-05",
+      "publicationDateStatus": "pending browser-operator deployment and live verification",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-supervision-evidence-study",
       "status": "staged-pending-combined-release",
       "bodyWordCount": 1231,
@@ -65,7 +65,11 @@
       "internalLinks": [
         "/research/virtual-assistant-vendor-comparison-methodology",
         "/research/virtual-assistant-service-quality-assurance"
-      ]
+      ],
+      "actualPublicationDate": "2026-10-05",
+      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
+      "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
     {
       "family": "research",
@@ -111,8 +115,8 @@
         "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
       ],
       "checkedDate": "2026-10-05",
-      "publishedAt": null,
-      "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
+      "publishedAt": "2026-10-05",
+      "publicationDateStatus": "pending browser-operator deployment and live verification",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-billing-time-reconciliation-study",
       "status": "staged-pending-combined-release",
       "bodyWordCount": 1209,
@@ -126,7 +130,11 @@
       "internalLinks": [
         "/research/virtual-assistant-vendor-comparison-methodology",
         "/research/virtual-assistant-service-quality-assurance"
-      ]
+      ],
+      "actualPublicationDate": "2026-10-05",
+      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
+      "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
     {
       "family": "research",
@@ -172,8 +180,8 @@
         "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
       ],
       "checkedDate": "2026-10-05",
-      "publishedAt": null,
-      "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
+      "publishedAt": "2026-10-05",
+      "publicationDateStatus": "pending browser-operator deployment and live verification",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-subcontractor-transparency-study",
       "status": "staged-pending-combined-release",
       "bodyWordCount": 1226,
@@ -187,7 +195,11 @@
       "internalLinks": [
         "/research/virtual-assistant-vendor-comparison-methodology",
         "/research/virtual-assistant-service-quality-assurance"
-      ]
+      ],
+      "actualPublicationDate": "2026-10-05",
+      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
+      "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
     {
       "family": "research",
@@ -233,8 +245,8 @@
         "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
       ],
       "checkedDate": "2026-10-05",
-      "publishedAt": null,
-      "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
+      "publishedAt": "2026-10-05",
+      "publicationDateStatus": "pending browser-operator deployment and live verification",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-business-continuity-test-study",
       "status": "staged-pending-combined-release",
       "bodyWordCount": 1208,
@@ -248,7 +260,11 @@
       "internalLinks": [
         "/research/virtual-assistant-vendor-comparison-methodology",
         "/research/virtual-assistant-service-quality-assurance"
-      ]
+      ],
+      "actualPublicationDate": "2026-10-05",
+      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
+      "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
     {
       "family": "research",
@@ -294,8 +310,8 @@
         "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025"
       ],
       "checkedDate": "2026-10-05",
-      "publishedAt": null,
-      "publicationDateStatus": "pending sole-integrator combined release and live verification; cycle label is not publication date",
+      "publishedAt": "2026-10-05",
+      "publicationDateStatus": "pending browser-operator deployment and live verification",
       "liveUrl": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-exit-data-return-study",
       "status": "staged-pending-combined-release",
       "bodyWordCount": 1218,
@@ -309,7 +325,11 @@
       "internalLinks": [
         "/research/virtual-assistant-vendor-comparison-methodology",
         "/research/virtual-assistant-service-quality-assurance"
-      ]
+      ],
+      "actualPublicationDate": "2026-10-05",
+      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
+      "verificationTime": "PENDING_LIVE_VERIFICATION"
     }
   ],
   "validation": {
@@ -319,5 +339,10 @@
     "repeatedParagraphFinding": "Maximum repeated substantive paragraphs per pair: 0. Generic reusable reasoning was replaced with study-specific units, source interpretation, methodology, limitations, and conclusions; numbered source citations are excluded from this paragraph metric.",
     "sharedArgumentSequenceFinding": "Manual section-sequence and example review found distinct topic-specific arguments, tests, decision records, limitations, and reader outcomes across all five studies.",
     "publicationGate": "BES-86 must reconcile publishedAt, updatedAt, visible date, lastVerified, index, sitemap, and ledger to each route actual first-live UTC date before the sole push."
-  }
+  },
+  "contentCommitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+  "combinedValidatedHead": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+  "remoteSha": "PENDING_SOLE_PUSH",
+  "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
+  "verificationTime": "PENDING_LIVE_VERIFICATION"
 }

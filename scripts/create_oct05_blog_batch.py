@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Create the October 5 Blog draft set and pre-deployment ledger."""
 from pathlib import Path
-import hashlib, json, re
+import hashlib, json, os, re
 
 ROOT = Path(__file__).resolve().parents[1]
 CYCLE = "2026-10-05"
 PUBDATE = "2026-10-05"
+CONTENT_SHA = os.environ.get("CONTENT_COMMIT_SHA", "PENDING_COMBINED_COMMIT")
 IMAGE = "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
 SOURCES = {
   "nist": "https://www.nist.gov/itl/smallbusinesscyber",
@@ -207,8 +208,8 @@ for a in ARTICLES:
     p=ROOT/"content/blog"/(a["slug"]+".mdx"); text=render(a); p.write_text(text)
     words=len(re.findall(r"\b[\w’-]+\b",text.split("---",2)[-1]))
     if words<900: raise SystemExit(f"{a['slug']}: {words} words")
-    entries.append({"family":"blog","topic":a["title"],"slug":a["slug"],"sources":[SOURCES[a["source"]]],"contentHash":hashlib.sha256(p.read_bytes()).hexdigest(),"actualPublicationDate":PUBDATE,"commitSha":"PENDING_COMBINED_COMMIT","deploymentEvidence":"PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS","liveUrl":f"https://bestvirtualassistantservices.com/blog/{a['slug']}","verificationTime":"PENDING_LIVE_VERIFICATION","sourcePath":str(p.relative_to(ROOT)),"imagePath":IMAGE,"bodyWords":words})
+    entries.append({"family":"blog","topic":a["title"],"slug":a["slug"],"sources":[SOURCES[a["source"]]],"contentHash":hashlib.sha256(p.read_bytes()).hexdigest(),"actualPublicationDate":PUBDATE,"commitSha":CONTENT_SHA,"deploymentEvidence":"PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS","liveUrl":f"https://bestvirtualassistantservices.com/blog/{a['slug']}","verificationTime":"PENDING_LIVE_VERIFICATION","sourcePath":str(p.relative_to(ROOT)),"imagePath":IMAGE,"bodyWords":words})
 
-manifest={"schemaVersion":2,"contract":"canonical-daily-blog-publishing","family":"blog","domain":"bestvirtualassistantservices.com","cycleLabel":CYCLE,"targetDate":PUBDATE,"timezone":"UTC","required":12,"verified":0,"entries":entries,"repository":"coolifystealthagents/bestvirtualassistantservices","productionBranch":"main","baselineRemoteSha":"de7a4524f46e323421c51041a930d84bf4b61414","contentCommitSha":"PENDING_COMBINED_COMMIT","combinedValidatedHead":"PENDING_FINAL_VALIDATION","remoteSha":"PENDING_SOLE_PUSH","deploymentId":"Browser Operator only: o48em959jxfxy27gkxx7lnn4","verificationTime":"PENDING_LIVE_VERIFICATION"}
+manifest={"schemaVersion":2,"contract":"canonical-daily-blog-publishing","family":"blog","domain":"bestvirtualassistantservices.com","cycleLabel":CYCLE,"targetDate":PUBDATE,"timezone":"UTC","required":12,"verified":0,"entries":entries,"repository":"coolifystealthagents/bestvirtualassistantservices","productionBranch":"main","baselineRemoteSha":"de7a4524f46e323421c51041a930d84bf4b61414","contentCommitSha":CONTENT_SHA,"combinedValidatedHead":CONTENT_SHA,"remoteSha":"PENDING_SOLE_PUSH","deploymentId":"Browser Operator only: o48em959jxfxy27gkxx7lnn4","verificationTime":"PENDING_LIVE_VERIFICATION"}
 mp=ROOT/f".paperclip/daily-content/{CYCLE}/blog.json"; mp.parent.mkdir(parents=True,exist_ok=True); mp.write_text(json.dumps(manifest,indent=2)+"\n")
 print(json.dumps({"created":len(entries),"words":{e['slug']:e['bodyWords'] for e in entries}},indent=2))
