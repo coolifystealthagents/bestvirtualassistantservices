@@ -356,10 +356,266 @@
           }
         }
       ],
+      "outlines": {
+        "property-management-virtual-assistant-tenant-communications": [
+          "How to Evaluate a Virtual Assistant for Property Management Communications: Map the message types before discussing staffing",
+          "Write an emergency route that does not depend on interpretation",
+          "Keep housing decisions with authorized people",
+          "Design the maintenance handoff around a complete ticket",
+          "Score the service on safe resolution, not message count",
+          "Run a pilot with ordinary and difficult cases",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which message classes may the assistant close without review?",
+          "2. What observable conditions trigger the emergency route?",
+          "3. Who decides accommodations, disputes, concessions, and lease questions?",
+          "4. How are scripts approved, versioned, and withdrawn?",
+          "5. Which details may be disclosed to vendors?",
+          "6. What evidence proves the after-hours handoff reached a person?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "Can the assistant answer leasing questions?",
+          "Should the provider receive access to every property record?",
+          "Is a fast first response the main KPI?"
+        ],
+        "construction-virtual-assistant-bid-coordination": [
+          "How to Scope Virtual Assistant Support for Construction Bid Coordination: Begin with the bid/no-bid gate",
+          "Create one controlled document index",
+          "Treat addenda as acknowledged changes",
+          "Structure subcontractor outreach without making promises",
+          "Build the estimator handoff around exceptions",
+          "Test submission rehearsal and failure recovery",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Who can make and record the bid/no-bid decision?",
+          "2. Where is the controlling document index?",
+          "3. How is an addendum acknowledged by the estimator?",
+          "4. Which subcontractors may receive which files?",
+          "5. What is the final portal-check cutoff?",
+          "6. What evidence proves an authorized submission was accepted?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "Can a virtual assistant perform takeoffs?",
+          "May the assistant submit the bid?",
+          "How often should portals be checked?"
+        ],
+        "architecture-firm-virtual-assistant-submittal-tracking": [
+          "Evaluate Virtual Assistant Support for Architecture Submittal Tracking: Model the firm's real submittal path",
+          "Use statuses that do not claim technical approval",
+          "Protect revision history",
+          "Route by a maintained responsibility matrix",
+          "Report aging without inventing contractual conclusions",
+          "Pilot with a resubmission and conflicting comments",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which system is the official submittal record?",
+          "2. Who defines review targets and pause rules?",
+          "3. Which statuses may administrative staff apply?",
+          "4. How are resubmissions linked without overwriting history?",
+          "5. Who consolidates consultant comments?",
+          "6. What permissions prevent draft comments from being issued?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "Can an assistant mark a submittal approved?",
+          "Should reminders include attachments?",
+          "What makes the pilot representative?"
+        ],
+        "saas-virtual-assistant-customer-onboarding-scope": [
+          "Scope a Virtual Assistant for SaaS Customer Onboarding: Segment the journey by decision owner",
+          "Make sales-to-onboarding intake testable",
+          "Constrain account setup with roles and recipes",
+          "Coordinate training around a customer outcome",
+          "Route technical issues without becoming support engineering",
+          "Accept onboarding using evidence chosen in advance",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. What evidence moves an account into each onboarding state?",
+          "2. Who resolves conflicts between the order and sales notes?",
+          "3. Which setup actions require specialist approval?",
+          "4. What customer data may enter the onboarding tracker?",
+          "5. Who sets incident severity and customer commitments?",
+          "6. What exactly constitutes onboarding acceptance?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "Can an assistant configure the SaaS product?",
+          "Should adoption metrics determine completion?",
+          "How should custom requests be handled?"
+        ],
+        "online-course-virtual-assistant-student-operations": [
+          "Choose a Virtual Assistant for Online Course Student Operations: Inventory the learner journey and promises",
+          "Separate access help from account authority",
+          "Create an accessibility-request route",
+          "Moderate from rules, not personal instinct",
+          "Preserve instructor authority over learning decisions",
+          "Pilot around the course's busiest week",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which published promise controls each course stage?",
+          "2. What identity check precedes an account change?",
+          "3. Who owns accessibility and refund decisions?",
+          "4. Which moderation actions may occur without review?",
+          "5. Who determines completion and certificate eligibility?",
+          "6. How is support covered during launches and live events?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "Can the assistant issue certificates?",
+          "Should all learner data live in the community tool?",
+          "Is platform experience enough to select a provider?"
+        ],
+        "membership-association-virtual-assistant-renewal-operations": [
+          "Design Virtual Assistant Support for Membership Renewal Operations: Define membership status from authoritative events",
+          "Build the campaign from segments that matter",
+          "Keep commercial exceptions in an owner queue",
+          "Constrain payment handling",
+          "Reconcile benefits separately from billing",
+          "Close the cycle with decisions, not just totals",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. What exact events change membership status?",
+          "2. Which system wins when records disagree?",
+          "3. Who approves pricing and category exceptions?",
+          "4. What data is excluded from assistant access and exports?",
+          "5. How are benefits reconciled after payment?",
+          "6. Which measures will guide the next renewal cycle?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "Can an assistant negotiate renewal terms?",
+          "Should lapsed members keep benefits during outreach?",
+          "What is the best renewal metric?"
+        ],
+        "nonprofit-virtual-assistant-donor-records-workflow": [
+          "Scope a Virtual Assistant for Nonprofit Donor Records: Reconcile gifts before thanking donors",
+          "Control household and organization identities",
+          "Generate acknowledgements from approved facts",
+          "Honor communication and recognition preferences",
+          "Separate restricted-gift decisions",
+          "Audit a sample end to end",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which source establishes receipt and amount?",
+          "2. Who decides restrictions and noncash valuation?",
+          "3. What evidence permits a duplicate merge?",
+          "4. How are anonymous gifts protected in exports?",
+          "5. Who approves acknowledgement language?",
+          "6. How are corrections propagated to reports?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "What should a provider demonstrate before live work?",
+          "Can the scope expand after the pilot?",
+          "Who retains judgment outside the administrative lane?"
+        ],
+        "marketplace-seller-virtual-assistant-catalog-operations": [
+          "Evaluate a Virtual Assistant for Marketplace Catalog Operations: Choose a product source hierarchy",
+          "Preserve parent and variation relationships",
+          "Require evidence for every claim",
+          "Stage high-impact changes",
+          "Monitor platform feedback carefully",
+          "Reconcile the customer view",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which source controls each attribute?",
+          "2. Who approves claims and safety information?",
+          "3. How are variation relationships tested?",
+          "4. Which edits require preview approval?",
+          "5. Who answers marketplace compliance notices?",
+          "6. What live-page evidence closes the change?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "What should a provider demonstrate before live work?",
+          "Can the scope expand after the pilot?",
+          "Who retains judgment outside the administrative lane?"
+        ],
+        "healthcare-virtual-assistant-referral-coordination": [
+          "Set Boundaries for Virtual Assistant Referral Coordination: Define the referral order source",
+          "Use a minimum-necessary packet",
+          "Separate scheduling from triage",
+          "Track authorization without interpreting coverage",
+          "Respect patient choice and identity controls",
+          "Close the loop with evidence",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. What document creates an authorized referral?",
+          "2. Which records may be shared with each recipient?",
+          "3. What words trigger clinical escalation?",
+          "4. Who interprets payer decisions?",
+          "5. How is patient identity verified?",
+          "6. What evidence proves referral-loop closure?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "What should a provider demonstrate before live work?",
+          "Can the scope expand after the pilot?",
+          "Who retains judgment outside the administrative lane?"
+        ],
+        "accounting-firm-virtual-assistant-client-document-intake": [
+          "Design Virtual Assistant Support for Accounting Client Document Intake: Build requests from an engagement-owned list",
+          "Use a secure intake channel",
+          "Preserve the received artifact",
+          "Distinguish present from acceptable",
+          "Escalate sensitive mismatches",
+          "Hand off a reconciled index",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Who owns each engagement request list?",
+          "2. Which channel is approved for uploads?",
+          "3. How is provenance retained after naming changes?",
+          "4. Who decides whether a document is sufficient?",
+          "5. What triggers the security route?",
+          "6. What states appear in the professional handoff?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "What should a provider demonstrate before live work?",
+          "Can the scope expand after the pilot?",
+          "Who retains judgment outside the administrative lane?"
+        ],
+        "insurance-agency-virtual-assistant-policy-service-intake": [
+          "Scope Virtual Assistant Support for Insurance Policy Service Intake: Classify by requested outcome",
+          "Verify identity and authority",
+          "Route coverage questions intact",
+          "Control certificate preparation",
+          "Treat claims reports as time-sensitive intake",
+          "Audit communications and access",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which categories may administrative staff resolve?",
+          "2. How are callers and representatives verified?",
+          "3. Who interprets and changes coverage?",
+          "4. What certificate fields require review?",
+          "5. Where do new claim reports go?",
+          "6. How are material communication errors escalated?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "What should a provider demonstrate before live work?",
+          "Can the scope expand after the pilot?",
+          "Who retains judgment outside the administrative lane?"
+        ],
+        "home-services-virtual-assistant-dispatch-intake": [
+          "Evaluate a Virtual Assistant for Home-Service Dispatch Intake: Define bookable work types",
+          "Create safety stop triggers",
+          "Collect access facts carefully",
+          "Offer windows from real capacity",
+          "Separate estimates from commitments",
+          "Verify the shift handoff",
+          "A realistic boundary test",
+          "Questions to put in the provider scorecard",
+          "1. Which work types are directly bookable?",
+          "2. What customer reports trigger an urgent route?",
+          "3. Who can change route priority?",
+          "4. Which access details are restricted?",
+          "5. Who approves price and warranty exceptions?",
+          "6. How is the shift handoff acknowledged?",
+          "Make the buying decision",
+          "Frequently asked questions",
+          "What should a provider demonstrate before live work?",
+          "Can the scope expand after the pilot?",
+          "Who retains judgment outside the administrative lane?"
+        ]
+      },
       "maxPairwiseFiveWordShingleOverlapPercent": 39.64,
       "maxRepeatedSubstantiveParagraphs": 0,
       "maxRepeatedSubstantiveSentences": 0,
-      "qualitativeAudit": "pass: distinct topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes",
+      "maxNearSentenceTokenJaccard": 0.826,
+      "maxExactSharedHeadingsPerPair": 7,
+      "qualitativeAudit": "fail: shared sentence, section, or argument templates require substantive rewriting",
       "pairs": [
         {
           "slugs": [
@@ -368,7 +624,14 @@
           ],
           "fiveWordShingleOverlapPercent": 19.632,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.656,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -377,7 +640,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.51,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.767,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -386,7 +656,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.464,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.667,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -395,7 +672,14 @@
           ],
           "fiveWordShingleOverlapPercent": 21.803,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.697,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -404,7 +688,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.419,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.656,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -413,7 +704,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.702,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.71,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -422,7 +720,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.587,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.667,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -431,7 +736,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.501,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -440,7 +752,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.972,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.677,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -449,7 +768,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.676,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.677,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -458,7 +784,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.664,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.733,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -467,7 +800,14 @@
           ],
           "fiveWordShingleOverlapPercent": 19.071,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -476,7 +816,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.382,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.677,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -485,7 +832,14 @@
           ],
           "fiveWordShingleOverlapPercent": 20.574,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -494,7 +848,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.174,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.656,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -503,7 +864,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.052,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.692,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -512,7 +880,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.363,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.714,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -521,7 +896,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.39,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -530,7 +912,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.86,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.712,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -539,7 +928,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.113,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.714,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -548,7 +944,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.327,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.72,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -557,7 +960,14 @@
           ],
           "fiveWordShingleOverlapPercent": 19.771,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.677,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -566,7 +976,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.934,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -575,7 +992,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.337,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.667,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -584,7 +1008,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.002,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.724,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -593,7 +1024,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.816,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.704,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -602,7 +1040,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.278,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.725,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -611,7 +1056,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.194,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.712,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -620,7 +1072,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.45,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.731,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -629,7 +1088,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.659,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.714,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -638,7 +1104,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.525,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.759,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -647,7 +1120,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.709,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.656,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -656,7 +1136,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.569,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.692,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -665,7 +1152,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.48,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.68,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -674,7 +1168,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.39,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -683,7 +1184,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.972,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.72,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -692,7 +1200,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.225,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.759,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -701,7 +1216,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.889,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.7,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -710,7 +1232,14 @@
           ],
           "fiveWordShingleOverlapPercent": 18.443,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.677,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -719,7 +1248,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.027,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.706,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -728,7 +1264,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.587,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.714,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -737,7 +1280,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.833,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.724,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -746,7 +1296,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.75,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.692,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -755,7 +1312,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.239,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.724,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -764,7 +1328,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.106,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.724,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -773,7 +1344,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.16,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.679,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -782,7 +1360,14 @@
           ],
           "fiveWordShingleOverlapPercent": 26.257,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.727,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -791,7 +1376,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.724,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.759,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -800,7 +1392,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.861,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.696,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -809,7 +1408,14 @@
           ],
           "fiveWordShingleOverlapPercent": 25.338,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.727,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -818,7 +1424,14 @@
           ],
           "fiveWordShingleOverlapPercent": 24.889,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.733,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard"
+          ]
         },
         {
           "slugs": [
@@ -827,7 +1440,17 @@
           ],
           "fiveWordShingleOverlapPercent": 39.553,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.792,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -836,7 +1459,17 @@
           ],
           "fiveWordShingleOverlapPercent": 36.971,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.72,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -845,7 +1478,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.958,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.758,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -854,7 +1497,17 @@
           ],
           "fiveWordShingleOverlapPercent": 38.176,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.808,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -863,7 +1516,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.611,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.741,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -872,7 +1535,17 @@
           ],
           "fiveWordShingleOverlapPercent": 36.983,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.759,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -881,7 +1554,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.318,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.72,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -890,7 +1573,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.5,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.769,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -899,7 +1592,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.654,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.769,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -908,7 +1611,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.528,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.792,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -917,7 +1630,17 @@
           ],
           "fiveWordShingleOverlapPercent": 37.05,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.75,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -926,7 +1649,17 @@
           ],
           "fiveWordShingleOverlapPercent": 36.748,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.786,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -935,7 +1668,17 @@
           ],
           "fiveWordShingleOverlapPercent": 38.739,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.792,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -944,7 +1687,17 @@
           ],
           "fiveWordShingleOverlapPercent": 38.069,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.792,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         },
         {
           "slugs": [
@@ -953,7 +1706,17 @@
           ],
           "fiveWordShingleOverlapPercent": 39.64,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.826,
+          "exactSharedHeadings": [
+            "A realistic boundary test",
+            "Can the scope expand after the pilot?",
+            "Frequently asked questions",
+            "Make the buying decision",
+            "Questions to put in the provider scorecard",
+            "What should a provider demonstrate before live work?",
+            "Who retains judgment outside the administrative lane?"
+          ]
         }
       ]
     },
@@ -1113,10 +1876,68 @@
           }
         }
       ],
+      "outlines": {
+        "virtual-assistant-provider-supervision-evidence-study": [
+          "Executive finding",
+          "Research question and unit of analysis",
+          "Supervision has several different jobs",
+          "Inspect the reviewer's operating conditions",
+          "Measure detection and recovery separately",
+          "Decide with a role-matched pilot",
+          "Build the supervision decision record",
+          "Facts, analysis, and inference"
+        ],
+        "virtual-assistant-billing-time-reconciliation-study": [
+          "Executive finding",
+          "Research question and unit of analysis",
+          "Begin with the commercial question",
+          "Do not confuse motion with contribution",
+          "Test exception accounting",
+          "Apply a privacy boundary",
+          "Reach a bounded decision",
+          "Reconcile the invoice backward",
+          "Facts, analysis, and inference"
+        ],
+        "virtual-assistant-subcontractor-transparency-study": [
+          "Executive finding",
+          "Research question and unit of analysis",
+          "Map functions, not just company names",
+          "Follow one task through the chain",
+          "Define material changes before they happen",
+          "Examine oversight and incident routes",
+          "Make exit part of selection",
+          "Build the delivery-chain record",
+          "Facts, analysis, and inference"
+        ],
+        "virtual-assistant-business-continuity-test-study": [
+          "Executive finding",
+          "Research question and unit of analysis",
+          "Define continuity as a service decision",
+          "Test communications without the normal channel",
+          "Preserve queue truth",
+          "Examine backup access",
+          "Close with learning, not a pass badge",
+          "Record continuity acceptance",
+          "Facts, analysis, and inference"
+        ],
+        "virtual-assistant-service-exit-data-return-study": [
+          "Executive finding",
+          "Research question and unit of analysis",
+          "Design the exit before granting access",
+          "Reconcile open work",
+          "Close more than the visible login",
+          "Make deletion statements inventory-based",
+          "Test the buyer outcome",
+          "Require two exit sign-offs",
+          "Facts, analysis, and inference"
+        ]
+      },
       "maxPairwiseFiveWordShingleOverlapPercent": 1.328,
       "maxRepeatedSubstantiveParagraphs": 0,
       "maxRepeatedSubstantiveSentences": 0,
-      "qualitativeAudit": "pass: distinct topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes",
+      "maxNearSentenceTokenJaccard": 0.5,
+      "maxExactSharedHeadingsPerPair": 3,
+      "qualitativeAudit": "pass: topic-specific section sequences, scenarios, examples, operational reasoning, decision criteria, limitations, and reader outcomes pass exact and near-duplicate checks",
       "pairs": [
         {
           "slugs": [
@@ -1125,7 +1946,13 @@
           ],
           "fiveWordShingleOverlapPercent": 1.079,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.382,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1134,7 +1961,13 @@
           ],
           "fiveWordShingleOverlapPercent": 0.818,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.385,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1143,7 +1976,13 @@
           ],
           "fiveWordShingleOverlapPercent": 0.664,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.5,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1152,7 +1991,13 @@
           ],
           "fiveWordShingleOverlapPercent": 1.071,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.31,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1161,7 +2006,13 @@
           ],
           "fiveWordShingleOverlapPercent": 0.913,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.31,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1170,7 +2021,13 @@
           ],
           "fiveWordShingleOverlapPercent": 0.831,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.32,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1179,7 +2036,13 @@
           ],
           "fiveWordShingleOverlapPercent": 1.328,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.344,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1188,7 +2051,13 @@
           ],
           "fiveWordShingleOverlapPercent": 0.831,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.276,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1197,7 +2066,13 @@
           ],
           "fiveWordShingleOverlapPercent": 0.988,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.4,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         },
         {
           "slugs": [
@@ -1206,10 +2081,18 @@
           ],
           "fiveWordShingleOverlapPercent": 0.997,
           "repeatedSubstantiveParagraphs": 0,
-          "repeatedSubstantiveSentences": 0
+          "repeatedSubstantiveSentences": 0,
+          "maxNearSentenceTokenJaccard": 0.385,
+          "exactSharedHeadings": [
+            "Executive finding",
+            "Facts, analysis, and inference",
+            "Research question and unit of analysis"
+          ]
         }
       ]
     }
   },
-  "errors": []
+  "errors": [
+    "blog: originality overlap=39.640, repeated paragraphs=0, repeated sentences=0, near-sentence=0.826, shared headings=7"
+  ]
 }
