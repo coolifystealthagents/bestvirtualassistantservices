@@ -1,0 +1,1062 @@
+{
+  "schemaVersion": 1,
+  "cycleLabel": "2026-10-05",
+  "siteTimezone": "UTC",
+  "actualPublicationDate": "2026-10-06",
+  "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+  "deployment": {
+    "appId": "o48em959jxfxy27gkxx7lnn4",
+    "deploymentId": "zk5cj6iit3g2h0e2fiabwmhs",
+    "status": "Success",
+    "duration": "03m26s"
+  },
+  "startedAt": "2026-10-06T09:02:54.633184Z",
+  "verifiedCount": 0,
+  "requiredCount": 17,
+  "records": [
+    {
+      "family": "blog",
+      "slug": "property-management-virtual-assistant-tenant-communications",
+      "url": "https://bestvirtualassistantservices.com/blog/property-management-virtual-assistant-tenant-communications",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "How to Evaluate a Virtual Assistant for Property Management Communications",
+      "sourceContentHash": "3c0a1b4e6513fbe7a6c2d050c06b69a9c420503630f3945131014703fca56287",
+      "orderedBodyParagraphCount": 17,
+      "orderedBodyHash": "611ed4642aec087516bde6e6d0f37ac3a4b921ff9762598f9695897013880822",
+      "liveOrderedBodyHash": "ebc23f26211ebd647fae64dc37d6550aa9a6dfae05affd24ff1b45d09565f444",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "construction-virtual-assistant-bid-coordination",
+      "url": "https://bestvirtualassistantservices.com/blog/construction-virtual-assistant-bid-coordination",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "How to Scope Virtual Assistant Support for Construction Bid Coordination",
+      "sourceContentHash": "a45ba1ae7411fae1e362364ad68e1d2962a8193b7869993454c3f5d3c6a1823c",
+      "orderedBodyParagraphCount": 19,
+      "orderedBodyHash": "6438939e2253449a85371277b94a19c7130201e49141b181a36133cbfdfd7fb6",
+      "liveOrderedBodyHash": "4c71958261dd11cb2dcf04b72b64b3feec166bad8c783238553ac74cf9e65373",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "architecture-firm-virtual-assistant-submittal-tracking",
+      "url": "https://bestvirtualassistantservices.com/blog/architecture-firm-virtual-assistant-submittal-tracking",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Evaluate Virtual Assistant Support for Architecture Submittal Tracking",
+      "sourceContentHash": "ef40defe16146816b4dc243242a4edc0c6eb05fac8d3b7636d3c178ed3c0d5de",
+      "orderedBodyParagraphCount": 16,
+      "orderedBodyHash": "a5a178a36ea225dfcd6df58a32897f90cfe231f4aef8b5ab83c8b97b14fe49bf",
+      "liveOrderedBodyHash": "fb94d35b7ac24cd5bbed4b2af3d6551286c84a99f87376ac5edff16787bcf758",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "saas-virtual-assistant-customer-onboarding-scope",
+      "url": "https://bestvirtualassistantservices.com/blog/saas-virtual-assistant-customer-onboarding-scope",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Scope a Virtual Assistant for SaaS Customer Onboarding",
+      "sourceContentHash": "f6a1fcd56d93d7d3b0c006dc60e5c228b7d2d70b55cd4f9eba58b49349eba0f8",
+      "orderedBodyParagraphCount": 18,
+      "orderedBodyHash": "6d567172cd89b48283e859fdde71682e541176201290a5e8cc1b09f869f46de8",
+      "liveOrderedBodyHash": "d85df4433210b00d7f922bcae49df024f30a04ce11de3ef9aa087c7e924b9b4f",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "online-course-virtual-assistant-student-operations",
+      "url": "https://bestvirtualassistantservices.com/blog/online-course-virtual-assistant-student-operations",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Choose a Virtual Assistant for Online Course Student Operations",
+      "sourceContentHash": "b3b20f45a5c126eb7134972df0ad414df52e1dad69f26d579580c215b3991863",
+      "orderedBodyParagraphCount": 18,
+      "orderedBodyHash": "d95f05935db78ec73fb2f1634f8cc4c5824e219d647c45a79edfbfbe9e2858aa",
+      "liveOrderedBodyHash": "cf2e9c610ae6f9a6946ad0a43982ef83ca6af59a4e8f74f7f9d7c0e9ca159746",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "membership-association-virtual-assistant-renewal-operations",
+      "url": "https://bestvirtualassistantservices.com/blog/membership-association-virtual-assistant-renewal-operations",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Design Virtual Assistant Support for Membership Renewal Operations",
+      "sourceContentHash": "c36441151827db01357634a65b2e9327eb6c2c515f9ffe2c5c41d89f600de043",
+      "orderedBodyParagraphCount": 17,
+      "orderedBodyHash": "29ba5bc5b4741109cb5c1d5bc5b689de9be24928b253c2c4acfaa0c9f6e3b9d1",
+      "liveOrderedBodyHash": "549809a5fd181ceee9c686ff09de98fa1139ece87d9e907983235a9d569dfaca",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "nonprofit-virtual-assistant-donor-records-workflow",
+      "url": "https://bestvirtualassistantservices.com/blog/nonprofit-virtual-assistant-donor-records-workflow",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Scope a Virtual Assistant for Nonprofit Donor Records",
+      "sourceContentHash": "899efa092d8887925c424c57cb5be9649d1be042d873e068225007566f2e8266",
+      "orderedBodyParagraphCount": 17,
+      "orderedBodyHash": "a09db2477ded14560b787b3ca2b112774690f531673e0ff15eb99e574bb970f1",
+      "liveOrderedBodyHash": "0bb02ebea4cd9474bdf749a92091aff7e0f21acaa4fe0c8a971c2922b292e73e",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "marketplace-seller-virtual-assistant-catalog-operations",
+      "url": "https://bestvirtualassistantservices.com/blog/marketplace-seller-virtual-assistant-catalog-operations",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Evaluate a Virtual Assistant for Marketplace Catalog Operations",
+      "sourceContentHash": "c2f10e9661e54965a03623391c2727aeed2a4b3b27713394e23e8aee945273d0",
+      "orderedBodyParagraphCount": 15,
+      "orderedBodyHash": "077820c4b2d07d324417fb4d796c7430ee68a8d492453487d33aac49e7de8f9a",
+      "liveOrderedBodyHash": "34a4e769c8da42a316f88125341ab37158cd33b3471c6956a9e34d4aae2caef1",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "healthcare-virtual-assistant-referral-coordination",
+      "url": "https://bestvirtualassistantservices.com/blog/healthcare-virtual-assistant-referral-coordination",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Set Boundaries for Virtual Assistant Referral Coordination",
+      "sourceContentHash": "6b78facdb2deb50b8a5fac502569a0dd1af69f20389e3e739f05ae6a72ce172c",
+      "orderedBodyParagraphCount": 14,
+      "orderedBodyHash": "bbd9b6c8579836cb3f17184dd4d85f28e4b5362ce68bdbfd38f4d5a17159d881",
+      "liveOrderedBodyHash": "0778abb5d3a1309f78203fbe44f46e42ded9754d5c80e55c344b911de4f80db8",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "accounting-firm-virtual-assistant-client-document-intake",
+      "url": "https://bestvirtualassistantservices.com/blog/accounting-firm-virtual-assistant-client-document-intake",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Design Virtual Assistant Support for Accounting Client Document Intake",
+      "sourceContentHash": "46b2634740158f81484957ff34a8c0dde6fd60bb988bd89d6a8e9256d4f1d6cd",
+      "orderedBodyParagraphCount": 14,
+      "orderedBodyHash": "2d0f52a5ee18b77837a209bce8b9f5ad1f0dc3f91c0b548dd4da6c7711cefb0f",
+      "liveOrderedBodyHash": "04c5b044101c78fa15a574814abaac513a7faa6f461bc08b98e78bd46e1adcda",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "insurance-agency-virtual-assistant-policy-service-intake",
+      "url": "https://bestvirtualassistantservices.com/blog/insurance-agency-virtual-assistant-policy-service-intake",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Scope Virtual Assistant Support for Insurance Policy Service Intake",
+      "sourceContentHash": "cae2454b35b696aa80e7ee1f44108b562b31c27d540f7e0025f317cffe197936",
+      "orderedBodyParagraphCount": 13,
+      "orderedBodyHash": "4a2bc7c5e06782274073b4596800cbe99911b1bfdd7516f07e0dbdd3c566a834",
+      "liveOrderedBodyHash": "1e0fcbee0105f7735ff587057f3dc2e5850c6f4ac9298e71547800251163f717",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "blog",
+      "slug": "home-services-virtual-assistant-dispatch-intake",
+      "url": "https://bestvirtualassistantservices.com/blog/home-services-virtual-assistant-dispatch-intake",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "Evaluate a Virtual Assistant for Home-Service Dispatch Intake",
+      "sourceContentHash": "547ea60cef12256cc507dccdac2e6846947c32bc2c92d85e58aff50b117b4670",
+      "orderedBodyParagraphCount": 15,
+      "orderedBodyHash": "7d628cbb00b881efc79096c064cf36f16c898cd90869f3eef77dab047ecb4e29",
+      "liveOrderedBodyHash": "bd3c56352c79095423f53a8957ae24b1ca793e8e47fec4356092afff76e10a50",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/compare",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/services",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": false,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-provider-supervision-evidence-study",
+      "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-provider-supervision-evidence-study",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "How Can Buyers Verify Supervision in a Managed Virtual Assistant Service?",
+      "sourceContentHash": "3b32ef78dea37e51c7bd964735309aa827f558558e8a6a04f51be505a156e5b5",
+      "orderedBodyParagraphCount": 18,
+      "orderedBodyHash": "e35929f0c5eef2c9d5bcb06b308d5ddbfb12f48c5e64c6cba0c8e7232180f003",
+      "liveOrderedBodyHash": "bd764699f2d9c3922bb0faa8c49eee6a63fe25fc104fd3bad79a437e0731dbb5",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-quality-assurance",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-vendor-comparison-methodology",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-service-quality-assurance.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": true,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-billing-time-reconciliation-study",
+      "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-billing-time-reconciliation-study",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "What Time-Tracking Evidence Helps Buyers Compare Virtual Assistant Services?",
+      "sourceContentHash": "8aa88dab4d9a2d46cdd038dbe68b5d30549cb53bb9018ba9cf454ae35ee22913",
+      "orderedBodyParagraphCount": 20,
+      "orderedBodyHash": "7b2100fa7306bc4992d75818537db26496032d4301d5d936ed54c76e14ebb866",
+      "liveOrderedBodyHash": "e1d42080360bdf4cdc3b7161ccc64ae39466bfe299a803fc59d33e8036fb48b3",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-quality-assurance",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-vendor-comparison-methodology",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-weekly-operations-report.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": true,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-subcontractor-transparency-study",
+      "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-subcontractor-transparency-study",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "How Should Buyers Assess Subcontractor Use by a Virtual Assistant Provider?",
+      "sourceContentHash": "21f71f07db06561f6e0d0e3d34f55849495f449b88877058cc0fa455fd6a6e9e",
+      "orderedBodyParagraphCount": 20,
+      "orderedBodyHash": "8b21f24d039a00d8da471d9ae3cc7295a1061e7c230722a5c4a5c18401dda816",
+      "liveOrderedBodyHash": "ff36c492aa62572364473d6557e5f60ad977723acdd2039052da517ba197357e",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-quality-assurance",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-vendor-comparison-methodology",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-vendor-risk-review.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": true,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-business-continuity-test-study",
+      "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-business-continuity-test-study",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "How Can Buyers Test a Virtual Assistant Provider's Business Continuity Claims?",
+      "sourceContentHash": "b45884fe31b41a427f6037b0d027a662c3781d0243e003032dbe480b518f9c1e",
+      "orderedBodyParagraphCount": 21,
+      "orderedBodyHash": "0dae7525fc4be9bc4a35e120d55260fbdc92d0be3d10b6b33fdd607ca18f9200",
+      "liveOrderedBodyHash": "9c862d6eaefc48b051b98736b231bb5420f25ddbec85de94428f0c37f765506c",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-quality-assurance",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-vendor-comparison-methodology",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-remote-work-continuity.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": true,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    },
+    {
+      "family": "research",
+      "slug": "virtual-assistant-service-exit-data-return-study",
+      "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-exit-data-return-study",
+      "verifiedAt": "2026-10-06T09:02:54.633184Z",
+      "httpStatus": 200,
+      "mime": "text/html",
+      "title": "What Should Buyers Verify About Data Return and Deletion When a Virtual Assistant Service Ends?",
+      "sourceContentHash": "74290d35115f19114d9ca9da91f8435f48f05d6c640a043f9ad5322e7fc74943",
+      "orderedBodyParagraphCount": 20,
+      "orderedBodyHash": "69c27b05a449bcb12b9b4065092897721017ad8be88337953d8b113d0d49943b",
+      "liveOrderedBodyHash": "b1ea6a21cd0fc52a9347518b72d2103d404f05349b630dc392c859e2e9a3ce96",
+      "contextualLinks": [
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-service-quality-assurance",
+          "status": 200,
+          "mime": "text/html"
+        },
+        {
+          "url": "https://bestvirtualassistantservices.com/research/virtual-assistant-vendor-comparison-methodology",
+          "status": 200,
+          "mime": "text/html"
+        }
+      ],
+      "image": {
+        "url": "https://bestvirtualassistantservices.com/blog/images/virtual-assistant-document-access-governance.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "signature": "RIFF....WEBP",
+        "decoded": true,
+        "dimensions": [
+          1200,
+          630
+        ],
+        "format": "WEBP"
+      },
+      "checks": {
+        "http": true,
+        "title": true,
+        "orderedFullBody": false,
+        "dateVisible": true,
+        "datePublished": true,
+        "dateModified": true,
+        "canonical": true,
+        "imageReference": true,
+        "contextualLinks": true,
+        "contextualAnchors": false,
+        "authoritativeAnchors": true,
+        "familyIndex": true,
+        "sitemap": true,
+        "imageResponse": true
+      }
+    }
+  ],
+  "authoritativeDestinations": [
+    {
+      "url": "https://www.hud.gov/fairhousing",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.nist.gov/itl/smallbusinesscyber",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.ada.gov/resources/web-guidance/",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/index.html",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.cisa.gov/secure-our-world/use-strong-passwords",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://privacy.gov.ph/data-privacy-act/",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://privacy.gov.ph/data-security/",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.nist.gov/cyberframework",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.cisa.gov/audiences/small-and-medium-businesses",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.archives.gov/records-mgmt",
+      "status": 200,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://www.oecd.org/en/topics/digital-security.html",
+      "status": 403,
+      "mime": "text/html",
+      "reachable": true
+    },
+    {
+      "url": "https://psa.gov.ph/content/digital-economy-contributes-98-percent-philippine-economy-2025",
+      "status": 403,
+      "mime": "text/html",
+      "reachable": true
+    }
+  ],
+  "familyIndexes": {
+    "blog": [
+      200,
+      "text/html"
+    ],
+    "research": [
+      200,
+      "text/html"
+    ]
+  },
+  "sitemap": {
+    "url": "https://bestvirtualassistantservices.com/sitemap.xml",
+    "httpStatus": 200
+  },
+  "errors": [
+    "blog/property-management-virtual-assistant-tenant-communications: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/construction-virtual-assistant-bid-coordination: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/architecture-firm-virtual-assistant-submittal-tracking: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/saas-virtual-assistant-customer-onboarding-scope: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/online-course-virtual-assistant-student-operations: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/membership-association-virtual-assistant-renewal-operations: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/nonprofit-virtual-assistant-donor-records-workflow: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/marketplace-seller-virtual-assistant-catalog-operations: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/healthcare-virtual-assistant-referral-coordination: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/accounting-firm-virtual-assistant-client-document-intake: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/insurance-agency-virtual-assistant-policy-service-intake: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "blog/home-services-virtual-assistant-dispatch-intake: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': False, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "research/virtual-assistant-provider-supervision-evidence-study: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': True, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "research/virtual-assistant-billing-time-reconciliation-study: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': True, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "research/virtual-assistant-subcontractor-transparency-study: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': True, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "research/virtual-assistant-business-continuity-test-study: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': True, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}",
+    "research/virtual-assistant-service-exit-data-return-study: {'http': True, 'title': True, 'orderedFullBody': False, 'dateVisible': True, 'datePublished': True, 'dateModified': True, 'canonical': True, 'imageReference': True, 'contextualLinks': True, 'contextualAnchors': False, 'authoritativeAnchors': True, 'familyIndex': True, 'sitemap': True, 'imageResponse': True}"
+  ]
+}

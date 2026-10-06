@@ -48,8 +48,26 @@ function CitationLinks({ ids }: { ids?: readonly number[] }) {
   return <>{ids.map((id) => <sup className="research-citation" key={id}><a href={`#source-${id}`} aria-label={`Source ${id}`}>[{id}]</a></sup>)}</>;
 }
 
+function escapeAttribute(value: string) {
+  return value.replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+}
+
+function escapeText(value: string) {
+  return value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+}
+
+function renderArticleLinks(text: string) {
+  return text.replace(/\[([^\]\n]+)\]\((\/[^\s)]*|https?:\/\/[^\s)]+)\)/g, (markdown, label: string, href: string) => {
+    const safeInternal = href.startsWith('/') && !href.startsWith('//');
+    const safeExternal = /^https?:\/\//.test(href);
+    if (!safeInternal && !safeExternal) return markdown;
+    const externalAttributes = safeExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+    return `<a href="${escapeAttribute(href)}"${externalAttributes}>${escapeText(label)}</a>`;
+  });
+}
+
 function Paragraph({ paragraph }: { paragraph: ResearchParagraph }) {
-  return <p>{paragraph.text}<CitationLinks ids={paragraph.citations}/></p>;
+  return <p><span dangerouslySetInnerHTML={{ __html: renderArticleLinks(paragraph.text) }} /><CitationLinks ids={paragraph.citations}/></p>;
 }
 
 export default async function ResearchArticle({ params }: { params: Promise<{ slug: string }> }) {

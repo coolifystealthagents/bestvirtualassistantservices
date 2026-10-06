@@ -10,7 +10,7 @@ DATE='2026-10-06'; DOMAIN='https://bestvirtualassistantservices.com'
 word_re=re.compile(r"[A-Za-z0-9]+(?:[-'][A-Za-z0-9]+)*")
 def words(s): return word_re.findall(s)
 def body(raw): return raw.split('---',2)[2].split('\n## Sources checked',1)[0]
-def norm(s): return re.sub(r'\s+',' ',s.strip())
+def norm(s): return re.sub(r'\s+([.,;:!?])',r'\1',re.sub(r'\s+',' ',s.strip()))
 def shingles(s):
     w=[x.lower() for x in words(s)]; return {tuple(w[i:i+5]) for i in range(len(w)-4)}
 def longest_exact_run(a,b):
@@ -51,7 +51,7 @@ for family,required,min_words in [('blog',12,900),('research',5,1200)]:
             with Image.open(image_path) as im: dims=im.size; fmt=im.format; im.verify()
         except Exception as exc: dims=None; fmt=None; errors.append(f'{family}/{e["slug"]}: image decode {exc}')
         html_path=ROOT/f'.next/server/app/{family}/{e["slug"]}.html'; html=html_path.read_text(); parser=Text(); parser.feed(html); visible=norm(' '.join(parser.parts))
-        paras=[norm(x) for x in article.split('\n\n') if len(words(x))>=20 and not x.startswith('#')]
+        paras=[norm(re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',x)) for x in article.split('\n\n') if len(words(x))>=20 and not x.startswith('#')]
         links=re.findall(r'\[[^\]]+\]\((/[^)]+)\)',article); missing=[]
         for link in links:
             slug=link.rstrip('/').split('/')[-1]

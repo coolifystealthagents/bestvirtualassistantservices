@@ -39,8 +39,8 @@ for e in m['entries']:
     if CONTENT_SHA: e.update({'publishedAt':'2026-10-06','actualPublicationDate':'2026-10-06','publicationDateStatus':'pending browser-operator deployment and live verification','commitSha':CONTENT_SHA,'deploymentEvidence':'PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS','verificationTime':'PENDING_LIVE_VERIFICATION'})
     html_path=ROOT/f'.next/server/app/research/{e["slug"]}.html'; rendered={}
     if html_path.exists():
-        html=html_path.read_text(); parser=Text(); parser.feed(html); visible=re.sub(r'\s+',' ',' '.join(parser.parts))
-        title=re.search(r'^title:\s*(.+)$',fm,re.M).group(1); paras=[re.sub(r'\s+',' ',x.strip()) for x in body.split('\n\n') if len(words(x))>=20 and not x.startswith('#')]
+        html=html_path.read_text(); parser=Text(); parser.feed(html); visible=re.sub(r'\s+([.,;:!?])',r'\1',re.sub(r'\s+',' ',' '.join(parser.parts)))
+        title=re.search(r'^title:\s*(.+)$',fm,re.M).group(1); paras=[re.sub(r'\s+([.,;:!?])',r'\1',re.sub(r'\s+',' ',re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',x).strip())) for x in body.split('\n\n') if len(words(x))>=20 and not x.startswith('#')]
         rendered={'htmlPath':str(html_path.relative_to(ROOT)),'fullTitle':title in visible,'allSubstantiveParagraphs':all(p in visible for p in paras),'canonical':f'https://bestvirtualassistantservices.com/research/{e["slug"]}' in html,'featuredImageReference':image in html,'researchIndexEntry':e['slug'] in (ROOT/'.next/server/app/research.html').read_text(),'sitemapEntry':e['slug'] in sitemap}
         if not all(rendered.values()): errors.append(f"{e['slug']}: rendered checks {rendered}")
     else: errors.append(f"{e['slug']}: rendered HTML missing")

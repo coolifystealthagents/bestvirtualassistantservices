@@ -63,6 +63,18 @@ const october2RenderedLinkSlugs = new Set([
   'virtual-assistant-replacement-clause-review',
   'virtual-assistant-knowledge-transfer-package',
   'virtual-assistant-delegation-readiness-assessment',
+  'property-management-virtual-assistant-tenant-communications',
+  'construction-virtual-assistant-bid-coordination',
+  'architecture-firm-virtual-assistant-submittal-tracking',
+  'saas-virtual-assistant-customer-onboarding-scope',
+  'online-course-virtual-assistant-student-operations',
+  'membership-association-virtual-assistant-renewal-operations',
+  'nonprofit-virtual-assistant-donor-records-workflow',
+  'marketplace-seller-virtual-assistant-catalog-operations',
+  'healthcare-virtual-assistant-referral-coordination',
+  'accounting-firm-virtual-assistant-client-document-intake',
+  'insurance-agency-virtual-assistant-policy-service-intake',
+  'home-services-virtual-assistant-dispatch-intake',
 ]);
 
 function ArticleHtml({ html, renderLinks }: { html: string; renderLinks: boolean }) {

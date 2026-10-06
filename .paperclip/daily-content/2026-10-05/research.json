@@ -68,8 +68,10 @@
       ],
       "actualPublicationDate": "2026-10-06",
       "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
-      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
-      "verificationTime": "PENDING_LIVE_VERIFICATION"
+      "deploymentEvidence": "Coolify3 o48em959jxfxy27gkxx7lnn4 deployment zk5cj6iit3g2h0e2fiabwmhs Success exact SHA 4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "verificationTime": "2026-10-06T09:02:54.633184Z",
+      "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "liveVerificationStatus": "failed contextual-anchor rendering; pending approved repair"
     },
     {
       "family": "research",
@@ -133,8 +135,10 @@
       ],
       "actualPublicationDate": "2026-10-06",
       "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
-      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
-      "verificationTime": "PENDING_LIVE_VERIFICATION"
+      "deploymentEvidence": "Coolify3 o48em959jxfxy27gkxx7lnn4 deployment zk5cj6iit3g2h0e2fiabwmhs Success exact SHA 4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "verificationTime": "2026-10-06T09:02:54.633184Z",
+      "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "liveVerificationStatus": "failed contextual-anchor rendering; pending approved repair"
     },
     {
       "family": "research",
@@ -198,8 +202,10 @@
       ],
       "actualPublicationDate": "2026-10-06",
       "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
-      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
-      "verificationTime": "PENDING_LIVE_VERIFICATION"
+      "deploymentEvidence": "Coolify3 o48em959jxfxy27gkxx7lnn4 deployment zk5cj6iit3g2h0e2fiabwmhs Success exact SHA 4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "verificationTime": "2026-10-06T09:02:54.633184Z",
+      "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "liveVerificationStatus": "failed contextual-anchor rendering; pending approved repair"
     },
     {
       "family": "research",
@@ -263,8 +269,10 @@
       ],
       "actualPublicationDate": "2026-10-06",
       "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
-      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
-      "verificationTime": "PENDING_LIVE_VERIFICATION"
+      "deploymentEvidence": "Coolify3 o48em959jxfxy27gkxx7lnn4 deployment zk5cj6iit3g2h0e2fiabwmhs Success exact SHA 4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "verificationTime": "2026-10-06T09:02:54.633184Z",
+      "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "liveVerificationStatus": "failed contextual-anchor rendering; pending approved repair"
     },
     {
       "family": "research",
@@ -328,8 +336,10 @@
       ],
       "actualPublicationDate": "2026-10-06",
       "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
-      "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
-      "verificationTime": "PENDING_LIVE_VERIFICATION"
+      "deploymentEvidence": "Coolify3 o48em959jxfxy27gkxx7lnn4 deployment zk5cj6iit3g2h0e2fiabwmhs Success exact SHA 4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "verificationTime": "2026-10-06T09:02:54.633184Z",
+      "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+      "liveVerificationStatus": "failed contextual-anchor rendering; pending approved repair"
     }
   ],
   "validation": {
@@ -342,7 +352,10 @@
   },
   "contentCommitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
   "combinedValidatedHead": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
-  "remoteSha": "PENDING_SOLE_PUSH",
-  "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
-  "verificationTime": "PENDING_LIVE_VERIFICATION"
+  "remoteSha": "4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+  "deploymentEvidence": "Coolify3 o48em959jxfxy27gkxx7lnn4 deployment zk5cj6iit3g2h0e2fiabwmhs Success exact SHA 4d0afa2e1bcb8bd8fd454fabc184ce6ba3d4b69c",
+  "verificationTime": "2026-10-06T09:02:54.633184Z",
+  "verified": 0,
+  "deploymentId": "zk5cj6iit3g2h0e2fiabwmhs",
+  "liveVerificationStatus": "fail: contextual Markdown links render as literal text; local repair required before completion"
 }
