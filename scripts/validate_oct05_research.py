@@ -36,7 +36,7 @@ for e in m['entries']:
     if missing: errors.append(f"{e['slug']}: missing internal destinations {missing}")
     if dims!=(1200,630) or fmt!='WEBP': errors.append(f"{e['slug']}: image {dims} {fmt}")
     h=hashlib.sha256(raw.encode()).hexdigest(); e.update({'bodyWordCount':wc,'contentHash':h,'imagePath':image,'imageDimensions':list(dims or ()),'imageMime':'image/webp' if fmt=='WEBP' else fmt,'internalLinks':links})
-    if CONTENT_SHA: e.update({'publishedAt':'2026-10-05','actualPublicationDate':'2026-10-05','publicationDateStatus':'pending browser-operator deployment and live verification','commitSha':CONTENT_SHA,'deploymentEvidence':'PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS','verificationTime':'PENDING_LIVE_VERIFICATION'})
+    if CONTENT_SHA: e.update({'publishedAt':'2026-10-06','actualPublicationDate':'2026-10-06','publicationDateStatus':'pending browser-operator deployment and live verification','commitSha':CONTENT_SHA,'deploymentEvidence':'PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS','verificationTime':'PENDING_LIVE_VERIFICATION'})
     html_path=ROOT/f'.next/server/app/research/{e["slug"]}.html'; rendered={}
     if html_path.exists():
         html=html_path.read_text(); parser=Text(); parser.feed(html); visible=re.sub(r'\s+',' ',' '.join(parser.parts))

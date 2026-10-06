@@ -5,7 +5,7 @@ import hashlib, json, os, re
 
 ROOT = Path(__file__).resolve().parents[1]
 CYCLE = "2026-10-05"
-PUBDATE = "2026-10-05"
+PUBDATE = "2026-10-06"
 CONTENT_SHA = os.environ.get("CONTENT_COMMIT_SHA", "PENDING_COMBINED_COMMIT")
 IMAGE = "/blog/images/virtual-assistant-provider-selection-scorecard.webp"
 SOURCES = {

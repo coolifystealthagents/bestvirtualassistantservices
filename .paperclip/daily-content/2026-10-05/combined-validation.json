@@ -1,5 +1,5 @@
 {
-  "cycleLabel": "2026-10-05",
+  "cycleLabel": "2026-10-06",
   "siteTimezone": "UTC",
   "families": {
     "blog": {
@@ -10,10 +10,10 @@
         {
           "slug": "property-management-virtual-assistant-tenant-communications",
           "bodyWordCount": 1126,
-          "contentHash": "cc36fcb1995badb6ce1d4dd717754595c4ba9688897e1dbf22a467440f70797f",
+          "contentHash": "3c0a1b4e6513fbe7a6c2d050c06b69a9c420503630f3945131014703fca56287",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -39,10 +39,10 @@
         {
           "slug": "construction-virtual-assistant-bid-coordination",
           "bodyWordCount": 1109,
-          "contentHash": "3f9f371427ef796b20c9faf8837299cf12ce3f36ba0ef67d407177344c6e05e5",
+          "contentHash": "a45ba1ae7411fae1e362364ad68e1d2962a8193b7869993454c3f5d3c6a1823c",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -68,10 +68,10 @@
         {
           "slug": "architecture-firm-virtual-assistant-submittal-tracking",
           "bodyWordCount": 1064,
-          "contentHash": "0d0c27632baaf21a7ee34a74c5dedde329d54a7e2dd6cffa5398187ea70b160d",
+          "contentHash": "ef40defe16146816b4dc243242a4edc0c6eb05fac8d3b7636d3c178ed3c0d5de",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -97,10 +97,10 @@
         {
           "slug": "saas-virtual-assistant-customer-onboarding-scope",
           "bodyWordCount": 1033,
-          "contentHash": "3875043dd90605166e3076b625302ab745ebc873bb447b1c470410392aff805d",
+          "contentHash": "f6a1fcd56d93d7d3b0c006dc60e5c228b7d2d70b55cd4f9eba58b49349eba0f8",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -126,10 +126,10 @@
         {
           "slug": "online-course-virtual-assistant-student-operations",
           "bodyWordCount": 1020,
-          "contentHash": "9ee19dbd3204aa0de080545c8607876bd8e62950b1c389ffa6b9d98d5f1dc1a7",
+          "contentHash": "b3b20f45a5c126eb7134972df0ad414df52e1dad69f26d579580c215b3991863",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -155,10 +155,10 @@
         {
           "slug": "membership-association-virtual-assistant-renewal-operations",
           "bodyWordCount": 1019,
-          "contentHash": "28763fa606e0bd99e56a2433f75d372207587b019b7dcb5712eebabbb0361f42",
+          "contentHash": "c36441151827db01357634a65b2e9327eb6c2c515f9ffe2c5c41d89f600de043",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -184,10 +184,10 @@
         {
           "slug": "nonprofit-virtual-assistant-donor-records-workflow",
           "bodyWordCount": 921,
-          "contentHash": "f0f5f99931bdbf50dde2b2440b21b5331973a7eb9f9cecbe488468f43129ed6a",
+          "contentHash": "899efa092d8887925c424c57cb5be9649d1be042d873e068225007566f2e8266",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -213,10 +213,10 @@
         {
           "slug": "marketplace-seller-virtual-assistant-catalog-operations",
           "bodyWordCount": 937,
-          "contentHash": "ee127706d6f342d32499983f5ce427dcb7573f756df10df9b259e46d0fef2cba",
+          "contentHash": "c2f10e9661e54965a03623391c2727aeed2a4b3b27713394e23e8aee945273d0",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -242,10 +242,10 @@
         {
           "slug": "healthcare-virtual-assistant-referral-coordination",
           "bodyWordCount": 947,
-          "contentHash": "1ebc1c34feb21ebf527f88a0917e7494567f8cb1b628d8b57d023c93c546ca76",
+          "contentHash": "6b78facdb2deb50b8a5fac502569a0dd1af69f20389e3e739f05ae6a72ce172c",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -271,10 +271,10 @@
         {
           "slug": "accounting-firm-virtual-assistant-client-document-intake",
           "bodyWordCount": 933,
-          "contentHash": "b8b2e10311a969f4223abbc551749541049d39ea2deec6e4047ac970e2a087da",
+          "contentHash": "46b2634740158f81484957ff34a8c0dde6fd60bb988bd89d6a8e9256d4f1d6cd",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -300,10 +300,10 @@
         {
           "slug": "insurance-agency-virtual-assistant-policy-service-intake",
           "bodyWordCount": 958,
-          "contentHash": "7b96ab8e4d7d413d84b80a341b2cf23a66ab93ad37655e8bd4cab8f743d6e4ce",
+          "contentHash": "cae2454b35b696aa80e7ee1f44108b562b31c27d540f7e0025f317cffe197936",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -329,10 +329,10 @@
         {
           "slug": "home-services-virtual-assistant-dispatch-intake",
           "bodyWordCount": 942,
-          "contentHash": "62d1e02a6e4e113eaac9b9fd3378242901670b701937ca6a7c3268c2e6cc1e76",
+          "contentHash": "547ea60cef12256cc507dccdac2e6846947c32bc2c92d85e58aff50b117b4670",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
@@ -1802,11 +1802,11 @@
         {
           "slug": "virtual-assistant-provider-supervision-evidence-study",
           "bodyWordCount": 1231,
-          "contentHash": "d701e6be0f0b3da8c9aa51aa66500a3698143442e5ee80a317577153a0aafe6e",
+          "contentHash": "3b32ef78dea37e51c7bd964735309aa827f558558e8a6a04f51be505a156e5b5",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05",
-            "lastVerified": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06",
+            "lastVerified": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-service-quality-assurance.webp",
@@ -1832,11 +1832,11 @@
         {
           "slug": "virtual-assistant-billing-time-reconciliation-study",
           "bodyWordCount": 1209,
-          "contentHash": "60720b26777a2bb93122a8f071bbdfd91d1a7bb4b3200ab1ecf4f539327f4000",
+          "contentHash": "8aa88dab4d9a2d46cdd038dbe68b5d30549cb53bb9018ba9cf454ae35ee22913",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05",
-            "lastVerified": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06",
+            "lastVerified": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-weekly-operations-report.webp",
@@ -1862,11 +1862,11 @@
         {
           "slug": "virtual-assistant-subcontractor-transparency-study",
           "bodyWordCount": 1226,
-          "contentHash": "7b58f4553a0c88d359d44e6e6b2b5a0c432d7aea6f4695b27868976bf50f20f5",
+          "contentHash": "21f71f07db06561f6e0d0e3d34f55849495f449b88877058cc0fa455fd6a6e9e",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05",
-            "lastVerified": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06",
+            "lastVerified": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-vendor-risk-review.webp",
@@ -1892,11 +1892,11 @@
         {
           "slug": "virtual-assistant-business-continuity-test-study",
           "bodyWordCount": 1208,
-          "contentHash": "f97b1139d3f04d176f22f5c4b6f3a2711b2fe645077f069698caab177d55186e",
+          "contentHash": "b45884fe31b41a427f6037b0d027a662c3781d0243e003032dbe480b518f9c1e",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05",
-            "lastVerified": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06",
+            "lastVerified": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-remote-work-continuity.webp",
@@ -1922,11 +1922,11 @@
         {
           "slug": "virtual-assistant-service-exit-data-return-study",
           "bodyWordCount": 1218,
-          "contentHash": "6adadab7506d8beec98376dcc15c05aa6d7f83a1fa13986f7caa4632384c35ed",
+          "contentHash": "74290d35115f19114d9ca9da91f8435f48f05d6c640a043f9ad5322e7fc74943",
           "dates": {
-            "publishedAt": "2026-10-05",
-            "updatedAt": "2026-10-05",
-            "lastVerified": "2026-10-05"
+            "publishedAt": "2026-10-06",
+            "updatedAt": "2026-10-06",
+            "lastVerified": "2026-10-06"
           },
           "image": {
             "path": "/blog/images/virtual-assistant-document-access-governance.webp",

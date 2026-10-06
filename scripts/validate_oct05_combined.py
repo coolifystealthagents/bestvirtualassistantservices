@@ -6,7 +6,7 @@ import hashlib, itertools, json, re
 
 ROOT=Path(__file__).resolve().parents[1]
 CYCLE=ROOT/'.paperclip/daily-content/2026-10-05'
-DATE='2026-10-05'; DOMAIN='https://bestvirtualassistantservices.com'
+DATE='2026-10-06'; DOMAIN='https://bestvirtualassistantservices.com'
 word_re=re.compile(r"[A-Za-z0-9]+(?:[-'][A-Za-z0-9]+)*")
 def words(s): return word_re.findall(s)
 def body(raw): return raw.split('---',2)[2].split('\n## Sources checked',1)[0]
