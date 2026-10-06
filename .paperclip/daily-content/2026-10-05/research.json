@@ -67,7 +67,7 @@
         "/research/virtual-assistant-service-quality-assurance"
       ],
       "actualPublicationDate": "2026-10-06",
-      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
       "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
@@ -132,7 +132,7 @@
         "/research/virtual-assistant-service-quality-assurance"
       ],
       "actualPublicationDate": "2026-10-06",
-      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
       "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
@@ -197,7 +197,7 @@
         "/research/virtual-assistant-service-quality-assurance"
       ],
       "actualPublicationDate": "2026-10-06",
-      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
       "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
@@ -262,7 +262,7 @@
         "/research/virtual-assistant-service-quality-assurance"
       ],
       "actualPublicationDate": "2026-10-06",
-      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
       "verificationTime": "PENDING_LIVE_VERIFICATION"
     },
@@ -327,7 +327,7 @@
         "/research/virtual-assistant-service-quality-assurance"
       ],
       "actualPublicationDate": "2026-10-06",
-      "commitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+      "commitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
       "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
       "verificationTime": "PENDING_LIVE_VERIFICATION"
     }
@@ -340,8 +340,8 @@
     "sharedArgumentSequenceFinding": "Manual section-sequence and example review found distinct topic-specific arguments, tests, decision records, limitations, and reader outcomes across all five studies.",
     "publicationGate": "BES-86 must reconcile publishedAt, updatedAt, visible date, lastVerified, index, sitemap, and ledger to each route actual first-live UTC date before the sole push."
   },
-  "contentCommitSha": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
-  "combinedValidatedHead": "b08edc282dbda47fc83f7dd14d535b369822ab9a",
+  "contentCommitSha": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
+  "combinedValidatedHead": "b8e3ba6d64b17ba96a9b107033781b227a7bd5ba",
   "remoteSha": "PENDING_SOLE_PUSH",
   "deploymentEvidence": "PENDING_BROWSER_OPERATOR_EXACT_SHA_SUCCESS",
   "verificationTime": "PENDING_LIVE_VERIFICATION"
