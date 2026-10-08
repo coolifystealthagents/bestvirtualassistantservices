@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-08",
+  "kind": "research",
+  "count": 5,
+  "publicationDateVisible": true,
+  "items": [
+    {
+      "slug": "philippines-virtual-assistant-data-access-governance-study",
+      "title": "Philippines Virtual Assistant Data Access Governance Study",
+      "excerpt": "A source-backed framework for minimum access, processor responsibilities, review evidence, incidents, and offboarding.",
+      "publishedAt": "2026-10-08",
+      "file": "content/research/philippines-virtual-assistant-data-access-governance-study.mdx",
+      "route": "/research/philippines-virtual-assistant-data-access-governance-study",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "managed-vs-direct-virtual-assistant-supervision-evidence",
+      "title": "Managed vs Direct Virtual Assistant Supervision Evidence",
+      "excerpt": "A research method for comparing who hires, trains, reviews, covers absences, resolves exceptions, and owns performance decisions.",
+      "publishedAt": "2026-10-08",
+      "file": "content/research/managed-vs-direct-virtual-assistant-supervision-evidence.mdx",
+      "route": "/research/managed-vs-direct-virtual-assistant-supervision-evidence",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-async-overlap-service-level-research",
+      "title": "Virtual Assistant Async and Overlap Service Level Research",
+      "excerpt": "A bounded method for defining coverage windows, queue targets, response percentiles, exceptions, and owner decisions.",
+      "publishedAt": "2026-10-08",
+      "file": "content/research/virtual-assistant-async-overlap-service-level-research.mdx",
+      "route": "/research/virtual-assistant-async-overlap-service-level-research",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-workload-sampling-method-study",
+      "title": "Virtual Assistant Workload Sampling Method Study",
+      "excerpt": "How buyers can sample task arrivals, handling time, waiting, review, interruptions, and peak demand without false precision.",
+      "publishedAt": "2026-10-08",
+      "file": "content/research/virtual-assistant-workload-sampling-method-study.mdx",
+      "route": "/research/virtual-assistant-workload-sampling-method-study",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-vendor-offboarding-control-study",
+      "title": "Virtual Assistant Vendor Offboarding Control Study",
+      "excerpt": "A control framework for access removal, record ownership, device and account checks, knowledge transfer, and retained evidence.",
+      "publishedAt": "2026-10-08",
+      "file": "content/research/virtual-assistant-vendor-offboarding-control-study.mdx",
+      "route": "/research/virtual-assistant-vendor-offboarding-control-study",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    }
+  ]
+}

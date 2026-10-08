@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-08",
+  "kind": "blog",
+  "count": 12,
+  "publicationDateVisible": true,
+  "items": [
+    {
+      "slug": "virtual-assistant-executive-inbox-decision-log",
+      "title": "Executive Inbox Decision Log for a Virtual Assistant",
+      "excerpt": "Define message categories, draft authority, approvals, sensitive exceptions, and evidence for executive inbox support.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-executive-inbox-decision-log.mdx",
+      "route": "/blog/virtual-assistant-executive-inbox-decision-log",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-calendar-exception-queue",
+      "title": "Calendar Exception Queue for Virtual Assistant Scheduling",
+      "excerpt": "Keep conflicts, time zones, travel buffers, priority rules, and executive decisions visible during calendar support.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-calendar-exception-queue.mdx",
+      "route": "/blog/virtual-assistant-calendar-exception-queue",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-crm-data-entry-acceptance-checklist",
+      "title": "CRM Data Entry Acceptance Checklist for a Virtual Assistant",
+      "excerpt": "Set field rules, source identity, duplicate handling, validation evidence, and correction ownership before delegating CRM work.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-crm-data-entry-acceptance-checklist.mdx",
+      "route": "/blog/virtual-assistant-crm-data-entry-acceptance-checklist",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-invoice-intake-handoff",
+      "title": "Invoice Intake Handoff for a Virtual Assistant",
+      "excerpt": "Organize invoice receipt, vendor identity, coding preparation, duplicate checks, approvals, and retained finance decisions.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-invoice-intake-handoff.mdx",
+      "route": "/blog/virtual-assistant-invoice-intake-handoff",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-customer-escalation-matrix",
+      "title": "Customer Escalation Matrix for a Virtual Assistant",
+      "excerpt": "Define severity, permitted responses, urgent routes, owner decisions, and closure evidence for customer support.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-customer-escalation-matrix.mdx",
+      "route": "/blog/virtual-assistant-customer-escalation-matrix",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-content-publishing-approval-workflow",
+      "title": "Content Publishing Approval Workflow for a Virtual Assistant",
+      "excerpt": "Separate draft, fact check, legal or brand review, scheduling, publication, and correction responsibilities.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-content-publishing-approval-workflow.mdx",
+      "route": "/blog/virtual-assistant-content-publishing-approval-workflow",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-travel-planning-evidence-packet",
+      "title": "Travel Planning Evidence Packet for a Virtual Assistant",
+      "excerpt": "Compare itinerary options, constraints, cancellation terms, approvals, and traveler confirmations without hidden assumptions.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-travel-planning-evidence-packet.mdx",
+      "route": "/blog/virtual-assistant-travel-planning-evidence-packet",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-ecommerce-order-exception-triage",
+      "title": "Ecommerce Order Exception Triage for a Virtual Assistant",
+      "excerpt": "Route delayed, damaged, duplicate, address, refund, and fraud signals with bounded authority and evidence.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-ecommerce-order-exception-triage.mdx",
+      "route": "/blog/virtual-assistant-ecommerce-order-exception-triage",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-recruiting-admin-task-boundary",
+      "title": "Recruiting Administration Task Boundary for a Virtual Assistant",
+      "excerpt": "Delegate scheduling and record work while retaining candidate decisions, sensitive judgments, and hiring accountability.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-recruiting-admin-task-boundary.mdx",
+      "route": "/blog/virtual-assistant-recruiting-admin-task-boundary",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-real-estate-listing-coordination-handoff",
+      "title": "Real Estate Listing Coordination Handoff for a Virtual Assistant",
+      "excerpt": "Coordinate approved listing inputs, assets, dates, vendor tasks, publishing checks, and agent decisions.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-real-estate-listing-coordination-handoff.mdx",
+      "route": "/blog/virtual-assistant-real-estate-listing-coordination-handoff",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-healthcare-scheduling-privacy-boundary",
+      "title": "Healthcare Scheduling Privacy Boundary for a Virtual Assistant",
+      "excerpt": "Limit scheduling support to approved systems, minimum data, verified identities, escalation rules, and access reviews.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-healthcare-scheduling-privacy-boundary.mdx",
+      "route": "/blog/virtual-assistant-healthcare-scheduling-privacy-boundary",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "slug": "virtual-assistant-provider-pilot-scorecard",
+      "title": "Virtual Assistant Provider Pilot Scorecard",
+      "excerpt": "Measure a bounded pilot with defined tasks, evidence, quality review, exceptions, owner time, and an explicit decision gate.",
+      "publishedAt": "2026-10-08",
+      "file": "content/blog/virtual-assistant-provider-pilot-scorecard.mdx",
+      "route": "/blog/virtual-assistant-provider-pilot-scorecard",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    }
+  ]
+}
