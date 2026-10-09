@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-09",
+  "kind": "research",
+  "count": 5,
+  "publicationDateVisible": true,
+  "items": [
+    {
+      "slug": "bestvirtualassistantservices-queue-wait-state-evidence-study",
+      "title": "BestVirtualAssistantServices Queue Wait-State Evidence Study",
+      "excerpt": "A source-backed virtual assistant operations study of whether waiting reasons and owner acceptance explain queue age.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/bestvirtualassistantservices-queue-wait-state-evidence-study"
+    },
+    {
+      "slug": "bestvirtualassistantservices-reviewer-agreement-reliability-study",
+      "title": "BestVirtualAssistantServices Reviewer Agreement Reliability Study",
+      "excerpt": "A source-backed virtual assistant operations study of whether two reviewers reach reproducible conclusions from the same evidence.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/bestvirtualassistantservices-reviewer-agreement-reliability-study"
+    },
+    {
+      "slug": "bestvirtualassistantservices-minimum-access-effectiveness-study",
+      "title": "BestVirtualAssistantServices Minimum Access Effectiveness Study",
+      "excerpt": "A source-backed virtual assistant operations study of whether permissions support required work without unnecessary exposure.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/bestvirtualassistantservices-minimum-access-effectiveness-study"
+    },
+    {
+      "slug": "bestvirtualassistantservices-handoff-completeness-observation",
+      "title": "BestVirtualAssistantServices Handoff Completeness Observation",
+      "excerpt": "A source-backed virtual assistant operations study of whether receiving teams can continue work without private clarification.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/bestvirtualassistantservices-handoff-completeness-observation"
+    },
+    {
+      "slug": "bestvirtualassistantservices-control-change-traceability-research",
+      "title": "BestVirtualAssistantServices Control Change Traceability Research",
+      "excerpt": "A source-backed virtual assistant operations study of whether rule changes remain attributable, dated, and reversible.",
+      "publishedAt": "2026-10-09",
+      "route": "/research/bestvirtualassistantservices-control-change-traceability-research"
+    }
+  ]
+}

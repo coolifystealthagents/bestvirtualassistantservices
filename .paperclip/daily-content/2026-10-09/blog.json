@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-09",
+  "kind": "blog",
+  "count": 12,
+  "publicationDateVisible": true,
+  "items": [
+    {
+      "slug": "bestvirtualassistantservices-priority-intake-triage",
+      "title": "BestVirtualAssistantServices Priority Intake Triage",
+      "excerpt": "A practical virtual assistant operations guide to turn new requests into a sequenced queue with an accepted owner.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-priority-intake-triage"
+    },
+    {
+      "slug": "bestvirtualassistantservices-exception-owner-map",
+      "title": "BestVirtualAssistantServices Exception Owner Map",
+      "excerpt": "A practical virtual assistant operations guide to route ambiguous cases to the person authorized to decide them.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-exception-owner-map"
+    },
+    {
+      "slug": "bestvirtualassistantservices-source-record-verification",
+      "title": "BestVirtualAssistantServices Source Record Verification",
+      "excerpt": "A practical virtual assistant operations guide to verify the governing record before an operator acts.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-source-record-verification"
+    },
+    {
+      "slug": "bestvirtualassistantservices-handoff-acceptance-receipt",
+      "title": "BestVirtualAssistantServices Handoff Acceptance Receipt",
+      "excerpt": "A practical virtual assistant operations guide to prove that the receiving owner accepted the next action.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-handoff-acceptance-receipt"
+    },
+    {
+      "slug": "bestvirtualassistantservices-backlog-aging-review",
+      "title": "BestVirtualAssistantServices Backlog Aging Review",
+      "excerpt": "A practical virtual assistant operations guide to separate active work from items waiting on decisions or evidence.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-backlog-aging-review"
+    },
+    {
+      "slug": "bestvirtualassistantservices-quality-sample-calibration",
+      "title": "BestVirtualAssistantServices Quality Sample Calibration",
+      "excerpt": "A practical virtual assistant operations guide to compare reviewers against the same observable acceptance rule.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-quality-sample-calibration"
+    },
+    {
+      "slug": "bestvirtualassistantservices-access-scope-recertification",
+      "title": "BestVirtualAssistantServices Access Scope Recertification",
+      "excerpt": "A practical virtual assistant operations guide to keep permissions aligned with current responsibilities.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-access-scope-recertification"
+    },
+    {
+      "slug": "bestvirtualassistantservices-change-control-release-note",
+      "title": "BestVirtualAssistantServices Change Control Release Note",
+      "excerpt": "A practical virtual assistant operations guide to publish a dated operating change without erasing the prior rule.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-change-control-release-note"
+    },
+    {
+      "slug": "bestvirtualassistantservices-capacity-overflow-trigger",
+      "title": "BestVirtualAssistantServices Capacity Overflow Trigger",
+      "excerpt": "A practical virtual assistant operations guide to identify demand that exceeds the safe service window.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-capacity-overflow-trigger"
+    },
+    {
+      "slug": "bestvirtualassistantservices-client-decision-packet",
+      "title": "BestVirtualAssistantServices Client Decision Packet",
+      "excerpt": "A practical virtual assistant operations guide to prepare facts and options while preserving client decision authority.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-client-decision-packet"
+    },
+    {
+      "slug": "bestvirtualassistantservices-correction-propagation-check",
+      "title": "BestVirtualAssistantServices Correction Propagation Check",
+      "excerpt": "A practical virtual assistant operations guide to reconcile a correction across every dependent system.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-correction-propagation-check"
+    },
+    {
+      "slug": "bestvirtualassistantservices-monthly-control-closeout",
+      "title": "BestVirtualAssistantServices Monthly Control Closeout",
+      "excerpt": "A practical virtual assistant operations guide to close open exceptions and retain evidence for the next review.",
+      "publishedAt": "2026-10-09",
+      "route": "/blog/bestvirtualassistantservices-monthly-control-closeout"
+    }
+  ]
+}

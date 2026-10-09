@@ -11,9 +11,23 @@
     },
     {
       "type": "blog",
+      "slug": "bestvirtualassistantservices-priority-intake-triage",
+      "title": "Calendar Exception Queue for Virtual Assistant Scheduling",
+      "path": "content/blog/bestvirtualassistantservices-priority-intake-triage.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-content-publishing-approval-workflow",
       "title": "Content Publishing Approval Workflow for a Virtual Assistant",
       "path": "content/blog/virtual-assistant-content-publishing-approval-workflow.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bestvirtualassistantservices-exception-owner-map",
+      "title": "Content Publishing Approval Workflow for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-exception-owner-map.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -25,9 +39,23 @@
     },
     {
       "type": "blog",
+      "slug": "bestvirtualassistantservices-source-record-verification",
+      "title": "CRM Data Entry Acceptance Checklist for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-source-record-verification.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-customer-escalation-matrix",
       "title": "Customer Escalation Matrix for a Virtual Assistant",
       "path": "content/blog/virtual-assistant-customer-escalation-matrix.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bestvirtualassistantservices-handoff-acceptance-receipt",
+      "title": "Customer Escalation Matrix for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-handoff-acceptance-receipt.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -39,9 +67,23 @@
     },
     {
       "type": "blog",
+      "slug": "bestvirtualassistantservices-backlog-aging-review",
+      "title": "Ecommerce Order Exception Triage for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-backlog-aging-review.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-executive-inbox-decision-log",
       "title": "Executive Inbox Decision Log for a Virtual Assistant",
       "path": "content/blog/virtual-assistant-executive-inbox-decision-log.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bestvirtualassistantservices-quality-sample-calibration",
+      "title": "Executive Inbox Decision Log for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-quality-sample-calibration.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -53,9 +95,23 @@
     },
     {
       "type": "blog",
+      "slug": "bestvirtualassistantservices-access-scope-recertification",
+      "title": "Healthcare Scheduling Privacy Boundary for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-access-scope-recertification.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-invoice-intake-handoff",
       "title": "Invoice Intake Handoff for a Virtual Assistant",
       "path": "content/blog/virtual-assistant-invoice-intake-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bestvirtualassistantservices-change-control-release-note",
+      "title": "Invoice Intake Handoff for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-change-control-release-note.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -67,9 +123,23 @@
     },
     {
       "type": "blog",
+      "slug": "bestvirtualassistantservices-capacity-overflow-trigger",
+      "title": "Virtual Assistant Provider Pilot Scorecard",
+      "path": "content/blog/bestvirtualassistantservices-capacity-overflow-trigger.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-real-estate-listing-coordination-handoff",
       "title": "Real Estate Listing Coordination Handoff for a Virtual Assistant",
       "path": "content/blog/virtual-assistant-real-estate-listing-coordination-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bestvirtualassistantservices-client-decision-packet",
+      "title": "Real Estate Listing Coordination Handoff for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-client-decision-packet.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -81,9 +151,23 @@
     },
     {
       "type": "blog",
+      "slug": "bestvirtualassistantservices-correction-propagation-check",
+      "title": "Recruiting Administration Task Boundary for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-correction-propagation-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-travel-planning-evidence-packet",
       "title": "Travel Planning Evidence Packet for a Virtual Assistant",
       "path": "content/blog/virtual-assistant-travel-planning-evidence-packet.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bestvirtualassistantservices-monthly-control-closeout",
+      "title": "Travel Planning Evidence Packet for a Virtual Assistant",
+      "path": "content/blog/bestvirtualassistantservices-monthly-control-closeout.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -411,7 +495,7 @@
     {
       "type": "blog",
       "slug": "virtual-assistant-service-level-agreement-guide",
-      "title": "Virtual Assistant Service Level Agreement: A Buyer\u2019s Practical Guide",
+      "title": "Virtual Assistant Service Level Agreement: A Buyer’s Practical Guide",
       "path": "content/blog/virtual-assistant-service-level-agreement-guide.mdx",
       "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
     },
@@ -3532,6 +3616,13 @@
     },
     {
       "type": "research",
+      "slug": "bestvirtualassistantservices-queue-wait-state-evidence-study",
+      "title": "Managed vs Direct Virtual Assistant Supervision Evidence",
+      "path": "content/research/bestvirtualassistantservices-queue-wait-state-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "newsletter-delivery-exception-review",
       "title": "Newsletter Delivery Exception Review by Virtual Assistants",
       "path": "content/research/newsletter-delivery-exception-review.md",
@@ -3542,6 +3633,13 @@
       "slug": "philippines-virtual-assistant-data-access-governance-study",
       "title": "Philippines Virtual Assistant Data Access Governance Study",
       "path": "content/research/philippines-virtual-assistant-data-access-governance-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bestvirtualassistantservices-reviewer-agreement-reliability-study",
+      "title": "Philippines Virtual Assistant Data Access Governance Study",
+      "path": "content/research/bestvirtualassistantservices-reviewer-agreement-reliability-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -3752,6 +3850,13 @@
       "slug": "virtual-assistant-async-overlap-service-level-research",
       "title": "Virtual Assistant Async and Overlap Service Level Research",
       "path": "content/research/virtual-assistant-async-overlap-service-level-research.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bestvirtualassistantservices-minimum-access-effectiveness-study",
+      "title": "Virtual Assistant Async and Overlap Service Level Research",
+      "path": "content/research/bestvirtualassistantservices-minimum-access-effectiveness-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     },
     {
@@ -5100,6 +5205,13 @@
     },
     {
       "type": "research",
+      "slug": "bestvirtualassistantservices-handoff-completeness-observation",
+      "title": "Virtual Assistant Vendor Offboarding Control Study",
+      "path": "content/research/bestvirtualassistantservices-handoff-completeness-observation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-vendor-onboarding-controls",
       "title": "Virtual Assistant Vendor Onboarding Controls: A Research Brief",
       "path": "content/research/virtual-assistant-vendor-onboarding-controls.mdx",
@@ -5201,6 +5313,13 @@
       "slug": "virtual-assistant-workload-sampling-method-study",
       "title": "Virtual Assistant Workload Sampling Method Study",
       "path": "content/research/virtual-assistant-workload-sampling-method-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bestvirtualassistantservices-control-change-traceability-research",
+      "title": "Virtual Assistant Workload Sampling Method Study",
+      "path": "content/research/bestvirtualassistantservices-control-change-traceability-research.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
     }
   ]
