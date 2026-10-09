@@ -30,7 +30,9 @@ export default function Blog() {
               <a className="card" href={`/blog/${p.slug}`} key={p.slug}>
                 <h2>{p.title}</h2>
                 <p>{p.excerpt}</p>
-                <time dateTime={p.published}>Published {formatDate(p.published)}</time>
+                {p.published ? (
+                  <time dateTime={p.published}>Published {formatDate(p.published)}</time>
+                ) : null}
                 <b>Read article →</b>
               </a>
             ))}
