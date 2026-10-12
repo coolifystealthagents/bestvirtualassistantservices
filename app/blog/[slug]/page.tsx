@@ -96,6 +96,10 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
   const { slug } = await params;
   const post = allBlogPosts.find((p) => p.slug === slug);
   if (!post) notFound();
+  const relatedPosts = (post.relatedArticles || []).flatMap((relatedSlug) => {
+    const related = allBlogPosts.find((candidate) => candidate.slug === relatedSlug);
+    return related ? [related] : [];
+  });
 
   return (
     <>
@@ -155,6 +159,16 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
                   </div>
                 ))}
               </section>
+            ) : null}
+
+            {relatedPosts.length ? (
+              <aside className="card article-card" aria-label="Related Blog guides">
+                <p className="eyebrow">Related Blog guides</p>
+                <h2>Continue the service review</h2>
+                <ul>
+                  {relatedPosts.map((related) => <li key={related.slug}><a href={`/blog/${related.slug}`}>{related.title}</a></li>)}
+                </ul>
+              </aside>
             ) : null}
 
           </div>

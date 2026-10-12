@@ -69,6 +69,7 @@ export const publishedContentBlogPosts: BlogPost[] = indexed.filter((item) => it
   return {
     slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A practical virtual assistant workflow guide.', published: fm.publishedAt, modified: fm.updatedAt || fm.publishedAt, minutes: Number.parseInt(fm.readingTime || '8', 10),
     featuredImage: item.featuredImage,
+    relatedArticles: Array.isArray(fm.relatedArticles) ? fm.relatedArticles : [],
     keyTakeaways: ['Use a written brief and definition of done.', 'Keep approvals and escalation rules visible.', 'Review quality before expanding the workflow.'],
     sections: articleBody(item.path), faq: [], sources: [{ name: 'NIST small business cybersecurity guidance', url: 'https://www.nist.gov/itl/smallbusinesscyber' }],
   };
@@ -78,10 +79,11 @@ export const publishedContentResearchPosts: ResearchPost[] = indexed.filter((ite
   const fm = frontMatter(item.path);
   const body = articleBody(item.path);
   const sources = researchSources(item.path);
+  const relatedSlugs = Array.isArray(fm.relatedArticles) ? fm.relatedArticles : [];
   return {
     slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A source-backed virtual assistant research brief.', published: fm.publishedAt || '2026-08-07', modified: fm.updatedAt || fm.publishedAt || '2026-08-07', readingMinutes: Number.parseInt(fm.readingTime || '8', 10), revision: `${fm.updatedAt || '2026-08-07'}-${item.slug}`,
     keyTakeaways: ['Document the method and source of truth.', 'Separate observations from owner decisions.', 'Record exceptions and review points.'], stats: [{ value: fm.sourceCount || '10', label: 'Direct sources', note: 'Sources listed in the published brief.', citation: 1 }],
-    sections: body.map((section) => ({ heading: section.heading, paragraphs: [{ text: section.body }] })), comparisonTable: { caption: 'Workflow controls', headers: ['Check', 'Action'], rows: [['Source', 'Verify the evidence before summarizing']] }, methodology: [{ text: 'This brief uses the sources listed in the published article and makes its limits visible.' }], faq: [], relatedLinks: [{ title: 'Research library', description: 'Browse the published research.', href: '/research' }], sources, thumbnail: item.featuredImage,
+    sections: body.map((section) => ({ heading: section.heading, paragraphs: [{ text: section.body }] })), comparisonTable: { caption: 'Workflow controls', headers: ['Check', 'Action'], rows: [['Source', 'Verify the evidence before summarizing']] }, methodology: [{ text: 'This brief uses the sources listed in the published article and makes its limits visible.' }], faq: [], relatedLinks: relatedSlugs.map((slug) => ({ title: indexed.find((candidate) => candidate.slug === slug)?.title || slug.replaceAll('-', ' '), description: 'Continue with a related source-backed service study.', href: `/research/${slug}` })), sources, thumbnail: item.featuredImage,
   };
 });
 

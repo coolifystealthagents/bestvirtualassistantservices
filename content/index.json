@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-provider-escalation-support-comparison",
+      "title": "Compare Provider Escalation Support before Hiring a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-provider-escalation-support-comparison.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-escalation-support-comparison.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-provider-reference-check-packet",
+      "title": "Build a Provider Reference Check Packet for Virtual Assistant Services",
+      "path": "content/blog/virtual-assistant-provider-reference-check-packet.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-reference-check-packet.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-shadow-access-register",
+      "title": "Maintain a Shadow Access Register for Virtual Assistant Work",
+      "path": "content/blog/virtual-assistant-shadow-access-register.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-shadow-access-register.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-service-transition-acceptance",
+      "title": "Accept a Virtual Assistant Service Transition with Evidence",
+      "path": "content/blog/virtual-assistant-service-transition-acceptance.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-service-transition-acceptance.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-temporary-coverage-activation",
+      "title": "Activate Temporary Virtual Assistant Coverage without Losing Control",
+      "path": "content/blog/virtual-assistant-temporary-coverage-activation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-temporary-coverage-activation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-credential-rotation-supervision",
+      "title": "Supervise Credential Rotation during a Virtual Assistant Assignment",
+      "path": "content/blog/virtual-assistant-credential-rotation-supervision.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-credential-rotation-supervision.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-billing-deliverable-reconciliation",
+      "title": "Reconcile Virtual Assistant Billing Hours with Deliverables",
+      "path": "content/blog/virtual-assistant-billing-deliverable-reconciliation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-billing-deliverable-reconciliation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-multilingual-customer-handoff",
+      "title": "Design a Multilingual Customer Handoff for a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-multilingual-customer-handoff.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-multilingual-customer-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-after-hours-incident-relay",
+      "title": "Run an After-Hours Incident Relay with a Virtual Assistant",
+      "path": "content/blog/virtual-assistant-after-hours-incident-relay.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-after-hours-incident-relay.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-provider-ai-tool-control",
+      "title": "Control AI Tool Use by a Virtual Assistant Provider",
+      "path": "content/blog/virtual-assistant-provider-ai-tool-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-ai-tool-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-client-record-deletion-evidence",
+      "title": "Preserve Evidence for Client Record Deletion Requests",
+      "path": "content/blog/virtual-assistant-client-record-deletion-evidence.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-record-deletion-evidence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-subcontractor-onboarding-notice",
+      "title": "Review a Subcontractor Onboarding Notice from a Virtual Assistant Provider",
+      "path": "content/blog/virtual-assistant-subcontractor-onboarding-notice.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-subcontractor-onboarding-notice.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-calendar-exception-queue",
       "title": "Calendar Exception Queue for Virtual Assistant Scheduling",
       "path": "content/blog/virtual-assistant-calendar-exception-queue.mdx",
@@ -3550,6 +3634,41 @@
       "title": "Virtual Assistant Weekly Operations Report",
       "path": "content/blog/virtual-assistant-weekly-operations-report.mdx",
       "featuredImage": "/blog/images/virtual-assistant-weekly-operations-report.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-backup-activation-latency-study",
+      "title": "Measure Backup Activation Latency in Virtual Assistant Services",
+      "path": "content/research/virtual-assistant-backup-activation-latency-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-backup-activation-latency-study.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-instruction-ambiguity-burden-study",
+      "title": "Study the Clarification Burden of Ambiguous Virtual Assistant Instructions",
+      "path": "content/research/virtual-assistant-instruction-ambiguity-burden-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-instruction-ambiguity-burden-study.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-task-exception-recurrence-study",
+      "title": "Analyze Recurring Exceptions in Virtual Assistant Task Queues",
+      "path": "content/research/virtual-assistant-task-exception-recurrence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-task-exception-recurrence-study.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-access-removal-completion-study",
+      "title": "Test Completion Evidence for Virtual Assistant Access Removal",
+      "path": "content/research/virtual-assistant-access-removal-completion-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-access-removal-completion-study.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-review-sampling-bias-study",
+      "title": "Detect Sampling Bias in Virtual Assistant Quality Reviews",
+      "path": "content/research/virtual-assistant-review-sampling-bias-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-review-sampling-bias-study.webp"
     },
     {
       "type": "research",

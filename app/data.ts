@@ -86,6 +86,7 @@ export type BlogPost = {
   faq: { q: string; a: string }[];
   sources?: { name: string; url: string; note?: string }[];
   featuredImage?: string;
+  relatedArticles?: string[];
 };
 
 export const blogPosts: BlogPost[] = [
