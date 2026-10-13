@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-13",
+  "site": "BestVirtualAssistantServices.com",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "branch": "main",
+  "baseSha": "d47a4a559c0aacd617c97a85688bf52eada35fdd",
+  "blogCount": 12,
+  "researchCount": 5,
+  "blogLoader": "app/content-library.ts",
+  "researchLoader": "app/content-library.ts",
+  "blogIndex": "app/blog/page.tsx",
+  "researchIndex": "app/research/page.tsx",
+  "blogRoute": "app/blog/[slug]/page.tsx",
+  "researchRoute": "app/research/[slug]/page.tsx",
+  "items": [
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-service-change-freeze-window",
+      "title": "Set a Change Freeze Window for Virtual Assistant Service Work",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-service-change-freeze-window.mdx",
+      "route": "/blog/virtual-assistant-service-change-freeze-window",
+      "thumbnail": "/blog/images/virtual-assistant-service-change-freeze-window.webp",
+      "thumbnailTitle": "Set a Change Freeze Window for Virtual Assistant Service Work",
+      "relatedArticles": [
+        "virtual-assistant-shared-mailbox-sender-identity-audit",
+        "virtual-assistant-recurring-report-assumption-register",
+        "virtual-assistant-calendar-buffer-rule-control"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-shared-mailbox-sender-identity-audit",
+      "title": "Audit Sender Identity in a Shared Virtual Assistant Mailbox",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-shared-mailbox-sender-identity-audit.mdx",
+      "route": "/blog/virtual-assistant-shared-mailbox-sender-identity-audit",
+      "thumbnail": "/blog/images/virtual-assistant-shared-mailbox-sender-identity-audit.webp",
+      "thumbnailTitle": "Audit Sender Identity in a Shared Virtual Assistant Mailbox",
+      "relatedArticles": [
+        "virtual-assistant-recurring-report-assumption-register",
+        "virtual-assistant-calendar-buffer-rule-control",
+        "virtual-assistant-complaint-evidence-envelope"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-recurring-report-assumption-register",
+      "title": "Keep an Assumption Register for Recurring Assistant Reports",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-recurring-report-assumption-register.mdx",
+      "route": "/blog/virtual-assistant-recurring-report-assumption-register",
+      "thumbnail": "/blog/images/virtual-assistant-recurring-report-assumption-register.webp",
+      "thumbnailTitle": "Keep an Assumption Register for Recurring Assistant Reports",
+      "relatedArticles": [
+        "virtual-assistant-calendar-buffer-rule-control",
+        "virtual-assistant-complaint-evidence-envelope",
+        "virtual-assistant-knowledge-article-retirement-queue"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-calendar-buffer-rule-control",
+      "title": "Control Calendar Buffer Rules Before Assistant Scheduling",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-calendar-buffer-rule-control.mdx",
+      "route": "/blog/virtual-assistant-calendar-buffer-rule-control",
+      "thumbnail": "/blog/images/virtual-assistant-calendar-buffer-rule-control.webp",
+      "thumbnailTitle": "Control Calendar Buffer Rules Before Assistant Scheduling",
+      "relatedArticles": [
+        "virtual-assistant-complaint-evidence-envelope",
+        "virtual-assistant-knowledge-article-retirement-queue",
+        "virtual-assistant-meeting-action-acceptance-receipt"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-complaint-evidence-envelope",
+      "title": "Prepare a Complaint Evidence Envelope Without Deciding the Outcome",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-complaint-evidence-envelope.mdx",
+      "route": "/blog/virtual-assistant-complaint-evidence-envelope",
+      "thumbnail": "/blog/images/virtual-assistant-complaint-evidence-envelope.webp",
+      "thumbnailTitle": "Prepare a Complaint Evidence Envelope Without Deciding the Outcome",
+      "relatedArticles": [
+        "virtual-assistant-knowledge-article-retirement-queue",
+        "virtual-assistant-meeting-action-acceptance-receipt",
+        "virtual-assistant-client-automation-kill-switch"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-knowledge-article-retirement-queue",
+      "title": "Retire Knowledge Base Articles Through a Controlled Assistant Queue",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-knowledge-article-retirement-queue.mdx",
+      "route": "/blog/virtual-assistant-knowledge-article-retirement-queue",
+      "thumbnail": "/blog/images/virtual-assistant-knowledge-article-retirement-queue.webp",
+      "thumbnailTitle": "Retire Knowledge Base Articles Through a Controlled Assistant Queue",
+      "relatedArticles": [
+        "virtual-assistant-meeting-action-acceptance-receipt",
+        "virtual-assistant-client-automation-kill-switch",
+        "virtual-assistant-spreadsheet-import-quarantine"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-meeting-action-acceptance-receipt",
+      "title": "Require Acceptance Receipts for Assistant-Tracked Meeting Actions",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-meeting-action-acceptance-receipt.mdx",
+      "route": "/blog/virtual-assistant-meeting-action-acceptance-receipt",
+      "thumbnail": "/blog/images/virtual-assistant-meeting-action-acceptance-receipt.webp",
+      "thumbnailTitle": "Require Acceptance Receipts for Assistant-Tracked Meeting Actions",
+      "relatedArticles": [
+        "virtual-assistant-client-automation-kill-switch",
+        "virtual-assistant-spreadsheet-import-quarantine",
+        "virtual-assistant-shift-overlap-reconciliation"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-client-automation-kill-switch",
+      "title": "Keep a Client-Owned Kill Switch for Assistant Automations",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-client-automation-kill-switch.mdx",
+      "route": "/blog/virtual-assistant-client-automation-kill-switch",
+      "thumbnail": "/blog/images/virtual-assistant-client-automation-kill-switch.webp",
+      "thumbnailTitle": "Keep a Client-Owned Kill Switch for Assistant Automations",
+      "relatedArticles": [
+        "virtual-assistant-spreadsheet-import-quarantine",
+        "virtual-assistant-shift-overlap-reconciliation",
+        "virtual-assistant-vendor-contact-change-verification"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-spreadsheet-import-quarantine",
+      "title": "Quarantine Spreadsheet Imports Before Assistant Processing",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-spreadsheet-import-quarantine.mdx",
+      "route": "/blog/virtual-assistant-spreadsheet-import-quarantine",
+      "thumbnail": "/blog/images/virtual-assistant-spreadsheet-import-quarantine.webp",
+      "thumbnailTitle": "Quarantine Spreadsheet Imports Before Assistant Processing",
+      "relatedArticles": [
+        "virtual-assistant-shift-overlap-reconciliation",
+        "virtual-assistant-vendor-contact-change-verification",
+        "virtual-assistant-task-retry-limit-definition"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-shift-overlap-reconciliation",
+      "title": "Reconcile Assistant Shift Overlaps Without Duplicate Work",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-shift-overlap-reconciliation.mdx",
+      "route": "/blog/virtual-assistant-shift-overlap-reconciliation",
+      "thumbnail": "/blog/images/virtual-assistant-shift-overlap-reconciliation.webp",
+      "thumbnailTitle": "Reconcile Assistant Shift Overlaps Without Duplicate Work",
+      "relatedArticles": [
+        "virtual-assistant-vendor-contact-change-verification",
+        "virtual-assistant-task-retry-limit-definition",
+        "virtual-assistant-service-change-freeze-window"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-vendor-contact-change-verification",
+      "title": "Verify Vendor Contact Changes Before an Assistant Updates Records",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-vendor-contact-change-verification.mdx",
+      "route": "/blog/virtual-assistant-vendor-contact-change-verification",
+      "thumbnail": "/blog/images/virtual-assistant-vendor-contact-change-verification.webp",
+      "thumbnailTitle": "Verify Vendor Contact Changes Before an Assistant Updates Records",
+      "relatedArticles": [
+        "virtual-assistant-task-retry-limit-definition",
+        "virtual-assistant-service-change-freeze-window",
+        "virtual-assistant-shared-mailbox-sender-identity-audit"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-task-retry-limit-definition",
+      "title": "Define Retry Limits Before Delegating Assistant Tasks",
+      "date": "2026-10-13",
+      "source": "content/blog/virtual-assistant-task-retry-limit-definition.mdx",
+      "route": "/blog/virtual-assistant-task-retry-limit-definition",
+      "thumbnail": "/blog/images/virtual-assistant-task-retry-limit-definition.webp",
+      "thumbnailTitle": "Define Retry Limits Before Delegating Assistant Tasks",
+      "relatedArticles": [
+        "virtual-assistant-service-change-freeze-window",
+        "virtual-assistant-shared-mailbox-sender-identity-audit",
+        "virtual-assistant-recurring-report-assumption-register"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-instruction-change-latency-study",
+      "title": "Virtual Assistant Instruction Change Latency Study",
+      "date": "2026-10-13",
+      "source": "content/research/virtual-assistant-instruction-change-latency-study.mdx",
+      "route": "/research/virtual-assistant-instruction-change-latency-study",
+      "thumbnail": "/blog/images/virtual-assistant-instruction-change-latency-study.webp",
+      "thumbnailTitle": "Virtual Assistant Instruction Change Latency Study",
+      "relatedArticles": [
+        "virtual-assistant-inbox-misroute-detection-reliability",
+        "virtual-assistant-access-expiry-enforcement-completeness",
+        "virtual-assistant-handoff-acceptance-disagreement-study"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-inbox-misroute-detection-reliability",
+      "title": "Shared Inbox Misroute Detection Reliability Study",
+      "date": "2026-10-13",
+      "source": "content/research/virtual-assistant-inbox-misroute-detection-reliability.mdx",
+      "route": "/research/virtual-assistant-inbox-misroute-detection-reliability",
+      "thumbnail": "/blog/images/virtual-assistant-inbox-misroute-detection-reliability.webp",
+      "thumbnailTitle": "Shared Inbox Misroute Detection Reliability Study",
+      "relatedArticles": [
+        "virtual-assistant-access-expiry-enforcement-completeness",
+        "virtual-assistant-handoff-acceptance-disagreement-study",
+        "virtual-assistant-exception-queue-reopening-measurement"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-access-expiry-enforcement-completeness",
+      "title": "Delegated Access Expiry Enforcement Completeness Study",
+      "date": "2026-10-13",
+      "source": "content/research/virtual-assistant-access-expiry-enforcement-completeness.mdx",
+      "route": "/research/virtual-assistant-access-expiry-enforcement-completeness",
+      "thumbnail": "/blog/images/virtual-assistant-access-expiry-enforcement-completeness.webp",
+      "thumbnailTitle": "Delegated Access Expiry Enforcement Completeness Study",
+      "relatedArticles": [
+        "virtual-assistant-handoff-acceptance-disagreement-study",
+        "virtual-assistant-exception-queue-reopening-measurement",
+        "virtual-assistant-instruction-change-latency-study"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-handoff-acceptance-disagreement-study",
+      "title": "Assistant Handoff Acceptance Disagreement Study",
+      "date": "2026-10-13",
+      "source": "content/research/virtual-assistant-handoff-acceptance-disagreement-study.mdx",
+      "route": "/research/virtual-assistant-handoff-acceptance-disagreement-study",
+      "thumbnail": "/blog/images/virtual-assistant-handoff-acceptance-disagreement-study.webp",
+      "thumbnailTitle": "Assistant Handoff Acceptance Disagreement Study",
+      "relatedArticles": [
+        "virtual-assistant-exception-queue-reopening-measurement",
+        "virtual-assistant-instruction-change-latency-study",
+        "virtual-assistant-inbox-misroute-detection-reliability"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-exception-queue-reopening-measurement",
+      "title": "Virtual Assistant Exception Queue Reopening Measurement",
+      "date": "2026-10-13",
+      "source": "content/research/virtual-assistant-exception-queue-reopening-measurement.mdx",
+      "route": "/research/virtual-assistant-exception-queue-reopening-measurement",
+      "thumbnail": "/blog/images/virtual-assistant-exception-queue-reopening-measurement.webp",
+      "thumbnailTitle": "Virtual Assistant Exception Queue Reopening Measurement",
+      "relatedArticles": [
+        "virtual-assistant-instruction-change-latency-study",
+        "virtual-assistant-inbox-misroute-detection-reliability",
+        "virtual-assistant-access-expiry-enforcement-completeness"
+      ]
+    }
+  ]
+}
