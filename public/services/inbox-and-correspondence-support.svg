@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-hidden="true" focusable="false">
+  <rect width="1200" height="675" fill="#f7f0e2"/><circle cx="1080" cy="86" r="170" fill="#e8d9c2"/>
+  <rect x="82" y="82" width="1036" height="510" rx="30" fill="#fffdf8" stroke="#142c39" stroke-width="8"/>
+  <rect x="82" y="82" width="254" height="510" rx="26" fill="#142c39"/><path d="M336 82v510" stroke="#142c39" stroke-width="8"/>
+  <path d="M132 146h150M132 189h104" stroke="#f7f0e2" stroke-width="14" stroke-linecap="round"/>
+  <g fill="none" stroke="#f7f0e2" stroke-width="5"><path d="M132 264h150v70H132zM132 370h150v70H132zM132 476h150v70H132z"/></g>
+  <circle cx="154" cy="287" r="8" fill="#e0b84f"/><circle cx="154" cy="393" r="8" fill="#b8492f"/><circle cx="154" cy="499" r="8" fill="#d9e1dc"/>
+  <path d="M178 286h72M178 393h58M178 499h84" stroke="#f7f0e2" stroke-width="9" stroke-linecap="round"/>
+  <g transform="translate(382 126)"><rect width="428" height="112" rx="16" fill="#edf0eb" stroke="#b9c3bd" stroke-width="3"/><circle cx="50" cy="56" r="24" fill="#b8492f"/><path d="M92 36h252M92 64h205M92 88h126" stroke="#142c39" stroke-width="10" stroke-linecap="round"/><rect x="367" y="29" width="34" height="34" rx="8" fill="#e0b84f"/></g>
+  <g transform="translate(382 262)"><rect width="428" height="112" rx="16" fill="#fffdf8" stroke="#b9c3bd" stroke-width="3"/><circle cx="50" cy="56" r="24" fill="#142c39"/><path d="M92 36h226M92 64h260M92 88h154" stroke="#61706c" stroke-width="10" stroke-linecap="round"/><path d="m376 45 12 12 23-28" fill="none" stroke="#b8492f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g transform="translate(382 398)"><rect width="428" height="112" rx="16" fill="#fffdf8" stroke="#b9c3bd" stroke-width="3"/><circle cx="50" cy="56" r="24" fill="#e0b84f"/><path d="M92 36h276M92 64h188M92 88h236" stroke="#61706c" stroke-width="10" stroke-linecap="round"/></g>
+  <path d="M850 214h154c36 0 64 29 64 65v154c0 36-28 65-64 65h-60l-60 54 13-54h-47c-35 0-64-29-64-65V279c0-36 29-65 64-65Z" fill="#b8492f"/>
+  <path d="m873 301 76 54 76-54v112H873Z" fill="#f7f0e2"/><path d="m873 301 76 64 76-64" fill="none" stroke="#142c39" stroke-width="7" stroke-linejoin="round"/>
+</svg>

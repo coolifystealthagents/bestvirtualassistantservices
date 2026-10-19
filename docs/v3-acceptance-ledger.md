@@ -15,9 +15,13 @@ Status vocabulary: **PASS** means the repository source gate was checked in this
 | Task 1: desktop fold | Balanced layout and visible submit at 1366 by 768 and 1440 by 800 | NOT VERIFIED | Requires browser screenshots at both viewport sizes |
 | Task 1: responsive and accessibility | Keyboard, screen reader, reduced motion, and 44 pixel target browser behavior | NOT VERIFIED | Requires browser and assistive technology checks |
 | Task 1: production | Deployed asset responses, submission endpoint, tracking, redirect, and scheduler | NOT VERIFIED | No deployment or live verification performed |
-| Task 2: services | Ten service records and long form templates | PENDING | Outside Task 1 scope |
-| Task 3: blog | Anchored article navigation and responsive fallback | PENDING | Outside Task 1 scope |
-| Task 4: platform | Middleware, canonical host, security headers, sitemap, not found, and punctuation sanitation | PENDING | Outside Task 1 scope |
+| Task 2: service source | Ten service records, unique concise metadata, deep body content, three or more FAQs, and complete long-form rendering | PASS | `app/fleet-data.ts`, `app/services/[slug]/page.tsx`, and focused contract assertions |
+| Task 2: service artwork | Ten unique local route-specific SVG heroes use the exact 1200 by 675 canvas and contain no active or external content | PASS | `public/services/` and XML parse plus focused contract assertions |
+| Task 2: navigation source | Route-aware active state, `aria-current`, persistent mobile sponsor, and main-content scroll offset | PASS | `app/components.tsx`, `app/globals.css`, and focused contract assertions |
+| Task 2: service and navigation visual | Hero composition, sticky navigation, mobile sponsor layout, responsive wrapping, and focus behavior | NOT VERIFIED | Requires browser screenshots and keyboard checks across the viewport matrix |
+| Task 2: service and navigation production | Deployed service images, structured data, route status, canonical response, and navigation state | NOT VERIFIED | No deployment or live verification performed |
+| Task 3: blog | Anchored article navigation and responsive fallback | PENDING | Outside Task 2 scope |
+| Task 4: platform | Middleware, canonical host, security headers, sitemap, not found, and punctuation sanitation | PENDING | Outside Task 2 scope |
 | Final release | Full contract, build, browser matrix, live smoke test, and deployment approval | PENDING | Complete after all remediation tasks |
 
 ## Task 1 source acceptance

@@ -1,11 +1,12 @@
 import assert from 'node:assert/strict';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { test } from 'node:test';
 
 const read = (path) => readFileSync(new URL(`../${path}`, import.meta.url), 'utf8');
 
 test('shared shell carries the exact sponsorship phrase and only three primary destinations', () => {
   const shell = read('app/components.tsx');
+  const css = read('app/globals.css');
   assert.equal((shell.match(/Powered by StealthAgents/g) || []).length, 2);
   for (const href of ['/', '/services', '/contact-us']) {
     assert.ok(shell.includes(`href="${href}"`) || shell.includes(`href='${href}'`), `missing primary destination ${href}`);
@@ -13,6 +14,12 @@ test('shared shell carries the exact sponsorship phrase and only three primary d
   assert.match(shell, /aria-expanded/);
   assert.match(shell, /aria-controls/);
   assert.match(shell, /Skip to content/);
+  assert.match(shell, /usePathname/);
+  assert.match(shell, /aria-current=\{isActive\(link\.href\) \? ['"]page['"] : undefined\}/);
+  assert.match(shell, /className=\{isActive\(link\.href\) \? ['"]is-active['"] : undefined\}/);
+  const mobileRules = [...css.matchAll(/@media\(max-width:[^)]+\)\{([^]*?)(?=\n\s*@media|\n\s*\/\*|$)/g)].map((match) => match[1]).join('\n');
+  assert.doesNotMatch(mobileRules, /\.header-sponsor[^{}]*\{[^{}]*(?:display\s*:\s*none|visibility\s*:\s*hidden)/i);
+  assert.match(mobileRules, /\.header-sponsor\s*\{[^{}]*display\s*:\s*block/i);
 });
 
 test('first-party proof has ten unique records, provenance, and local official assets', () => {
@@ -51,8 +58,66 @@ test('conversion routes and scheduler contract are explicit', () => {
 
 test('ten service records expose complete deep-content fields and unique heroes', () => {
   const data = read('app/fleet-data.ts');
-  for (const field of ['audience', 'problem', 'inputs', 'workflow', 'deliverables', 'boundaries', 'qualityControls', 'scenarios', 'faq', 'relatedServices', 'heroImage']) assert.match(data, new RegExp(`${field}:`));
-  assert.match(read('app/services/[slug]/page.tsx'), /service-longform/);
+  const serviceSource = data.slice(data.indexOf('export const fleetServices'), data.indexOf('export const researchPosts'));
+  const records = serviceSource.split(/\n  \{\n    slug:/).slice(1).map((record) => `slug:${record}`);
+  assert.equal(records.length, 10);
+
+  const requiredFields = ['audience', 'problem', 'inputs', 'workflow', 'deliverables', 'boundaries', 'qualityControls', 'scenarios', 'faq', 'relatedServices', 'heroImage'];
+  const metaTitles = [];
+  const heroPaths = [];
+  for (const record of records) {
+    for (const field of requiredFields) assert.match(record, new RegExp(`\\n    ${field}:`), `service record is missing ${field}`);
+    const slug = record.match(/slug:\s*'([^']+)'/)?.[1];
+    const metaTitle = record.match(/metaTitle:\s*'([^']+)'/)?.[1];
+    const heroPath = record.match(/heroImage:\s*'([^']+)'/)?.[1];
+    assert.ok(slug && metaTitle && heroPath, 'service record lacks slug, metaTitle, or heroImage');
+    assert.ok(metaTitle.length <= 60, `${slug} metaTitle exceeds 60 characters`);
+    metaTitles.push(metaTitle);
+    assert.match(heroPath, /^\/services\/[a-z0-9-]+\.svg$/);
+    heroPaths.push(heroPath);
+
+    const faqSource = record.match(/\n    faq:\s*\[([^]*?)\n    \],/)?.[1] || '';
+    assert.ok((faqSource.match(/\{ q:/g) || []).length >= 3, `${slug} needs at least three FAQ questions`);
+    const bodySource = record.match(/\n    body:\s*\[([^]*?)\n    \],/)?.[1] || '';
+    assert.ok((bodySource.match(/^\s*'/gm) || []).length >= 4, `${slug} needs at least four body paragraphs`);
+    assert.ok(bodySource.length >= 1600, `${slug} body lacks long-form depth`);
+  }
+  assert.equal(new Set(metaTitles).size, 10, 'service meta titles must be unique');
+  assert.equal(new Set(heroPaths).size, 10, 'service heroes must be unique');
+
+  for (const heroPath of heroPaths) {
+    const assetUrl = new URL(`../public${heroPath}`, import.meta.url);
+    assert.ok(existsSync(assetUrl), `missing ${heroPath}`);
+    const svg = readFileSync(assetUrl, 'utf8');
+    assert.match(svg, /^\s*<svg\b/i, `${heroPath} must be a standalone SVG`);
+    assert.match(svg, /\bviewBox=["']0 0 1200 675["']/i, `${heroPath} has the wrong viewBox`);
+    assert.doesNotMatch(svg, /<script\b|\bon\w+\s*=|\b(?:href|xlink:href)\s*=\s*["'](?:https?:|\/\/|data:|javascript:)/i, `${heroPath} contains active or external content`);
+  }
+
+  const template = read('app/services/[slug]/page.tsx');
+  assert.match(template, /service-longform/);
+  assert.match(template, /service\.faq\.map/);
+  assert.match(template, /['"]@type['"]:\s*['"]BreadcrumbList['"]/);
+  assert.match(template, /['"]@type['"]:\s*['"]FAQPage['"]/);
+  assert.match(template, /provider:\s*\{[^}]*name:\s*['"]Stealth Agents['"][^}]*url:\s*['"]https:\/\/stealthagents\.com\//);
+  assert.doesNotMatch(template, /areaServed:\s*['"]Worldwide['"]/);
+  assert.match(read('app/globals.css'), /#main-content\s*\{[^}]*scroll-margin-top\s*:/);
+
+  const sourceRoot = new URL('../', import.meta.url);
+  const sourceExtensions = /\.(?:ts|tsx|js|jsx|mjs|cjs|json|md|mdx|css)$/;
+  const excludedDirectories = new Set(['.git', '.next', 'node_modules', 'public', 'tests']);
+  const allowedReferenceFile = new URL('../app/fleet-data.ts', import.meta.url).pathname;
+  const unexpectedReferences = [];
+  const visit = (directory) => {
+    for (const entry of readdirSync(directory)) {
+      if (excludedDirectories.has(entry)) continue;
+      const path = `${directory}/${entry}`;
+      if (statSync(path).isDirectory()) visit(path);
+      else if (sourceExtensions.test(entry) && path !== allowedReferenceFile && /\/services\/[a-z0-9-]+\.svg/.test(readFileSync(path, 'utf8'))) unexpectedReferences.push(path);
+    }
+  };
+  visit(sourceRoot.pathname.replace(/\/$/, ''));
+  assert.deepEqual(unexpectedReferences, [], 'only service data may reference service hero assets');
 });
 
 test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback', () => {
