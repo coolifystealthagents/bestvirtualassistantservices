@@ -203,11 +203,13 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   assert.equal(resolveVisitorProtocol('{"scheme":"https"}', 'http', 'http:'), 'https');
   assert.equal(resolveVisitorProtocol('{"scheme":"ftp"}', 'http', 'https:'), 'http');
   assert.equal(resolveVisitorProtocol('{malformed', 'http', 'https:'), 'http');
-  assert.equal(resolveVisitorProtocol(null, 'https, http', 'http:'), 'https');
+  assert.equal(resolveVisitorProtocol(null, 'ftp', 'https:'), 'https');
+  assert.equal(resolveVisitorProtocol(null, ' HTTPS , http', 'http:'), 'https');
   assert.equal(resolveVisitorProtocol(null, null, 'https:'), 'https');
   for (const pathname of ['/safe/path', '//evil.example/path', '/\\evil.example/path']) {
     const destination = buildCanonicalDestination(pathname, '?x=1&y=2');
     assert.equal(destination.origin, 'https://bestvirtualassistantservices.com');
+    assert.ok(destination.href.startsWith('https://bestvirtualassistantservices.com/'));
     assert.equal(destination.search, '?x=1&y=2');
   }
 

@@ -9,7 +9,8 @@ export function resolveVisitorProtocol(cfVisitor, forwardedProtocol, requestProt
     }
   }
 
-  const forwarded = forwardedProtocol?.split(',')[0]?.trim().toLowerCase();
+  const forwardedValue = forwardedProtocol?.split(',')[0]?.trim().toLowerCase();
+  const forwarded = forwardedValue === 'http' || forwardedValue === 'https' ? forwardedValue : undefined;
   const fallback = requestProtocol.replace(':', '').toLowerCase();
   return cloudflareProtocol || forwarded || fallback;
 }
