@@ -1,0 +1,1 @@
+export function parseBlogPage(rawPage: string, pageCount: number): number | null;

@@ -5,6 +5,7 @@ import { Header, Footer } from "../../../components";
 import { site } from "../../../data";
 import { allBlogPosts } from "../../../content-library";
 import { postsPerPage } from "../../../fleet-data";
+import { parseBlogPage } from "./pagination.mjs";
 
 type BlogPageProps = {
   params: Promise<{ page: string }>;
@@ -17,7 +18,9 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: BlogPageProps): Promise<Metadata> {
   const { page } = await params;
-  const n = Number(page);
+  const pages = Math.max(1, Math.ceil(allBlogPosts.length / postsPerPage));
+  const n = parseBlogPage(page, pages);
+  if (n === null) notFound();
 
   return {
     title: `Virtual Assistant Guides - Page ${n}`,
@@ -29,9 +32,9 @@ export default async function BlogPage({
   params,
 }: BlogPageProps) {
   const { page } = await params;
-  const n = Number(page);
   const pages = Math.max(1, Math.ceil(allBlogPosts.length / postsPerPage));
-  if (!Number.isInteger(n) || n < 1 || n > pages) notFound();
+  const n = parseBlogPage(page, pages);
+  if (n === null) notFound();
   const posts = allBlogPosts.slice((n - 1) * postsPerPage, n * postsPerPage);
   return (
     <>

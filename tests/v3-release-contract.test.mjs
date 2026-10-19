@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { test } from 'node:test';
+import { parseBlogPage } from '../app/blog/page/[page]/pagination.mjs';
 
 const read = (path) => readFileSync(new URL(`../${path}`, import.meta.url), 'utf8');
 
@@ -46,20 +47,29 @@ test('contact owns form, contains no scheduler, and official section immediately
   assert.doesNotMatch(page, /oncehub|booking|35\+|Forbes|top rated/i);
   assert.match(page, /contact-hero[\s\S]*TestimonialsRail[\s\S]*StandardContactForm/);
   assert.match(page, /<\/section>\s*<section className="official-team"/);
-  assert.match(page, /Official team, Bacolod/);
+  assert.match(page, /Official Stealth Agents team image/);
+  assert.doesNotMatch(page, /team in Bacolod|Official team, Bacolod|who receives your request/i);
 });
 
 test('lead ingestion failure never becomes tracker-owned success', () => {
   const form = read('app/contact-us/StandardContactForm.tsx');
+  const globalTracker = read('app/acr-client.tsx');
   const catchBlock = form.slice(form.indexOf('} catch'));
   assert.doesNotMatch(catchBlock, /location\.assign/);
   assert.match(form, /if \(!response\.ok\) throw/);
+  assert.match(form, /data-acr-owner="component"/);
+  assert.match(globalTracker, /form\.dataset\.acrOwner===['"]component['"]\)return/);
 });
 
 test('conversion routes and scheduler contract are explicit', () => {
   assert.ok(existsSync(new URL('../app/thanks-whats-next/page.tsx', import.meta.url)));
-  assert.match(read('app/thank-you/page.tsx'), /https:\/\/go\.oncehub\.com\/StealthAgentsTeam/);
-  assert.match(read('app/thanks-whats-next/page.tsx'), /index: false/);
+  const thankYou = read('app/thank-you/page.tsx');
+  const nextSteps = read('app/thanks-whats-next/page.tsx');
+  assert.match(thankYou, /https:\/\/go\.oncehub\.com\/StealthAgentsTeam/);
+  for (const source of [thankYou, nextSteps]) assert.match(source, /robots:\s*\{\s*index:\s*false,\s*follow:\s*false\s*\}/);
+  const layout = read('app/layout.tsx');
+  assert.doesNotMatch(layout, /funnel_booking_confirmed|Booking Confirmed/);
+  assert.match(layout, /funnel_next_steps_viewed/);
 });
 
 test('ten service records expose complete deep-content fields and unique heroes', () => {
@@ -214,9 +224,10 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   assert.doesNotMatch(sanitizer, /innerHTML\s*=/);
   assert.match(read('app/layout.tsx'), /<VisiblePunctuationSanitizer\s*\/>/);
 
-  for (const metadataFile of ['app/blog/page.tsx', 'app/research/page.tsx', 'app/services/page.tsx', 'app/contact/page.tsx', 'app/blog/[slug]/page.tsx']) {
+  for (const metadataFile of ['app/blog/page.tsx', 'app/research/page.tsx', 'app/services/page.tsx', 'app/contact/page.tsx', 'app/contact-us/page.tsx', 'app/blog/[slug]/page.tsx']) {
     assert.doesNotMatch(read(metadataFile), /title:\s*`[^`]*\|\s*\$\{site\.brand\}/, `${metadataFile} manually duplicates the root title suffix`);
   }
+  assert.match(read('app/contact-us/page.tsx'), /title:\s*['"]Contact Us['"]/);
 });
 
 test('crawl metadata covers every index page and keeps pagination canonicalized', () => {
@@ -250,7 +261,11 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
   assert.match(pagination, /export async function generateMetadata/);
   assert.match(pagination, /title:\s*`Virtual Assistant Guides - Page \$\{n\}`/);
   assert.match(pagination, /canonical:\s*n === 1 \? ["']\/blog["'] : `\/blog\/page\/\$\{n\}`/);
-  assert.match(pagination, /!Number\.isInteger\(n\) \|\| n < 1 \|\| n > pages\) notFound\(\)/);
+  assert.equal((pagination.match(/parseBlogPage\(page, pages\)/g) || []).length, 2);
+  for (const invalid of ['foo', '0', '-1', '02', '2e0', '2.0', '9007199254740992']) assert.equal(parseBlogPage(invalid, 27), null, `${invalid} must be rejected`);
+  assert.equal(parseBlogPage('1', 27), 1);
+  assert.equal(parseBlogPage('27', 27), 27);
+  assert.equal(parseBlogPage('28', 27), null);
 });
 
 test('cancellation and stale research URLs permanently redirect without chains', async () => {

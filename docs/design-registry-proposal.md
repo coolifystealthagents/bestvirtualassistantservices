@@ -17,7 +17,7 @@ Documentary team photography and workflow imagery should explain who or what is 
 ## Applied Task 1 decisions
 
 - Sticky, stable shared shell with the subsidiary mark kept distinct from the official Stealth Agents wordmark.
-- Three primary destinations: Home, Services, and Contact Us.
+- Three primary destinations: Home, Services, and Contact.
 - Visible keyboard focus, skip navigation, mobile disclosure containment, and 44 pixel mobile controls.
 - Squared contact form, editorial rules, restrained shadows, and rust action color.
 - First party reviews remain verbatim, are labeled as first party, and carry a source link and limitation.

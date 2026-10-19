@@ -27,7 +27,7 @@ Status vocabulary: **PASS** means the repository source gate was checked in this
 | Task 4: punctuation source scan | Source content was scanned separately for visible em dash, en dash, and double-hyphen candidates; runtime sanitizer covers rendered text without touching protected markup | PASS | Scan result recorded in implementing commit report; no MDX or content index was modified |
 | Task 4: platform browser | Redirect path/query preservation, response headers, CSP console, OnceHub embed, 404 navigation, and post-hydration sanitation in supported browsers | NOT VERIFIED | Requires production-mode browser and response-header checks |
 | Task 4: platform production | Apex/www and HTTP/HTTPS live behavior, deployed sitemap and robots, tracker ingestion, and scheduler framing | NOT VERIFIED | No deployment or live verification performed |
-| Final release source | Full nine-test V3 contract, TypeScript, direct Next build, and diff hygiene | PASS | Command results recorded in implementing commit report |
+| Final release source | Full eleven-test V3 contract, TypeScript, direct Next build, and diff hygiene | PASS | Command results recorded in implementing commit report |
 | Final release browser and live | Full responsive browser matrix, live smoke test, and deployment approval | NOT VERIFIED | No deployment or live verification performed |
 
 ## Task 1 source acceptance
