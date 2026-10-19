@@ -1,7 +1,7 @@
 import { Header, Footer, CTA, JsonLd } from '../components';
 import { providerQuestions, site, vettingSteps } from '../data';
 
-export const metadata = { title: 'Virtual assistant provider vetting checklist', description: 'Simple questions and steps for vetting virtual assistant service providers before you sign.' };
+export const metadata = { title: 'Virtual assistant provider vetting checklist', description: 'Simple questions and steps for vetting virtual assistant service providers before you sign.', alternates: { canonical: '/provider-vetting' } };
 
 export default function VettingPage(){
   const schema = { '@context': 'https://schema.org', '@type': 'HowTo', name: 'How to vet a virtual assistant provider', step: vettingSteps.map((s, i) => ({ '@type': 'HowToStep', position: i + 1, name: s.title, text: s.text, url: `${site.url}/provider-vetting#step-${i+1}` })) };

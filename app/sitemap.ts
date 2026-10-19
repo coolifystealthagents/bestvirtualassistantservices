@@ -10,7 +10,6 @@ const staticPaths = [
   '/alternatives',
   '/blog',
   '/blog/top-50-virtual-assistant-companies',
-  '/cancellation',
   '/cancellation-policy',
   '/compare',
   '/contact',

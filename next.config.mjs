@@ -38,7 +38,38 @@ const withCsp = (allowScheduler = false) => [
   { key: 'Content-Security-Policy', value: contentSecurityPolicy(allowScheduler) },
 ];
 
+const crawlRedirects = [
+  { source: '/cancellation', destination: '/cancellation-policy', permanent: true },
+  { source: '/research/calendar-time-zone-error-cost', destination: '/services/executive-calendar-management', permanent: true },
+  { source: '/research/client-onboarding-access-minimization', destination: '/research', permanent: true },
+  { source: '/research/customer-inbox-language-escalation', destination: '/services/customer-inbox-support', permanent: true },
+  { source: '/research/ecommerce-order-status-provenance', destination: '/services/ecommerce-operations-assistance', permanent: true },
+  { source: '/research/executive-travel-itinerary-change-control', destination: '/services/travel-planning-assistance', permanent: true },
+  { source: '/research/finance-document-reconciliation-boundaries', destination: '/services/legal-administrative-assistance', permanent: true },
+  { source: '/research/knowledge-transfer-turnover-risk', destination: '/research', permanent: true },
+  { source: '/research/lead-research-qualification-boundaries', destination: '/research', permanent: true },
+  { source: '/research/market-research-source-diversity', destination: '/research', permanent: true },
+  { source: '/research/philippines-virtual-assistant-data-entry-quality-control-guide', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-bookkeeping-support-controls', destination: '/services/legal-administrative-assistance', permanent: true },
+  { source: '/research/virtual-assistant-calendar-management-rules', destination: '/services/executive-calendar-management', permanent: true },
+  { source: '/research/virtual-assistant-ecommerce-product-catalog', destination: '/services/ecommerce-operations-assistance', permanent: true },
+  { source: '/research/virtual-assistant-inbox-triage-workflow', destination: '/services/inbox-and-correspondence-support', permanent: true },
+  { source: '/research/virtual-assistant-outsourcing-readiness-checklist', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-philippines-executive-calendar-management', destination: '/services/executive-calendar-management', permanent: true },
+  { source: '/research/virtual-assistant-project-coordination-checklist', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-project-status-summaries', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-quality-scorecard', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-spreadsheet-review-queues', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-task-dependency-notes', destination: '/research', permanent: true },
+  { source: '/research/virtual-assistant-travel-planning-brief', destination: '/services/travel-planning-assistance', permanent: true },
+  { source: '/research/virtual-assistant-weekly-operations-report', destination: '/research', permanent: true },
+  { source: '/research/website-content-freshness-evidence', destination: '/research', permanent: true },
+];
+
 const nextConfig = {
+  async redirects() {
+    return crawlRedirects;
+  },
   async rewrites() {
     return [{ source: '/favicon.ico', destination: '/icon.svg' }];
   },

@@ -6,6 +6,7 @@ export const metadata = {
   title: 'Research',
   description:
     "Original research and source-backed analysis for planning Philippines-based support.",
+  alternates: { canonical: '/research' },
 };
 export default function Research() {
   const clusters = [

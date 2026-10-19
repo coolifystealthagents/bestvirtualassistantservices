@@ -1,18 +1,33 @@
+import type { Metadata } from "next";
 import { FeaturedComparison } from "../../FeaturedComparison";
 import { notFound } from "next/navigation";
 import { Header, Footer } from "../../../components";
 import { site } from "../../../data";
 import { allBlogPosts } from "../../../content-library";
 import { postsPerPage } from "../../../fleet-data";
+
+type BlogPageProps = {
+  params: Promise<{ page: string }>;
+};
+
 export function generateStaticParams() {
   const pages = Math.max(1, Math.ceil(allBlogPosts.length / postsPerPage));
   return Array.from({ length: pages }, (_, i) => ({ page: String(i + 1) }));
 }
+
+export async function generateMetadata({ params }: BlogPageProps): Promise<Metadata> {
+  const { page } = await params;
+  const n = Number(page);
+
+  return {
+    title: `Virtual Assistant Guides - Page ${n}`,
+    alternates: { canonical: n === 1 ? "/blog" : `/blog/page/${n}` },
+  };
+}
+
 export default async function BlogPage({
   params,
-}: {
-  params: Promise<{ page: string }>;
-}) {
+}: BlogPageProps) {
   const { page } = await params;
   const n = Number(page);
   const pages = Math.max(1, Math.ceil(allBlogPosts.length / postsPerPage));

@@ -213,6 +213,93 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   }
 });
 
+test('crawl metadata covers every index page and keeps pagination canonicalized', () => {
+  const canonicalPages = new Map([
+    ['app/page.tsx', '/'],
+    ['app/blog/page.tsx', '/blog'],
+    ['app/cancellation-policy/page.tsx', '/cancellation-policy'],
+    ['app/contact/page.tsx', '/contact'],
+    ['app/privacy/page.tsx', '/privacy'],
+    ['app/provider-vetting/page.tsx', '/provider-vetting'],
+    ['app/research/page.tsx', '/research'],
+    ['app/services/page.tsx', '/services'],
+    ['app/terms/page.tsx', '/terms'],
+  ]);
+
+  for (const [file, canonical] of canonicalPages) {
+    const source = read(file);
+    const escapedCanonical = canonical.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    assert.match(
+      source,
+      new RegExp(`alternates\\s*:\\s*\\{\\s*canonical\\s*:\\s*['"]${escapedCanonical}['"]\\s*\\}`),
+      `${file} must declare ${canonical} as its canonical`,
+    );
+  }
+
+  const home = read('app/page.tsx');
+  assert.match(home, /title:\s*['"]Virtual Assistant Service Comparison Guide['"]/);
+  assert.doesNotMatch(home, /Virtual Assistant Guides - Page/);
+
+  const pagination = read('app/blog/page/[page]/page.tsx');
+  assert.match(pagination, /export async function generateMetadata/);
+  assert.match(pagination, /title:\s*`Virtual Assistant Guides - Page \$\{n\}`/);
+  assert.match(pagination, /canonical:\s*n === 1 \? ["']\/blog["'] : `\/blog\/page\/\$\{n\}`/);
+  assert.match(pagination, /!Number\.isInteger\(n\) \|\| n < 1 \|\| n > pages\) notFound\(\)/);
+});
+
+test('cancellation and stale research URLs permanently redirect without chains', async () => {
+  const staleResearchRedirects = new Map([
+    ['/research/calendar-time-zone-error-cost', '/services/executive-calendar-management'],
+    ['/research/client-onboarding-access-minimization', '/research'],
+    ['/research/customer-inbox-language-escalation', '/services/customer-inbox-support'],
+    ['/research/ecommerce-order-status-provenance', '/services/ecommerce-operations-assistance'],
+    ['/research/executive-travel-itinerary-change-control', '/services/travel-planning-assistance'],
+    ['/research/finance-document-reconciliation-boundaries', '/services/legal-administrative-assistance'],
+    ['/research/knowledge-transfer-turnover-risk', '/research'],
+    ['/research/lead-research-qualification-boundaries', '/research'],
+    ['/research/market-research-source-diversity', '/research'],
+    ['/research/philippines-virtual-assistant-data-entry-quality-control-guide', '/research'],
+    ['/research/virtual-assistant-bookkeeping-support-controls', '/services/legal-administrative-assistance'],
+    ['/research/virtual-assistant-calendar-management-rules', '/services/executive-calendar-management'],
+    ['/research/virtual-assistant-ecommerce-product-catalog', '/services/ecommerce-operations-assistance'],
+    ['/research/virtual-assistant-inbox-triage-workflow', '/services/inbox-and-correspondence-support'],
+    ['/research/virtual-assistant-outsourcing-readiness-checklist', '/research'],
+    ['/research/virtual-assistant-philippines-executive-calendar-management', '/services/executive-calendar-management'],
+    ['/research/virtual-assistant-project-coordination-checklist', '/research'],
+    ['/research/virtual-assistant-project-status-summaries', '/research'],
+    ['/research/virtual-assistant-quality-scorecard', '/research'],
+    ['/research/virtual-assistant-spreadsheet-review-queues', '/research'],
+    ['/research/virtual-assistant-task-dependency-notes', '/research'],
+    ['/research/virtual-assistant-travel-planning-brief', '/services/travel-planning-assistance'],
+    ['/research/virtual-assistant-weekly-operations-report', '/research'],
+    ['/research/website-content-freshness-evidence', '/research'],
+  ]);
+  assert.equal(staleResearchRedirects.size, 24);
+
+  const config = (await import(new URL(`../next.config.mjs?crawl-contract=${Date.now()}`, import.meta.url))).default;
+  const redirects = await config.redirects();
+  const redirectBySource = new Map(redirects.map((redirect) => [redirect.source, redirect]));
+
+  assert.deepEqual(redirectBySource.get('/cancellation'), {
+    source: '/cancellation',
+    destination: '/cancellation-policy',
+    permanent: true,
+  });
+  assert.doesNotMatch(read('app/sitemap.ts'), /['"]\/cancellation['"]/);
+
+  const configuredResearchSources = redirects
+    .filter(({ source }) => source.startsWith('/research/'))
+    .map(({ source }) => source)
+    .sort();
+  assert.deepEqual(configuredResearchSources, [...staleResearchRedirects.keys()].sort());
+
+  const redirectSources = new Set(redirects.map(({ source }) => source));
+  for (const [source, destination] of staleResearchRedirects) {
+    assert.deepEqual(redirectBySource.get(source), { source, destination, permanent: true });
+    assert.ok(!redirectSources.has(destination), `${source} redirects through another redirect source`);
+  }
+});
+
 test('design and acceptance documentation record required decisions', () => {
   const design = read('docs/design-registry-proposal.md');
   assert.match(design, /Reading this as: a practical virtual assistant buyer publication/);

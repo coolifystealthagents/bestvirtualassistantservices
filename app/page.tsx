@@ -1,6 +1,12 @@
+import type { Metadata } from 'next';
 import { Header, Footer, JsonLd } from './components';
 import { site, comparisonRows, reviewCriteria, vettingSteps, faqs, blogPosts } from './data';
 import { researchPosts } from './fleet-data';
+
+export const metadata: Metadata = {
+  title: 'Virtual Assistant Service Comparison Guide',
+  alternates: { canonical: '/' },
+};
 
 const modelLabel = (option: string) => option.replace(' virtual assistant', '').replace(' assistant', '');
 
