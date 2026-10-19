@@ -227,7 +227,7 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   for (const metadataFile of ['app/blog/page.tsx', 'app/research/page.tsx', 'app/services/page.tsx', 'app/contact/page.tsx', 'app/contact-us/page.tsx', 'app/blog/[slug]/page.tsx']) {
     assert.doesNotMatch(read(metadataFile), /title:\s*`[^`]*\|\s*\$\{site\.brand\}/, `${metadataFile} manually duplicates the root title suffix`);
   }
-  assert.match(read('app/contact-us/page.tsx'), /title:\s*['"]Contact Us['"]/);
+  assert.match(read('app/contact-us/page.tsx'), /title:\s*['"]Share Your Staffing Needs['"]/);
 });
 
 test('crawl metadata covers every index page and keeps pagination canonicalized', () => {

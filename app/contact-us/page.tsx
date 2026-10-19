@@ -4,7 +4,7 @@ import { TestimonialsRail } from '../proof-components';
 import StandardContactForm from './StandardContactForm';
 
 export const metadata: Metadata = {
-  title: 'Contact Us',
+  title: 'Share Your Staffing Needs',
   description: 'Share your role, workload, and staffing needs with the Stealth Agents team.',
   alternates: { canonical: '/contact-us' },
   robots: { index: true, follow: true },
