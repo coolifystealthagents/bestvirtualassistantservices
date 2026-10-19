@@ -9,7 +9,7 @@ const site = (data as any).site || {};
 const primaryLinks = [
   { href: '/', label: 'Home' },
   { href: '/services', label: 'Services' },
-  { href: '/contact-us', label: 'Contact Us' },
+  { href: '/contact-us', label: 'Contact' },
 ];
 
 export function JsonLd({ data }: { data: any }) {

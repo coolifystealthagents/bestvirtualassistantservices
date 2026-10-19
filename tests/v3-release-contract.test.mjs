@@ -8,9 +8,15 @@ test('shared shell carries the exact sponsorship phrase and only three primary d
   const shell = read('app/components.tsx');
   const css = read('app/globals.css');
   assert.equal((shell.match(/Powered by StealthAgents/g) || []).length, 2);
-  for (const href of ['/', '/services', '/contact-us']) {
-    assert.ok(shell.includes(`href="${href}"`) || shell.includes(`href='${href}'`), `missing primary destination ${href}`);
+  for (const { href, label } of [
+    { href: '/', label: 'Home' },
+    { href: '/services', label: 'Services' },
+    { href: '/contact-us', label: 'Contact' },
+  ]) {
+    const escapedHref = href.replaceAll('/', '\\/');
+    assert.match(shell, new RegExp(`\\{ href: ['"]${escapedHref}['"], label: ['"]${label}['"] \\}`), `missing exact primary destination ${label} (${href})`);
   }
+  assert.doesNotMatch(shell.slice(shell.indexOf('const primaryLinks'), shell.indexOf('];', shell.indexOf('const primaryLinks'))), /Contact Us/);
   assert.match(shell, /aria-expanded/);
   assert.match(shell, /aria-controls/);
   assert.match(shell, /Skip to content/);
