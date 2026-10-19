@@ -20,7 +20,9 @@ Status vocabulary: **PASS** means the repository source gate was checked in this
 | Task 2: navigation source | Route-aware active state, `aria-current`, persistent mobile sponsor, and main-content scroll offset | PASS | `app/components.tsx`, `app/globals.css`, and focused contract assertions |
 | Task 2: service and navigation visual | Hero composition, sticky navigation, mobile sponsor layout, responsive wrapping, and focus behavior | NOT VERIFIED | Requires browser screenshots and keyboard checks across the viewport matrix |
 | Task 2: service and navigation production | Deployed service images, structured data, route status, canonical response, and navigation state | NOT VERIFIED | No deployment or live verification performed |
-| Task 3: blog | Anchored article navigation and responsive fallback | PENDING | Outside Task 2 scope |
+| Task 3: blog source | Stable duplicate-safe H2 anchors, complete shared navigation, active section state, sticky desktop sidebar, and mobile disclosure | PASS | `app/blog/[slug]/page.tsx`, `app/blog/[slug]/ArticleNavigation.tsx`, `app/globals.css`, and focused contract assertions |
+| Task 3: blog browser | Sticky offset, active-section changes, focus visibility, disclosure behavior, reading measure, and overflow across the viewport matrix | NOT VERIFIED | Requires browser screenshots, keyboard checks, and responsive interaction checks |
+| Task 3: blog production | Deployed article anchors, direct fragment loads, navigation state, and responsive behavior | NOT VERIFIED | No deployment or live verification performed |
 | Task 4: platform | Middleware, canonical host, security headers, sitemap, not found, and punctuation sanitation | PENDING | Outside Task 2 scope |
 | Final release | Full contract, build, browser matrix, live smoke test, and deployment approval | PENDING | Complete after all remediation tasks |
 

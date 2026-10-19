@@ -122,12 +122,25 @@ test('ten service records expose complete deep-content fields and unique heroes'
 
 test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback', () => {
   const article = read('app/blog/[slug]/page.tsx');
+  const css = read('app/globals.css');
   assert.match(article, /ArticleNavigation/);
   assert.match(article, /id=\{headingId/);
+  assert.match(article, /usedIds\.get\(baseId\)/);
+  assert.match(article, /occurrence === 1 \? baseId : `\$\{baseId\}-\$\{occurrence\}`/);
+  assert.match(article, /articleNavigationItems\.push\(\{ id, label \}\)/);
+  const articleH2Tags = article.match(/<h2\b[^>]*>/g) || [];
+  assert.ok(articleH2Tags.length > 0 && articleH2Tags.every((tag) => /\bid=\{/.test(tag)), 'every shared-template H2 must have an anchor ID');
+  assert.equal((article.match(/<h1\b/g) || []).length, 1, 'article template must preserve one H1');
   const nav = read('app/blog/[slug]/ArticleNavigation.tsx');
   assert.match(nav, /IntersectionObserver/);
   assert.match(nav, /<details/);
   assert.match(nav, /position|article-sidebar/);
+  assert.match(nav, /aria-current=\{activeId === item\.id \? 'location' : undefined\}/);
+  assert.equal((nav.match(/<NavigationLinks/g) || []).length, 2, 'desktop and mobile navigation must share the complete item list');
+  assert.match(css, /\.article-sidebar\{[^}]*position:sticky/);
+  assert.match(css, /\.article-body h2\[id\]\{[^}]*scroll-margin-top:/);
+  assert.match(css, /\.article-navigation-mobile\{display:none\}/);
+  assert.match(css, /@media\(max-width:960px\)[^{]*\{[^]*?\.article-navigation-mobile\{display:block/);
 });
 
 test('SEO, host canonicalization, security headers, not-found, and punctuation sanitation exist', () => {

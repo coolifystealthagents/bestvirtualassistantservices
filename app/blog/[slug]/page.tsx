@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { Header, Footer, CTA, JsonLd } from '../../components';
 import { blogPosts, site } from '../../data';
 import { allBlogPosts } from '../../content-library';
+import { ArticleNavigation, type ArticleNavigationItem } from './ArticleNavigation';
 
 export function generateStaticParams() {
   return allBlogPosts.map((p) => ({ slug: p.slug }));
@@ -92,6 +93,22 @@ function formatPublicationDate(value: string) {
   return publicationDateFormatter.format(new Date(`${value}T00:00:00Z`));
 }
 
+function createArticleHeadingIds() {
+  const usedIds = new Map<string, number>();
+
+  return (label: string) => {
+    const baseId = label
+      .normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '') || 'section';
+    const occurrence = (usedIds.get(baseId) || 0) + 1;
+    usedIds.set(baseId, occurrence);
+    return occurrence === 1 ? baseId : `${baseId}-${occurrence}`;
+  };
+}
+
 export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = allBlogPosts.find((p) => p.slug === slug);
@@ -100,6 +117,24 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
     const related = allBlogPosts.find((candidate) => candidate.slug === relatedSlug);
     return related ? [related] : [];
   });
+  const headingId = createArticleHeadingIds();
+  const articleNavigationItems: ArticleNavigationItem[] = [];
+  const addHeading = (label: string) => {
+    const id = headingId(label);
+    articleNavigationItems.push({ id, label });
+    return id;
+  };
+  const topBannerHeading = 'Turn this guide into a clear role brief';
+  const topBannerHeadingId = addHeading(topBannerHeading);
+  const keyTakeawaysHeadingId = addHeading('Key takeaways');
+  let middleBannerHeadingId: string | undefined;
+  const sectionsWithHeadingIds = post.sections.map((section, index) => {
+    const headingId = addHeading(section.heading);
+    if (index === 1) middleBannerHeadingId = addHeading('Compare every provider against the same workflow');
+    return { section, headingId };
+  });
+  const faqHeadingId = post.faq.length ? addHeading('FAQ') : undefined;
+  const relatedHeadingId = relatedPosts.length ? addHeading('Continue the service review') : undefined;
 
   return (
     <>
@@ -107,70 +142,76 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
       <main>
         <article className="section">
           <div className="container article-shell">
-            {post.published ? <JsonLd data={{ '@context': 'https://schema.org', '@type': 'Article', headline: post.title, datePublished: post.published, dateModified: post.modified || post.published, mainEntityOfPage: `${site.url}/blog/${post.slug}`, publisher: { '@type': 'Organization', name: site.brand } }} /> : null}
-            <p className="eyebrow">{site.brand} blog</p>
-            <h1>{post.title}</h1>
-            <p className="lead">{post.excerpt}</p>
-            {post.featuredImage ? <img className="article-hero-image" data-article-hero="true" src={post.featuredImage} alt={post.title} width="1200" height="675" loading="eager" /> : null}
-            {post.published ? <time className="article-date" dateTime={post.published}>Published: {formatPublicationDate(post.published)}</time> : null}
-            <p className="article-meta">{post.minutes} minute read</p>
+            <header className="article-header">
+              {post.published ? <JsonLd data={{ '@context': 'https://schema.org', '@type': 'Article', headline: post.title, datePublished: post.published, dateModified: post.modified || post.published, mainEntityOfPage: `${site.url}/blog/${post.slug}`, publisher: { '@type': 'Organization', name: site.brand } }} /> : null}
+              <p className="eyebrow">{site.brand} blog</p>
+              <h1>{post.title}</h1>
+              <p className="lead">{post.excerpt}</p>
+              {post.featuredImage ? <img className="article-hero-image" data-article-hero="true" src={post.featuredImage} alt={post.title} width="1200" height="675" loading="eager" /> : null}
+              {post.published ? <time className="article-date" dateTime={post.published}>Published: {formatPublicationDate(post.published)}</time> : null}
+              <p className="article-meta">{post.minutes} minute read</p>
+            </header>
 
-            <aside className="article-rotation-banner article-rotation-banner-top" data-article-banner="true">
-              <p className="eyebrow">Role planning checkpoint</p>
-              <h2>Turn this guide into a clear role brief</h2>
-              <p>Share the work queue, tools, review owner, and approval limits before adding outside support.</p>
-              <a className="btn" href="/contact-us">Contact Us</a>
-            </aside>
+            <div className="article-content-layout">
+              <ArticleNavigation items={articleNavigationItems} />
+              <div className="article-body">
+                <aside className="article-rotation-banner article-rotation-banner-top" data-article-banner="true">
+                  <p className="eyebrow">Role planning checkpoint</p>
+                  <h2 id={topBannerHeadingId}>{topBannerHeading}</h2>
+                  <p>Share the work queue, tools, review owner, and approval limits before adding outside support.</p>
+                  <a className="btn" href="/contact-us">Contact Us</a>
+                </aside>
 
-            <section className="card article-card">
-              <h2>Key takeaways</h2>
-              <ul>
-                {post.keyTakeaways.map((item) => <li key={item}>{item}</li>)}
-              </ul>
-            </section>
-
-            {post.sections.map((section, index) => (
-              <section className="card article-card" key={section.heading}>
-                <h2>{section.heading}</h2>
-                <ArticleHtml html={section.body} renderLinks={october2RenderedLinkSlugs.has(post.slug)} />
-                {section.bullets ? (
+                <section className="card article-card">
+                  <h2 id={keyTakeawaysHeadingId}>Key takeaways</h2>
                   <ul>
-                    {section.bullets.map((item) => <li key={item}>{item}</li>)}
+                    {post.keyTakeaways.map((item) => <li key={item}>{item}</li>)}
                   </ul>
+                </section>
+
+                {sectionsWithHeadingIds.map(({ section, headingId }, index) => (
+                  <section className="card article-card" key={headingId}>
+                    <h2 id={headingId}>{section.heading}</h2>
+                    <ArticleHtml html={section.body} renderLinks={october2RenderedLinkSlugs.has(post.slug)} />
+                    {section.bullets ? (
+                      <ul>
+                        {section.bullets.map((item) => <li key={item}>{item}</li>)}
+                      </ul>
+                    ) : null}
+                    {index === 1 ? (
+                      <aside className="article-rotation-banner article-rotation-banner-middle" data-article-banner="true">
+                        <p className="eyebrow">Midpoint planning check</p>
+                        <h2 id={middleBannerHeadingId}>Compare every provider against the same workflow</h2>
+                        <p>Use one task lane, one reviewer, and one quality check so each provider conversation is easier to judge.</p>
+                        <a className="btn" href="/contact-us">Contact Us</a>
+                      </aside>
+                    ) : null}
+                  </section>
+                ))}
+
+                {post.faq.length ? (
+                  <section className="card article-card">
+                    <h2 id={faqHeadingId}>FAQ</h2>
+                    {post.faq.map((item) => (
+                      <div className="faq-item" key={item.q}>
+                        <h3>{item.q}</h3>
+                        <p>{item.a}</p>
+                      </div>
+                    ))}
+                  </section>
                 ) : null}
-                {index === 1 ? (
-                  <aside className="article-rotation-banner article-rotation-banner-middle" data-article-banner="true">
-                    <p className="eyebrow">Midpoint planning check</p>
-                    <h2>Compare every provider against the same workflow</h2>
-                    <p>Use one task lane, one reviewer, and one quality check so each provider conversation is easier to judge.</p>
-                    <a className="btn" href="/contact-us">Contact Us</a>
+
+                {relatedPosts.length ? (
+                  <aside className="card article-card" aria-label="Related Blog guides">
+                    <p className="eyebrow">Related Blog guides</p>
+                    <h2 id={relatedHeadingId}>Continue the service review</h2>
+                    <ul>
+                      {relatedPosts.map((related) => <li key={related.slug}><a href={`/blog/${related.slug}`}>{related.title}</a></li>)}
+                    </ul>
                   </aside>
                 ) : null}
-              </section>
-            ))}
-
-            {post.faq.length ? (
-              <section className="card article-card">
-                <h2>FAQ</h2>
-                {post.faq.map((item) => (
-                  <div className="faq-item" key={item.q}>
-                    <h3>{item.q}</h3>
-                    <p>{item.a}</p>
-                  </div>
-                ))}
-              </section>
-            ) : null}
-
-            {relatedPosts.length ? (
-              <aside className="card article-card" aria-label="Related Blog guides">
-                <p className="eyebrow">Related Blog guides</p>
-                <h2>Continue the service review</h2>
-                <ul>
-                  {relatedPosts.map((related) => <li key={related.slug}><a href={`/blog/${related.slug}`}>{related.title}</a></li>)}
-                </ul>
-              </aside>
-            ) : null}
-
+              </div>
+            </div>
           </div>
         </article>
         <CTA />
