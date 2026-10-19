@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = allBlogPosts.find((p) => p.slug === slug);
   if (!post) return {};
   return {
-    title: `${post.title} | ${site.brand}`,
+    title: post.title,
     description: post.excerpt,
     alternates: { canonical: `${site.url}/blog/${post.slug}` },
     ...(post.featuredImage ? {

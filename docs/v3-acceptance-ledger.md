@@ -23,8 +23,12 @@ Status vocabulary: **PASS** means the repository source gate was checked in this
 | Task 3: blog source | Stable duplicate-safe H2 anchors, complete shared navigation, active section state, sticky desktop sidebar, and mobile disclosure | PASS | `app/blog/[slug]/page.tsx`, `app/blog/[slug]/ArticleNavigation.tsx`, `app/globals.css`, and focused contract assertions |
 | Task 3: blog browser | Sticky offset, active-section changes, focus visibility, disclosure behavior, reading measure, and overflow across the viewport matrix | NOT VERIFIED | Requires browser screenshots, keyboard checks, and responsive interaction checks |
 | Task 3: blog production | Deployed article anchors, direct fragment loads, navigation state, and responsive behavior | NOT VERIFIED | No deployment or live verification performed |
-| Task 4: platform | Middleware, canonical host, security headers, sitemap, not found, and punctuation sanitation | PENDING | Outside Task 2 scope |
-| Final release | Full contract, build, browser matrix, live smoke test, and deployment approval | PENDING | Complete after all remediation tasks |
+| Task 4: platform source | Production-only canonical redirects, fixed apex destination, global security headers, route-scoped OnceHub framing, canonical sitemap and robots, branded 404, title conventions, and post-hydration visible-text punctuation sanitation | PASS | `middleware.ts`, `next.config.mjs`, metadata routes, `app/not-found.tsx`, `app/visible-punctuation-sanitizer.tsx`, and focused contract assertions |
+| Task 4: punctuation source scan | Source content was scanned separately for visible em dash, en dash, and double-hyphen candidates; runtime sanitizer covers rendered text without touching protected markup | PASS | Scan result recorded in implementing commit report; no MDX or content index was modified |
+| Task 4: platform browser | Redirect path/query preservation, response headers, CSP console, OnceHub embed, 404 navigation, and post-hydration sanitation in supported browsers | NOT VERIFIED | Requires production-mode browser and response-header checks |
+| Task 4: platform production | Apex/www and HTTP/HTTPS live behavior, deployed sitemap and robots, tracker ingestion, and scheduler framing | NOT VERIFIED | No deployment or live verification performed |
+| Final release source | Full nine-test V3 contract, TypeScript, direct Next build, and diff hygiene | PASS | Command results recorded in implementing commit report |
+| Final release browser and live | Full responsive browser matrix, live smoke test, and deployment approval | NOT VERIFIED | No deployment or live verification performed |
 
 ## Task 1 source acceptance
 

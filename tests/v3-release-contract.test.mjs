@@ -143,14 +143,74 @@ test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback'
   assert.match(css, /@media\(max-width:960px\)[^{]*\{[^]*?\.article-navigation-mobile\{display:block/);
 });
 
-test('SEO, host canonicalization, security headers, not-found, and punctuation sanitation exist', () => {
-  const config = read('next.config.mjs');
-  for (const header of ['Strict-Transport-Security', 'Content-Security-Policy', 'X-Content-Type-Options', 'Referrer-Policy', 'Permissions-Policy']) assert.match(config, new RegExp(header));
-  assert.match(config, /bestvirtualassistantservices\.com/);
-  assert.ok(existsSync(new URL('../middleware.ts', import.meta.url)));
+test('SEO, host canonicalization, security headers, not-found, and punctuation sanitation exist', async () => {
+  const configSource = read('next.config.mjs');
+  for (const header of ['Strict-Transport-Security', 'Content-Security-Policy', 'X-Content-Type-Options', 'Referrer-Policy', 'Permissions-Policy', 'X-Frame-Options', 'Cross-Origin-Opener-Policy', 'Cross-Origin-Resource-Policy']) {
+    assert.match(configSource, new RegExp(header), `missing ${header}`);
+  }
+  for (const directive of ['frame-ancestors', 'object-src', 'script-src', 'connect-src', 'https://acrtracking.stealthagents.us', 'https://go.oncehub.com']) {
+    assert.match(configSource, new RegExp(directive.replaceAll('/', '\\/')));
+  }
+  assert.match(configSource, /source: '\/thank-you'[\s\S]*withCsp\(true\)/);
+  assert.match(configSource, /process\.env\.NODE_ENV === 'production'/);
+
+  const originalNodeEnv = process.env.NODE_ENV;
+  process.env.NODE_ENV = 'production';
+  let headerRules;
+  try {
+    const config = (await import(new URL(`../next.config.mjs?v3-contract=${Date.now()}`, import.meta.url))).default;
+    headerRules = await config.headers();
+  } finally {
+    process.env.NODE_ENV = originalNodeEnv;
+  }
+  const schedulerHeaders = Object.fromEntries(headerRules.find((rule) => rule.source === '/thank-you').headers.map(({ key, value }) => [key, value]));
+  const globalHeaders = Object.fromEntries(headerRules.find((rule) => rule.source !== '/thank-you').headers.map(({ key, value }) => [key, value]));
+  for (const header of ['Strict-Transport-Security', 'Content-Security-Policy', 'X-Content-Type-Options', 'Referrer-Policy', 'Permissions-Policy', 'X-Frame-Options', 'Cross-Origin-Opener-Policy', 'Cross-Origin-Resource-Policy']) {
+    assert.ok(globalHeaders[header], `${header} is not emitted by the global production rule`);
+  }
+  assert.match(globalHeaders['Content-Security-Policy'], /frame-src 'none'/);
+  assert.match(schedulerHeaders['Content-Security-Policy'], /frame-src 'self' https:\/\/go\.oncehub\.com/);
+  assert.match(globalHeaders['Content-Security-Policy'], /https:\/\/acrtracking\.stealthagents\.us/);
+
+  const middleware = read('middleware.ts');
+  assert.match(middleware, /https:\/\/bestvirtualassistantservices\.com/);
+  assert.match(middleware, /www\.\$\{CANONICAL_HOST\}/);
+  assert.match(middleware, /request\.nextUrl\.pathname/);
+  assert.match(middleware, /request\.nextUrl\.search/);
+  assert.match(middleware, /NextResponse\.redirect\(destination, 308\)/);
+  assert.match(middleware, /isProductionHost/);
+  assert.doesNotMatch(middleware, /new URL\([^\n]*hostHeader/);
+
   assert.ok(existsSync(new URL('../app/sitemap.ts', import.meta.url)));
-  assert.ok(existsSync(new URL('../app/not-found.tsx', import.meta.url)));
-  assert.match(read('app/layout.tsx'), /VisiblePunctuationSanitizer/);
+  assert.ok(!existsSync(new URL('../app/sitemap.xml/route.ts', import.meta.url)), 'legacy sitemap route must not compete with metadata sitemap');
+  const sitemap = read('app/sitemap.ts');
+  for (const collection of ['fleetServices', 'allBlogPosts', 'allResearchPosts', 'alternatives', 'guides']) assert.match(sitemap, new RegExp(collection));
+  assert.doesNotMatch(sitemap, /['"]\/thank-you|['"]\/thanks-whats-next|['"]\/api|['"]\/ingest/);
+  assert.match(sitemap, /site\.url/);
+
+  const robots = read('app/robots.ts');
+  assert.match(robots, /site\.url/);
+  assert.match(robots, /\/thank-you/);
+  assert.match(robots, /\/thanks-whats-next/);
+  assert.ok(!existsSync(new URL('../app/robots.txt/route.ts', import.meta.url)), 'legacy robots route must not compete with metadata robots');
+
+  const notFound = read('app/not-found.tsx');
+  assert.match(notFound, /<Header\s*\/>/);
+  assert.match(notFound, /<Footer\s*\/>/);
+  for (const href of ['/', '/services', '/blog', '/contact-us']) assert.match(notFound, new RegExp(`href=["']${href.replace('/', '\\/')}["']`));
+
+  const sanitizer = read('app/visible-punctuation-sanitizer.tsx');
+  for (const element of ['SCRIPT', 'STYLE', 'CODE', 'PRE', 'TEXTAREA', 'INPUT']) assert.match(sanitizer, new RegExp(`['"]${element}['"]`));
+  assert.match(sanitizer, /useEffect/);
+  assert.match(sanitizer, /MutationObserver/);
+  assert.match(sanitizer, /observer\.disconnect\(\)/);
+  assert.match(sanitizer, /NodeFilter\.SHOW_TEXT/);
+  assert.doesNotMatch(sanitizer, /innerHTML\s*=/);
+  assert.match(read('app/layout.tsx'), /<VisiblePunctuationSanitizer\s*\/>/);
+
+  for (const metadataFile of ['app/blog/page.tsx', 'app/research/page.tsx', 'app/services/page.tsx', 'app/contact/page.tsx', 'app/blog/[slug]/page.tsx']) {
+    assert.doesNotMatch(read(metadataFile), /title:\s*`[^`]*\|\s*\$\{site\.brand\}/, `${metadataFile} manually duplicates the root title suffix`);
+  }
 });
 
 test('design and acceptance documentation record required decisions', () => {

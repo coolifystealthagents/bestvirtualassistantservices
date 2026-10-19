@@ -4,7 +4,7 @@ import { postsPerPage } from "../fleet-data";
 import { allBlogPosts } from "../content-library";
 const formatDate = (date: string) => new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(`${date}T00:00:00Z`));
 export const metadata = {
-  title: `Blog | ${site.brand}`,
+  title: 'Blog',
   description: `Philippines-based ${site.primary} planning guides.`,
 };
 export default function Blog() {
