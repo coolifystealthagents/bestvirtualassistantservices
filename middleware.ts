@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { resolveVisitorProtocol } from './app/proxy-scheme.mjs';
+import { buildCanonicalDestination, resolveVisitorProtocol } from './app/proxy-scheme.mjs';
 
 const CANONICAL_ORIGIN = 'https://bestvirtualassistantservices.com';
 const CANONICAL_HOST = 'bestvirtualassistantservices.com';
@@ -24,7 +24,7 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  const destination = new URL(`${request.nextUrl.pathname}${request.nextUrl.search}`, CANONICAL_ORIGIN);
+  const destination = buildCanonicalDestination(request.nextUrl.pathname, request.nextUrl.search);
   return NextResponse.redirect(destination, 308);
 }
 

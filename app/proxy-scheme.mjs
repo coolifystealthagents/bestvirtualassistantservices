@@ -13,3 +13,10 @@ export function resolveVisitorProtocol(cfVisitor, forwardedProtocol, requestProt
   const fallback = requestProtocol.replace(':', '').toLowerCase();
   return cloudflareProtocol || forwarded || fallback;
 }
+
+export function buildCanonicalDestination(pathname, search) {
+  const destination = new URL('https://bestvirtualassistantservices.com');
+  destination.pathname = pathname;
+  destination.search = search;
+  return destination;
+}
