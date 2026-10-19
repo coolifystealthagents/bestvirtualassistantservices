@@ -1,36 +1,24 @@
-'use client';
-import { useState } from 'react';
-
-const testimonials = [
-  { name: "Chad Sublet", quote: "Lindsay has been incredible. She handles the tactical work, which has freed me up to focus on bigger-picture initiatives." },
-  { name: "Alex Behrens", quote: "They have made a real difference in our day-to-day operations and truly feel like part of our internal team." },
-  { name: "Lee Maasen", quote: "Stealth Agents provided me with a fantastic virtual assistant who has been an absolute asset." },
-];
+import proof from '../content/stealth-agents-proof.json';
 
 export function TestimonialsRail({ contact = false }: { contact?: boolean }) {
-  const [paused, setPaused] = useState(false);
-  const repeated = [...testimonials, ...testimonials];
+  const headingId = contact ? 'contact-client-reviews' : 'booking-client-reviews';
   return (
-    <section className={`sa-testimonials${contact ? ' sa-testimonials-contact' : ''}${paused ? ' is-paused' : ''}`} aria-labelledby={contact ? 'contact-client-reviews' : 'booking-client-reviews'}>
+    <section className={`sa-testimonials${contact ? ' sa-testimonials-contact' : ''}`} aria-labelledby={headingId}>
       <div className="sa-testimonial-heading">
-        <span aria-hidden="true">★★★★★</span>
-        <h2 id={contact ? 'contact-client-reviews' : 'booking-client-reviews'}>What Stealth Agents clients say</h2>
+        <h2 id={headingId}>Client reviews published by Stealth Agents</h2>
       </div>
-      <button className="sa-testimonial-toggle" type="button" aria-pressed={paused} onClick={() => setPaused((value) => !value)}>
-        {paused ? 'Play testimonials' : 'Pause testimonials'}
-      </button>
-      <div className="sa-testimonial-viewport">
+      <div className="sa-testimonial-viewport" tabIndex={0} aria-label="Client testimonial marquee">
         <div className="sa-testimonial-track">
-          {repeated.map((review, index) => (
-            <article className="sa-testimonial-card" key={`${review.name}-${index}`} aria-hidden={index >= testimonials.length ? true : undefined}>
-              <div className="sa-testimonial-stars"><span aria-hidden="true">★★★★★</span><span className="sa-sr-only">5 out of 5 stars</span></div>
+          {proof.reviews.map((review, index) => (
+            <article className="sa-testimonial-card" key={review.name} style={{ '--review-index': index } as React.CSSProperties}>
+              <div className="sa-testimonial-stars" aria-label="5 out of 5 stars"><span aria-hidden="true">★★★★★</span></div>
               <blockquote>“{review.quote}”</blockquote>
-              <p>— {review.name}</p>
+              <p><cite>{review.name}</cite></p>
             </article>
           ))}
         </div>
       </div>
-      <p className="sa-testimonial-source">Source: <a href="https://stealthagents.com/" target="_blank" rel="noopener noreferrer">Stealth Agents client testimonials</a>.</p>
+      <p className="sa-testimonial-source">First party testimonials. <a href={proof.sourceUrl} target="_blank" rel="noopener noreferrer">View the source</a>. Outcomes have not been independently verified by this site.</p>
     </section>
   );
 }

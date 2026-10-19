@@ -1,39 +1,29 @@
-import type { Metadata } from "next";
-import { Footer, Header } from "../components";
-import StandardContactForm from "./StandardContactForm";
-
+import type { Metadata } from 'next';
+import { Footer, Header } from '../components';
+import { TestimonialsRail } from '../proof-components';
+import StandardContactForm from './StandardContactForm';
 
 export const metadata: Metadata = {
-  title: "Contact Us | Compare Virtual Assistant Services",
-  description: "Talk with a staffing specialist about virtual assistant roles, provider fit, onboarding, and a practical hiring plan.",
-  alternates: { canonical: "/contact-us" },
+  title: 'Contact Us | Compare Virtual Assistant Services',
+  description: 'Share your role, workload, and staffing needs with the Stealth Agents team.',
+  alternates: { canonical: '/contact-us' },
   robots: { index: true, follow: true },
 };
 
-
-const booking = "https://go.oncehub.com/StealthAgentsTeam";
-
-
 export default function ContactUsPage() {
-  return <><Header/><main className="contact-page">
-    <section className="contact-hero"><div className="contact-orbit" aria-hidden="true"/><div className="contact-shell contact-hero-grid">
-      <div className="contact-copy"><p className="contact-kicker">A clearer path to the right support</p><h1>Find a virtual assistant service built around your real workload.</h1><p className="contact-lead">Tell us what is taking time away from your team. We’ll help translate the work into a practical role, a thoughtful shortlist, and a confident next step.</p><div className="contact-trust"><span>35+ industries supported</span><span>Philippines-based talent</span><span>Structured matching</span></div><a className="contact-book" href={booking}>Book a discovery call <span>→</span></a></div>
+  return <><Header /><main id="main-content" className="contact-page">
+    <section className="contact-hero"><div className="contact-shell contact-hero-grid">
+      <div className="contact-copy">
+        <p className="contact-kicker">Start with the work</p>
+        <h1>Tell us what your team needs help with.</h1>
+        <p className="contact-lead">Share the role, systems, schedule, and priorities. Your details give the staffing team useful context for a direct follow up.</p>
+        <TestimonialsRail contact />
+      </div>
       <div className="contact-form"><StandardContactForm endpoint="/api/contact" encoding="form" /></div>
     </div></section>
-    <section className="contact-section contact-intro"><div className="contact-shell"><p className="contact-kicker dark">Choose support with context</p><h2>What would make your next hire a better fit?</h2><div className="contact-cards">
-      <article><b>01</b><h3>Provider comparison</h3><p>Compare delivery models, communication rhythms, and accountability before committing.</p></article><article><b>02</b><h3>Role scoping</h3><p>Turn a loose task list into responsibilities, outcomes, and clear ownership.</p></article><article><b>03</b><h3>Operations support</h3><p>Build consistent coverage for inboxes, scheduling, reporting, and coordination.</p></article><article><b>04</b><h3>Growth support</h3><p>Create repeatable help for lead follow-up, research, customer care, and sales admin.</p></article>
-    </div></div></section>
-    <section className="contact-section contact-proof"><div className="contact-shell"><div className="contact-heading"><div><p className="contact-kicker dark">Trusted by busy teams</p><h2>Support that feels like part of your operation.</h2></div><a href={booking}>Discuss your role →</a></div><div className="contact-quotes">
-      <blockquote><span>★★★★★</span><p>“Lindsay has been incredible. She handles the tactical work, which has freed me up to focus on bigger-picture initiatives.”</p><cite>— Chad Sublet</cite></blockquote><blockquote><span>★★★★★</span><p>“They have made a real difference in our day-to-day operations and truly feel like part of our internal team.”</p><cite>— Alex Behrens</cite></blockquote><blockquote><span>★★★★★</span><p>“Stealth Agents provided me with a fantastic virtual assistant who has been an absolute asset.”</p><cite>— Lee Maasen</cite></blockquote>
-    </div></div></section>
-    <section className="contact-section contact-capabilities"><div className="contact-shell contact-cap-grid"><div><p className="contact-kicker">Built for a useful first call</p><h2>Bring the messy list. Leave with a clearer plan.</h2><p>We’ll focus on the work, the systems it touches, and the result you need—not a generic job description.</p><a className="contact-book light" href={booking}>Book a free consultation →</a></div><ul><li>Role and workload discovery</li><li>Experience and skill alignment</li><li>Coverage and schedule planning</li><li>Communication expectations</li><li>Onboarding priorities</li><li>Clear next-step recommendations</li></ul></div></section>
-    <section className="contact-section contact-why"><div className="contact-shell contact-why-grid"><figure><img src="/va-comparison-team.jpg" alt="Virtual assistant team collaborating on client work" width="1200" height="800"/></figure><div><p className="contact-kicker dark">Why teams start here</p><h2>Thoughtful matching starts with better questions.</h2><p>A successful virtual assistant relationship depends on scope, working style, tools, and follow-through. Our conversation is designed to uncover those details early, so your search is grounded in what success actually looks like.</p><div className="contact-stat"><strong>35+</strong><span>industries supported with role-specific context</span></div></div></div></section>
-    <section className="contact-about"><div className="contact-shell contact-about-grid"><div><p className="contact-kicker">The team behind the conversation</p><h2>About Stealth Agents</h2></div><div><p>Stealth Agents works with over 35+ different industries. We&apos;re featured on Forbes as the top rated virtual assistant company.</p><a href="https://stealthagents.com/">Powered by StealthAgents</a></div></div></section>
-    <section className="contact-close"><div className="contact-shell"><p>Ready when you are</p><h2>Let’s turn your workload into the right role.</h2><a href={booking}>Book a free consultation</a></div></section>
-  </main><Footer/><style>{`
-    .contact-page{--navy:#061b3c;--blue:#0d64d8;--gold:#f6c85f;--soft:#f4f7fb;color:#17243a;overflow:hidden}.contact-shell{width:min(1180px,calc(100% - 40px));margin:auto}.contact-hero{position:relative;padding:64px 0 74px;background:linear-gradient(135deg,#04132e,#073b78 70%,#0965a7);color:#fff}.contact-orbit{position:absolute;width:520px;height:520px;border:1px solid rgba(255,255,255,.15);border-radius:50%;left:-220px;top:-260px;box-shadow:0 0 0 70px rgba(255,255,255,.025),0 0 0 140px rgba(255,255,255,.018)}.contact-hero-grid{position:relative;display:grid;grid-template-columns:minmax(0,.9fr) minmax(520px,1.1fr);gap:62px;align-items:start}.contact-copy{padding-top:28px}.contact-kicker{text-transform:uppercase;letter-spacing:.16em;font-size:12px;font-weight:800;color:#8fd8ff}.contact-kicker.dark{color:#0d64d8}.contact-copy h1{font-family:Georgia,serif;font-size:clamp(47px,5.3vw,72px);line-height:.98;letter-spacing:-.045em;margin:0 0 25px}.contact-lead{max-width:630px;font-size:18px;line-height:1.65;color:#d8e8fa}.contact-trust{display:flex;gap:9px;flex-wrap:wrap;margin:28px 0}.contact-trust span{padding:9px 12px;border:1px solid rgba(255,255,255,.25);border-radius:999px;font-size:12px;font-weight:750}.contact-book{display:inline-flex;align-items:center;gap:16px;padding:16px 20px;background:var(--gold);color:#102447;border-radius:8px;font-weight:850}.contact-book.light{background:#fff;margin-top:22px}.contact-form{min-width:0}.contact-form .sa-form-card{padding:27px 30px 32px!important}.contact-form .sa-form-card h2{font-size:24px!important;margin-bottom:19px!important}.contact-form .sa-form-card form{gap:14px!important}.contact-form .sa-form-card label{font-size:14px!important;gap:5px!important}.contact-form .sa-form-card input,.contact-form .sa-form-card select,.contact-form .sa-form-card textarea{min-height:45px!important;padding:10px 12px!important;font-size:14px!important}.contact-form .sa-form-card textarea{min-height:75px!important}.contact-form .sa-form-card button{padding:14px!important;font-size:16px!important}.contact-section{padding:94px 0}.conta
-    @media(max-width:900px){.contact-hero-grid{grid-template-columns:1fr}.contact-form{order:-1}.contact-copy{padding-top:0}.contact-cards{grid-template-columns:1fr 1fr}.contact-quotes{grid-template-columns:1fr}.contact-cap-grid,.contact-why-grid,.contact-about-grid{grid-template-columns:1fr}.contact-cap-grid{gap:38px}}
-    @media(max-width:600px){.contact-shell{width:min(100% - 28px,1180px)}.contact-hero{padding:16px 0 54px}.contact-hero-grid{gap:42px}.contact-form .sa-form-card{padding:20px 16px 24px!important}.contact-form .sa-form-card h2{font-size:20px!important}.contact-copy h1{font-size:43px}.contact-section{padding:66px 0}.contact-cards{grid-template-columns:1fr}.contact-cards article{min-height:0}.contact-cards h3{margin-top:24px}.contact-heading{display:block}.contact-heading>a{display:inline-block;margin-top:18px}.contact-cap-grid ul{grid-template-columns:1fr}.contact-why img{height:320px}.contact-about{padding:58px 0}.contact-close{padding:66px 0}}
-  `}</style></>;
+    <section className="official-team"><div className="contact-shell official-team-grid">
+      <figure><img src="/brand/stealth-agents-team-bacolod.png" alt="Stealth Agents team in Bacolod" width="953" height="540" /><figcaption>Official team, Bacolod</figcaption></figure>
+      <div className="official-team-copy"><div className="official-logo-plate"><img src="/brand/stealth-agents-logo-black.png" alt="Stealth Agents" width="149" height="50" /></div><p className="contact-kicker">First party team image</p><h2>Know who receives your request.</h2><p>This official photo and logo come from the Stealth Agents website. Contact form details are sent to its staffing team so they can respond about role fit and next steps.</p><a className="btn primary" href="/services">Review services</a></div>
+    </div></section>
+  </main><Footer /></>;
 }
-

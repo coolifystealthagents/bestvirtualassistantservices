@@ -1,0 +1,1 @@
+export { TestimonialsRail } from './booking-components';

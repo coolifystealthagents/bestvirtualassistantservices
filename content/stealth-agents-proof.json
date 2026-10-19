@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://stealthagents.com/",
+  "provenance": {
+    "source": "Stealth Agents official website",
+    "retrievedAt": "2026-10-19",
+    "retrievalMethod": "Direct download and transcription from the public first-party website",
+    "reviewLimitation": "These are first-party testimonials published by Stealth Agents. This site has not independently verified the reviewers or outcomes.",
+    "assetProvenance": [
+      {
+        "localPath": "/brand/stealth-agents-logo-black.png",
+        "sourceUrl": "https://stealthagents.com/stealth-agents-logo-black.png",
+        "retrievedAt": "2026-10-19",
+        "transformation": "None; source PNG retained."
+      },
+      {
+        "localPath": "/brand/stealth-agents-team-bacolod.png",
+        "sourceUrl": "https://stealthagents.com/team-bacolod.jpg",
+        "retrievedAt": "2026-10-19",
+        "transformation": "Source JPEG converted to PNG without editorial alteration."
+      }
+    ],
+    "assetLimitation": "Assets are reproduced as first-party brand and team material and do not independently substantiate service outcomes."
+  },
+  "reviews": [
+    { "name": "Chad Sublet", "quote": "Lindsay has been incredible. She handles the tactical work, which has freed me up to focus on bigger-picture initiatives.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Erika Giron", "quote": "We went from 300 hours a month to over 2,500 hours with Stealth Agents.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Alex Behrens", "quote": "They have made a real difference in our day-to-day operations and truly feel like part of our internal team.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Aisha Wonderfull", "quote": "Gained time for sales and closed 3 clients within two days. Exceptional service.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Owen Hone", "quote": "Outstanding service. Less than 24-hour VA placement. Fast, high-quality. I have hired multiple times.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Sarah Jacoby", "quote": "Great communication, efficient and proactive assistant, visible business growth.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Martine Cadet", "quote": "The team learned my brand and goals and transformed my business. My dream team.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Rich Cochran", "quote": "We especially appreciate how diligent and pleasant Evy is. True pros.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "George Assi", "quote": "Agents tackled diverse tasks seamlessly and manager Charm consistently provides excellent talent matches.", "sourceUrl": "https://stealthagents.com/" },
+    { "name": "Lee Maasen", "quote": "Stealth Agents provided me with a fantastic virtual assistant who has been an absolute asset.", "sourceUrl": "https://stealthagents.com/" }
+  ]
+}
