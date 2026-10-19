@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { resolveVisitorProtocol } from './app/proxy-scheme.mjs';
 
 const CANONICAL_ORIGIN = 'https://bestvirtualassistantservices.com';
 const CANONICAL_HOST = 'bestvirtualassistantservices.com';
@@ -10,8 +11,11 @@ export function middleware(request: NextRequest) {
   const forwardedHost = request.headers.get('x-forwarded-host');
   const hostHeader = (forwardedHost || request.headers.get('host') || '').split(',')[0].trim().toLowerCase();
   const hostname = hostHeader.replace(/:\d+$/, '');
-  const forwardedProtocol = request.headers.get('x-forwarded-proto')?.split(',')[0].trim().toLowerCase();
-  const protocol = forwardedProtocol || request.nextUrl.protocol.replace(':', '');
+  const protocol = resolveVisitorProtocol(
+    request.headers.get('cf-visitor'),
+    request.headers.get('x-forwarded-proto'),
+    request.nextUrl.protocol,
+  );
 
   // Redirect only recognized production hosts. Never construct a destination
   // from an untrusted Host or X-Forwarded-Host header.

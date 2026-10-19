@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { test } from 'node:test';
 import { parseBlogPage } from '../app/blog/page/[page]/pagination.mjs';
+import { resolveVisitorProtocol } from '../app/proxy-scheme.mjs';
 
 const read = (path) => readFileSync(new URL(`../${path}`, import.meta.url), 'utf8');
 
@@ -196,6 +197,12 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   assert.match(middleware, /NextResponse\.redirect\(destination, 308\)/);
   assert.match(middleware, /isProductionHost/);
   assert.doesNotMatch(middleware, /new URL\([^\n]*hostHeader/);
+  assert.match(middleware, /resolveVisitorProtocol/);
+  assert.equal(resolveVisitorProtocol('{"scheme":"http"}', 'https', 'https:'), 'http');
+  assert.equal(resolveVisitorProtocol('{"scheme":"https"}', 'http', 'http:'), 'https');
+  assert.equal(resolveVisitorProtocol('{malformed', 'http', 'https:'), 'http');
+  assert.equal(resolveVisitorProtocol(null, 'https, http', 'http:'), 'https');
+  assert.equal(resolveVisitorProtocol(null, null, 'https:'), 'https');
 
   assert.ok(existsSync(new URL('../app/sitemap.ts', import.meta.url)));
   assert.ok(!existsSync(new URL('../app/sitemap.xml/route.ts', import.meta.url)), 'legacy sitemap route must not compete with metadata sitemap');
