@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
   if (!service) return { title: 'Service not found' };
 
   return {
-    title: `${service.title} | Virtual Assistant Service Guide`,
+    title: service.metaTitle,
     description: service.desc,
     alternates: { canonical: `/services/${service.slug}` },
     openGraph: {
@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
 function DetailList({ title, items }: { title: string; items: readonly string[] }) {
   return (
     <section className="service-detail-card">
-      <h2>{title}</h2>
+      <h3>{title}</h3>
       <ul>{items.map((item) => <li key={item}>{item}</li>)}</ul>
     </section>
   );
@@ -50,6 +50,23 @@ export default async function ServicePage({ params }: ServicePageProps) {
   const related = service.relatedServices
     .map((relatedSlug) => fleetServices.find((item) => item.slug === relatedSlug))
     .filter((item): item is (typeof fleetServices)[number] => Boolean(item));
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Services', item: `${base}/services` },
+      { '@type': 'ListItem', position: 2, name: service.name, item: url }
+    ]
+  };
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: service.faq.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a }
+    }))
+  };
 
   return (
     <>
@@ -62,16 +79,17 @@ export default async function ServicePage({ params }: ServicePageProps) {
           description: service.desc,
           url,
           image: `${base}${service.heroImage}`,
-          areaServed: 'Worldwide',
-          provider: { '@type': 'Organization', name: site.brand, url: base },
+          provider: { '@type': 'Organization', '@id': 'https://stealthagents.com/#organization', name: 'Stealth Agents', url: 'https://stealthagents.com/' },
           serviceType: service.title
         }} />
+        <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={faqSchema} />
 
         <header className="service-article-hero">
           <div className="container service-hero-grid">
             <div className="service-hero-copy">
               <nav className="service-breadcrumbs" aria-label="Breadcrumb">
-                <Link href="/services">Services</Link><span aria-hidden="true">/</span><span>{service.title}</span>
+                <Link href="/services">Services</Link><span aria-hidden="true">/</span><span aria-current="page">{service.name}</span>
               </nav>
               <p className="eyebrow">Philippines-based virtual assistant support</p>
               <h1>{service.title}</h1>
@@ -83,7 +101,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
             </div>
             <figure className="service-hero-figure">
               <Image src={service.heroImage} alt={service.heroAlt} width={900} height={600} priority sizes="(max-width: 900px) 100vw, 44vw" />
-              <figcaption>{service.heroAlt}</figcaption>
+              <figcaption aria-hidden="true">Workflow illustration</figcaption>
             </figure>
           </div>
         </header>
@@ -96,18 +114,20 @@ export default async function ServicePage({ params }: ServicePageProps) {
             <a href="#service-operation">Operating scope</a>
             <a href="#service-measurement">Measurement and risk</a>
             <a href="#service-launch">Launch plan</a>
-            <a href="#service-faq">Common question</a>
+            <a href="#service-faq">Common questions</a>
           </aside>
 
           <article className="service-article">
             <section id="service-overview" className="service-copy-section">
               <p className="service-section-label">Service overview</p>
-              <h2>A controlled operating model for {service.title.toLowerCase()}</h2>
+              <h2>A controlled operating model: {service.name}</h2>
+              <p className="service-problem"><strong>The operating problem:</strong> {service.problem}</p>
               {service.body.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
             </section>
 
             <section id="service-fit" className="service-copy-section">
               <p className="service-section-label">Fit and friction</p>
+              <h2>Where this service fits</h2>
               <div className="service-two-column">
                 <DetailList title="Who this service is for" items={service.audience} />
                 <DetailList title="Problems it addresses" items={service.painPoints} />
@@ -152,9 +172,11 @@ export default async function ServicePage({ params }: ServicePageProps) {
             </section>
 
             <section id="service-faq" className="service-copy-section service-faq-block">
-              <p className="service-section-label">Common question</p>
-              <h2>{service.faq[0].q}</h2>
-              <p>{service.faq[0].a}</p>
+              <p className="service-section-label">Common questions</p>
+              <h2>Frequently asked questions</h2>
+              <div className="service-faq-list">
+                {service.faq.map((item) => <article key={item.q}><h3>{item.q}</h3><p>{item.a}</p></article>)}
+              </div>
             </section>
 
             <section className="service-related" aria-labelledby="related-services-heading">
@@ -163,7 +185,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
               <div>
                 {related.map((item) => (
                   <Link key={item.slug} href={`/services/${item.slug}`}>
-                    <strong>{item.title}</strong>
+                    <strong>{item.name}</strong>
                     <span>{item.desc}</span>
                   </Link>
                 ))}

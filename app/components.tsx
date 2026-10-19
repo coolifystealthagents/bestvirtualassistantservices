@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
+import { usePathname } from 'next/navigation';
 import * as data from './data';
 import { fleetServices } from './fleet-data';
 
@@ -24,6 +25,7 @@ function SponsorMark() {
 }
 
 export function Header(_props: any = {}) {
+  const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const panelRef = useRef<HTMLDivElement>(null);
   const toggleRef = useRef<HTMLButtonElement>(null);
@@ -61,6 +63,9 @@ export function Header(_props: any = {}) {
   }, [open]);
 
   const closeMenu = () => setOpen(false);
+  const isActive = (href: string) => href === '/services'
+    ? pathname === '/services' || pathname.startsWith('/services/')
+    : pathname === href;
   return <>
     <a className="skip-link" href="#main-content">Skip to content</a>
     <header className="nav">
@@ -68,7 +73,7 @@ export function Header(_props: any = {}) {
         <a className="logo" href="/" aria-label={`${site.brand} home`}><LogoMark /></a>
         <div className="header-sponsor"><span className="sponsor-mark"><span>Powered by StealthAgents</span><SponsorMark /></span></div>
         <nav className="links fleet-nav desktop-primary" aria-label="Primary navigation">
-          <a href="/">Home</a><a href="/services">Services</a><a href="/contact-us">Contact Us</a>
+          {primaryLinks.map((link) => <a className={isActive(link.href) ? 'is-active' : undefined} aria-current={isActive(link.href) ? 'page' : undefined} href={link.href} key={link.href}>{link.label}</a>)}
         </nav>
         <button ref={toggleRef} className="menu-toggle" type="button" aria-expanded={open} aria-controls="mobile-primary" onClick={() => setOpen((value) => !value)}>
           <span className="sa-sr-only">{open ? 'Close' : 'Open'} navigation</span><span aria-hidden="true">Menu</span>
@@ -76,7 +81,7 @@ export function Header(_props: any = {}) {
       </div>
       <div id="mobile-primary" ref={panelRef} className="mobile-menu" hidden={!open}>
         <nav aria-label="Mobile primary navigation">
-          {primaryLinks.map((link) => <a href={link.href} key={link.href} onClick={closeMenu}>{link.label}</a>)}
+          {primaryLinks.map((link) => <a className={isActive(link.href) ? 'is-active' : undefined} aria-current={isActive(link.href) ? 'page' : undefined} href={link.href} key={link.href} onClick={closeMenu}>{link.label}</a>)}
           <button type="button" onClick={() => { closeMenu(); toggleRef.current?.focus(); }}>Close menu</button>
         </nav>
       </div>
@@ -86,7 +91,7 @@ export function Header(_props: any = {}) {
 
 export function Footer(_props: any = {}) {
   const year = new Date().getFullYear();
-  return <footer className="footer legit-footer"><div className="footer-grid"><div className="footer-brand"><a className="footer-logo" href="/" aria-label={`${site.brand} home`}><LogoMark /></a><span className="sponsor-mark"><span>Powered by StealthAgents</span><SponsorMark /></span><p>Practical guidance for teams comparing virtual assistant providers and role models.</p><p className="footer-note">Requests submitted through this site may be shared with the staffing team for follow up.</p></div><div><h3>Services</h3><div className="footer-links">{fleetServices.slice(0, 6).map((service) => <a href={`/services/${service.slug}`} key={service.slug}>{service.title}</a>)}</div></div><div><h3>Site</h3><div className="footer-links"><a href="/">Home</a><a href="/services">Services</a><a href="/contact-us">Contact Us</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms &amp; Conditions</a></div></div></div><div className="footer-bottom"><span>© {year} {site.brand}. All rights reserved.</span><span>{site.domain}</span></div></footer>;
+  return <footer className="footer legit-footer"><div className="footer-grid"><div className="footer-brand"><a className="footer-logo" href="/" aria-label={`${site.brand} home`}><LogoMark /></a><span className="sponsor-mark"><span>Powered by StealthAgents</span><SponsorMark /></span><p>Practical guidance for teams comparing virtual assistant providers and role models.</p><p className="footer-note">Requests submitted through this site may be shared with the staffing team for follow up.</p></div><div><h3>Services</h3><div className="footer-links">{fleetServices.slice(0, 6).map((service) => <a href={`/services/${service.slug}`} key={service.slug}>{service.name}</a>)}</div></div><div><h3>Site</h3><div className="footer-links"><a href="/">Home</a><a href="/services">Services</a><a href="/contact-us">Contact Us</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms &amp; Conditions</a></div></div></div><div className="footer-bottom"><span>© {year} {site.brand}. All rights reserved.</span><span>{site.domain}</span></div></footer>;
 }
 
 export function CTA() {

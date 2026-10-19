@@ -8,6 +8,8 @@ import { researchBatch20260729Posts } from './research/research-batch-2026-07-29
 
 export type FleetService = {
   slug: string;
+  name: string;
+  metaTitle: string;
   title: string;
   desc: string;
   audience: readonly string[];
@@ -29,7 +31,7 @@ export type FleetService = {
   boundaries: readonly string[];
   qualityControls: readonly string[];
   scenarios: readonly string[];
-  faq: readonly { q: string; a: string }[];
+  faq: readonly [{ q: string; a: string }, ...{ q: string; a: string }[]];
   relatedServices: readonly string[];
 };
 export type ResearchSource = { id: number; name: string; title: string; url: string; scope: 'Philippines evidence' | 'Global comparison' | 'Buyer security standard' };
@@ -62,6 +64,8 @@ export type ResearchPost = {
 export const fleetServices: readonly FleetService[] = [
   {
     slug: 'executive-calendar-management',
+    name: 'Executive Calendar Management',
+    metaTitle: 'Executive Calendar Management Services',
     title: 'Executive Calendar Management for Deliberate Leadership Time',
     desc: 'Create a controlled scheduling operation that protects focus, prepares meetings, and routes calendar conflicts to the right executive decision.',
     audience: ['Founders with meeting-heavy weeks', 'Executives supported by several internal teams', 'Chiefs of staff formalizing calendar operations'],
@@ -76,8 +80,8 @@ export const fleetServices: readonly FleetService[] = [
       'Good calendar support protects information as carefully as time. Private appointments, candidate names, board topics, and customer negotiations should be visible only to people who need them. A named account, delegated calendar permissions, and explicit rules for titles and guest lists are safer than sharing an executive password. The assistant can coordinate logistics and draft responses, while the client retains decisions about sensitive attendance, cancellation of strategic commitments, and any change that creates a material cost or relationship risk.',
       'Review focuses on the quality of the week, not the number of invitations processed. A manager can sample confirmed meetings for correct attendees, links, buffers, and preparation notes; inspect unresolved conflicts; and compare changes with the priority rules. Early reviews also reveal whether recurring meetings still deserve their place. Once the basic workflow is reliable, the assistant can maintain a forward look for deadlines, travel, and preparation, giving the executive a calmer planning horizon without claiming ownership of priorities that belong to leadership.'
     ],
-    heroImage: '/blog/images/virtual-assistant-meeting-agenda-operations.webp',
-    heroAlt: 'Calendar operations workspace with a meeting agenda and scheduling controls',
+    heroImage: '/services/executive-calendar-management.svg',
+    heroAlt: 'Editorial workflow showing calendar blocks, protected focus time, and a conflict review panel',
     tasks: ['Triage incoming meeting requests', 'Prepare complete invitations and agenda reminders', 'Maintain buffers, holds, and a forward calendar review'],
     controls: ['Use delegated access through a named account', 'Escalate priority conflicts and sensitive attendees', 'Keep an approval trail for material changes'],
     firstWeek: ['Map meeting types and decision owners', 'Practice conflict handling with sample requests', 'Review every confirmed or moved event together'],
@@ -88,11 +92,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No strategic prioritization without an owner', 'No cancellation of protected commitments', 'No shared executive credentials'],
     qualityControls: ['Invitation sampling', 'Daily conflict check', 'Weekly recurring-meeting review'],
     scenarios: ['A customer asks to move into a protected focus block', 'International travel changes the usable meeting window'],
-    faq: [{ q: 'Can the assistant accept every meeting?', a: 'No. Acceptance follows the written priority and approval rules.' }],
+    faq: [
+      { q: 'Can the assistant accept every meeting?', a: 'No. Acceptance follows the written priority and approval rules.' },
+      { q: 'How are sensitive calendar details protected?', a: 'Use delegated access, limited visibility, neutral event titles where appropriate, and written rules for private attendees and topics.' },
+      { q: 'What should be reviewed during the first week?', a: 'Review every confirmation and change for priority, attendees, links, time zones, buffers, preparation notes, and approval evidence.' }
+    ],
     relatedServices: ['inbox-and-correspondence-support', 'travel-planning-assistance']
   },
   {
     slug: 'inbox-and-correspondence-support',
+    name: 'Inbox and Correspondence Support',
+    metaTitle: 'Inbox and Correspondence Support',
     title: 'Executive Inbox and Correspondence Support With Clear Authority',
     desc: 'Turn a crowded executive inbox into a reviewed queue of priorities, safe drafts, delegated actions, and visible exceptions.',
     audience: ['Leaders whose inbox mixes decisions and routine coordination', 'Teams that need consistent executive correspondence', 'Owners preparing to delegate email triage'],
@@ -107,8 +117,8 @@ export const fleetServices: readonly FleetService[] = [
       'Correspondence also needs closure. A polished draft is not useful if the promised document never arrives or a delegated question has no owner. The assistant records follow-ups in the client task system, links them back to the original thread, and checks the agreed due date. Threads that stall are surfaced in a concise exception list rather than repeatedly forwarded. This creates a dependable connection between email and actual work while leaving the accountable employee or executive visible to everyone involved.',
       'Quality review should sample each message category because a single overall count can hide serious errors. The manager can inspect priority detection, summary accuracy, tone, factual support, recipient selection, and whether the assistant stopped at the authority boundary. False urgency and missed urgency are discussed separately. As patterns stabilize, rules can be refined and low-risk newsletters or notifications can be automated, while human review remains around sensitive content, external promises, unusual requests, and any thread where identity or intent is uncertain.'
     ],
-    heroImage: '/blog/images/virtual-assistant-inbox-triage-workflow.webp',
-    heroAlt: 'Inbox triage board showing priority, drafting, and escalation queues',
+    heroImage: '/services/inbox-and-correspondence-support.svg',
+    heroAlt: 'Editorial inbox workflow showing priority, draft, delegated, and escalation queues',
     tasks: ['Sort messages into approved categories', 'Draft low-risk correspondence with source links', 'Track delegated threads through closure'],
     controls: ['Keep send authority category-specific', 'Escalate sensitive and ambiguous messages', 'Review recipients and attachments before sending'],
     firstWeek: ['Label historical examples together', 'Draft without sending', 'Score priority detection and draft quality daily'],
@@ -119,11 +129,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No new commercial commitments', 'No legal or personnel response without review', 'No deletion outside retention rules'],
     qualityControls: ['Category-based sampling', 'Recipient and attachment check', 'Unanswered-thread review'],
     scenarios: ['A familiar vendor sends changed bank details', 'A customer copies the executive on an unresolved complaint'],
-    faq: [{ q: 'Does inbox support require full send access?', a: 'No. Teams can begin with triage and drafts, then approve narrow send categories.' }],
+    faq: [
+      { q: 'Does inbox support require full send access?', a: 'No. Teams can begin with triage and drafts, then approve narrow send categories.' },
+      { q: 'Which messages should always be escalated?', a: 'Legal, financial, personnel, security, unusual payment, and material commitment messages should go to the named client owner.' },
+      { q: 'How is correspondence quality checked?', a: 'Sample each message category for priority, factual support, tone, recipients, attachments, follow-up ownership, and authority compliance.' }
+    ],
     relatedServices: ['executive-calendar-management', 'customer-inbox-support']
   },
   {
     slug: 'travel-planning-assistance',
+    name: 'Travel Planning Assistance',
+    metaTitle: 'Business Travel Planning Assistance',
     title: 'Business Travel Planning Assistance Built Around Constraints',
     desc: 'Organize business travel research, approvals, itineraries, and change handling without transferring traveler judgment or payment authority.',
     audience: ['Executives with multi-city business travel', 'Operations teams coordinating group itineraries', 'Frequent travelers who need documented preferences'],
@@ -138,8 +154,8 @@ export const fleetServices: readonly FleetService[] = [
       'After confirmation, the itinerary becomes the operational source of truth. Reservation references, addresses, check-in windows, meeting locations, transfer time, relevant contacts, and approval evidence are organized in one controlled workspace. Sensitive identifiers are stored only where the client permits and are not copied into casual chat. The assistant checks that calendar entries use the correct local time zones and that each confirmed segment aligns with the others, especially where a late arrival, separate ticket, or distant airport could threaten a business commitment.',
       'Change handling deserves its own checklist because one disrupted flight can affect hotels, cars, meetings, and colleagues. The assistant confirms what changed, identifies linked reservations, gathers available alternatives, and sends decision points to the authorized traveler. Cancellation or change actions follow approval and cost thresholds rather than urgency alone. After the trip, receipts and final itinerary details can be organized for expense preparation, while the client retains responsibility for reimbursement decisions, travel-risk policy, immigration advice, and any judgment requiring licensed expertise.'
     ],
-    heroImage: '/blog/images/virtual-assistant-travel-planning-brief.webp',
-    heroAlt: 'Business travel planning brief beside itinerary and approval notes',
+    heroImage: '/services/travel-planning-assistance.svg',
+    heroAlt: 'Editorial travel itinerary showing connected flights, hotel, ground transfer, and approval checkpoints',
     tasks: ['Research trip options against mandatory constraints', 'Build a clear approval comparison', 'Maintain confirmations, itinerary details, and change dependencies'],
     controls: ['Require approval before purchases or material changes', 'Store traveler data only in approved systems', 'Show restrictions and retrieval time with options'],
     firstWeek: ['Document traveler preferences and mandatory constraints', 'Compare a sample itinerary', 'Test a change scenario across all trip components'],
@@ -150,11 +166,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No purchase without authorized approval', 'No immigration or travel-risk advice', 'No storage of sensitive documents outside approved systems'],
     qualityControls: ['Time-zone verification', 'Segment reconciliation', 'Restriction and cancellation-term review'],
     scenarios: ['A flight cancellation threatens a morning meeting', 'A preferred hotel exceeds the approved trip guidance'],
-    faq: [{ q: 'Can an assistant make travel decisions for the traveler?', a: 'The assistant can research and coordinate, while choices and risk acceptance remain with the authorized traveler.' }],
+    faq: [
+      { q: 'Can an assistant make travel decisions for the traveler?', a: 'The assistant can research and coordinate, while choices and risk acceptance remain with the authorized traveler.' },
+      { q: 'What belongs in a useful travel brief?', a: 'Include traveler identity, dates, required arrival, airports, accessibility, baggage, loyalty, budget, preferences, and the approval owner.' },
+      { q: 'How are itinerary disruptions handled?', a: 'The assistant identifies linked reservations and alternatives, then obtains approval before changes that create cost or travel risk.' }
+    ],
     relatedServices: ['executive-calendar-management', 'inbox-and-correspondence-support']
   },
   {
     slug: 'crm-administration',
+    name: 'CRM Administration',
+    metaTitle: 'CRM Administration Services',
     title: 'CRM Administration for Trustworthy Customer Records',
     desc: 'Maintain usable account, contact, activity, and pipeline data through defined fields, evidence-based updates, and auditable exception handling.',
     audience: ['Sales teams with inconsistent CRM hygiene', 'Revenue operations leaders standardizing records', 'Service firms migrating from spreadsheets'],
@@ -169,8 +191,8 @@ export const fleetServices: readonly FleetService[] = [
       'Duplicate management requires more care than matching names. Two people can share an email pattern, companies can have regional entities, and one buyer may use several domains. The assistant gathers evidence such as domain, location, ownership, and activity history, then proposes the surviving record and field choices. A designated CRM owner approves uncertain merges. Pipeline stages and forecast categories remain seller or revenue-lead decisions unless the client defines objective evidence that permits a specific administrative transition.',
       'A practical scorecard examines completeness, validity, freshness, and exception age without pretending that every blank field is an error. The manager samples updates against their sources, reviews failed imports, and watches for repeated ambiguity that signals a bad form or unclear definition. Over time, the assistant can produce a short hygiene report showing patterns that need a process fix. The result is a more dependable operational record, while customer strategy, forecast judgment, and system-administrator privileges stay with accountable client owners.'
     ],
-    heroImage: '/blog/images/virtual-assistant-data-entry-quality-controls.webp',
-    heroAlt: 'CRM data quality checklist with records staged for validation',
+    heroImage: '/services/crm-administration.svg',
+    heroAlt: 'Editorial CRM table showing validated records, duplicate review, ownership, and source status',
     tasks: ['Create and update records from approved evidence', 'Prepare duplicate candidates and import files', 'Report field, ownership, and synchronization exceptions'],
     controls: ['Use field-level permissions where available', 'Review samples before bulk imports', 'Reserve merge and stage authority for named owners'],
     firstWeek: ['Review the data dictionary and sample records', 'Process a controlled update batch', 'Compare every change with its source'],
@@ -181,11 +203,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No unsupported stage changes', 'No uncertain merges', 'No unapproved bulk deletion'],
     qualityControls: ['Source-to-record sampling', 'Import reconciliation', 'Required-field validity review'],
     scenarios: ['An import contains two rows for one contact', 'A salesperson asks to advance an opportunity without recorded evidence'],
-    faq: [{ q: 'Can CRM administration improve forecasts?', a: 'It can improve record quality, but forecast interpretation remains a sales leadership responsibility.' }],
+    faq: [
+      { q: 'Can CRM administration improve forecasts?', a: 'It can improve record quality, but forecast interpretation remains a sales leadership responsibility.' },
+      { q: 'Who should approve duplicate merges?', a: 'A named CRM owner should approve uncertain merges after reviewing identity, account, domain, location, ownership, and activity evidence.' },
+      { q: 'How should bulk updates be controlled?', a: 'Stage the file, retain source references, test a small sample, review mappings and permissions, then reconcile the completed import.' }
+    ],
     relatedServices: ['sales-pipeline-support', 'customer-inbox-support']
   },
   {
     slug: 'sales-pipeline-support',
+    name: 'Sales Pipeline Support',
+    metaTitle: 'Sales Pipeline Support Services',
     title: 'Sales Pipeline Support for Consistent Follow-Through',
     desc: 'Coordinate lead routing, follow-up preparation, evidence-based pipeline hygiene, and handoffs while sales owners retain qualification and commercial decisions.',
     audience: ['Founder-led sales teams losing follow-ups', 'Sales managers with uneven pipeline hygiene', 'Revenue teams formalizing lead handoffs'],
@@ -200,8 +228,8 @@ export const fleetServices: readonly FleetService[] = [
       'Pipeline hygiene should reveal missing evidence, not manufacture progress. The assistant identifies opportunities without activity, a dated next step, an owner, or the fields required for the current stage. These become a seller review queue. The assistant may close or move records only under explicit rules or direct owner instruction, preserving the reason and date. This avoids the common failure where a tidy dashboard masks stale opportunities by changing stages administratively without confirming what actually happened with the prospect.',
       'Managers can review routing accuracy, follow-up completeness, exception age, and the proportion of active opportunities with a meaningful next action. These are process indicators rather than promises of revenue. Samples of sent messages should be checked for consent rules, correct recipients, supported claims, and useful context. When the same ambiguity appears repeatedly, the routing guide or sales process should be corrected. A dependable support layer gives sellers more time for conversations while keeping qualification, negotiation, forecasts, and commercial approval where they belong.'
     ],
-    heroImage: '/blog/images/virtual-assistant-sales-pipeline-handoffs.webp',
-    heroAlt: 'Sales pipeline handoff board with owners, context, and next actions',
+    heroImage: '/services/sales-pipeline-support.svg',
+    heroAlt: 'Editorial sales funnel showing inquiry routing, seller ownership, follow-up, and exception review',
     tasks: ['Validate and route new inquiries', 'Prepare meeting context and approved follow-ups', 'Maintain stale-record and missing-next-step queues'],
     controls: ['Keep qualification and pricing decisions with sellers', 'Apply contact and exclusion rules before outreach', 'Require evidence for pipeline changes'],
     firstWeek: ['Map lead sources and routing rules', 'Process sample leads without sending outreach', 'Review every assignment and drafted follow-up'],
@@ -212,11 +240,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No subjective qualification without seller review', 'No pricing or contractual promise', 'No outreach to excluded contacts'],
     qualityControls: ['Routing sample review', 'Stage-evidence check', 'Outbound message approval by category'],
     scenarios: ['Two territories could own the same account', 'An opportunity has recent activity but no recorded next step'],
-    faq: [{ q: 'Does pipeline support include closing sales?', a: 'No. It supports administration and follow-through while sellers own commercial conversations and decisions.' }],
+    faq: [
+      { q: 'Does pipeline support include closing sales?', a: 'No. It supports administration and follow-through while sellers own commercial conversations and decisions.' },
+      { q: 'Can an assistant change opportunity stages?', a: 'Only under explicit evidence-based rules or direct seller instruction, with the reason and date preserved in the record.' },
+      { q: 'What makes a useful sales handoff?', a: 'A useful handoff includes inquiry context, account history, participants, owner, qualification questions, commitments, and a dated next action.' }
+    ],
     relatedServices: ['crm-administration', 'inbox-and-correspondence-support']
   },
   {
     slug: 'customer-inbox-support',
+    name: 'Customer Inbox Support',
+    metaTitle: 'Customer Inbox Support Services',
     title: 'Customer Inbox Support With Safe Escalation Paths',
     desc: 'Operate a responsive customer queue using approved answers, identity checks, documented ownership, and clear escalation to client specialists.',
     audience: ['Small support teams with a shared mailbox', 'Service businesses introducing ticket workflows', 'Operations leaders separating routine help from exceptions'],
@@ -231,8 +265,8 @@ export const fleetServices: readonly FleetService[] = [
       'Escalation is a structured handoff, not a forward with no explanation. The note states the customer request, checks already performed, relevant identifiers, urgency reason, promised timing, and the exact decision needed from the client owner. Sensitive data is minimized and handled in the approved system. Refunds, credits, account ownership changes, legal responses, safety issues, and product or service exceptions stay with authorized staff unless the client has created a narrow, documented rule for a low-risk category.',
       'Quality review combines queue health with conversation sampling. Managers inspect accuracy, empathy, verification, source use, escalation quality, and whether the final disposition matches the customer outcome. Reopenings and repeat contacts are useful signals when interpreted by issue type, not treated as proof that an individual agent failed. The support guide and knowledge base should be updated when the same gap recurs. This lets the assistant handle repeatable service work consistently while preserving specialist judgment for unusual, sensitive, or costly outcomes.'
     ],
-    heroImage: '/blog/images/virtual-assistant-customer-support-queue-workflow.webp',
-    heroAlt: 'Customer support queue organized by response, resolution, and escalation status',
+    heroImage: '/services/customer-inbox-support.svg',
+    heroAlt: 'Editorial support queue showing verification, approved responses, escalation, and confirmed closure',
     tasks: ['Classify, verify, and acknowledge customer requests', 'Answer approved routine topics from current sources', 'Build complete escalations and monitor ownership'],
     controls: ['Require identity checks for account-specific information', 'Limit refund and exception authority', 'Keep customer work inside approved systems'],
     firstWeek: ['Map request types and escalation owners', 'Practice with historical tickets', 'Review every response and disposition together'],
@@ -243,11 +277,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No unapproved refund or credit', 'No disclosure before verification', 'No legal or safety judgment'],
     qualityControls: ['Conversation sampling', 'Source and verification check', 'Reopened-ticket review'],
     scenarios: ['A customer asks to change an account email', 'A complaint requests compensation beyond the assistant limit'],
-    faq: [{ q: 'Can customer inbox support replace specialists?', a: 'No. It resolves documented routine issues and routes exceptions to the correct client owner.' }],
+    faq: [
+      { q: 'Can customer inbox support replace specialists?', a: 'No. It resolves documented routine issues and routes exceptions to the correct client owner.' },
+      { q: 'When is customer identity verification needed?', a: 'Verify identity before disclosing or changing account-specific information according to the client’s approved process.' },
+      { q: 'What should an escalation contain?', a: 'Include the request, checks performed, relevant identifiers, impact, promised timing, owner, and exact decision needed.' }
+    ],
     relatedServices: ['inbox-and-correspondence-support', 'ecommerce-operations-assistance']
   },
   {
     slug: 'ecommerce-operations-assistance',
+    name: 'Ecommerce Operations Assistance',
+    metaTitle: 'Ecommerce Operations Assistance',
     title: 'Ecommerce Operations Assistance Across Orders and Catalogs',
     desc: 'Coordinate catalog upkeep, order exceptions, returns administration, and operational reporting through platform-specific rules and approval limits.',
     audience: ['Online stores with growing operational queues', 'Brands coordinating stores, warehouses, and support', 'Marketplace teams needing consistent catalog administration'],
@@ -262,8 +302,8 @@ export const fleetServices: readonly FleetService[] = [
       'Returns administration benefits from the same discipline. The assistant can verify that a request contains the required order details, apply published eligibility rules, create an approved return record, and monitor receipt or inspection status. Refund release, goodwill credit, disputed condition, and policy exceptions remain with authorized client staff unless a narrow rule says otherwise. Customer updates distinguish confirmed events from estimates so a carrier scan or warehouse delay is not represented as a completed refund.',
       'Operational review samples catalog changes against source files and reconciles selected orders or returns across systems. Teams can track exception age, missing ownership, failed synchronization, and correction patterns without turning the metrics into unsupported performance claims. Repeated errors may indicate a bad integration, unclear warehouse cutoff, or conflicting product source rather than an assistant issue. The goal is a visible, controlled flow of routine commerce work that helps client specialists focus on merchandising, supply decisions, fraud, policy, and material customer remedies.'
     ],
-    heroImage: '/blog/images/virtual-assistant-ecommerce-order-support.webp',
-    heroAlt: 'Ecommerce order support dashboard with fulfillment and return exception queues',
+    heroImage: '/services/ecommerce-operations-assistance.svg',
+    heroAlt: 'Editorial ecommerce order board showing storefront, warehouse, carrier, return, and exception states',
     tasks: ['Stage source-backed catalog updates', 'Investigate and route order exceptions', 'Maintain return and fulfillment handoffs'],
     controls: ['Review prices, claims, and availability before publication', 'Restrict refunds and order changes by rule', 'Reconcile changes across connected systems'],
     firstWeek: ['Map platforms and sources of truth', 'Process sample catalog and order exceptions', 'Review every publication and customer-impacting action'],
@@ -274,11 +314,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No unsupported product claim', 'No unauthorized refund', 'No inventory or price guess'],
     qualityControls: ['Source-to-store sampling', 'Cross-system order reconciliation', 'Customer-impact review'],
     scenarios: ['A customer requests an address change after release', 'The storefront and warehouse show different inventory status'],
-    faq: [{ q: 'Can the assistant set product prices?', a: 'The assistant can stage approved prices, but pricing decisions remain with the client.' }],
+    faq: [
+      { q: 'Can the assistant set product prices?', a: 'The assistant can stage approved prices, but pricing decisions remain with the client.' },
+      { q: 'How are order exceptions investigated?', a: 'Compare storefront, payment, fulfillment, carrier, and customer records, then document the confirmed event, impact, owner, and next action.' },
+      { q: 'Which catalog changes need approval?', a: 'Prices, availability, regulated claims, shipping promises, marketplace categories, and other high-impact changes need designated review.' }
+    ],
     relatedServices: ['customer-inbox-support', 'crm-administration']
   },
   {
     slug: 'podcast-production-coordination',
+    name: 'Podcast Production Coordination',
+    metaTitle: 'Podcast Production Coordination',
     title: 'Podcast Production Coordination From Guest Brief to Release',
     desc: 'Keep podcast guests, assets, approvals, publishing steps, and promotion handoffs moving through a repeatable production calendar.',
     audience: ['Business podcasts with recurring guests', 'Marketing teams coordinating external editors', 'Hosts who need reliable preflight and publishing administration'],
@@ -293,8 +339,8 @@ export const fleetServices: readonly FleetService[] = [
       'Publishing preparation translates the approved brief into each platform carefully. Titles, descriptions, guest links, episode numbers, content notices, artwork, chapter information, and scheduled time are checked against the final source. The assistant uses preview or draft states where available and obtains approval for the assembled release. Rights-sensitive music, images, quotations, endorsements, or clips require documented client clearance. Credentials are granted through named roles, and private feeds or unreleased links are treated as confidential production material.',
       'A release checklist continues after the publish button. The assistant confirms that the episode is available where expected, links resolve, metadata displays correctly, and approved promotion tasks have owners. Problems are logged with evidence and routed to the host, editor, platform, or site owner. Review measures coordination quality such as missing assets, late approvals, version corrections, and metadata accuracy. It does not claim that administration alone drives audience growth. Creative direction, factual claims, rights decisions, sponsorship approval, and final editorial judgment remain with the client.'
     ],
-    heroImage: '/blog/images/virtual-assistant-podcast-production-workflow.webp',
-    heroAlt: 'Podcast production workflow connecting guest intake, editing, approval, and publishing',
+    heroImage: '/services/podcast-production-coordination.svg',
+    heroAlt: 'Editorial podcast timeline showing guest preflight, recording, edit versions, approval, and release',
     tasks: ['Coordinate guest intake and recording preflight', 'Track episode assets, versions, and approvals', 'Prepare and verify approved publishing metadata'],
     controls: ['Keep final editorial and rights approval with the client', 'Use named platform access', 'Publish only the approved asset version'],
     firstWeek: ['Map the episode lifecycle and owners', 'Audit one previous episode package', 'Run a draft release checklist without publishing'],
@@ -305,11 +351,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No editorial approval', 'No assumption of media rights', 'No publication of an unapproved version'],
     qualityControls: ['Asset completeness check', 'Version reconciliation', 'Post-release link and metadata verification'],
     scenarios: ['An editor uploads two similarly named final files', 'A guest requests a change shortly before scheduled release'],
-    faq: [{ q: 'Does coordination include audio editing?', a: 'This scope coordinates files and approvals; editing is included only if separately assigned to a qualified owner.' }],
+    faq: [
+      { q: 'Does coordination include audio editing?', a: 'This scope coordinates files and approvals; editing is included only if separately assigned to a qualified owner.' },
+      { q: 'How are episode versions kept clear?', a: 'Use consistent episode identifiers, controlled storage, one current-version field, named owners, and recorded approval comments.' },
+      { q: 'Who approves an episode for publication?', a: 'The client’s host or producer retains final editorial, factual, rights, sponsorship, and publication approval.' }
+    ],
     relatedServices: ['inbox-and-correspondence-support', 'executive-calendar-management']
   },
   {
     slug: 'real-estate-transaction-support',
+    name: 'Real Estate Transaction Support',
+    metaTitle: 'Real Estate Transaction Support',
     title: 'Real Estate Transaction Support for Documented Milestones',
     desc: 'Coordinate administrative milestones, document requests, contact updates, and exception reporting while licensed professionals retain regulated work.',
     audience: ['Real estate teams managing active transaction files', 'Brokerages standardizing administrative coordination', 'Agents who need consistent milestone follow-up'],
@@ -321,11 +373,11 @@ export const fleetServices: readonly FleetService[] = [
     body: [
       'Real estate transaction support must be designed around jurisdiction, brokerage policy, and professional boundaries. The client supplies the checklist, milestone definitions, approved templates, participant directory, and the licensed person responsible for each decision. The assistant records dates and requirements exactly as provided, organizes administrative materials, and asks for missing information. Contract interpretation, negotiation, advice, representations about legal effect, and any activity reserved to a licensed professional remain outside the assistant scope even if the software makes the action easy to perform.',
       'A transaction file should show what was received, where it came from, which version is current, and what still requires review. The assistant applies the broker-approved naming convention, stores documents in the authorized workspace, and limits access to the relevant participants. Before sending a document or status message, recipient details and attachment versions are checked. Sensitive financial, identity, and property information should not be copied into informal channels merely to speed up a handoff.',
-      'Milestone coordination uses a forward-looking exception list rather than silent assumptions. The assistant compares the client checklist with recorded activity, reminds the responsible person, and notes dependencies such as inspection scheduling, signatures, title items, financing updates, or closing logistics only as directed by the client. When dates conflict or an item appears late, the assistant flags it to the licensed owner. The owner determines contractual significance, required notice, remedy, and communication that could affect the parties rights or obligations.',
+      'Milestone coordination uses a forward-looking exception list rather than silent assumptions. The assistant compares the client’s checklist with recorded activity, reminds the responsible person, and notes dependencies such as inspection scheduling, signatures, title items, financing updates, or closing logistics only as directed by the client. When dates conflict or an item appears late, the assistant flags it to the licensed owner. The owner determines contractual significance, required notice, remedy, and communication that could affect the parties’ rights or obligations.',
       'Quality review checks document identity, checklist completeness, recipient accuracy, owner assignment, and evidence that exceptions reached the appropriate professional. It should not score the assistant on whether a transaction closes because that outcome depends on buyers, sellers, financing, inspections, title, legal conditions, and licensed decisions. A disciplined support process gives the team a clearer file and earlier visibility into administrative gaps, while brokerage supervision and qualified professional judgment remain central throughout the transaction.'
     ],
-    heroImage: '/blog/images/virtual-assistant-real-estate-admin-workflow.webp',
-    heroAlt: 'Real estate administrative workflow with milestone and document status tracking',
+    heroImage: '/services/real-estate-transaction-support.svg',
+    heroAlt: 'Editorial real estate milestone path showing documents, inspection, professional review, and closing coordination',
     tasks: ['Maintain approved transaction checklists', 'Organize and request administrative documents', 'Prepare status summaries and route milestone exceptions'],
     controls: ['Keep licensed activities with licensed professionals', 'Verify recipients and document versions', 'Treat dates as client-provided until professionally confirmed'],
     firstWeek: ['Review brokerage rules and the transaction template', 'Audit a closed sample file', 'Practice exception routing with the licensed owner'],
@@ -336,11 +388,17 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No licensed activity', 'No contract interpretation', 'No unverified disclosure of confidential records'],
     qualityControls: ['Document version check', 'Recipient verification', 'Licensed-owner milestone review'],
     scenarios: ['Two versions of a signed document arrive', 'A checklist date conflicts with a recent participant message'],
-    faq: [{ q: 'Can an assistant interpret a purchase agreement?', a: 'No. Contract interpretation belongs with the licensed or qualified professional designated by the client.' }],
+    faq: [
+      { q: 'Can an assistant interpret a purchase agreement?', a: 'No. Contract interpretation belongs with the licensed or qualified professional designated by the client.' },
+      { q: 'How should transaction dates be handled?', a: 'Record dates exactly as provided, identify their source, and route conflicts or significance questions to the licensed owner.' },
+      { q: 'What protects confidential transaction documents?', a: 'Use broker-approved storage, participant-level access, naming and version rules, plus recipient and attachment checks before sending.' }
+    ],
     relatedServices: ['legal-administrative-assistance', 'executive-calendar-management']
   },
   {
     slug: 'legal-administrative-assistance',
+    name: 'Legal Administrative Assistance',
+    metaTitle: 'Legal Administrative Assistance',
     title: 'Legal Administrative Assistance With Matter-Level Controls',
     desc: 'Support legal teams with intake, document organization, deadline data, and status coordination under direct professional supervision.',
     audience: ['Law firms standardizing administrative intake', 'In-house legal teams with recurring matter coordination', 'Qualified professionals seeking controlled clerical support'],
@@ -351,12 +409,12 @@ export const fleetServices: readonly FleetService[] = [
     risks: ['Unauthorized practice of law', 'Privilege or confidentiality exposure', 'Treating a copied deadline as professionally calculated or verified'],
     body: [
       'Legal administrative assistance is useful only when professional responsibility is explicit. The supervising lawyer or qualified client owner defines the permitted clerical tasks, matter access, communication templates, and issues that require immediate escalation. The assistant can collect facts through approved intake questions, create administrative records, organize supplied documents, and coordinate meetings. The assistant does not interpret law, assess legal merit, advise a client, select a legal strategy, or communicate a professional conclusion under the appearance of independent authority.',
-      'Matter intake should preserve the source and avoid premature conclusions. The assistant records what the prospective or existing client states, identifies missing required fields, applies a neutral status, and routes conflict-check or eligibility information through the firms approved process. No promise of representation, confidentiality status, outcome, fee, or response timing is made beyond approved language. Urgent facts are escalated according to the clients rules, but the supervising professional determines their legal significance and the action required.',
+      'Matter intake should preserve the source and avoid premature conclusions. The assistant records what the prospective or existing client states, identifies missing required fields, applies a neutral status, and routes conflict-check or eligibility information through the firm’s approved process. No promise of representation, confidentiality status, outcome, fee, or response timing is made beyond approved language. Urgent facts are escalated according to the client’s rules, but the supervising professional determines their legal significance and the action required.',
       'Document administration depends on matter-level access and reliable versions. Files are named using the client convention, linked to the correct matter, and accompanied by source, receipt date, and status where required. The assistant can compare a checklist with files present, prepare signature packets from approved templates, or assemble a review bundle. Substantive edits, legal citations, privilege decisions, filing approval, and final correspondence remain with qualified professionals. Sensitive documents stay in approved systems rather than personal storage or unsanctioned artificial intelligence tools.',
       'Dates deserve special caution. An assistant may enter a date supplied by the supervising team and set reminders, but should not independently calculate a limitation period, court deadline, notice requirement, or contractual obligation. A professional reviews the source, calculation, jurisdiction, and calendar entry. Quality checks sample matter assignment, document version, access, intake completeness, and date approval. These controls make clerical work easier to supervise without suggesting that administrative support substitutes for legal judgment, professional duties, or jurisdiction-specific advice.'
     ],
-    heroImage: '/blog/images/virtual-assistant-legal-intake-admin-checklist.webp',
-    heroAlt: 'Legal intake administration checklist beside a controlled matter document register',
+    heroImage: '/services/legal-administrative-assistance.svg',
+    heroAlt: 'Editorial legal intake workflow showing approved fields, conflict review, matter access, and professional sign-off',
     tasks: ['Collect approved administrative intake fields', 'Organize documents within the correct matter', 'Enter supplied dates and maintain professional review queues'],
     controls: ['Work under named professional supervision', 'Restrict access by matter', 'Require professional review of substantive communication and dates'],
     firstWeek: ['Confirm permitted tasks and escalation triggers', 'Practice with sanitized matter examples', 'Review every intake, document placement, and date entry'],
@@ -367,7 +425,11 @@ export const fleetServices: readonly FleetService[] = [
     boundaries: ['No legal advice or strategy', 'No independent deadline calculation', 'No unsupervised substantive communication'],
     qualityControls: ['Matter-level access review', 'Source and version sampling', 'Professional sign-off on dates and substantive output'],
     scenarios: ['An intake asks whether the firm can meet an urgent deadline', 'A document arrives without a clear matter reference'],
-    faq: [{ q: 'Is legal administrative assistance legal advice?', a: 'No. It is supervised clerical and coordination support, not legal analysis, representation, or advice.' }],
+    faq: [
+      { q: 'Is legal administrative assistance legal advice?', a: 'No. It is supervised clerical and coordination support, not legal analysis, representation, or advice.' },
+      { q: 'Can an assistant calculate legal deadlines?', a: 'No. An assistant may enter a supplied date and reminders, but a qualified professional must calculate and approve legal deadlines.' },
+      { q: 'How is matter confidentiality controlled?', a: 'Use named accounts, matter-level permissions, approved systems, source and version records, and professional review before substantive communication.' }
+    ],
     relatedServices: ['real-estate-transaction-support', 'inbox-and-correspondence-support']
   }
 ];
