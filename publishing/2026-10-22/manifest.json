@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-22",
+  "site": "BestVirtualAssistantServices.com",
+  "repository": "coolifystealthagents/bestvirtualassistantservices",
+  "branch": "main",
+  "baseSha": "d47a4a559c0aacd617c97a85688bf52eada35fdd",
+  "blogCount": 12,
+  "researchCount": 5,
+  "blogLoader": "app/content-library.ts",
+  "researchLoader": "app/content-library.ts",
+  "blogIndex": "app/blog/page.tsx",
+  "researchIndex": "app/research/page.tsx",
+  "blogRoute": "app/blog/[slug]/page.tsx",
+  "researchRoute": "app/research/[slug]/page.tsx",
+  "items": [
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-client-travel-handover",
+      "title": "Hand Over Assistant Work Before Client Travel",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-client-travel-handover.mdx",
+      "route": "/blog/virtual-assistant-client-travel-handover",
+      "thumbnail": "/blog/images/virtual-assistant-client-travel-handover.webp",
+      "thumbnailTitle": "Hand Over Assistant Work Before Client Travel",
+      "relatedArticles": [
+        "virtual-assistant-shared-inbox-auto-reply",
+        "virtual-assistant-report-recipient-verification",
+        "virtual-assistant-redaction-request-route"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-shared-inbox-auto-reply",
+      "title": "Set a Shared Inbox Auto-Reply Boundary",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-shared-inbox-auto-reply.mdx",
+      "route": "/blog/virtual-assistant-shared-inbox-auto-reply",
+      "thumbnail": "/blog/images/virtual-assistant-shared-inbox-auto-reply.webp",
+      "thumbnailTitle": "Set a Shared Inbox Auto-Reply Boundary",
+      "relatedArticles": [
+        "virtual-assistant-report-recipient-verification",
+        "virtual-assistant-redaction-request-route",
+        "virtual-assistant-meeting-note-retention"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-report-recipient-verification",
+      "title": "Verify Recurring Report Recipients Before Sending",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-report-recipient-verification.mdx",
+      "route": "/blog/virtual-assistant-report-recipient-verification",
+      "thumbnail": "/blog/images/virtual-assistant-report-recipient-verification.webp",
+      "thumbnailTitle": "Verify Recurring Report Recipients Before Sending",
+      "relatedArticles": [
+        "virtual-assistant-redaction-request-route",
+        "virtual-assistant-meeting-note-retention",
+        "virtual-assistant-cross-client-file-isolation"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-redaction-request-route",
+      "title": "Route Document Redaction Requests Without Altering Evidence",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-redaction-request-route.mdx",
+      "route": "/blog/virtual-assistant-redaction-request-route",
+      "thumbnail": "/blog/images/virtual-assistant-redaction-request-route.webp",
+      "thumbnailTitle": "Route Document Redaction Requests Without Altering Evidence",
+      "relatedArticles": [
+        "virtual-assistant-meeting-note-retention",
+        "virtual-assistant-cross-client-file-isolation",
+        "virtual-assistant-priority-override-control"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-meeting-note-retention",
+      "title": "Set Retention Rules for Assistant Meeting Notes",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-meeting-note-retention.mdx",
+      "route": "/blog/virtual-assistant-meeting-note-retention",
+      "thumbnail": "/blog/images/virtual-assistant-meeting-note-retention.webp",
+      "thumbnailTitle": "Set Retention Rules for Assistant Meeting Notes",
+      "relatedArticles": [
+        "virtual-assistant-cross-client-file-isolation",
+        "virtual-assistant-priority-override-control",
+        "virtual-assistant-client-offboarding-access"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-cross-client-file-isolation",
+      "title": "Keep Client Files Isolated in Shared Assistant Workspaces",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-cross-client-file-isolation.mdx",
+      "route": "/blog/virtual-assistant-cross-client-file-isolation",
+      "thumbnail": "/blog/images/virtual-assistant-cross-client-file-isolation.webp",
+      "thumbnailTitle": "Keep Client Files Isolated in Shared Assistant Workspaces",
+      "relatedArticles": [
+        "virtual-assistant-priority-override-control",
+        "virtual-assistant-client-offboarding-access",
+        "virtual-assistant-research-source-freshness"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-priority-override-control",
+      "title": "Control Priority Overrides in an Assistant Task Queue",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-priority-override-control.mdx",
+      "route": "/blog/virtual-assistant-priority-override-control",
+      "thumbnail": "/blog/images/virtual-assistant-priority-override-control.webp",
+      "thumbnailTitle": "Control Priority Overrides in an Assistant Task Queue",
+      "relatedArticles": [
+        "virtual-assistant-client-offboarding-access",
+        "virtual-assistant-research-source-freshness",
+        "virtual-assistant-crm-contact-change"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-client-offboarding-access",
+      "title": "Close Client Offboarding Access Without Missing a Path",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-client-offboarding-access.mdx",
+      "route": "/blog/virtual-assistant-client-offboarding-access",
+      "thumbnail": "/blog/images/virtual-assistant-client-offboarding-access.webp",
+      "thumbnailTitle": "Close Client Offboarding Access Without Missing a Path",
+      "relatedArticles": [
+        "virtual-assistant-research-source-freshness",
+        "virtual-assistant-crm-contact-change",
+        "virtual-assistant-dst-calendar-check"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-research-source-freshness",
+      "title": "Check Research Source Freshness Before an Assistant Brief",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-research-source-freshness.mdx",
+      "route": "/blog/virtual-assistant-research-source-freshness",
+      "thumbnail": "/blog/images/virtual-assistant-research-source-freshness.webp",
+      "thumbnailTitle": "Check Research Source Freshness Before an Assistant Brief",
+      "relatedArticles": [
+        "virtual-assistant-crm-contact-change",
+        "virtual-assistant-dst-calendar-check",
+        "virtual-assistant-provider-escalation-receipt"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-crm-contact-change",
+      "title": "Verify CRM Contact Changes Before an Assistant Saves Them",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-crm-contact-change.mdx",
+      "route": "/blog/virtual-assistant-crm-contact-change",
+      "thumbnail": "/blog/images/virtual-assistant-crm-contact-change.webp",
+      "thumbnailTitle": "Verify CRM Contact Changes Before an Assistant Saves Them",
+      "relatedArticles": [
+        "virtual-assistant-dst-calendar-check",
+        "virtual-assistant-provider-escalation-receipt",
+        "virtual-assistant-client-travel-handover"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-dst-calendar-check",
+      "title": "Check Daylight-Saving Transitions in Assistant Scheduling",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-dst-calendar-check.mdx",
+      "route": "/blog/virtual-assistant-dst-calendar-check",
+      "thumbnail": "/blog/images/virtual-assistant-dst-calendar-check.webp",
+      "thumbnailTitle": "Check Daylight-Saving Transitions in Assistant Scheduling",
+      "relatedArticles": [
+        "virtual-assistant-provider-escalation-receipt",
+        "virtual-assistant-client-travel-handover",
+        "virtual-assistant-shared-inbox-auto-reply"
+      ]
+    },
+    {
+      "system": "Blog",
+      "slug": "virtual-assistant-provider-escalation-receipt",
+      "title": "Capture a Provider Escalation Receipt Before Closing a Case",
+      "date": "2026-10-22",
+      "source": "content/blog/virtual-assistant-provider-escalation-receipt.mdx",
+      "route": "/blog/virtual-assistant-provider-escalation-receipt",
+      "thumbnail": "/blog/images/virtual-assistant-provider-escalation-receipt.webp",
+      "thumbnailTitle": "Capture a Provider Escalation Receipt Before Closing a Case",
+      "relatedArticles": [
+        "virtual-assistant-client-travel-handover",
+        "virtual-assistant-shared-inbox-auto-reply",
+        "virtual-assistant-report-recipient-verification"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-handover-acceptance-study",
+      "title": "Assistant Handover Acceptance Study",
+      "date": "2026-10-22",
+      "source": "content/research/virtual-assistant-handover-acceptance-study.mdx",
+      "route": "/research/virtual-assistant-handover-acceptance-study",
+      "thumbnail": "/blog/images/virtual-assistant-handover-acceptance-study.webp",
+      "thumbnailTitle": "Assistant Handover Acceptance Study",
+      "relatedArticles": [
+        "virtual-assistant-report-delivery-evidence-study",
+        "virtual-assistant-redaction-completeness-study",
+        "virtual-assistant-cross-client-isolation-study"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-report-delivery-evidence-study",
+      "title": "Recurring Report Delivery Evidence Study",
+      "date": "2026-10-22",
+      "source": "content/research/virtual-assistant-report-delivery-evidence-study.mdx",
+      "route": "/research/virtual-assistant-report-delivery-evidence-study",
+      "thumbnail": "/blog/images/virtual-assistant-report-delivery-evidence-study.webp",
+      "thumbnailTitle": "Recurring Report Delivery Evidence Study",
+      "relatedArticles": [
+        "virtual-assistant-redaction-completeness-study",
+        "virtual-assistant-cross-client-isolation-study",
+        "virtual-assistant-escalation-receipt-study"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-redaction-completeness-study",
+      "title": "Document Redaction Completeness Study",
+      "date": "2026-10-22",
+      "source": "content/research/virtual-assistant-redaction-completeness-study.mdx",
+      "route": "/research/virtual-assistant-redaction-completeness-study",
+      "thumbnail": "/blog/images/virtual-assistant-redaction-completeness-study.webp",
+      "thumbnailTitle": "Document Redaction Completeness Study",
+      "relatedArticles": [
+        "virtual-assistant-cross-client-isolation-study",
+        "virtual-assistant-escalation-receipt-study",
+        "virtual-assistant-handover-acceptance-study"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-cross-client-isolation-study",
+      "title": "Cross-Client Workspace Isolation Study",
+      "date": "2026-10-22",
+      "source": "content/research/virtual-assistant-cross-client-isolation-study.mdx",
+      "route": "/research/virtual-assistant-cross-client-isolation-study",
+      "thumbnail": "/blog/images/virtual-assistant-cross-client-isolation-study.webp",
+      "thumbnailTitle": "Cross-Client Workspace Isolation Study",
+      "relatedArticles": [
+        "virtual-assistant-escalation-receipt-study",
+        "virtual-assistant-handover-acceptance-study",
+        "virtual-assistant-report-delivery-evidence-study"
+      ]
+    },
+    {
+      "system": "Research",
+      "slug": "virtual-assistant-escalation-receipt-study",
+      "title": "Provider Escalation Receipt Study",
+      "date": "2026-10-22",
+      "source": "content/research/virtual-assistant-escalation-receipt-study.mdx",
+      "route": "/research/virtual-assistant-escalation-receipt-study",
+      "thumbnail": "/blog/images/virtual-assistant-escalation-receipt-study.webp",
+      "thumbnailTitle": "Provider Escalation Receipt Study",
+      "relatedArticles": [
+        "virtual-assistant-handover-acceptance-study",
+        "virtual-assistant-report-delivery-evidence-study",
+        "virtual-assistant-redaction-completeness-study"
+      ]
+    }
+  ]
+}

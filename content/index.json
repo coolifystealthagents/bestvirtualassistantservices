@@ -4,6 +4,90 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "virtual-assistant-client-offboarding-access",
+      "title": "Close Client Offboarding Access Without Missing a Path",
+      "path": "content/blog/virtual-assistant-client-offboarding-access.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-offboarding-access.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-client-travel-handover",
+      "title": "Hand Over Assistant Work Before Client Travel",
+      "path": "content/blog/virtual-assistant-client-travel-handover.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-client-travel-handover.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-crm-contact-change",
+      "title": "Verify CRM Contact Changes Before an Assistant Saves Them",
+      "path": "content/blog/virtual-assistant-crm-contact-change.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-crm-contact-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-cross-client-file-isolation",
+      "title": "Keep Client Files Isolated in Shared Assistant Workspaces",
+      "path": "content/blog/virtual-assistant-cross-client-file-isolation.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-cross-client-file-isolation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-dst-calendar-check",
+      "title": "Check Daylight-Saving Transitions in Assistant Scheduling",
+      "path": "content/blog/virtual-assistant-dst-calendar-check.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-dst-calendar-check.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-meeting-note-retention",
+      "title": "Set Retention Rules for Assistant Meeting Notes",
+      "path": "content/blog/virtual-assistant-meeting-note-retention.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-meeting-note-retention.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-priority-override-control",
+      "title": "Control Priority Overrides in an Assistant Task Queue",
+      "path": "content/blog/virtual-assistant-priority-override-control.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-priority-override-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-provider-escalation-receipt",
+      "title": "Capture a Provider Escalation Receipt Before Closing a Case",
+      "path": "content/blog/virtual-assistant-provider-escalation-receipt.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-provider-escalation-receipt.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-redaction-request-route",
+      "title": "Route Document Redaction Requests Without Altering Evidence",
+      "path": "content/blog/virtual-assistant-redaction-request-route.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-redaction-request-route.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-report-recipient-verification",
+      "title": "Verify Recurring Report Recipients Before Sending",
+      "path": "content/blog/virtual-assistant-report-recipient-verification.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-report-recipient-verification.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-research-source-freshness",
+      "title": "Check Research Source Freshness Before an Assistant Brief",
+      "path": "content/blog/virtual-assistant-research-source-freshness.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-research-source-freshness.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "virtual-assistant-shared-inbox-auto-reply",
+      "title": "Set a Shared Inbox Auto-Reply Boundary",
+      "path": "content/blog/virtual-assistant-shared-inbox-auto-reply.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-shared-inbox-auto-reply.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-calendar-buffer-rule-control",
       "title": "Control Calendar Buffer Rules Before Assistant Scheduling",
       "path": "content/blog/virtual-assistant-calendar-buffer-rule-control.mdx",
@@ -4414,6 +4498,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-cross-client-isolation-study",
+      "title": "Cross-Client Workspace Isolation Study",
+      "path": "content/research/virtual-assistant-cross-client-isolation-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-cross-client-isolation-study.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-customer-complaint-authority-study",
       "title": "Where Should a Virtual Assistant's Authority End in Customer Complaint Handling?",
       "path": "content/research/virtual-assistant-customer-complaint-authority-study.mdx",
@@ -4729,6 +4820,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-escalation-receipt-study",
+      "title": "Provider Escalation Receipt Study",
+      "path": "content/research/virtual-assistant-escalation-receipt-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-escalation-receipt-study.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-event-operations",
       "title": "Event Operations Support by Virtual Assistants: A Control Brief",
       "path": "content/research/virtual-assistant-event-operations.mdx",
@@ -4810,6 +4908,13 @@
       "title": "Assistant Handoff Acceptance Disagreement Study",
       "path": "content/research/virtual-assistant-handoff-acceptance-disagreement-study.mdx",
       "featuredImage": "/blog/images/virtual-assistant-handoff-acceptance-disagreement-study.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-handover-acceptance-study",
+      "title": "Assistant Handover Acceptance Study",
+      "path": "content/research/virtual-assistant-handover-acceptance-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-handover-acceptance-study.webp"
     },
     {
       "type": "research",
@@ -5198,6 +5303,13 @@
     },
     {
       "type": "research",
+      "slug": "virtual-assistant-redaction-completeness-study",
+      "title": "Document Redaction Completeness Study",
+      "path": "content/research/virtual-assistant-redaction-completeness-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-redaction-completeness-study.webp"
+    },
+    {
+      "type": "research",
       "slug": "virtual-assistant-remote-onboarding-controls",
       "title": "Remote Onboarding Controls for Virtual Assistant Teams: A Research Brief",
       "path": "content/research/virtual-assistant-remote-onboarding-controls.mdx",
@@ -5209,6 +5321,13 @@
       "title": "Remote Work Continuity Planning for Virtual Assistants",
       "path": "content/research/virtual-assistant-remote-work-continuity.mdx",
       "featuredImage": "/blog/images/virtual-assistant-remote-work-continuity.webp"
+    },
+    {
+      "type": "research",
+      "slug": "virtual-assistant-report-delivery-evidence-study",
+      "title": "Recurring Report Delivery Evidence Study",
+      "path": "content/research/virtual-assistant-report-delivery-evidence-study.mdx",
+      "featuredImage": "/blog/images/virtual-assistant-report-delivery-evidence-study.webp"
     },
     {
       "type": "research",
