@@ -70,7 +70,7 @@ for entry in entries:
 dates = [frontmatter(ROOT / item["path"]).get("publishedAt", "") for item in blog_index]
 if dates != sorted(dates, reverse=True):
     fail("Blog index is not newest-first by source publication date")
-sitemap = (ROOT / "app/sitemap.xml/route.ts").read_text(encoding="utf-8")
-if "allBlogPosts" not in sitemap or "blogs.map(b=>`/blog/${b.slug}`)" not in sitemap:
+sitemap = (ROOT / "app/sitemap.ts").read_text(encoding="utf-8")
+if "allBlogPosts" not in sitemap or "...allBlogPosts.map((post) => `/blog/${post.slug}`)" not in sitemap:
     fail("sitemap route does not include all Blog posts")
 print(f"BLOG DATE REGRESSION PASS: {len(entries)} accepted Blog slugs; provenance, source/rendered dates, canonical route, sitemap eligibility, and newest-first index verified")
