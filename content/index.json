@@ -4,6 +4,174 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "bva-calendar-conflict-rules",
+      "title": "Write Calendar Conflict Rules for Virtual Assistant Placement And Managed Services Support",
+      "path": "content/blog/bva-calendar-conflict-rules.mdx",
+      "featuredImage": "/blog/images/bva-calendar-conflict-rules.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-decision-log",
+      "title": "Turn Virtual Assistant Placement And Managed Services Decisions Into a Traceable Log",
+      "path": "content/blog/bva-decision-log.mdx",
+      "featuredImage": "/blog/images/bva-decision-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-document-expiry-watch",
+      "title": "Put Virtual Assistant Placement And Managed Services Document Expiry on a Review Clock",
+      "path": "content/blog/bva-document-expiry-watch.mdx",
+      "featuredImage": "/blog/images/bva-document-expiry-watch.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-duplicate-request-screen",
+      "title": "Screen Duplicate Requests Before They Split Virtual Assistant Placement And Managed Services Ownership",
+      "path": "content/blog/bva-duplicate-request-screen.mdx",
+      "featuredImage": "/blog/images/bva-duplicate-request-screen.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-evidence-aged-backlog",
+      "title": "Triage an Aged Virtual Assistant Placement And Managed Services Backlog by Evidence Quality",
+      "path": "content/blog/bva-evidence-aged-backlog.mdx",
+      "featuredImage": "/blog/images/bva-evidence-aged-backlog.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-exception-trend-brief",
+      "title": "Turn Virtual Assistant Placement And Managed Services Exception Trends Into a Monthly Owner Brief",
+      "path": "content/blog/bva-exception-trend-brief.mdx",
+      "featuredImage": "/blog/images/bva-exception-trend-brief.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-onboarding-packet",
+      "title": "Build a Virtual Assistant Placement And Managed Services Onboarding Packet the Owner Can Accept",
+      "path": "content/blog/bva-onboarding-packet.mdx",
+      "featuredImage": "/blog/images/bva-onboarding-packet.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-recurring-report-reconciliation",
+      "title": "Reconcile Recurring Virtual Assistant Placement And Managed Services Reports Before Release",
+      "path": "content/blog/bva-recurring-report-reconciliation.mdx",
+      "featuredImage": "/blog/images/bva-recurring-report-reconciliation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-role-change-handover",
+      "title": "Keep the Virtual Assistant Placement And Managed Services Handover Intact Through a Role Change",
+      "path": "content/blog/bva-role-change-handover.mdx",
+      "featuredImage": "/blog/images/bva-role-change-handover.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-sampling-ai-assisted",
+      "title": "Sample AI-Assisted Virtual Assistant Placement And Managed Services Work Without Guessing",
+      "path": "content/blog/bva-sampling-ai-assisted.mdx",
+      "featuredImage": "/blog/images/bva-sampling-ai-assisted.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-shared-inbox-map",
+      "title": "Map Shared Inbox Ownership for Virtual Assistant Placement And Managed Services Work",
+      "path": "content/blog/bva-shared-inbox-map.mdx",
+      "featuredImage": "/blog/images/bva-shared-inbox-map.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-tool-consolidation-access",
+      "title": "Review Virtual Assistant Placement And Managed Services Access Before a Tool Consolidation",
+      "path": "content/blog/bva-tool-consolidation-access.mdx",
+      "featuredImage": "/blog/images/bva-tool-consolidation-access.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-access-boundary",
+      "title": "Set the Virtual Assistant Placement And Managed Services Access Boundary Before Day One",
+      "path": "content/blog/bva-access-boundary.mdx",
+      "featuredImage": "/blog/images/bva-access-boundary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-audit-pack",
+      "title": "Build a Virtual Assistant Placement And Managed Services Audit Pack Before Anyone Asks",
+      "path": "content/blog/bva-audit-pack.mdx",
+      "featuredImage": "/blog/images/bva-audit-pack.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-escalation-log",
+      "title": "Keep a Virtual Assistant Placement And Managed Services Escalation Log That Moves Work",
+      "path": "content/blog/bva-escalation-log.mdx",
+      "featuredImage": "/blog/images/bva-escalation-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-exception-path",
+      "title": "Write the Virtual Assistant Placement And Managed Services Exception Path Before Volume Arrives",
+      "path": "content/blog/bva-exception-path.mdx",
+      "featuredImage": "/blog/images/bva-exception-path.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-handoff-record",
+      "title": "Make the Virtual Assistant Placement And Managed Services Handoff Survive a Second Reviewer",
+      "path": "content/blog/bva-handoff-record.mdx",
+      "featuredImage": "/blog/images/bva-handoff-record.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-intake-evidence-control",
+      "title": "Build a Virtual Assistant Placement And Managed Services Intake Record That Preserves Evidence",
+      "path": "content/blog/bva-intake-evidence-control.mdx",
+      "featuredImage": "/blog/images/bva-intake-evidence-control.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-metric-definition",
+      "title": "Define Virtual Assistant Placement And Managed Services Metrics Before You Report Them",
+      "path": "content/blog/bva-metric-definition.mdx",
+      "featuredImage": "/blog/images/bva-metric-definition.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-onboarding-plan",
+      "title": "Onboard a Virtual Assistant Placement And Managed Services Assistant in Small, Checkable Steps",
+      "path": "content/blog/bva-onboarding-plan.mdx",
+      "featuredImage": "/blog/images/bva-onboarding-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-quality-sample",
+      "title": "Run a Virtual Assistant Placement And Managed Services Quality Sample That Changes the Process",
+      "path": "content/blog/bva-quality-sample.mdx",
+      "featuredImage": "/blog/images/bva-quality-sample.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-queue-ownership",
+      "title": "Give Every Virtual Assistant Placement And Managed Services Queue Item One Owner",
+      "path": "content/blog/bva-queue-ownership.mdx",
+      "featuredImage": "/blog/images/bva-queue-ownership.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-source-map",
+      "title": "Map the Sources Behind Virtual Assistant Placement And Managed Services Decisions",
+      "path": "content/blog/bva-source-map.mdx",
+      "featuredImage": "/blog/images/bva-source-map.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-weekly-brief",
+      "title": "Write a Weekly Virtual Assistant Placement And Managed Services Owner Brief From Queue Evidence",
+      "path": "content/blog/bva-weekly-brief.mdx",
+      "featuredImage": "/blog/images/bva-weekly-brief.webp"
+    },
+    {
+      "type": "blog",
       "slug": "virtual-assistant-client-offboarding-access",
       "title": "Close Client Offboarding Access Without Missing a Path",
       "path": "content/blog/virtual-assistant-client-offboarding-access.mdx",
@@ -3851,6 +4019,76 @@
       "title": "Board Packet Source Reconciliation by Virtual Assistants",
       "path": "content/research/board-packet-source-reconciliation.md",
       "featuredImage": "/blog/images/virtual-assistant-meeting-agenda-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-access-removal",
+      "title": "How Long Does Virtual Assistant Placement And Managed Services Access Outlive the Assignment?",
+      "path": "content/research/bva-access-removal.mdx",
+      "featuredImage": "/blog/images/bva-access-removal.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-aged-backlog-evidence",
+      "title": "How Does Evidence Quality Change Across an Aged Virtual Assistant Placement And Managed Services Backlog?",
+      "path": "content/research/bva-aged-backlog-evidence.mdx",
+      "featuredImage": "/blog/images/bva-aged-backlog-evidence.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-document-expiry-risk",
+      "title": "What Share of Virtual Assistant Placement And Managed Services Documents Reach Expiry Without a Review?",
+      "path": "content/research/bva-document-expiry-risk.mdx",
+      "featuredImage": "/blog/images/bva-document-expiry-risk.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-duplicate-request-rate",
+      "title": "How Often Do Duplicate Requests Enter the Virtual Assistant Placement And Managed Services Queue?",
+      "path": "content/research/bva-duplicate-request-rate.mdx",
+      "featuredImage": "/blog/images/bva-duplicate-request-rate.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-handoff-completeness",
+      "title": "Can a Second Reviewer Continue the Virtual Assistant Placement And Managed Services Handoff?",
+      "path": "content/research/bva-handoff-completeness.mdx",
+      "featuredImage": "/blog/images/bva-handoff-completeness.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-intake-reliability",
+      "title": "How Complete Is the Virtual Assistant Placement And Managed Services Intake Record at First Review?",
+      "path": "content/research/bva-intake-reliability.mdx",
+      "featuredImage": "/blog/images/bva-intake-reliability.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-queue-aging",
+      "title": "Where Does Virtual Assistant Placement And Managed Services Queue Time Actually Go?",
+      "path": "content/research/bva-queue-aging.mdx",
+      "featuredImage": "/blog/images/bva-queue-aging.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-reviewer-agreement",
+      "title": "Do Reviewers Agree on Virtual Assistant Placement And Managed Services Exception Codes?",
+      "path": "content/research/bva-reviewer-agreement.mdx",
+      "featuredImage": "/blog/images/bva-reviewer-agreement.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-role-change-continuity",
+      "title": "Does Virtual Assistant Placement And Managed Services Handover Quality Survive a Role Change?",
+      "path": "content/research/bva-role-change-continuity.mdx",
+      "featuredImage": "/blog/images/bva-role-change-continuity.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-shared-inbox-coverage",
+      "title": "Who Owns the Shared Virtual Assistant Placement And Managed Services Inbox at First Response?",
+      "path": "content/research/bva-shared-inbox-coverage.mdx",
+      "featuredImage": "/blog/images/bva-shared-inbox-coverage.webp"
     },
     {
       "type": "research",
