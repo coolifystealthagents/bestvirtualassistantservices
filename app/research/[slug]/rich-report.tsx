@@ -110,13 +110,13 @@ export function RichResearchArticle({ post, schemas }: { post: ResearchPost; sch
         </header>
 
         <section className="research-stat-band" aria-label="Dated Philippines indicators">
-          <div className="container research-stat-grid">{post.stats.map((stat) => <article key={stat.label}>
+          <div className="container research-stat-grid">{post.stats.map((stat) => <div key={stat.label}>
             <strong>{stat.value}</strong><span>{stat.label}</span><small>{stat.note} <a href={`#source-${stat.citation}`}>[{stat.citation}]</a></small>
-          </article>)}</div>
+          </div>)}</div>
         </section>
 
         <div className="container research-report-layout">
-          <aside className="research-toc" aria-label="On this page">
+          <aside className="research-toc sticky" aria-label="On this page">
             <strong>On this page</strong>
             <a href="#role-first">Role first</a><a href="#evidence-chart">Evidence chart</a><a href="#hiring-table">Hiring table</a><a href="#expert-quote">Expert view</a><a href="#control-map">Control map</a><a href="#methodology">Method</a><a href="#faq">FAQs</a><a href="#sources">Sources</a>
           </aside>

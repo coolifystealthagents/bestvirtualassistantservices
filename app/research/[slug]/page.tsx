@@ -156,16 +156,16 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
 
         <section className="research-stat-band" aria-label="Headline statistics">
           <div className="container research-stat-grid">
-            {post.stats.map((stat) => <article key={stat.label}>
+            {post.stats.map((stat) => <div key={stat.label}>
               <strong>{stat.value}</strong>
               <span>{stat.label}</span>
               <small>{stat.note} <a href={`#source-${stat.citation}`}>[{stat.citation}]</a></small>
-            </article>)}
+            </div>)}
           </div>
         </section>
 
         <div className="container research-report-layout">
-          <aside className="research-toc" aria-label="On this page">
+          <aside className="research-toc sticky" aria-label="On this page">
             <strong>On this page</strong>
             <a href="#evidence">Evidence</a>
             <a href="#comparison-table">Data table</a>
