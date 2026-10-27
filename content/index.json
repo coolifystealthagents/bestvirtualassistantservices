@@ -4,6 +4,125 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "bva-cross-team-escalation",
+      "title": "Route Cross-Team Virtual Assistant Placement And Managed Services Escalations to One Owner",
+      "path": "content/blog/bva-cross-team-escalation.mdx",
+      "featuredImage": "/blog/images/bva-cross-team-escalation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-vendor-onboarding-packet",
+      "title": "Build a Virtual Assistant Placement And Managed Services Vendor Onboarding Evidence Packet",
+      "path": "content/blog/bva-vendor-onboarding-packet.mdx",
+      "featuredImage": "/blog/images/bva-vendor-onboarding-packet.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-capacity-plan",
+      "title": "Plan Virtual Assistant Placement And Managed Services Capacity From Queue Demand",
+      "path": "content/blog/bva-capacity-plan.mdx",
+      "featuredImage": "/blog/images/bva-capacity-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-cross-training-map",
+      "title": "Map Cross-Training Coverage for Virtual Assistant Placement And Managed Services Work",
+      "path": "content/blog/bva-cross-training-map.mdx",
+      "featuredImage": "/blog/images/bva-cross-training-map.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-retention-disposal",
+      "title": "Put Virtual Assistant Placement And Managed Services Records on a Retention and Disposal Schedule",
+      "path": "content/blog/bva-retention-disposal.mdx",
+      "featuredImage": "/blog/images/bva-retention-disposal.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-meeting-followup",
+      "title": "Keep Virtual Assistant Placement And Managed Services Meeting Follow-Ups With One Owner",
+      "path": "content/blog/bva-meeting-followup.mdx",
+      "featuredImage": "/blog/images/bva-meeting-followup.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-customer-rep-handoff",
+      "title": "Hand Off a Virtual Assistant Placement And Managed Services Customer After a Rep Change",
+      "path": "content/blog/bva-customer-rep-handoff.mdx",
+      "featuredImage": "/blog/images/bva-customer-rep-handoff.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-sla-review",
+      "title": "Review Virtual Assistant Placement And Managed Services SLAs With Exception Evidence",
+      "path": "content/blog/bva-sla-review.mdx",
+      "featuredImage": "/blog/images/bva-sla-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-duplicate-payment-prevention",
+      "title": "Prevent Duplicate Virtual Assistant Placement And Managed Services Payments Before Release",
+      "path": "content/blog/bva-duplicate-payment-prevention.mdx",
+      "featuredImage": "/blog/images/bva-duplicate-payment-prevention.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-access-recertification",
+      "title": "Run a Virtual Assistant Placement And Managed Services Access Recertification Campaign",
+      "path": "content/blog/bva-access-recertification.mdx",
+      "featuredImage": "/blog/images/bva-access-recertification.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-documentation-drift",
+      "title": "Audit Virtual Assistant Placement And Managed Services Documentation Drift Before It Bites",
+      "path": "content/blog/bva-documentation-drift.mdx",
+      "featuredImage": "/blog/images/bva-documentation-drift.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "bva-risk-register",
+      "title": "Turn the Virtual Assistant Placement And Managed Services Risk Register Into a Monthly Decision",
+      "path": "content/blog/bva-risk-register.mdx",
+      "featuredImage": "/blog/images/bva-risk-register.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-escalation-wait",
+      "title": "Where Does Virtual Assistant Placement And Managed Services Escalation Time Go?",
+      "path": "content/research/bva-escalation-wait.mdx",
+      "featuredImage": "/blog/images/bva-escalation-wait.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-vendor-cycle",
+      "title": "How Complete Is the Virtual Assistant Placement And Managed Services Vendor Onboarding Packet at First Review?",
+      "path": "content/research/bva-vendor-cycle.mdx",
+      "featuredImage": "/blog/images/bva-vendor-cycle.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-capacity-error",
+      "title": "How Accurate Is Virtual Assistant Placement And Managed Services Capacity Forecasting?",
+      "path": "content/research/bva-capacity-error.mdx",
+      "featuredImage": "/blog/images/bva-capacity-error.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-cross-training-coverage",
+      "title": "Does Cross-Training Cover the Virtual Assistant Placement And Managed Services Queue?",
+      "path": "content/research/bva-cross-training-coverage.mdx",
+      "featuredImage": "/blog/images/bva-cross-training-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "bva-retention-compliance",
+      "title": "Do Virtual Assistant Placement And Managed Services Records Follow the Retention Schedule?",
+      "path": "content/research/bva-retention-compliance.mdx",
+      "featuredImage": "/blog/images/bva-retention-compliance.webp"
+    },
+    {
+      "type": "blog",
       "slug": "bva-calendar-conflict-rules",
       "title": "Write Calendar Conflict Rules for Virtual Assistant Placement And Managed Services Support",
       "path": "content/blog/bva-calendar-conflict-rules.mdx",
@@ -915,7 +1034,7 @@
     {
       "type": "blog",
       "slug": "virtual-assistant-service-level-agreement-guide",
-      "title": "Virtual Assistant Service Level Agreement: A Buyer\u2019s Practical Guide",
+      "title": "Virtual Assistant Service Level Agreement: A Buyer’s Practical Guide",
       "path": "content/blog/virtual-assistant-service-level-agreement-guide.mdx",
       "featuredImage": "/blog/images/virtual-assistant-quality-scorecard.webp"
     },
