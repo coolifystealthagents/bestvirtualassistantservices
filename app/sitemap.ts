@@ -12,7 +12,6 @@ const staticPaths = [
   '/blog/top-50-virtual-assistant-companies',
   '/cancellation-policy',
   '/compare',
-  '/contact',
   '/contact-us',
   '/non-competitor-alternatives',
   '/privacy',

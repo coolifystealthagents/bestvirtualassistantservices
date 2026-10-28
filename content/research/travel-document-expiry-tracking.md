@@ -99,7 +99,7 @@ The sources describe frameworks and broad working conditions. They do not predic
 
 ## Related research
 
-Read [executive travel risk controls](/research/virtual-assistant-executive-travel-risk-controls) and [travel planning brief](/research/virtual-assistant-travel-planning-brief) for adjacent evidence and control questions.
+Read [executive travel risk controls](/research/virtual-assistant-executive-travel-risk-controls) and [travel planning brief](/services/travel-planning-assistance) for adjacent evidence and control questions.
 
 ## Sources
 

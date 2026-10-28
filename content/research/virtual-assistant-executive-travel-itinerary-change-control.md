@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [executive travel itinerary change control](/research/executive-travel-itinerary-change-control) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [executive travel itinerary change control](/services/travel-planning-assistance) and [research briefs](/research) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

@@ -479,7 +479,7 @@ export const researchPosts: readonly ResearchPost[] = [
       {
         heading: 'Broader industry evidence is not a VA headcount',
         paragraphs: [
-          { text: 'IBPAP says that, as of July 2023, 30–40% of employees at its member companies worked remotely and 60–70% worked onsite. This is first-party context from the wider Philippine IT and business-process industry, not a count of freelance virtual assistants or a promise about any staffing provider.', citations: [5] },
+          { text: 'IBPAP says that, as of July 2023, 30 to 40% of employees at its member companies worked remotely and 60 to 70% worked onsite. This is first-party context from the wider Philippine IT and business-process industry, not a count of freelance virtual assistants or a promise about any staffing provider.', citations: [5] },
           { text: 'Republic Act No. 11927 created a national policy framework for digital-workforce skills, training, certification, and career development. The law shows public support for digital careers, but a buyer still needs to inspect the exact training, experience, and work samples claimed by a candidate or provider.', citations: [6] },
           { text: "The Philippines has real service and digital work foundations, but hiring quality comes down to the role and the person. Country data cannot prove a candidate's quality. It can still give buyers useful context about the market where they are hiring." }
         ]
@@ -538,9 +538,9 @@ export const researchPosts: readonly ResearchPost[] = [
       {
         heading: 'A practical 30-day launch plan',
         paragraphs: [
-          { text: 'During days 1–3, teach one small task set with examples and dummy records. Confirm access, escalation rules, schedule, and the person who approves exceptions before live customer or financial data is used.' },
-          { text: 'During days 4–10, review every completed item at a fixed time and record the reasons for misses. Improve the instruction or example when the process is unclear, and coach the assistant when the written step was clear but not followed.' },
-          { text: 'During days 11–20, reduce review only for tasks that stay accurate. Keep higher-risk work behind approval and do not add a new system merely because basic tasks are going well.' },
+          { text: 'During days 1 to 3, teach one small task set with examples and dummy records. Confirm access, escalation rules, schedule, and the person who approves exceptions before live customer or financial data is used.' },
+          { text: 'During days 4 to 10, review every completed item at a fixed time and record the reasons for misses. Improve the instruction or example when the process is unclear, and coach the assistant when the written step was clear but not followed.' },
+          { text: 'During days 11 to 20, reduce review only for tasks that stay accurate. Keep higher-risk work behind approval and do not add a new system merely because basic tasks are going well.' },
           { text: 'During days 21-30, compare the result with the original scorecard and decide whether to keep, narrow, expand, or end the assignment. Use observed work quality, manager time, schedule fit, and security behavior. Do not base the decision on a broad claim about Filipino talent.' }
         ]
       }
@@ -553,7 +553,7 @@ export const researchPosts: readonly ResearchPost[] = [
         ['Employment in services', '59.5% (2025)', '50.6% (2025)', 'Role experience, references, writing, software skill, and judgment'],
         ['Gross tertiary enrollment', '47.4% (2024)', '43.6% (2024)', 'Completed education, certificates, and a role-specific paid test'],
         ['Adult literacy', '98.5% (2020)', '87.7% (2024)', 'Business writing, reading accuracy, tone, and comprehension in the work sample'],
-        ['Remote share in IBPAP member firms', '30–40% remote (July 2023)', 'No equivalent used', 'Candidate workspace, schedule, device, privacy, and provider controls']
+        ['Remote share in IBPAP member firms', '30 to 40% remote (July 2023)', 'No equivalent used', 'Candidate workspace, schedule, device, privacy, and provider controls']
       ]
     },
     methodology: [

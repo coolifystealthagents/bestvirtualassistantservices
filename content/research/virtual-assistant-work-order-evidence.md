@@ -75,7 +75,7 @@ The sources describe frameworks and broad working conditions. They do not predic
 
 ## Related research
 
-Read [project status summaries](/research/virtual-assistant-project-status-summaries) and [task dependency notes](/research/virtual-assistant-task-dependency-notes) for adjacent evidence and control questions.
+Read [project status summaries](/research) and [provider vetting guide](/provider-vetting) for adjacent evidence and control questions.
 
 ## Sources
 

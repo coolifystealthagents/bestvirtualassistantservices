@@ -52,15 +52,12 @@ export default function Research() {
               aria-label="Research quality signals"
             >
               <div>
-                <strong>01</strong>
                 <span>Benchmarks and operating context</span>
               </div>
               <div>
-                <strong>02</strong>
                 <span>Practical screening questions</span>
               </div>
               <div>
-                <strong>03</strong>
                 <span>Implementation checks</span>
               </div>
             </aside>

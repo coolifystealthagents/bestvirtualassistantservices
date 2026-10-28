@@ -39,6 +39,7 @@ const withCsp = (allowScheduler = false) => [
 ];
 
 const crawlRedirects = [
+  { source: '/contact', destination: '/contact-us', permanent: true },
   { source: '/cancellation', destination: '/cancellation-policy', permanent: true },
   { source: '/research/calendar-time-zone-error-cost', destination: '/services/executive-calendar-management', permanent: true },
   { source: '/research/client-onboarding-access-minimization', destination: '/research', permanent: true },

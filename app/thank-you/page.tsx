@@ -17,7 +17,7 @@ export default function ThankYouPage() {
           <div className="sa-booking-left">
             <p className="sa-booking-kicker">You’re one step away.</p>
             <h1>Step 2 - Book A Meeting</h1>
-            <p className="sa-booking-lead">No commitment. No risk. Just expert guidance.</p>
+            <p className="sa-booking-lead">Choose a time for an introductory conversation about your staffing needs.</p>
             <img className="sa-booking-image" src="/thank-you-hero.png" alt="Stealth Agents team ready to help" width="619" height="402" />
             <TestimonialsRail />
           </div>

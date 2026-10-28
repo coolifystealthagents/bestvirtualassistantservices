@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [e-commerce order-status provenance](/research/ecommerce-order-status-provenance) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [e-commerce order-status provenance](/services/ecommerce-operations-assistance) and [research briefs](/research) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

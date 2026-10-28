@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [market research source diversity](/research/market-research-source-diversity) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [market research source diversity](/research) and [provider vetting guide](/provider-vetting) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

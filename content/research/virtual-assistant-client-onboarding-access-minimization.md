@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [client-onboarding access minimization](/research/client-onboarding-access-minimization) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [client-onboarding access minimization](/research) and [provider vetting guide](/provider-vetting) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

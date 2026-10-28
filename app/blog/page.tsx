@@ -29,11 +29,13 @@ export default function Blog() {
           <div className="container fleet-service-grid">
             {posts.map((p) => (
               <a className="card" href={`/blog/${p.slug}`} key={p.slug}>
+                <img src={p.featuredImage} alt={`Illustration for ${p.title}`} width="1200" height="630" loading="lazy" />
                 <h2>{p.title}</h2>
                 <p>{p.excerpt}</p>
                 {p.published ? (
                   <time dateTime={p.published}>Published {formatDate(p.published)}</time>
                 ) : null}
+                <span>{p.minutes} min read</span>
                 <b>Read article →</b>
               </a>
             ))}

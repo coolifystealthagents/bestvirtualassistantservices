@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [customer inbox language-boundary routing](/research/customer-inbox-language-escalation) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [customer inbox language-boundary routing](/services/customer-inbox-support) and [research briefs](/research) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

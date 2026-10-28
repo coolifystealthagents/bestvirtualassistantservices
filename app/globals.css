@@ -360,6 +360,57 @@ textarea{min-height:130px;resize:vertical}
 @media(max-width:1000px){.service-hero-grid{grid-template-columns:1fr}.service-hero-figure{max-width:720px}.service-article-layout{grid-template-columns:1fr;gap:34px}.service-article-nav{position:static;grid-template-columns:repeat(3,1fr)}}
 @media(max-width:720px){.service-article-hero{padding:38px 0 52px}.service-hero-copy h1{font-size:45px}.service-hero-figure{box-shadow:7px 7px 0 rgba(224,184,79,.55)}.service-hero-figure img{height:280px}.service-article-layout{padding-top:46px;padding-bottom:70px}.service-article-nav{grid-template-columns:1fr 1fr}.service-two-column,.service-detail-grid,.service-detail-grid-three,.service-related>div,.service-contact-panel{grid-template-columns:1fr}.service-copy-section{padding-bottom:40px;margin-bottom:40px}.service-detail-card{padding:23px}.service-contact-panel{gap:18px;padding:29px 23px}.service-contact-panel h2{font-size:35px}}
 body{overflow-x:clip}
+
+/* Full-site audit corrections: own overflow locally and keep key first folds readable. */
+.pagination{max-width:100%;padding-inline:16px;flex-wrap:wrap}
+.fleet-service-grid>.card img{width:100%;height:190px;object-fit:cover;margin:-2px 0 16px;border:1px solid var(--line,#ddd);background:#eef1ed}.fleet-service-grid>.card time,.fleet-service-grid>.card>span{display:block;margin-top:10px;color:#596562;font-size:13px}.fleet-service-grid>.card b{display:block;margin-top:14px}
+.sa-testimonials-contact .sa-testimonial-heading h2{color:#17201f}
+.sa-testimonials-contact .sa-testimonial-viewport{height:188px}
+.sa-testimonial-track{animation-name:sa-testimonial-marquee-loop}
+@keyframes sa-testimonial-marquee-loop{from{transform:translateX(0)}to{transform:translateX(calc(-50% - 7px))}}
+.official-logo-plate{align-items:center;gap:14px}.official-logo-plate span{font-size:13px;font-weight:800;color:#17201f;white-space:nowrap}
+.service-article-hero{padding:clamp(44px,5vw,68px) 0}
+.service-hero-copy h1{font-size:clamp(44px,4.5vw,64px);line-height:.98;margin-bottom:18px}
+.service-hero-actions{margin-top:22px}
+.service-hero-figure img{height:340px}
+@media(max-width:720px){.service-hero-copy h1{font-size:40px}.sa-testimonial-card{flex-basis:min(330px,calc(100vw - 72px))}}
+@media(max-width:600px){
+  .alt-layout{grid-template-columns:minmax(0,1fr)!important}
+  .alt-toc,.alt-article{width:auto;min-width:0}
+  .research-card-grid{grid-template-columns:minmax(0,1fr)}
+  .research-library-card{min-width:0}
+  .research-cluster-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible}
+  .research-cluster-tabs a{min-width:0;justify-content:space-between;gap:4px;padding-inline:9px;font-size:13px}
+  .research-cluster-tabs small{flex:0 0 auto;min-width:20px;padding-inline:5px}
+  .faq-list summary span{display:grid;flex:0 0 26px;width:26px;height:26px;margin-right:10px;place-items:center;font-size:22px;line-height:1;transform:rotate(45deg)}
+  .alt-table-wrap table,.research-table-wrap table{width:100%!important;min-width:0!important;table-layout:fixed}
+  .alt-table-wrap th,.alt-table-wrap td,.research-table-wrap th,.research-table-wrap td{padding:10px 8px;overflow-wrap:anywhere;word-break:normal}
+}
+@media(prefers-reduced-motion:reduce){.sa-testimonial-track>.sa-testimonial-card:nth-child(n+4){display:none}}
+
+/* Candidate visual-fit corrections: keep the 1366px first fold complete and remove decorative model-number columns. */
+.model-row{grid-template-columns:.85fr 1.05fr 1.1fr}
+@media(max-width:980px){
+  .model-row{grid-template-columns:1fr 1fr;gap:18px 28px}
+  .model-question{grid-column:1/3}
+}
+@media(max-width:600px){
+  .model-row{grid-template-columns:1fr;gap:18px}
+  .model-fit,.model-question{grid-column:1}
+}
+@media(min-width:981px) and (max-width:1500px){
+  .research-home .research-hero{padding:18px 0 12px}
+  .research-home .research-hero-grid{gap:52px}
+  .research-home .issue-label{margin-bottom:16px}
+  .research-home .research-copy h1{font-size:64px;line-height:.91;margin-bottom:14px}
+  .research-home .research-lead{margin-bottom:14px;font-size:17px;line-height:1.38}
+  .research-home .cta-note{margin-top:8px;font-size:12px;line-height:1.3}
+  .research-home .planning-notes{margin-top:10px;padding-top:10px}
+  .research-home .planning-notes strong{font-size:23px}
+  .research-home .editorial-visual{min-height:440px}
+  .research-home .image-frame{inset:0 0 30px 42px}
+  .research-home .quick-pick{padding:16px 18px}
+}
 @media(max-width:960px){
   .article-content-layout{display:block}
   .article-navigation-mobile{position:sticky;top:78px;z-index:40;max-height:60vh;overflow:auto}

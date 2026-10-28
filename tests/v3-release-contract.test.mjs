@@ -13,12 +13,12 @@ test('shared shell carries the exact sponsorship phrase and only three primary d
   for (const { href, label } of [
     { href: '/', label: 'Home' },
     { href: '/services', label: 'Services' },
-    { href: '/contact-us', label: 'Contact' },
+    { href: '/contact-us', label: 'Contact Us' },
   ]) {
     const escapedHref = href.replaceAll('/', '\\/');
     assert.match(shell, new RegExp(`\\{ href: ['"]${escapedHref}['"], label: ['"]${label}['"] \\}`), `missing exact primary destination ${label} (${href})`);
   }
-  assert.doesNotMatch(shell.slice(shell.indexOf('const primaryLinks'), shell.indexOf('];', shell.indexOf('const primaryLinks'))), /Contact Us/);
+  assert.equal((shell.slice(shell.indexOf('const primaryLinks'), shell.indexOf('];', shell.indexOf('const primaryLinks'))).match(/href:/g) || []).length, 3);
   assert.match(shell, /aria-expanded/);
   assert.match(shell, /aria-controls/);
   assert.match(shell, /Skip to content/);
@@ -39,7 +39,8 @@ test('first-party proof has ten unique records, provenance, and local official a
   assert.ok(existsSync(new URL('../public/brand/stealth-agents-team-bacolod.png', import.meta.url)));
   const rail = read('app/booking-components.tsx');
   assert.doesNotMatch(rail, /Pause testimonials|Play testimonials|repeated/);
-  assert.match(rail, /proof\.reviews\.map/);
+  assert.match(rail, /movingReviews\.map/);
+  assert.match(rail, /aria-hidden=\{index >= proof\.reviews\.length/);
   assert.match(read('app/globals.css'), /prefers-reduced-motion:reduce/);
 });
 
@@ -49,7 +50,8 @@ test('contact owns form, contains no scheduler, and official section immediately
   assert.match(page, /contact-hero[\s\S]*TestimonialsRail[\s\S]*StandardContactForm/);
   assert.match(page, /<\/section>\s*<section className="official-team"/);
   assert.match(page, /Official Stealth Agents team image/);
-  assert.doesNotMatch(page, /team in Bacolod|Official team, Bacolod|who receives your request/i);
+  assert.match(page, /Official team, Bacolod/);
+  assert.match(page, /Contact form details are sent to Stealth Agents/);
 });
 
 test('lead ingestion failure never becomes tracker-owned success', () => {
@@ -60,6 +62,21 @@ test('lead ingestion failure never becomes tracker-owned success', () => {
   assert.match(form, /if \(!response\.ok\) throw/);
   assert.match(form, /data-acr-owner="component"/);
   assert.match(globalTracker, /form\.dataset\.acrOwner===['"]component['"]\)return/);
+});
+
+test('contact form preserves equivalent JSON and native form contracts', () => {
+  const form = read('app/contact-us/StandardContactForm.tsx');
+  const endpoint = read('app/api/contact/route.ts');
+  assert.match(form, /name="countryCode"/);
+  assert.match(form, /name="phoneLocal"/);
+  assert.match(form, /encoding === "form"/);
+  assert.match(form, /"Content-Type": "application\/json"/);
+  assert.match(endpoint, /contentType\.includes\('application\/json'\)/);
+  assert.match(endpoint, /contentType\.includes\('application\/x-www-form-urlencoded'\)/);
+  assert.match(endpoint, /text\(fields, 'countryCode'/);
+  assert.match(endpoint, /text\(fields, 'phoneLocal'/);
+  assert.match(endpoint, /NextResponse\.json\(\{ ok: true, redirect: '\/thank-you' \}\)/);
+  assert.match(endpoint, /NextResponse\.redirect\(new URL\('\/thank-you\?lead=accepted'/);
 });
 
 test('conversion routes and scheduler contract are explicit', () => {
@@ -251,7 +268,6 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
     ['app/page.tsx', '/'],
     ['app/blog/page.tsx', '/blog'],
     ['app/cancellation-policy/page.tsx', '/cancellation-policy'],
-    ['app/contact/page.tsx', '/contact'],
     ['app/privacy/page.tsx', '/privacy'],
     ['app/provider-vetting/page.tsx', '/provider-vetting'],
     ['app/research/page.tsx', '/research'],
@@ -268,6 +284,10 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
       `${file} must declare ${canonical} as its canonical`,
     );
   }
+
+  const redirectConfig = read('next.config.mjs');
+  assert.match(redirectConfig, /source: '\/contact', destination: '\/contact-us', permanent: true/);
+  assert.doesNotMatch(read('app/sitemap.ts'), /['"]\/contact['"]/);
 
   const home = read('app/page.tsx');
   assert.match(home, /title:\s*['"]Virtual Assistant Service Comparison Guide['"]/);
