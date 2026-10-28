@@ -155,6 +155,7 @@ test('ten service records expose complete deep-content fields and unique heroes'
 });
 
 test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback', () => {
+  const blogLayout = read('app/blog/layout.tsx');
   const article = read('app/blog/[slug]/page.tsx');
   const css = read('app/globals.css');
   assert.match(article, /ArticleNavigation/);
@@ -175,6 +176,8 @@ test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback'
   assert.match(css, /\.article-body h2\[id\]\{[^}]*scroll-margin-top:/);
   assert.match(css, /\.article-navigation-mobile\{display:none\}/);
   assert.match(css, /@media\(max-width:960px\)[^{]*\{[^]*?\.article-navigation-mobile\{display:block/);
+  assert.doesNotMatch(blogLayout, /BlogBanner|article-rotation-banner/, 'blog promotions must not render before the header or after the footer');
+  assert.match(blogLayout, /return children;/, 'blog layout must preserve child-owned header, main, and footer order');
 });
 
 test('SEO, host canonicalization, security headers, not-found, and punctuation sanitation exist', async () => {
