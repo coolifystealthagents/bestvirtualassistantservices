@@ -182,7 +182,7 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   for (const header of ['Strict-Transport-Security', 'Content-Security-Policy', 'X-Content-Type-Options', 'Referrer-Policy', 'Permissions-Policy', 'X-Frame-Options', 'Cross-Origin-Opener-Policy', 'Cross-Origin-Resource-Policy']) {
     assert.match(configSource, new RegExp(header), `missing ${header}`);
   }
-  for (const directive of ['frame-ancestors', 'object-src', 'script-src', 'connect-src', 'https://acrtracking.stealthagents.us', 'https://go.oncehub.com']) {
+  for (const directive of ['frame-ancestors', 'object-src', 'script-src', 'connect-src', 'https://acrtracking.stealthagents.us', 'https://static.cloudflareinsights.com', 'https://cloudflareinsights.com', 'https://go.oncehub.com']) {
     assert.match(configSource, new RegExp(directive.replaceAll('/', '\\/')));
   }
   assert.match(configSource, /source: '\/thank-you'[\s\S]*withCsp\(true\)/);

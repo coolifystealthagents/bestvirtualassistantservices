@@ -14,7 +14,8 @@ const commonSecurityHeaders = [
     : []),
 ];
 
-// Next.js needs inline bootstrap scripts; the ACR origin serves the approved tracker.
+// Next.js needs inline bootstrap scripts. ACR serves the approved tracker, while
+// Cloudflare injects its Web Analytics beacon at the production edge.
 // OnceHub is allowed as a frame only on the scheduler route below.
 const contentSecurityPolicy = (allowScheduler) => [
   "default-src 'self'",
@@ -23,11 +24,11 @@ const contentSecurityPolicy = (allowScheduler) => [
   "form-action 'self'",
   "frame-ancestors 'none'",
   `frame-src ${allowScheduler ? "'self' https://go.oncehub.com" : "'none'"}`,
-  "script-src 'self' 'unsafe-inline' https://acrtracking.stealthagents.us",
+  "script-src 'self' 'unsafe-inline' https://acrtracking.stealthagents.us https://static.cloudflareinsights.com",
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https://images.unsplash.com",
   "font-src 'self' data:",
-  "connect-src 'self' https://acrtracking.stealthagents.us",
+  "connect-src 'self' https://acrtracking.stealthagents.us https://cloudflareinsights.com",
   "media-src 'self'",
   "worker-src 'self' blob:",
   ...(isProduction ? ['upgrade-insecure-requests'] : []),
