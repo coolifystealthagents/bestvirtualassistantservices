@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { test } from 'node:test';
-import { parseBlogPage } from '../app/blog/page/[page]/pagination.mjs';
+import { blogPageDescription, parseBlogPage } from '../app/blog/page/[page]/pagination.mjs';
 import { buildCanonicalDestination, resolveVisitorProtocol } from '../app/proxy-scheme.mjs';
 
 const read = (path) => readFileSync(new URL(`../${path}`, import.meta.url), 'utf8');
@@ -303,12 +303,22 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
   const pagination = read('app/blog/page/[page]/page.tsx');
   assert.match(pagination, /export async function generateMetadata/);
   assert.match(pagination, /title:\s*`Virtual Assistant Guides - Page \$\{n\}`/);
+  assert.match(pagination, /description:\s*blogPageDescription\(posts\)/);
   assert.match(pagination, /canonical:\s*n === 1 \? ["']\/blog["'] : `\/blog\/page\/\$\{n\}`/);
   assert.equal((pagination.match(/parseBlogPage\(page, pages\)/g) || []).length, 2);
   for (const invalid of ['foo', '0', '-1', '02', '2e0', '2.0', '9007199254740992']) assert.equal(parseBlogPage(invalid, 27), null, `${invalid} must be rejected`);
   assert.equal(parseBlogPage('1', 27), 1);
   assert.equal(parseBlogPage('27', 27), 27);
   assert.equal(parseBlogPage('28', 27), null);
+  const paginationDescriptions = [
+    blogPageDescription([{ title: 'Client Intake Evidence Review' }]),
+    blogPageDescription([{ title: 'Calendar Capacity Planning' }]),
+  ];
+  assert.equal(new Set(paginationDescriptions).size, paginationDescriptions.length);
+  assert.ok(paginationDescriptions.every((description) => description.length <= 160));
+  const vetting = read('app/provider-vetting/page.tsx');
+  assert.match(vetting, /<h2>\{s\.title\}<\/h2>/);
+  assert.doesNotMatch(vetting, /<h3>\{s\.title\}<\/h3>/);
 });
 
 test('cancellation and stale research URLs permanently redirect without chains', async () => {
