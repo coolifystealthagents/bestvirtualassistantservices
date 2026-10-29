@@ -86,8 +86,12 @@ test('conversion routes and scheduler contract are explicit', () => {
   assert.match(thankYou, /https:\/\/go\.oncehub\.com\/StealthAgentsTeam/);
   for (const source of [thankYou, nextSteps]) assert.match(source, /robots:\s*\{\s*index:\s*false,\s*follow:\s*false\s*\}/);
   const layout = read('app/layout.tsx');
+  const css = read('app/globals.css');
   assert.doesNotMatch(layout, /funnel_booking_confirmed|Booking Confirmed/);
   assert.match(layout, /funnel_next_steps_viewed/);
+  assert.match(css, /@media\(max-width:900px\)\{\.sa-booking-grid\{grid-template-columns:minmax\(0,1fr\)\}/);
+  assert.match(css, /\.sa-booking-grid>\*\{min-width:0\}/);
+  assert.match(css, /\.sa-oncehub-frame\{width:100%;max-width:100%;height:850px\}/);
 });
 
 test('ten service records expose complete deep-content fields and unique heroes', () => {
