@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [lead research and qualification boundaries](/research/lead-research-qualification-boundaries) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [lead research and qualification boundaries](/research) and [provider vetting guide](/provider-vetting) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

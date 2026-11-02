@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [finance-document reconciliation boundaries](/research/finance-document-reconciliation-boundaries) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [finance-document reconciliation boundaries](/services/legal-administrative-assistance) and [research briefs](/research) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

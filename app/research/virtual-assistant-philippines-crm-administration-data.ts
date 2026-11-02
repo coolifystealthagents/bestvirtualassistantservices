@@ -132,7 +132,7 @@ export const virtualAssistantPhilippinesCrmAdministrationPost = {
   relatedLinks: [
     { title: 'CRM administration service', description: 'See recurring tasks, client controls, and a first-week plan for a Philippines-based CRM role.', href: '/services/crm-administration' },
     { title: 'Provider vetting guide', description: 'Ask consistent questions about tests, account limits, manager support, and quality review.', href: '/provider-vetting' },
-    { title: 'Data entry quality control guide', description: 'Use source rules, validation checks, exception queues, and reviewer ownership for repeated data work.', href: '/research/philippines-virtual-assistant-data-entry-quality-control-guide' }
+    { title: 'Data entry quality control guide', description: 'Use source rules, validation checks, exception queues, and reviewer ownership for repeated data work.', href: '/research' }
   ],
   sources: [
     { id: 1, name: 'World Bank', title: 'Employment in services (% of total employment), Philippines', url: 'https://api.worldbank.org/v2/country/PHL/indicator/SL.SRV.EMPL.ZS?format=json&per_page=100', scope: 'Philippines evidence' },

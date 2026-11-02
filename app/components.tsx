@@ -9,7 +9,7 @@ const site = (data as any).site || {};
 const primaryLinks = [
   { href: '/', label: 'Home' },
   { href: '/services', label: 'Services' },
-  { href: '/contact-us', label: 'Contact' },
+  { href: '/contact-us', label: 'Contact Us' },
 ];
 
 export function JsonLd({ data }: { data: any }) {
@@ -17,7 +17,7 @@ export function JsonLd({ data }: { data: any }) {
 }
 
 export function LogoMark() {
-  return <span className="logo-mark-wrap"><img className="logo-img" src="/icon.svg" alt="" width="38" height="38" /><span className="logo-name">{site.brand}</span></span>;
+  return <span className="logo-mark-wrap"><img className="logo-img" src="/icon.svg" alt={`${site.brand} mark`} width="38" height="38" /><span className="logo-name">{site.brand}</span></span>;
 }
 
 function SponsorMark() {

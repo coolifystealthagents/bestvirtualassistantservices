@@ -91,7 +91,19 @@ const aug10ManifestEntries = (readAug10BlogManifest().entries || []).map((entry)
 const aug10ManifestSlugs = new Set(aug10ManifestEntries);
 const aug10ManifestRank = new Map(aug10ManifestEntries.map((slug, index) => [slug, index]));
 
-export const allBlogPosts = [...blogPosts, ...publishedContentBlogPosts.filter((post) => !blogPosts.some((existing) => existing.slug === post.slug))]
+const legacyBlogImages: Record<string, string> = {
+  'virtual-assistant-onboarding-checklist-first-30-days': '/blog/images/virtual-assistant-remote-onboarding-controls.webp',
+  'virtual-assistant-security-access-checklist': '/blog/images/virtual-assistant-security-access-checklist.webp',
+  'measure-virtual-assistant-value-before-scaling': '/blog/images/virtual-assistant-service-cost-calculator.webp',
+  'how-to-choose-the-best-virtual-assistant-service': '/blog/images/virtual-assistant-vendor-comparison-checklist.webp',
+  'virtual-assistant-tasks-to-delegate-first': '/blog/images/virtual-assistant-task-brief-for-repeatable-delegation.webp',
+  'managed-virtual-assistant-service-vs-freelance-va': '/blog/images/virtual-assistant-service-level-review.webp',
+};
+
+export const allBlogPosts = [
+  ...blogPosts.map((post) => ({ ...post, featuredImage: post.featuredImage || legacyBlogImages[post.slug] })),
+  ...publishedContentBlogPosts.filter((post) => !blogPosts.some((existing) => existing.slug === post.slug)),
+]
   .sort((a, b) => {
     const dateOrder = (b.published || '').localeCompare(a.published || '');
     if (dateOrder) return dateOrder;

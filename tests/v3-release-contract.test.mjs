@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { test } from 'node:test';
-import { parseBlogPage } from '../app/blog/page/[page]/pagination.mjs';
+import { blogPageDescription, parseBlogPage } from '../app/blog/page/[page]/pagination.mjs';
 import { buildCanonicalDestination, resolveVisitorProtocol } from '../app/proxy-scheme.mjs';
 
 const read = (path) => readFileSync(new URL(`../${path}`, import.meta.url), 'utf8');
@@ -13,12 +13,12 @@ test('shared shell carries the exact sponsorship phrase and only three primary d
   for (const { href, label } of [
     { href: '/', label: 'Home' },
     { href: '/services', label: 'Services' },
-    { href: '/contact-us', label: 'Contact' },
+    { href: '/contact-us', label: 'Contact Us' },
   ]) {
     const escapedHref = href.replaceAll('/', '\\/');
     assert.match(shell, new RegExp(`\\{ href: ['"]${escapedHref}['"], label: ['"]${label}['"] \\}`), `missing exact primary destination ${label} (${href})`);
   }
-  assert.doesNotMatch(shell.slice(shell.indexOf('const primaryLinks'), shell.indexOf('];', shell.indexOf('const primaryLinks'))), /Contact Us/);
+  assert.equal((shell.slice(shell.indexOf('const primaryLinks'), shell.indexOf('];', shell.indexOf('const primaryLinks'))).match(/href:/g) || []).length, 3);
   assert.match(shell, /aria-expanded/);
   assert.match(shell, /aria-controls/);
   assert.match(shell, /Skip to content/);
@@ -39,7 +39,8 @@ test('first-party proof has ten unique records, provenance, and local official a
   assert.ok(existsSync(new URL('../public/brand/stealth-agents-team-bacolod.png', import.meta.url)));
   const rail = read('app/booking-components.tsx');
   assert.doesNotMatch(rail, /Pause testimonials|Play testimonials|repeated/);
-  assert.match(rail, /proof\.reviews\.map/);
+  assert.match(rail, /movingReviews\.map/);
+  assert.match(rail, /aria-hidden=\{index >= proof\.reviews\.length/);
   assert.match(read('app/globals.css'), /prefers-reduced-motion:reduce/);
 });
 
@@ -49,7 +50,8 @@ test('contact owns form, contains no scheduler, and official section immediately
   assert.match(page, /contact-hero[\s\S]*TestimonialsRail[\s\S]*StandardContactForm/);
   assert.match(page, /<\/section>\s*<section className="official-team"/);
   assert.match(page, /Official Stealth Agents team image/);
-  assert.doesNotMatch(page, /team in Bacolod|Official team, Bacolod|who receives your request/i);
+  assert.match(page, /Official team, Bacolod/);
+  assert.match(page, /Contact form details are sent to Stealth Agents/);
 });
 
 test('lead ingestion failure never becomes tracker-owned success', () => {
@@ -62,6 +64,21 @@ test('lead ingestion failure never becomes tracker-owned success', () => {
   assert.match(globalTracker, /form\.dataset\.acrOwner===['"]component['"]\)return/);
 });
 
+test('contact form preserves equivalent JSON and native form contracts', () => {
+  const form = read('app/contact-us/StandardContactForm.tsx');
+  const endpoint = read('app/api/contact/route.ts');
+  assert.match(form, /name="countryCode"/);
+  assert.match(form, /name="phoneLocal"/);
+  assert.match(form, /encoding === "form"/);
+  assert.match(form, /"Content-Type": "application\/json"/);
+  assert.match(endpoint, /contentType\.includes\('application\/json'\)/);
+  assert.match(endpoint, /contentType\.includes\('application\/x-www-form-urlencoded'\)/);
+  assert.match(endpoint, /text\(fields, 'countryCode'/);
+  assert.match(endpoint, /text\(fields, 'phoneLocal'/);
+  assert.match(endpoint, /NextResponse\.json\(\{ ok: true, redirect: '\/thank-you' \}\)/);
+  assert.match(endpoint, /NextResponse\.redirect\(new URL\('\/thank-you\?lead=accepted'/);
+});
+
 test('conversion routes and scheduler contract are explicit', () => {
   assert.ok(existsSync(new URL('../app/thanks-whats-next/page.tsx', import.meta.url)));
   const thankYou = read('app/thank-you/page.tsx');
@@ -69,8 +86,12 @@ test('conversion routes and scheduler contract are explicit', () => {
   assert.match(thankYou, /https:\/\/go\.oncehub\.com\/StealthAgentsTeam/);
   for (const source of [thankYou, nextSteps]) assert.match(source, /robots:\s*\{\s*index:\s*false,\s*follow:\s*false\s*\}/);
   const layout = read('app/layout.tsx');
+  const css = read('app/globals.css');
   assert.doesNotMatch(layout, /funnel_booking_confirmed|Booking Confirmed/);
   assert.match(layout, /funnel_next_steps_viewed/);
+  assert.match(css, /@media\(max-width:900px\)\{\.sa-booking-grid\{grid-template-columns:minmax\(0,1fr\)\}/);
+  assert.match(css, /\.sa-booking-grid>\*\{min-width:0\}/);
+  assert.match(css, /\.sa-oncehub-frame\{width:100%;max-width:100%;height:850px\}/);
 });
 
 test('ten service records expose complete deep-content fields and unique heroes', () => {
@@ -112,6 +133,9 @@ test('ten service records expose complete deep-content fields and unique heroes'
   }
 
   const template = read('app/services/[slug]/page.tsx');
+  const servicesIndex = read('app/services/page.tsx');
+  assert.doesNotMatch(servicesIndex, /padStart\(2\s*,\s*['"]0['"]\)/, 'service cards must not use decorative zero-padded numbering');
+  assert.doesNotMatch(servicesIndex, /String\(i\s*\+\s*1\)/, 'service cards must not render decorative index labels');
   assert.match(template, /service-longform/);
   assert.match(template, /service\.faq\.map/);
   assert.match(template, /['"]@type['"]:\s*['"]BreadcrumbList['"]/);
@@ -138,6 +162,7 @@ test('ten service records expose complete deep-content fields and unique heroes'
 });
 
 test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback', () => {
+  const blogLayout = read('app/blog/layout.tsx');
   const article = read('app/blog/[slug]/page.tsx');
   const css = read('app/globals.css');
   assert.match(article, /ArticleNavigation/);
@@ -158,6 +183,8 @@ test('blog articles generate anchored TOC, desktop sidebar, and mobile fallback'
   assert.match(css, /\.article-body h2\[id\]\{[^}]*scroll-margin-top:/);
   assert.match(css, /\.article-navigation-mobile\{display:none\}/);
   assert.match(css, /@media\(max-width:960px\)[^{]*\{[^]*?\.article-navigation-mobile\{display:block/);
+  assert.doesNotMatch(blogLayout, /BlogBanner|article-rotation-banner/, 'blog promotions must not render before the header or after the footer');
+  assert.match(blogLayout, /return children;/, 'blog layout must preserve child-owned header, main, and footer order');
 });
 
 test('SEO, host canonicalization, security headers, not-found, and punctuation sanitation exist', async () => {
@@ -165,7 +192,7 @@ test('SEO, host canonicalization, security headers, not-found, and punctuation s
   for (const header of ['Strict-Transport-Security', 'Content-Security-Policy', 'X-Content-Type-Options', 'Referrer-Policy', 'Permissions-Policy', 'X-Frame-Options', 'Cross-Origin-Opener-Policy', 'Cross-Origin-Resource-Policy']) {
     assert.match(configSource, new RegExp(header), `missing ${header}`);
   }
-  for (const directive of ['frame-ancestors', 'object-src', 'script-src', 'connect-src', 'https://acrtracking.stealthagents.us', 'https://go.oncehub.com']) {
+  for (const directive of ['frame-ancestors', 'object-src', 'script-src', 'connect-src', 'https://acrtracking.stealthagents.us', 'https://static.cloudflareinsights.com', 'https://cloudflareinsights.com', 'https://go.oncehub.com']) {
     assert.match(configSource, new RegExp(directive.replaceAll('/', '\\/')));
   }
   assert.match(configSource, /source: '\/thank-you'[\s\S]*withCsp\(true\)/);
@@ -251,7 +278,6 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
     ['app/page.tsx', '/'],
     ['app/blog/page.tsx', '/blog'],
     ['app/cancellation-policy/page.tsx', '/cancellation-policy'],
-    ['app/contact/page.tsx', '/contact'],
     ['app/privacy/page.tsx', '/privacy'],
     ['app/provider-vetting/page.tsx', '/provider-vetting'],
     ['app/research/page.tsx', '/research'],
@@ -269,6 +295,10 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
     );
   }
 
+  const redirectConfig = read('next.config.mjs');
+  assert.match(redirectConfig, /source: '\/contact', destination: '\/contact-us', permanent: true/);
+  assert.doesNotMatch(read('app/sitemap.ts'), /['"]\/contact['"]/);
+
   const home = read('app/page.tsx');
   assert.match(home, /title:\s*['"]Virtual Assistant Service Comparison Guide['"]/);
   assert.doesNotMatch(home, /Virtual Assistant Guides - Page/);
@@ -276,12 +306,22 @@ test('crawl metadata covers every index page and keeps pagination canonicalized'
   const pagination = read('app/blog/page/[page]/page.tsx');
   assert.match(pagination, /export async function generateMetadata/);
   assert.match(pagination, /title:\s*`Virtual Assistant Guides - Page \$\{n\}`/);
+  assert.match(pagination, /description:\s*blogPageDescription\(posts\)/);
   assert.match(pagination, /canonical:\s*n === 1 \? ["']\/blog["'] : `\/blog\/page\/\$\{n\}`/);
   assert.equal((pagination.match(/parseBlogPage\(page, pages\)/g) || []).length, 2);
   for (const invalid of ['foo', '0', '-1', '02', '2e0', '2.0', '9007199254740992']) assert.equal(parseBlogPage(invalid, 27), null, `${invalid} must be rejected`);
   assert.equal(parseBlogPage('1', 27), 1);
   assert.equal(parseBlogPage('27', 27), 27);
   assert.equal(parseBlogPage('28', 27), null);
+  const paginationDescriptions = [
+    blogPageDescription([{ title: 'Client Intake Evidence Review' }]),
+    blogPageDescription([{ title: 'Calendar Capacity Planning' }]),
+  ];
+  assert.equal(new Set(paginationDescriptions).size, paginationDescriptions.length);
+  assert.ok(paginationDescriptions.every((description) => description.length <= 160));
+  const vetting = read('app/provider-vetting/page.tsx');
+  assert.match(vetting, /<h2>\{s\.title\}<\/h2>/);
+  assert.doesNotMatch(vetting, /<h3>\{s\.title\}<\/h3>/);
 });
 
 test('cancellation and stale research URLs permanently redirect without chains', async () => {

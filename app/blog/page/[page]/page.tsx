@@ -5,7 +5,7 @@ import { Header, Footer } from "../../../components";
 import { site } from "../../../data";
 import { allBlogPosts } from "../../../content-library";
 import { postsPerPage } from "../../../fleet-data";
-import { parseBlogPage } from "./pagination.mjs";
+import { blogPageDescription, parseBlogPage } from "./pagination.mjs";
 
 type BlogPageProps = {
   params: Promise<{ page: string }>;
@@ -21,9 +21,11 @@ export async function generateMetadata({ params }: BlogPageProps): Promise<Metad
   const pages = Math.max(1, Math.ceil(allBlogPosts.length / postsPerPage));
   const n = parseBlogPage(page, pages);
   if (n === null) notFound();
+  const posts = allBlogPosts.slice((n - 1) * postsPerPage, n * postsPerPage);
 
   return {
     title: `Virtual Assistant Guides - Page ${n}`,
+    description: blogPageDescription(posts),
     alternates: { canonical: n === 1 ? "/blog" : `/blog/page/${n}` },
   };
 }
@@ -53,8 +55,11 @@ export default async function BlogPage({
           <div className="container fleet-service-grid">
             {posts.map((p) => (
               <a className="card" href={`/blog/${p.slug}`} key={p.slug}>
+                <img src={p.featuredImage} alt={`Illustration for ${p.title}`} width="1200" height="630" loading="lazy" />
                 <h2>{p.title}</h2>
                 <p>{p.excerpt}</p>
+                {p.published ? <time dateTime={p.published}>Published {new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(`${p.published}T00:00:00Z`))}</time> : null}
+                <span>{p.minutes} min read</span>
                 <b>Read article →</b>
               </a>
             ))}

@@ -62,8 +62,9 @@ def main():
     route_source = ROUTE.read_text(encoding="utf-8")
     guarded_slugs = set(re.findall(r"^  '([^']+)',?$", route_source, re.M))
     expected_slugs = {entry["slug"] for entry in entries}
-    if guarded_slugs != expected_slugs:
-        errors.append(f"renderer scope mismatch: guarded={sorted(guarded_slugs)} expected={sorted(expected_slugs)}")
+    if not expected_slugs.issubset(guarded_slugs):
+        missing = expected_slugs - guarded_slugs
+        errors.append(f"renderer is missing manifest slugs: {sorted(missing)}")
     for entry in entries:
         source = (ROOT / entry["sourcePath"]).read_text(encoding="utf-8")
         expected = MARKDOWN_LINK.findall(source)

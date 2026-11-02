@@ -75,7 +75,7 @@ The sources describe frameworks and broad working conditions. They do not predic
 
 ## Related research
 
-Read [inventory tracking controls](/research/virtual-assistant-inventory-tracking-controls) and [spreadsheet review queues](/research/virtual-assistant-spreadsheet-review-queues) for adjacent evidence and control questions.
+Read [inventory tracking controls](/research/virtual-assistant-inventory-tracking-controls) and [spreadsheet review queues](/research) for adjacent evidence and control questions.
 
 ## Sources
 

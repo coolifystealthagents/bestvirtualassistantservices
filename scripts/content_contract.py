@@ -69,6 +69,17 @@ def main():
     blog_entries.sort(key=lambda x: (parse_frontmatter(ROOT / x["path"])[0].get("publishedAt", "") or ""), reverse=True)
     research_entries = sorted((entry for entry in entries if entry["type"] == "research"), key=lambda x: x["slug"])
     entries = blog_entries + research_entries
+    excerpt_groups = {}
+    for entry in entries:
+        fm, _ = parse_frontmatter(ROOT / entry["path"])
+        excerpt = str(fm.get("excerpt", "")).strip()
+        if len(excerpt) > 200:
+            errors.append(f'{ROOT / entry["path"]}: excerpt exceeds 200 characters')
+        normalized = re.sub(r"\s+", " ", excerpt).casefold()
+        excerpt_groups.setdefault(normalized, []).append(entry["path"])
+    for normalized, paths in excerpt_groups.items():
+        if normalized and len(paths) > 1:
+            errors.append(f"duplicate excerpt across canonical content: {', '.join(paths)}")
     if args.write_index:
         INDEX.write_text(json.dumps({"version": 1, "generatedBy": "scripts/content_contract.py", "posts": entries}, indent=2) + "\n", encoding="utf-8")
     if errors:

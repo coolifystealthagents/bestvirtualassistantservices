@@ -99,7 +99,7 @@ The sources describe frameworks and broad working conditions. They do not predic
 
 ## Related research
 
-Read [ecommerce product catalog](/research/virtual-assistant-ecommerce-product-catalog) and [ecommerce order escalation](/research/virtual-assistant-ecommerce-order-escalation) for adjacent evidence and control questions.
+Read [ecommerce product catalog](/services/ecommerce-operations-assistance) and [ecommerce order escalation](/research/virtual-assistant-ecommerce-order-escalation) for adjacent evidence and control questions.
 
 ## Sources
 

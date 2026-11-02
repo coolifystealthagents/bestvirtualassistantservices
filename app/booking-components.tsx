@@ -2,6 +2,7 @@ import proof from '../content/stealth-agents-proof.json';
 
 export function TestimonialsRail({ contact = false }: { contact?: boolean }) {
   const headingId = contact ? 'contact-client-reviews' : 'booking-client-reviews';
+  const movingReviews = [...proof.reviews, ...proof.reviews];
   return (
     <section className={`sa-testimonials${contact ? ' sa-testimonials-contact' : ''}`} aria-labelledby={headingId}>
       <div className="sa-testimonial-heading">
@@ -9,8 +10,8 @@ export function TestimonialsRail({ contact = false }: { contact?: boolean }) {
       </div>
       <div className="sa-testimonial-viewport" tabIndex={0} aria-label="Client testimonial marquee">
         <div className="sa-testimonial-track">
-          {proof.reviews.map((review, index) => (
-            <article className="sa-testimonial-card" key={review.name} style={{ '--review-index': index } as React.CSSProperties}>
+          {movingReviews.map((review, index) => (
+            <article className="sa-testimonial-card" key={`${review.name}-${index}`} aria-hidden={index >= proof.reviews.length ? true : undefined} style={{ '--review-index': index } as React.CSSProperties}>
               <div className="sa-testimonial-stars" aria-label="5 out of 5 stars"><span aria-hidden="true">★★★★★</span></div>
               <blockquote>“{review.quote}”</blockquote>
               <p><cite>{review.name}</cite></p>

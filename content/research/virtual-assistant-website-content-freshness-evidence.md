@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [website content freshness review](/research/website-content-freshness-evidence) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [website content freshness review](/research) and [provider vetting guide](/provider-vetting) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

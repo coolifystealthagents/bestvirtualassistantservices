@@ -91,7 +91,7 @@ This research design is diagnostic. It can reveal missing evidence and unclear a
 
 ## Related research
 
-Read [calendar time-zone ambiguity](/research/calendar-time-zone-error-cost) and [research briefs](/research) for adjacent evidence and role-boundary questions.
+Read [calendar time-zone ambiguity](/services/executive-calendar-management) and [research briefs](/research) for adjacent evidence and role-boundary questions.
 
 ## Sources
 

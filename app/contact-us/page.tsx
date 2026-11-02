@@ -23,7 +23,7 @@ export default function ContactUsPage() {
     </div></section>
     <section className="official-team"><div className="contact-shell official-team-grid">
       <figure><img src="/brand/stealth-agents-team-bacolod.png" alt="Stealth Agents team photo" width="953" height="540" /><figcaption>Official Stealth Agents team image</figcaption></figure>
-      <div className="official-team-copy"><div className="official-logo-plate"><img src="/brand/stealth-agents-logo-black.png" alt="Stealth Agents" width="149" height="50" /></div><p className="contact-kicker">First party team image</p><h2>An official image from the staffing provider.</h2><p>This official photo and logo come from the Stealth Agents website. Contact form details are sent to Stealth Agents so its staffing team can respond about role fit and next steps.</p><a className="btn primary" href="/services">Review services</a></div>
+      <div className="official-team-copy"><div className="official-logo-plate"><img src="/brand/stealth-agents-logo-black.png" alt="Stealth Agents" width="149" height="50" /><span>Official team, Bacolod</span></div><p className="contact-kicker">First party team image</p><h2>An official image from the staffing provider.</h2><p>This official photo and logo come from the Stealth Agents website. Contact form details are sent to Stealth Agents so its staffing team can respond about role fit and next steps.</p><a className="btn primary" href="/services">Review services</a></div>
     </div></section>
   </main><Footer /></>;
 }

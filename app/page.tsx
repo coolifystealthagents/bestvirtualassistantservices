@@ -16,7 +16,7 @@ export default function Home() {
     '@type': 'WebSite',
     name: site.brand,
     url: site.url,
-    description: 'Independent guides for comparing Philippines-based virtual assistant services, support models, and provider fit.',
+    description: 'Guides for comparing Philippines-based virtual assistant services, support models, and provider fit.',
   };
 
   return <>
@@ -28,14 +28,14 @@ export default function Home() {
         <div className="hero-rule" aria-hidden="true" />
         <div className="container research-hero-grid">
           <div className="research-copy">
-            <p className="issue-label"><span>Independent buyer's guide</span><span>Philippines-only talent</span></p>
+            <p className="issue-label"><span>Virtual assistant buyer's guide</span><span>Philippines-only talent</span></p>
             <h1>Compare Filipino virtual assistant services with a clearer scorecard.</h1>
             <p className="research-lead">Start with the role, not a sales pitch. Use the same questions to compare managed services, specialist teams, and freelance Filipino assistants.</p>
             <div className="actions">
               <a className="btn primary" href="/contact-us">Build my Filipino VA shortlist</a>
               <a className="text-action" href="/compare">Compare service models <span aria-hidden="true">↗</span></a>
             </div>
-            <p className="cta-note">Every staffing path on this site recruits in the Philippines. The intake asks about the role, tools, schedule, and review needs before a Filipino staffing partner follows up.</p>
+            <p className="cta-note">Every staffing path on this site recruits in the Philippines. Contact requests are shared with Stealth Agents, the staffing provider that powers this site, for follow up about the role, tools, schedule, and review needs.</p>
             <div className="planning-notes" aria-label="Planning guidance">
               <div><strong>PH</strong><span>only recruiting market</span></div>
               <div><strong>4</strong><span>service models compared</span></div>
@@ -71,12 +71,11 @@ export default function Home() {
 
       <section className="container editorial-section" id="models">
         <div className="section-intro">
-          <div><p className="section-number">01 / Service models</p><h2>Four ways to get help. Four very different jobs for you.</h2></div>
+          <div><p className="section-number">Service models</p><h2>Four ways to get help. Four very different jobs for you.</h2></div>
           <p>The cheapest quote can still be the most work. Compare who screens, trains, reviews, and steps in when the first match falls through.</p>
         </div>
         <div className="model-list">
           {comparisonRows.map((row, index) => <article className="model-row" key={row.option}>
-            <div className="model-count">{String(index + 1).padStart(2, '0')}</div>
             <div className="model-name"><p>{index === 1 ? 'Lower owner load' : index === 2 ? 'Role-specific support' : index === 0 ? 'Direct management' : 'In-house context'}</p><h3>{modelLabel(row.option)}</h3></div>
             <div className="model-fit"><span>Good fit when</span><p>{row.bestFor}</p></div>
             <div className="model-question"><span>Ask before signing</span><p>{row.ask}</p></div>
@@ -88,7 +87,7 @@ export default function Home() {
       <section className="scorecard-section">
         <div className="container scorecard-grid">
           <div className="scorecard-copy">
-            <p className="section-number light">02 / Shortlist scorecard</p>
+            <p className="section-number light">Shortlist scorecard</p>
             <h2>Make the provider earn the shortlist.</h2>
             <p>Use the same questions in every call. A polished intro means less than clear answers about screening, supervision, access, and replacement support.</p>
             <img src="/illustrations/getillustrations/goodle-team-illustrations-svg/provider-scorecard-review.svg" alt="Provider scorecard review workflow" style={{ width: '100%', maxWidth: 360, marginTop: '1.5rem' }} loading="lazy" />
@@ -107,12 +106,12 @@ export default function Home() {
 
       <section className="container editorial-section launch-section">
         <div className="section-intro compact">
-          <div><p className="section-number">03 / First week</p><h2>Test the handoff with a small piece of real work.</h2></div>
+          <div><p className="section-number">First week</p><h2>Test the handoff with a small piece of real work.</h2></div>
           <p>Use real work, keep access narrow, and review at the same time each day. You are testing the handoff as much as the assistant.</p>
         </div>
         <div className="steps-grid">
           {vettingSteps.map((step, index) => <article key={step.title}>
-            <span>{String(index + 1).padStart(2, '0')}</span>
+            <span>Step {index + 1}</span>
             <h3>{step.title}</h3>
             <p>{step.text}</p>
           </article>)}
@@ -121,7 +120,7 @@ export default function Home() {
 
       <section className="reading-room">
         <div className="container">
-          <div className="reading-head"><div><p className="section-number light">04 / Reading room</p><h2>Do the homework before the sales call.</h2></div><a href="/blog">Browse all guides →</a></div>
+          <div className="reading-head"><div><p className="section-number light">Reading room</p><h2>Do the homework before the sales call.</h2></div><a href="/blog">Browse all guides →</a></div>
           {researchPosts[0] ? <a className="featured-report" href={`/research/${researchPosts[0].slug}`}>
             <div>
               <span className="featured-report-label">New Philippines evidence report</span>
@@ -137,7 +136,7 @@ export default function Home() {
           </a> : null}
           <div className="article-grid">
             {blogPosts.slice(0, 3).map((post, index) => <a href={`/blog/${post.slug}`} key={post.slug}>
-              <span>{String(index + 1).padStart(2, '0')} · {post.minutes} min read</span>
+              <span>{post.minutes} min read</span>
               <h3>{post.title}</h3>
               <p>{post.excerpt}</p>
               <b>Read guide ↗</b>
@@ -147,7 +146,7 @@ export default function Home() {
       </section>
 
       <section className="container faq-section">
-        <div><p className="section-number">05 / Common questions</p><h2>Answers without the pitch.</h2></div>
+        <div><p className="section-number">Common questions</p><h2>Answers without the pitch.</h2></div>
         <div className="faq-list">
           {faqs.map((faq, index) => <details key={faq.q} open={index === 0}>
             <summary>{faq.q}<span>+</span></summary>
@@ -158,7 +157,7 @@ export default function Home() {
 
       <section className="container shortlist-cta">
         <div><p className="section-number">A useful next step</p><h2>Bring the task list. Leave with a sharper shortlist.</h2></div>
-        <div><p>Tell us what repeats, which tools are involved, and where mistakes would hurt. We will help narrow the service model before you start interviewing.</p><a className="btn primary" href="/contact-us">Build my shortlist</a></div>
+        <div><p>Tell us what repeats, which tools are involved, and where mistakes would hurt. Stealth Agents, the staffing provider that powers this site, will follow up to discuss the service model before you start interviewing.</p><a className="btn primary" href="/contact-us">Build my shortlist</a></div>
       </section>
     </main>
     <Footer />
