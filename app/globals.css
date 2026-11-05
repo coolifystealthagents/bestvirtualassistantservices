@@ -424,3 +424,13 @@ body{overflow-x:clip}
 .article-body .article-card p{margin:0 0 1.1em;font-size:17px;line-height:1.7}
 .article-body .article-prose{display:block}
 .article-navigation-list a{font-size:14px;line-height:1.45}
+
+/* 2026-11-05 repair: one collapsible mobile ToC */
+.research-mobile-toc{display:none}
+@media(max-width:900px){
+  .research-mobile-toc{display:block;margin:0 0 1.2rem;border:1px solid #ddd;border-radius:12px;background:#fff;padding:.4rem 1rem}
+  .research-mobile-toc summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:800}
+  .research-mobile-toc nav{display:grid;gap:.15rem;padding:.2rem 0 .6rem}
+  .research-mobile-toc a{padding:.5rem 0;border-top:1px solid #eee;font-size:.9rem}
+  .research-report-layout .research-toc{display:none}
+}

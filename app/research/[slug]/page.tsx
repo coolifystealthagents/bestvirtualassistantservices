@@ -164,6 +164,7 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
           </div>
         </section>
 
+        <details className="research-mobile-toc"><summary>On this page</summary><nav aria-label="On this page mobile"><a href="#evidence">Evidence</a><a href="#comparison-table">Data table</a><a href="#buyer-method">Buyer method</a><a href="#security">Data safety</a><a href="#cost">Cost</a><a href="#launch">30-day launch</a><a href="#methodology">Method and limits</a><a href="#faq">FAQs</a><a href="#sources">Sources</a></nav></details>
         <div className="container research-report-layout">
           <aside className="research-toc sticky" aria-label="On this page">
             <strong>On this page</strong>
