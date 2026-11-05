@@ -35,7 +35,7 @@ function articleBody(file: string) {
   const parts = text.split(/^##\s+/m).filter(Boolean);
   return parts.map((part) => {
     const lines = part.split('\n');
-    return { heading: lines.shift()?.trim() || 'Article guide', body: lines.join(' ').replace(/^#+\s+/gm, '').trim() };
+    return { heading: lines.shift()?.trim() || 'Overview', body: lines.join(' ').replace(/^#+\s+/gm, '').trim() };
   });
 }
 
