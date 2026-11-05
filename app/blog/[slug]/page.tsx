@@ -79,7 +79,7 @@ const october2RenderedLinkSlugs = new Set([
 ]);
 
 function ArticleHtml({ html, renderLinks }: { html: string; renderLinks: boolean }) {
-  return <p dangerouslySetInnerHTML={{ __html: renderLinks ? renderArticleLinks(html) : html }} />;
+  return <div className="article-prose">{html.split(/\n\s*\n/).filter(Boolean).map((para, index) => <p key={index} dangerouslySetInnerHTML={{ __html: renderLinks ? renderArticleLinks(para) : para }} />)}</div>;
 }
 
 const publicationDateFormatter = new Intl.DateTimeFormat('en-US', {

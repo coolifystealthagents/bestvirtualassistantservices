@@ -35,7 +35,7 @@ function articleBody(file: string) {
   const parts = text.split(/^##\s+/m).filter(Boolean);
   return parts.map((part) => {
     const lines = part.split('\n');
-    return { heading: lines.shift()?.trim() || 'Overview', body: lines.join(' ').replace(/^#+\s+/gm, '').trim() };
+    return { heading: lines.shift()?.trim() || 'Overview', body: lines.join('\n').replace(/^#+\s+/gm, '').trim() };
   });
 }
 
@@ -83,7 +83,7 @@ export const publishedContentResearchPosts: ResearchPost[] = indexed.filter((ite
   return {
     slug: item.slug, title: item.title, excerpt: fm.excerpt || 'A source-backed virtual assistant research brief.', published: fm.publishedAt || '2026-08-07', modified: fm.updatedAt || fm.publishedAt || '2026-08-07', readingMinutes: Number.parseInt(fm.readingTime || '8', 10), revision: `${fm.updatedAt || '2026-08-07'}-${item.slug}`,
     keyTakeaways: ['Document the method and source of truth.', 'Separate observations from owner decisions.', 'Record exceptions and review points.'], stats: [{ value: fm.sourceCount || '10', label: 'Direct sources', note: 'Sources listed in the published brief.', citation: 1 }],
-    sections: body.map((section) => ({ heading: section.heading, paragraphs: [{ text: section.body }] })), comparisonTable: { caption: 'Workflow controls', headers: ['Check', 'Action'], rows: [['Source', 'Verify the evidence before summarizing']] }, methodology: [{ text: 'This brief uses the sources listed in the published article and makes its limits visible.' }], faq: [], relatedLinks: relatedSlugs.map((slug) => ({ title: indexed.find((candidate) => candidate.slug === slug)?.title || slug.replaceAll('-', ' '), description: 'Continue with a related source-backed service study.', href: `/research/${slug}` })), sources, thumbnail: item.featuredImage,
+    sections: body.map((section) => ({ heading: section.heading, paragraphs: section.body.split(/\n\s*\n/).filter(Boolean).map((text) => ({ text })) })), comparisonTable: { caption: 'Workflow controls', headers: ['Check', 'Action'], rows: [['Source', 'Verify the evidence before summarizing']] }, methodology: [{ text: 'This brief uses the sources listed in the published article and makes its limits visible.' }], faq: [], relatedLinks: relatedSlugs.map((slug) => ({ title: indexed.find((candidate) => candidate.slug === slug)?.title || slug.replaceAll('-', ' '), description: 'Continue with a related source-backed service study.', href: `/research/${slug}` })), sources, thumbnail: item.featuredImage,
   };
 });
 
