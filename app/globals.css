@@ -419,3 +419,8 @@ body{overflow-x:clip}
   .research-report-layout{display:block}
   .research-toc{position:sticky;top:78px;z-index:40;max-height:55vh;overflow:auto;background:var(--paper,#fbf8f1);padding:16px}
 }
+.article-body .article-card{background:transparent;border:0;box-shadow:none;border-radius:0;padding:0;margin:0 0 2rem;overflow:visible}
+.article-body .article-card h2{margin-top:1.8em;margin-bottom:.65em}
+.article-body .article-card p{margin:0 0 1.1em;font-size:17px;line-height:1.7}
+.article-body .article-prose{display:block}
+.article-navigation-list a{font-size:14px;line-height:1.45}
