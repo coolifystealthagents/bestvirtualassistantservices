@@ -4,57 +4,113 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-december-review",
+      "title": "Build an exception code list the onboarding plan team will use for the December review",
+      "path": "content/blog/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-december-review",
+      "title": "Cut rework at the service agreement handoff with a two-field check for the December review",
+      "path": "content/blog/cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-december-review",
+      "title": "Keep client intake queue evidence durable when the systems change for the December review",
+      "path": "content/blog/keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "map-the-client-intake-decision-to-one-accountable-owner-for-the-december-review",
+      "title": "Map the client intake decision to one accountable owner for the December review",
+      "path": "content/blog/map-the-client-intake-decision-to-one-accountable-owner-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/map-the-client-intake-decision-to-one-accountable-owner-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-december-review",
+      "title": "Prepare role scorecard queue work for month-end without a scramble for the December review",
+      "path": "content/blog/prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-december-review",
+      "title": "Resolve a conflicting coverage plan record without erasing history for the December review",
+      "path": "content/blog/resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "sample-quality-sample-quality-weekly-not-only-volume-for-the-december-review",
+      "title": "Sample quality sample quality weekly, not only volume for the December review",
+      "path": "content/blog/sample-quality-sample-quality-weekly-not-only-volume-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/sample-quality-sample-quality-weekly-not-only-volume-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-december-review",
+      "title": "Write the role scorecard intake note that survives a later review for the December review",
+      "path": "content/blog/write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-december-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-november-review",
-      "title": "Build an exception code list the onboarding plan team will use for the November review for the November review",
+      "title": "Build an exception code list the onboarding plan team will use for the November review",
       "path": "content/blog/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-november-review.mdx",
       "featuredImage": "/blog/images/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-november-review",
-      "title": "Cut rework at the service agreement handoff with a two-field check for the November review for the November review",
+      "title": "Cut rework at the service agreement handoff with a two-field check for the November review",
       "path": "content/blog/cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-november-review.mdx",
       "featuredImage": "/blog/images/cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-november-review",
-      "title": "Keep client intake queue evidence durable when the systems change for the November review for the November review",
+      "title": "Keep client intake queue evidence durable when the systems change for the November review",
       "path": "content/blog/keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-november-review.mdx",
       "featuredImage": "/blog/images/keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "map-the-client-intake-decision-to-one-accountable-owner-for-the-november-review",
-      "title": "Map the client intake decision to one accountable owner for the November review for the November review",
+      "title": "Map the client intake decision to one accountable owner for the November review",
       "path": "content/blog/map-the-client-intake-decision-to-one-accountable-owner-for-the-november-review.mdx",
       "featuredImage": "/blog/images/map-the-client-intake-decision-to-one-accountable-owner-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-november-review",
-      "title": "Prepare role scorecard queue work for month-end without a scramble for the November review for the November review",
+      "title": "Prepare role scorecard queue work for month-end without a scramble for the November review",
       "path": "content/blog/prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-november-review.mdx",
       "featuredImage": "/blog/images/prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-november-review",
-      "title": "Resolve a conflicting coverage plan record without erasing history for the November review for the November review",
+      "title": "Resolve a conflicting coverage plan record without erasing history for the November review",
       "path": "content/blog/resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-november-review.mdx",
       "featuredImage": "/blog/images/resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "sample-quality-sample-quality-weekly-not-only-volume-for-the-november-review",
-      "title": "Sample quality sample quality weekly, not only volume for the November review for the November review",
+      "title": "Sample quality sample quality weekly, not only volume for the November review",
       "path": "content/blog/sample-quality-sample-quality-weekly-not-only-volume-for-the-november-review.mdx",
       "featuredImage": "/blog/images/sample-quality-sample-quality-weekly-not-only-volume-for-the-november-review.webp"
     },
     {
       "type": "blog",
       "slug": "write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-november-review",
-      "title": "Write the role scorecard intake note that survives a later review for the November review for the November review",
+      "title": "Write the role scorecard intake note that survives a later review for the November review",
       "path": "content/blog/write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-november-review.mdx",
       "featuredImage": "/blog/images/write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-november-review.webp"
     },
@@ -4834,8 +4890,15 @@
     },
     {
       "type": "research",
+      "slug": "can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review",
+      "title": "Can the quality sample report be reproduced from its sources? for the December review",
+      "path": "content/research/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-november-review",
-      "title": "Can the quality sample report be reproduced from its sources? for the November review for the November review",
+      "title": "Can the quality sample report be reproduced from its sources? for the November review",
       "path": "content/research/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-november-review.mdx",
       "featuredImage": "/blog/images/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-november-review.webp"
     },
@@ -4883,29 +4946,57 @@
     },
     {
       "type": "research",
+      "slug": "how-complete-is-the-evidence-in-the-client-intake-record-for-the-december-review",
+      "title": "How complete is the evidence in the client intake record? for the December review",
+      "path": "content/research/how-complete-is-the-evidence-in-the-client-intake-record-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/how-complete-is-the-evidence-in-the-client-intake-record-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-complete-is-the-evidence-in-the-client-intake-record-for-the-november-review",
-      "title": "How complete is the evidence in the client intake record? for the November review for the November review",
+      "title": "How complete is the evidence in the client intake record? for the November review",
       "path": "content/research/how-complete-is-the-evidence-in-the-client-intake-record-for-the-november-review.mdx",
       "featuredImage": "/blog/images/how-complete-is-the-evidence-in-the-client-intake-record-for-the-november-review.webp"
     },
     {
       "type": "research",
+      "slug": "how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-december-review",
+      "title": "How many client intake queue exceptions lack a reversible record? for the December review",
+      "path": "content/research/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-november-review",
-      "title": "How many client intake queue exceptions lack a reversible record? for the November review for the November review",
+      "title": "How many client intake queue exceptions lack a reversible record? for the November review",
       "path": "content/research/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-november-review.mdx",
       "featuredImage": "/blog/images/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-november-review.webp"
     },
     {
       "type": "research",
+      "slug": "how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-december-review",
+      "title": "How old are the exceptions in the service agreement queue? for the December review",
+      "path": "content/research/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-november-review",
-      "title": "How old are the exceptions in the service agreement queue? for the November review for the November review",
+      "title": "How old are the exceptions in the service agreement queue? for the November review",
       "path": "content/research/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-november-review.mdx",
       "featuredImage": "/blog/images/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-november-review.webp"
     },
     {
       "type": "research",
+      "slug": "how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-december-review",
+      "title": "How reproducible is the onboarding plan report from its source extracts? for the December review",
+      "path": "content/research/how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-november-review",
-      "title": "How reproducible is the onboarding plan report from its source extracts? for the November review for the November review",
+      "title": "How reproducible is the onboarding plan report from its source extracts? for the November review",
       "path": "content/research/how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-november-review.mdx",
       "featuredImage": "/blog/images/how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-november-review.webp"
     },
@@ -6696,15 +6787,29 @@
     },
     {
       "type": "research",
+      "slug": "what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-december-review",
+      "title": "What happens to coverage plan coverage when the owner is away? for the December review",
+      "path": "content/research/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-november-review",
-      "title": "What happens to coverage plan coverage when the owner is away? for the November review for the November review",
+      "title": "What happens to coverage plan coverage when the owner is away? for the November review",
       "path": "content/research/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-november-review.mdx",
       "featuredImage": "/blog/images/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-november-review.webp"
     },
     {
       "type": "research",
+      "slug": "where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-december-review",
+      "title": "Where does delay accumulate in the role scorecard handoff? for the December review",
+      "path": "content/research/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-december-review.mdx",
+      "featuredImage": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-december-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review",
-      "title": "Where does delay accumulate in the role scorecard handoff? for the November review for the November review",
+      "title": "Where does delay accumulate in the role scorecard handoff? for the November review",
       "path": "content/research/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.mdx",
       "featuredImage": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.webp"
     }
