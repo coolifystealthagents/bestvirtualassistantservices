@@ -58,6 +58,7 @@ const october2RenderedLinkSlugs = new Set([
   'virtual-assistant-scope-change-control',
   'virtual-assistant-communication-cadence-plan',
   'virtual-assistant-time-zone-coverage-design',
+  'virtual-assistant-travel-planning-brief',
   'virtual-assistant-access-provisioning-checklist',
   'virtual-assistant-performance-review-scorecard',
   'virtual-assistant-invoice-verification-guide',
