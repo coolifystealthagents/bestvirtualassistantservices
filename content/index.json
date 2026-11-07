@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "build-a-trial-task-scorecard-that-separates-skill-from-coaching-for-the-winter-planning-review",
+      "title": "Build a trial-task scorecard that separates skill from coaching for the winter planning review",
+      "path": "content/blog/build-a-trial-task-scorecard-that-separates-skill-from-coaching-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/build-a-trial-task-scorecard-that-separates-skill-from-coaching-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "decide-which-va-tasks-need-a-second-reviewer-for-the-winter-planning-review",
+      "title": "Decide which VA tasks need a second reviewer for the winter planning review",
+      "path": "content/blog/decide-which-va-tasks-need-a-second-reviewer-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/decide-which-va-tasks-need-a-second-reviewer-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "design-a-quality-sample-for-written-client-updates-for-the-winter-planning-review",
+      "title": "Design a quality sample for written client updates for the winter planning review",
+      "path": "content/blog/design-a-quality-sample-for-written-client-updates-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/design-a-quality-sample-for-written-client-updates-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "keep-a-client-facing-status-page-tied-to-the-delivery-record-for-the-winter-planning-review",
+      "title": "Keep a client-facing status page tied to the delivery record for the winter planning review",
+      "path": "content/blog/keep-a-client-facing-status-page-tied-to-the-delivery-record-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/keep-a-client-facing-status-page-tied-to-the-delivery-record-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "record-a-scope-change-without-rewriting-the-service-agreement-for-the-winter-planning-review",
+      "title": "Record a scope change without rewriting the service agreement for the winter planning review",
+      "path": "content/blog/record-a-scope-change-without-rewriting-the-service-agreement-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/record-a-scope-change-without-rewriting-the-service-agreement-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "set-a-weekly-capacity-check-for-a-managed-va-team-for-the-winter-planning-review",
+      "title": "Set a weekly capacity check for a managed VA team for the winter planning review",
+      "path": "content/blog/set-a-weekly-capacity-check-for-a-managed-va-team-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/set-a-weekly-capacity-check-for-a-managed-va-team-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "track-time-zone-coverage-without-overloading-one-assistant-for-the-winter-planning-review",
+      "title": "Track time-zone coverage without overloading one assistant for the winter planning review",
+      "path": "content/blog/track-time-zone-coverage-without-overloading-one-assistant-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/track-time-zone-coverage-without-overloading-one-assistant-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "write-the-va-handover-note-that-survives-a-replacement-for-the-winter-planning-review",
+      "title": "Write the VA handover note that survives a replacement for the winter planning review",
+      "path": "content/blog/write-the-va-handover-note-that-survives-a-replacement-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/write-the-va-handover-note-that-survives-a-replacement-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "blog",
       "slug": "build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-december-review",
       "title": "Build an exception code list the onboarding plan team will use for the December review",
       "path": "content/blog/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-december-review.mdx",
@@ -4890,6 +4946,13 @@
     },
     {
       "type": "research",
+      "slug": "can-a-va-replacement-handover-be-reconstructed-from-its-sources-for-the-winter-planning-review",
+      "title": "Can a VA replacement handover be reconstructed from its sources? for the winter planning review",
+      "path": "content/research/can-a-va-replacement-handover-be-reconstructed-from-its-sources-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/can-a-va-replacement-handover-be-reconstructed-from-its-sources-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review",
       "title": "Can the quality sample report be reproduced from its sources? for the December review",
       "path": "content/research/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review.mdx",
@@ -4908,6 +4971,20 @@
       "title": "Customer Account Change Registers by Virtual Assistants",
       "path": "content/research/customer-account-change-register.md",
       "featuredImage": "/blog/images/virtual-assistant-customer-feedback-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "do-written-client-updates-match-the-delivery-record-for-the-winter-planning-review",
+      "title": "Do written client updates match the delivery record? for the winter planning review",
+      "path": "content/research/do-written-client-updates-match-the-delivery-record-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/do-written-client-updates-match-the-delivery-record-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "does-the-client-status-page-match-the-delivery-record-for-the-winter-planning-review",
+      "title": "Does the client status page match the delivery record? for the winter planning review",
+      "path": "content/research/does-the-client-status-page-match-the-delivery-record-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/does-the-client-status-page-match-the-delivery-record-for-the-winter-planning-review.webp"
     },
     {
       "type": "research",
@@ -4960,6 +5037,13 @@
     },
     {
       "type": "research",
+      "slug": "how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review",
+      "title": "How complete is the trial-task scorecard before a placement decision? for the winter planning review",
+      "path": "content/research/how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-december-review",
       "title": "How many client intake queue exceptions lack a reversible record? for the December review",
       "path": "content/research/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-december-review.mdx",
@@ -4971,6 +5055,27 @@
       "title": "How many client intake queue exceptions lack a reversible record? for the November review",
       "path": "content/research/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-november-review.mdx",
       "featuredImage": "/blog/images/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-november-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-many-va-tasks-bypass-the-second-reviewer-rule-for-the-winter-planning-review",
+      "title": "How many VA tasks bypass the second-reviewer rule? for the winter planning review",
+      "path": "content/research/how-many-va-tasks-bypass-the-second-reviewer-rule-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/how-many-va-tasks-bypass-the-second-reviewer-rule-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review",
+      "title": "How often do scope changes lack a dated approval? for the winter planning review",
+      "path": "content/research/how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review",
+      "title": "How old are open capacity exceptions in a managed VA team? for the winter planning review",
+      "path": "content/research/how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review.mdx",
+      "featuredImage": "/blog/images/how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review.webp"
     },
     {
       "type": "research",
