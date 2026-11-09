@@ -31,7 +31,9 @@ function frontMatter(file: string): Record<string, string> {
 }
 
 function articleBody(file: string) {
-  const text = fs.readFileSync(path.join(process.cwd(), file), 'utf8').replace(/^---[\s\S]*?---\n?/, '');
+  const text = fs.readFileSync(path.join(process.cwd(), file), 'utf8')
+    .replace(/^---[\s\S]*?---\n?/, '')
+    .replace(/^\s*#\s+.*$/m, '');
   const parts = text.split(/^##\s+/m).filter(Boolean);
   return parts.map((part) => {
     const lines = part.split('\n');
