@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave",
+      "title": "Build a coverage plan for a virtual assistant's planned leave",
+      "path": "content/blog/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave.mdx",
+      "featuredImage": "/blog/images/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "decide-when-a-virtual-assistant-task-needs-a-second-reviewer",
+      "title": "Decide when a virtual assistant task needs a second reviewer",
+      "path": "content/blog/decide-when-a-virtual-assistant-task-needs-a-second-reviewer.mdx",
+      "featuredImage": "/blog/images/decide-when-a-virtual-assistant-task-needs-a-second-reviewer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "keep-a-client-update-note-that-survives-a-shift-change",
+      "title": "Keep a client update note that survives a shift change",
+      "path": "content/blog/keep-a-client-update-note-that-survives-a-shift-change.mdx",
+      "featuredImage": "/blog/images/keep-a-client-update-note-that-survives-a-shift-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review",
+      "title": "Prepare a virtual assistant onboarding week that ends in a review",
+      "path": "content/blog/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review.mdx",
+      "featuredImage": "/blog/images/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "record-a-client-request-without-losing-the-original-scope",
+      "title": "Record a client request without losing the original scope",
+      "path": "content/blog/record-a-client-request-without-losing-the-original-scope.mdx",
+      "featuredImage": "/blog/images/record-a-client-request-without-losing-the-original-scope.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "screen-a-virtual-assistant-with-a-written-handoff-exercise",
+      "title": "Screen a virtual assistant with a written handoff exercise",
+      "path": "content/blog/screen-a-virtual-assistant-with-a-written-handoff-exercise.mdx",
+      "featuredImage": "/blog/images/screen-a-virtual-assistant-with-a-written-handoff-exercise.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "set-a-weekly-check-in-that-reviews-work-not-activity",
+      "title": "Set a weekly check-in that reviews work, not activity",
+      "path": "content/blog/set-a-weekly-check-in-that-reviews-work-not-activity.mdx",
+      "featuredImage": "/blog/images/set-a-weekly-check-in-that-reviews-work-not-activity.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "write-a-virtual-assistant-brief-that-names-the-first-deliverable",
+      "title": "Write a virtual assistant brief that names the first deliverable",
+      "path": "content/blog/write-a-virtual-assistant-brief-that-names-the-first-deliverable.mdx",
+      "featuredImage": "/blog/images/write-a-virtual-assistant-brief-that-names-the-first-deliverable.webp"
+    },
+    {
+      "type": "blog",
       "slug": "build-a-handover-checklist-for-a-planned-va-absence",
       "title": "Build a handover checklist for a planned VA absence",
       "path": "content/blog/build-a-handover-checklist-for-a-planned-va-absence.mdx",
@@ -5016,6 +5072,13 @@
     },
     {
       "type": "research",
+      "slug": "can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources",
+      "title": "Can a virtual assistant handoff be reconstructed from its sources?",
+      "path": "content/research/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources.mdx",
+      "featuredImage": "/blog/images/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources.webp"
+    },
+    {
+      "type": "research",
       "slug": "can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review",
       "title": "Can the quality sample report be reproduced from its sources? for the December review",
       "path": "content/research/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review.mdx",
@@ -5086,6 +5149,13 @@
     },
     {
       "type": "research",
+      "slug": "how-complete-is-the-coverage-plan-for-a-planned-absence",
+      "title": "How complete is the coverage plan for a planned absence?",
+      "path": "content/research/how-complete-is-the-coverage-plan-for-a-planned-absence.mdx",
+      "featuredImage": "/blog/images/how-complete-is-the-coverage-plan-for-a-planned-absence.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-complete-is-the-evidence-in-the-client-intake-record-for-the-december-review",
       "title": "How complete is the evidence in the client intake record? for the December review",
       "path": "content/research/how-complete-is-the-evidence-in-the-client-intake-record-for-the-december-review.mdx",
@@ -5111,6 +5181,13 @@
       "title": "How complete is the trial-task scorecard before a placement decision? for the winter planning review",
       "path": "content/research/how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review.mdx",
       "featuredImage": "/blog/images/how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-consistent-is-the-second-reviewer-rule-across-tasks",
+      "title": "How consistent is the second-reviewer rule across tasks?",
+      "path": "content/research/how-consistent-is-the-second-reviewer-rule-across-tasks.mdx",
+      "featuredImage": "/blog/images/how-consistent-is-the-second-reviewer-rule-across-tasks.webp"
     },
     {
       "type": "research",
@@ -5156,10 +5233,24 @@
     },
     {
       "type": "research",
+      "slug": "how-often-does-a-virtual-assistant-brief-name-the-first-deliverable",
+      "title": "How often does a virtual assistant brief name the first deliverable?",
+      "path": "content/research/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable.mdx",
+      "featuredImage": "/blog/images/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review",
       "title": "How old are open capacity exceptions in a managed VA team? for the winter planning review",
       "path": "content/research/how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review.mdx",
       "featuredImage": "/blog/images/how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-old-are-open-client-requests-at-week-end",
+      "title": "How old are open client requests at week end?",
+      "path": "content/research/how-old-are-open-client-requests-at-week-end.mdx",
+      "featuredImage": "/blog/images/how-old-are-open-client-requests-at-week-end.webp"
     },
     {
       "type": "research",
@@ -7008,6 +7099,20 @@
       "title": "What share of VA errors are caught by the weekly quality sample?",
       "path": "content/research/what-share-of-va-errors-are-caught-by-the-weekly-quality-sample.mdx",
       "featuredImage": "/blog/images/what-share-of-va-errors-are-caught-by-the-weekly-quality-sample.webp"
+    },
+    {
+      "type": "research",
+      "slug": "what-share-of-weekly-check-ins-produce-a-decision",
+      "title": "What share of weekly check-ins produce a decision?",
+      "path": "content/research/what-share-of-weekly-check-ins-produce-a-decision.mdx",
+      "featuredImage": "/blog/images/what-share-of-weekly-check-ins-produce-a-decision.webp"
+    },
+    {
+      "type": "research",
+      "slug": "where-does-delay-accumulate-in-a-virtual-assistant-request",
+      "title": "Where does delay accumulate in a virtual assistant request?",
+      "path": "content/research/where-does-delay-accumulate-in-a-virtual-assistant-request.mdx",
+      "featuredImage": "/blog/images/where-does-delay-accumulate-in-a-virtual-assistant-request.webp"
     },
     {
       "type": "research",
