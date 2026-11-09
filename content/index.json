@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "build-a-handover-checklist-for-a-planned-va-absence",
+      "title": "Build a handover checklist for a planned VA absence",
+      "path": "content/blog/build-a-handover-checklist-for-a-planned-va-absence.mdx",
+      "featuredImage": "/blog/images/build-a-handover-checklist-for-a-planned-va-absence.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "decide-which-va-tasks-need-a-second-reviewer",
+      "title": "Decide which VA tasks need a second reviewer",
+      "path": "content/blog/decide-which-va-tasks-need-a-second-reviewer.mdx",
+      "featuredImage": "/blog/images/decide-which-va-tasks-need-a-second-reviewer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "design-a-backup-coverage-plan-for-a-single-va-role",
+      "title": "Design a backup coverage plan for a single VA role",
+      "path": "content/blog/design-a-backup-coverage-plan-for-a-single-va-role.mdx",
+      "featuredImage": "/blog/images/design-a-backup-coverage-plan-for-a-single-va-role.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "keep-meeting-notes-useful-after-the-va-changes",
+      "title": "Keep meeting notes useful after the VA changes",
+      "path": "content/blog/keep-meeting-notes-useful-after-the-va-changes.mdx",
+      "featuredImage": "/blog/images/keep-meeting-notes-useful-after-the-va-changes.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "measure-va-response-time-without-rewarding-speed-alone",
+      "title": "Measure VA response time without rewarding speed alone",
+      "path": "content/blog/measure-va-response-time-without-rewarding-speed-alone.mdx",
+      "featuredImage": "/blog/images/measure-va-response-time-without-rewarding-speed-alone.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "screen-a-virtual-assistant-with-a-paid-calendar-conflict-exercise",
+      "title": "Screen a virtual assistant with a paid calendar conflict exercise",
+      "path": "content/blog/screen-a-virtual-assistant-with-a-paid-calendar-conflict-exercise.mdx",
+      "featuredImage": "/blog/images/screen-a-virtual-assistant-with-a-paid-calendar-conflict-exercise.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "set-a-weekly-quality-sample-for-written-client-updates",
+      "title": "Set a weekly quality sample for written client updates",
+      "path": "content/blog/set-a-weekly-quality-sample-for-written-client-updates.mdx",
+      "featuredImage": "/blog/images/set-a-weekly-quality-sample-for-written-client-updates.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "write-a-task-intake-note-that-survives-a-shift-change",
+      "title": "Write a task intake note that survives a shift change",
+      "path": "content/blog/write-a-task-intake-note-that-survives-a-shift-change.mdx",
+      "featuredImage": "/blog/images/write-a-task-intake-note-that-survives-a-shift-change.webp"
+    },
+    {
+      "type": "blog",
       "slug": "build-a-trial-task-scorecard-that-separates-skill-from-coaching-for-the-winter-planning-review",
       "title": "Build a trial-task scorecard that separates skill from coaching for the winter planning review",
       "path": "content/blog/build-a-trial-task-scorecard-that-separates-skill-from-coaching-for-the-winter-planning-review.mdx",
@@ -4953,6 +5009,13 @@
     },
     {
       "type": "research",
+      "slug": "can-a-va-trial-task-predict-performance-after-the-first-month",
+      "title": "Can a VA trial task predict performance after the first month?",
+      "path": "content/research/can-a-va-trial-task-predict-performance-after-the-first-month.mdx",
+      "featuredImage": "/blog/images/can-a-va-trial-task-predict-performance-after-the-first-month.webp"
+    },
+    {
+      "type": "research",
       "slug": "can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review",
       "title": "Can the quality sample report be reproduced from its sources? for the December review",
       "path": "content/research/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review.mdx",
@@ -5037,6 +5100,13 @@
     },
     {
       "type": "research",
+      "slug": "how-complete-is-the-task-handover-record-at-the-end-of-a-shift",
+      "title": "How complete is the task handover record at the end of a shift?",
+      "path": "content/research/how-complete-is-the-task-handover-record-at-the-end-of-a-shift.mdx",
+      "featuredImage": "/blog/images/how-complete-is-the-task-handover-record-at-the-end-of-a-shift.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review",
       "title": "How complete is the trial-task scorecard before a placement decision? for the winter planning review",
       "path": "content/research/how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review.mdx",
@@ -5065,10 +5135,24 @@
     },
     {
       "type": "research",
+      "slug": "how-much-of-a-va-handover-can-be-rebuilt-from-access-logs",
+      "title": "How much of a VA handover can be rebuilt from access logs?",
+      "path": "content/research/how-much-of-a-va-handover-can-be-rebuilt-from-access-logs.mdx",
+      "featuredImage": "/blog/images/how-much-of-a-va-handover-can-be-rebuilt-from-access-logs.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review",
       "title": "How often do scope changes lack a dated approval? for the winter planning review",
       "path": "content/research/how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review.mdx",
       "featuredImage": "/blog/images/how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-often-does-a-single-role-va-create-an-unplanned-coverage-gap",
+      "title": "How often does a single-role VA create an unplanned coverage gap?",
+      "path": "content/research/how-often-does-a-single-role-va-create-an-unplanned-coverage-gap.mdx",
+      "featuredImage": "/blog/images/how-often-does-a-single-role-va-create-an-unplanned-coverage-gap.webp"
     },
     {
       "type": "research",
@@ -5090,6 +5174,13 @@
       "title": "How old are the exceptions in the service agreement queue? for the November review",
       "path": "content/research/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-november-review.mdx",
       "featuredImage": "/blog/images/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-november-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-reliable-is-a-client-task-list-as-a-measure-of-workload",
+      "title": "How reliable is a client task list as a measure of workload?",
+      "path": "content/research/how-reliable-is-a-client-task-list-as-a-measure-of-workload.mdx",
+      "featuredImage": "/blog/images/how-reliable-is-a-client-task-list-as-a-measure-of-workload.webp"
     },
     {
       "type": "research",
@@ -6892,6 +6983,13 @@
     },
     {
       "type": "research",
+      "slug": "what-does-a-response-time-target-hide-about-queue-quality",
+      "title": "What does a response-time target hide about queue quality?",
+      "path": "content/research/what-does-a-response-time-target-hide-about-queue-quality.mdx",
+      "featuredImage": "/blog/images/what-does-a-response-time-target-hide-about-queue-quality.webp"
+    },
+    {
+      "type": "research",
       "slug": "what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-december-review",
       "title": "What happens to coverage plan coverage when the owner is away? for the December review",
       "path": "content/research/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-december-review.mdx",
@@ -6903,6 +7001,13 @@
       "title": "What happens to coverage plan coverage when the owner is away? for the November review",
       "path": "content/research/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-november-review.mdx",
       "featuredImage": "/blog/images/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-november-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "what-share-of-va-errors-are-caught-by-the-weekly-quality-sample",
+      "title": "What share of VA errors are caught by the weekly quality sample?",
+      "path": "content/research/what-share-of-va-errors-are-caught-by-the-weekly-quality-sample.mdx",
+      "featuredImage": "/blog/images/what-share-of-va-errors-are-caught-by-the-weekly-quality-sample.webp"
     },
     {
       "type": "research",
