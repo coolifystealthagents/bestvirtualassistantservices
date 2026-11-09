@@ -63,12 +63,12 @@ export function ArticleNavigation({ items }: { items: ArticleNavigationItem[] })
   return (
     <div className="article-navigation">
       <aside className="article-sidebar" aria-label="Article sections">
-        <strong>On this page</strong>
+        <strong>Table of contents</strong>
         <NavigationLinks items={items} activeId={activeId} onNavigate={setActiveId} />
       </aside>
 
       <details className="article-navigation-mobile">
-        <summary>On this page</summary>
+        <summary>Table of contents</summary>
         <nav aria-label="Article sections on mobile">
           <NavigationLinks items={items} activeId={activeId} onNavigate={setActiveId} />
         </nav>

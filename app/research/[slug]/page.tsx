@@ -70,12 +70,26 @@ function Paragraph({ paragraph }: { paragraph: ResearchParagraph }) {
   return <p><span dangerouslySetInnerHTML={{ __html: renderArticleLinks(paragraph.text) }} /><CitationLinks ids={paragraph.citations}/></p>;
 }
 
+const researchHeadingId = (heading: string) => heading
+  .toLowerCase()
+  .trim()
+  .replace(/[^a-z0-9]+/g, '-')
+  .replace(/^-|-$/g, '');
+
 export default async function ResearchArticle({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = allResearchPosts.find((item) => item.slug === slug) || publishedContentResearchPosts.find((item) => item.slug === slug) || researchPosts.find((item) => item.slug === slug);
   if (!post) notFound();
 
   const canonical = `${baseUrl}/research/${post.slug}`;
+  const tocItems = [
+    ...post.sections.slice(0, 3).map((section) => ({ id: researchHeadingId(section.heading), label: section.heading })),
+    { id: 'comparison-table', label: 'Philippines evidence beside global context' },
+    ...post.sections.slice(3).map((section) => ({ id: researchHeadingId(section.heading), label: section.heading })),
+    { id: 'methodology', label: 'Method and limits' },
+    { id: 'faq', label: 'FAQs' },
+    { id: 'sources', label: 'Sources' },
+  ];
   const reportSchema = {
     '@context': 'https://schema.org',
     '@type': post.primaryKeyword ? 'BlogPosting' : 'Report',
@@ -164,23 +178,15 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
           </div>
         </section>
 
-        <details className="research-mobile-toc"><summary>On this page</summary><nav aria-label="On this page mobile"><a href="#evidence">Evidence</a><a href="#comparison-table">Data table</a><a href="#buyer-method">Buyer method</a><a href="#security">Data safety</a><a href="#cost">Cost</a><a href="#launch">30-day launch</a><a href="#methodology">Method and limits</a><a href="#faq">FAQs</a><a href="#sources">Sources</a></nav></details>
+        <details className="research-mobile-toc"><summary>Table of contents</summary><nav aria-label="Table of contents mobile">{tocItems.map((item) => <a href={`#${item.id}`} key={item.id}>{item.label}</a>)}</nav></details>
         <div className="container research-report-layout">
-          <aside className="research-toc sticky" aria-label="On this page">
-            <strong>On this page</strong>
-            <a href="#evidence">Evidence</a>
-            <a href="#comparison-table">Data table</a>
-            <a href="#buyer-method">Buyer method</a>
-            <a href="#security">Data safety</a>
-            <a href="#cost">Cost</a>
-            <a href="#launch">30-day launch</a>
-            <a href="#methodology">Method and limits</a>
-            <a href="#faq">FAQs</a>
-            <a href="#sources">Sources</a>
+          <aside className="research-toc sticky" aria-label="Table of contents">
+            <strong>Table of contents</strong>
+            {tocItems.map((item) => <a href={`#${item.id}`} key={item.id}>{item.label}</a>)}
           </aside>
 
           <div className="research-report-body">
-            {post.sections.slice(0, 3).map((section, index) => <section id={index === 1 ? 'evidence' : undefined} className="research-copy-section" key={section.heading}>
+            {post.sections.slice(0, 3).map((section) => <section id={researchHeadingId(section.heading)} className="research-copy-section" key={section.heading}>
               <h2>{section.heading}</h2>
               {section.paragraphs.map((paragraph) => <Paragraph paragraph={paragraph} key={paragraph.text}/>)}
               {section.bullets?.length ? <ul className="research-check-list">{section.bullets.map((item) => <li key={item}>{item}</li>)}</ul> : null}
@@ -198,9 +204,8 @@ export default async function ResearchArticle({ params }: { params: Promise<{ sl
               </div>
             </section>
 
-            {post.sections.slice(3).map((section, index) => {
-              const ids = ['buyer-method', 'security', 'cost', 'hours', 'launch'];
-              return <section id={ids[index]} className="research-copy-section" key={section.heading}>
+            {post.sections.slice(3).map((section) => {
+              return <section id={researchHeadingId(section.heading)} className="research-copy-section" key={section.heading}>
                 <h2>{section.heading}</h2>
                 {section.paragraphs.map((paragraph) => <Paragraph paragraph={paragraph} key={paragraph.text}/>)}
                 {section.bullets?.length ? <ul className="research-check-list">{section.bullets.map((item) => <li key={item}>{item}</li>)}</ul> : null}
