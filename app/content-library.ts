@@ -34,7 +34,7 @@ function articleBody(file: string) {
   const text = fs.readFileSync(path.join(process.cwd(), file), 'utf8')
     .replace(/^---[\s\S]*?---\n?/, '')
     .replace(/^\s*#\s+.*$/m, '');
-  const parts = text.split(/^##\s+/m).filter(Boolean);
+  const parts = text.split(/^##\s+/m).filter((part) => part.trim());
   return parts.map((part) => {
     const lines = part.split('\n');
     return { heading: lines.shift()?.trim() || 'Overview', body: lines.join('\n').replace(/^#+\s+/gm, '').trim() };
