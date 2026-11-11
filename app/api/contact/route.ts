@@ -72,7 +72,7 @@ export async function POST(request: NextRequest) {
     || contentType.includes('multipart/form-data');
 
   if (
-    (origin && origin !== request.nextUrl.origin)
+    (origin && origin !== 'https://bestvirtualassistantservices.com' && origin !== 'https://www.bestvirtualassistantservices.com')
     || !Number.isFinite(contentLength)
     || contentLength > MAX_BODY_BYTES
     || !supported
@@ -165,6 +165,6 @@ export async function POST(request: NextRequest) {
     userAgent: request.headers.get('user-agent') || '',
   });
 
-  if (json) return NextResponse.json({ ok: true, redirect: '/thank-you' });
-  return NextResponse.redirect(new URL('/thank-you?lead=accepted', request.url), 303);
+  if (json || request.headers.get('accept')?.includes('application/json')) return NextResponse.json({ ok: true, redirect: '/thank-you' });
+  return NextResponse.redirect(new URL('/thank-you?lead=accepted', 'https://bestvirtualassistantservices.com'), 303);
 }
