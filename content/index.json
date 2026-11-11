@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-following-cycle",
+      "title": "Build a coverage plan for a virtual assistant's planned leave for the following cycle",
+      "path": "content/blog/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "decide-when-a-virtual-assistant-task-needs-a-second-reviewer-for-the-following-cycle",
+      "title": "Decide when a virtual assistant task needs a second reviewer for the following cycle",
+      "path": "content/blog/decide-when-a-virtual-assistant-task-needs-a-second-reviewer-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/decide-when-a-virtual-assistant-task-needs-a-second-reviewer-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "keep-a-client-update-note-that-survives-a-shift-change-for-the-following-cycle",
+      "title": "Keep a client update note that survives a shift change for the following cycle",
+      "path": "content/blog/keep-a-client-update-note-that-survives-a-shift-change-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/keep-a-client-update-note-that-survives-a-shift-change-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review-for-the-following-cycle",
+      "title": "Prepare a virtual assistant onboarding week that ends in a review for the following cycle",
+      "path": "content/blog/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "record-a-client-request-without-losing-the-original-scope-for-the-following-cycle",
+      "title": "Record a client request without losing the original scope for the following cycle",
+      "path": "content/blog/record-a-client-request-without-losing-the-original-scope-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/record-a-client-request-without-losing-the-original-scope-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "screen-a-virtual-assistant-with-a-written-handoff-exercise-for-the-following-cycle",
+      "title": "Screen a virtual assistant with a written handoff exercise for the following cycle",
+      "path": "content/blog/screen-a-virtual-assistant-with-a-written-handoff-exercise-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/screen-a-virtual-assistant-with-a-written-handoff-exercise-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "set-a-weekly-check-in-that-reviews-work-not-activity-for-the-following-cycle",
+      "title": "Set a weekly check-in that reviews work, not activity for the following cycle",
+      "path": "content/blog/set-a-weekly-check-in-that-reviews-work-not-activity-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/set-a-weekly-check-in-that-reviews-work-not-activity-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "write-a-virtual-assistant-brief-that-names-the-first-deliverable-for-the-following-cycle",
+      "title": "Write a virtual assistant brief that names the first deliverable for the following cycle",
+      "path": "content/blog/write-a-virtual-assistant-brief-that-names-the-first-deliverable-for-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/write-a-virtual-assistant-brief-that-names-the-first-deliverable-for-the-following-cycle.webp"
+    },
+    {
+      "type": "blog",
       "slug": "build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-next-cycle",
       "title": "Build a coverage plan for a virtual assistant's planned leave for the next cycle",
       "path": "content/blog/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-next-cycle.mdx",
@@ -5135,6 +5191,13 @@
     },
     {
       "type": "research",
+      "slug": "can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-following-cycle",
+      "title": "Can a virtual assistant handoff be reconstructed from its sources in the following cycle?",
+      "path": "content/research/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-following-cycle.webp"
+    },
+    {
+      "type": "research",
       "slug": "can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-next-cycle",
       "title": "Can a virtual assistant handoff be reconstructed from its sources in the next cycle?",
       "path": "content/research/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-next-cycle.mdx",
@@ -5219,6 +5282,13 @@
     },
     {
       "type": "research",
+      "slug": "how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-following-cycle",
+      "title": "How complete is the coverage plan for a planned absence in the following cycle?",
+      "path": "content/research/how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-following-cycle.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-next-cycle",
       "title": "How complete is the coverage plan for a planned absence in the next cycle?",
       "path": "content/research/how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-next-cycle.mdx",
@@ -5258,6 +5328,13 @@
       "title": "How consistent is the second-reviewer rule across tasks?",
       "path": "content/research/how-consistent-is-the-second-reviewer-rule-across-tasks.mdx",
       "featuredImage": "/blog/images/how-consistent-is-the-second-reviewer-rule-across-tasks.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-consistent-is-the-second-reviewer-rule-across-tasks-in-the-following-cycle",
+      "title": "How consistent is the second-reviewer rule across tasks in the following cycle?",
+      "path": "content/research/how-consistent-is-the-second-reviewer-rule-across-tasks-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/how-consistent-is-the-second-reviewer-rule-across-tasks-in-the-following-cycle.webp"
     },
     {
       "type": "research",
@@ -5317,6 +5394,13 @@
     },
     {
       "type": "research",
+      "slug": "how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-following-cycle",
+      "title": "How often does a virtual assistant brief name the first deliverable in the following cycle?",
+      "path": "content/research/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-following-cycle.webp"
+    },
+    {
+      "type": "research",
       "slug": "how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-next-cycle",
       "title": "How often does a virtual assistant brief name the first deliverable in the next cycle?",
       "path": "content/research/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-next-cycle.mdx",
@@ -5335,6 +5419,13 @@
       "title": "How old are open client requests at week end?",
       "path": "content/research/how-old-are-open-client-requests-at-week-end.mdx",
       "featuredImage": "/blog/images/how-old-are-open-client-requests-at-week-end.webp"
+    },
+    {
+      "type": "research",
+      "slug": "how-old-are-open-client-requests-at-week-end-in-the-following-cycle",
+      "title": "How old are open client requests at week end in the following cycle?",
+      "path": "content/research/how-old-are-open-client-requests-at-week-end-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/how-old-are-open-client-requests-at-week-end-in-the-following-cycle.webp"
     },
     {
       "type": "research",
@@ -7200,6 +7291,13 @@
     },
     {
       "type": "research",
+      "slug": "what-share-of-weekly-check-ins-produce-a-decision-in-the-following-cycle",
+      "title": "What share of weekly check-ins produce a decision in the following cycle?",
+      "path": "content/research/what-share-of-weekly-check-ins-produce-a-decision-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/what-share-of-weekly-check-ins-produce-a-decision-in-the-following-cycle.webp"
+    },
+    {
+      "type": "research",
       "slug": "what-share-of-weekly-check-ins-produce-a-decision-in-the-next-cycle",
       "title": "What share of weekly check-ins produce a decision in the next cycle?",
       "path": "content/research/what-share-of-weekly-check-ins-produce-a-decision-in-the-next-cycle.mdx",
@@ -7211,6 +7309,13 @@
       "title": "Where does delay accumulate in a virtual assistant request?",
       "path": "content/research/where-does-delay-accumulate-in-a-virtual-assistant-request.mdx",
       "featuredImage": "/blog/images/where-does-delay-accumulate-in-a-virtual-assistant-request.webp"
+    },
+    {
+      "type": "research",
+      "slug": "where-does-delay-accumulate-in-a-virtual-assistant-request-in-the-following-cycle",
+      "title": "Where does delay accumulate in a virtual assistant request in the following cycle?",
+      "path": "content/research/where-does-delay-accumulate-in-a-virtual-assistant-request-in-the-following-cycle.mdx",
+      "featuredImage": "/blog/images/where-does-delay-accumulate-in-a-virtual-assistant-request-in-the-following-cycle.webp"
     },
     {
       "type": "research",
