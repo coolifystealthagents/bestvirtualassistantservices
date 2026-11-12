@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-monthly-service-review-pack",
+      "title": "Audit a monthly service review pack",
+      "path": "content/blog/audit-a-monthly-service-review-pack.mdx",
+      "featuredImage": "/blog/images/audit-a-monthly-service-review-pack.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-virtual-assistant-onboarding-access-checklist",
+      "title": "Control a virtual assistant onboarding access checklist",
+      "path": "content/blog/control-a-virtual-assistant-onboarding-access-checklist.mdx",
+      "featuredImage": "/blog/images/control-a-virtual-assistant-onboarding-access-checklist.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-invoice-against-the-service-agreement",
+      "title": "Reconcile a provider invoice against the service agreement",
+      "path": "content/blog/reconcile-a-provider-invoice-against-the-service-agreement.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-invoice-against-the-service-agreement.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-service-agreement-against-the-approved-role-scope",
+      "title": "Reconcile a service agreement against the approved role scope",
+      "path": "content/blog/reconcile-a-service-agreement-against-the-approved-role-scope.mdx",
+      "featuredImage": "/blog/images/reconcile-a-service-agreement-against-the-approved-role-scope.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "scope-a-trial-project-that-tests-one-buyer-workflow",
+      "title": "Scope a trial project that tests one buyer workflow",
+      "path": "content/blog/scope-a-trial-project-that-tests-one-buyer-workflow.mdx",
+      "featuredImage": "/blog/images/scope-a-trial-project-that-tests-one-buyer-workflow.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "test-a-backup-coverage-plan-for-planned-leave",
+      "title": "Test a backup coverage plan for planned leave",
+      "path": "content/blog/test-a-backup-coverage-plan-for-planned-leave.mdx",
+      "featuredImage": "/blog/images/test-a-backup-coverage-plan-for-planned-leave.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-s-security-questionnaire-answers",
+      "title": "Verify a provider's security questionnaire answers",
+      "path": "content/blog/verify-a-provider-s-security-questionnaire-answers.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-s-security-questionnaire-answers.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-an-offboarding-handover-for-a-departing-assistant",
+      "title": "Verify an offboarding handover for a departing assistant",
+      "path": "content/blog/verify-an-offboarding-handover-for-a-departing-assistant.mdx",
+      "featuredImage": "/blog/images/verify-an-offboarding-handover-for-a-departing-assistant.webp"
+    },
+    {
+      "type": "blog",
       "slug": "build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-following-cycle",
       "title": "Build a coverage plan for a virtual assistant's planned leave for the following cycle",
       "path": "content/blog/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-following-cycle.mdx",
@@ -4820,6 +4876,13 @@
     },
     {
       "type": "research",
+      "slug": "backup-coverage-test-completion",
+      "title": "backup coverage test completion",
+      "path": "content/research/backup-coverage-test-completion.mdx",
+      "featuredImage": "/blog/images/backup-coverage-test-completion.webp"
+    },
+    {
+      "type": "research",
       "slug": "bestvirtualassistantservices-audit-trail-completeness-for-the-service-agreement",
       "title": "Audit-trail completeness for the service agreement",
       "path": "content/research/bestvirtualassistantservices-audit-trail-completeness-for-the-service-agreement.mdx",
@@ -5478,10 +5541,24 @@
     },
     {
       "type": "research",
+      "slug": "monthly-review-pack-completeness",
+      "title": "monthly review pack completeness",
+      "path": "content/research/monthly-review-pack-completeness.mdx",
+      "featuredImage": "/blog/images/monthly-review-pack-completeness.webp"
+    },
+    {
+      "type": "research",
       "slug": "newsletter-delivery-exception-review",
       "title": "Newsletter Delivery Exception Review by Virtual Assistants",
       "path": "content/research/newsletter-delivery-exception-review.md",
       "featuredImage": "/blog/images/virtual-assistant-email-newsletter-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "onboarding-access-approval-coverage",
+      "title": "onboarding access approval coverage",
+      "path": "content/research/onboarding-access-approval-coverage.mdx",
+      "featuredImage": "/blog/images/onboarding-access-approval-coverage.webp"
     },
     {
       "type": "research",
@@ -5496,6 +5573,27 @@
       "title": "Product Catalog Attribute Review by Virtual Assistants",
       "path": "content/research/product-catalog-attribute-review.md",
       "featuredImage": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp"
+    },
+    {
+      "type": "research",
+      "slug": "provider-invoice-rate-variance",
+      "title": "provider invoice rate variance",
+      "path": "content/research/provider-invoice-rate-variance.mdx",
+      "featuredImage": "/blog/images/provider-invoice-rate-variance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "security-questionnaire-evidence-currency",
+      "title": "security questionnaire evidence currency",
+      "path": "content/research/security-questionnaire-evidence-currency.mdx",
+      "featuredImage": "/blog/images/security-questionnaire-evidence-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "service-agreement-scope-variance",
+      "title": "service agreement scope variance",
+      "path": "content/research/service-agreement-scope-variance.mdx",
+      "featuredImage": "/blog/images/service-agreement-scope-variance.webp"
     },
     {
       "type": "research",
@@ -5517,6 +5615,13 @@
       "title": "Travel Document Expiry Tracking by Virtual Assistants",
       "path": "content/research/travel-document-expiry-tracking.md",
       "featuredImage": "/blog/images/virtual-assistant-executive-travel-risk-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "trial-project-acceptance-evidence-rate",
+      "title": "trial project acceptance evidence rate",
+      "path": "content/research/trial-project-acceptance-evidence-rate.mdx",
+      "featuredImage": "/blog/images/trial-project-acceptance-evidence-rate.webp"
     },
     {
       "type": "research",
