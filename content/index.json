@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-client-data-retention-schedule-for-assistant-files",
+      "title": "Audit a client data retention schedule for assistant files",
+      "path": "content/blog/audit-a-client-data-retention-schedule-for-assistant-files.mdx",
+      "featuredImage": "/blog/images/audit-a-client-data-retention-schedule-for-assistant-files.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-virtual-assistant-seat-utilization-report",
+      "title": "Audit a virtual assistant seat utilization report",
+      "path": "content/blog/audit-a-virtual-assistant-seat-utilization-report.mdx",
+      "featuredImage": "/blog/images/audit-a-virtual-assistant-seat-utilization-report.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-quality-sample-of-completed-client-work",
+      "title": "Control a quality sample of completed client work",
+      "path": "content/blog/control-a-quality-sample-of-completed-client-work.mdx",
+      "featuredImage": "/blog/images/control-a-quality-sample-of-completed-client-work.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-rate-review-before-an-invoice-change",
+      "title": "Control a rate review before an invoice change",
+      "path": "content/blog/control-a-rate-review-before-an-invoice-change.mdx",
+      "featuredImage": "/blog/images/control-a-rate-review-before-an-invoice-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-tool-license-list-against-named-users",
+      "title": "Reconcile a tool license list against named users",
+      "path": "content/blog/reconcile-a-tool-license-list-against-named-users.mdx",
+      "featuredImage": "/blog/images/reconcile-a-tool-license-list-against-named-users.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "review-a-provider-renewal-before-the-notice-deadline",
+      "title": "Review a provider renewal before the notice deadline",
+      "path": "content/blog/review-a-provider-renewal-before-the-notice-deadline.mdx",
+      "featuredImage": "/blog/images/review-a-provider-renewal-before-the-notice-deadline.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-coverage-service-level-in-the-operating-plan",
+      "title": "Verify a coverage service level in the operating plan",
+      "path": "content/blog/verify-a-coverage-service-level-in-the-operating-plan.mdx",
+      "featuredImage": "/blog/images/verify-a-coverage-service-level-in-the-operating-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-subcontractor-disclosure-in-the-service-agreement",
+      "title": "Verify a subcontractor disclosure in the service agreement",
+      "path": "content/blog/verify-a-subcontractor-disclosure-in-the-service-agreement.mdx",
+      "featuredImage": "/blog/images/verify-a-subcontractor-disclosure-in-the-service-agreement.webp"
+    },
+    {
+      "type": "blog",
       "slug": "audit-a-monthly-service-review-pack",
       "title": "Audit a monthly service review pack",
       "path": "content/blog/audit-a-monthly-service-review-pack.mdx",
@@ -5282,6 +5338,20 @@
     },
     {
       "type": "research",
+      "slug": "client-data-retention-purge-accuracy",
+      "title": "Client data retention purge accuracy",
+      "path": "content/research/client-data-retention-purge-accuracy.mdx",
+      "featuredImage": "/blog/images/client-data-retention-purge-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "coverage-service-level-staffing-match",
+      "title": "Coverage service level staffing match",
+      "path": "content/research/coverage-service-level-staffing-match.mdx",
+      "featuredImage": "/blog/images/coverage-service-level-staffing-match.webp"
+    },
+    {
+      "type": "research",
       "slug": "customer-account-change-register",
       "title": "Customer Account Change Registers by Virtual Assistants",
       "path": "content/research/customer-account-change-register.md",
@@ -5583,6 +5653,27 @@
     },
     {
       "type": "research",
+      "slug": "quality-sample-coverage-of-rework-types",
+      "title": "Quality sample coverage of rework types",
+      "path": "content/research/quality-sample-coverage-of-rework-types.mdx",
+      "featuredImage": "/blog/images/quality-sample-coverage-of-rework-types.webp"
+    },
+    {
+      "type": "research",
+      "slug": "renewal-review-completion-before-notice-deadline",
+      "title": "Renewal review completion before notice deadline",
+      "path": "content/research/renewal-review-completion-before-notice-deadline.mdx",
+      "featuredImage": "/blog/images/renewal-review-completion-before-notice-deadline.webp"
+    },
+    {
+      "type": "research",
+      "slug": "seat-utilization-report-accuracy",
+      "title": "Seat utilization report accuracy",
+      "path": "content/research/seat-utilization-report-accuracy.mdx",
+      "featuredImage": "/blog/images/seat-utilization-report-accuracy.webp"
+    },
+    {
+      "type": "research",
       "slug": "security-questionnaire-evidence-currency",
       "title": "security questionnaire evidence currency",
       "path": "content/research/security-questionnaire-evidence-currency.mdx",
@@ -5608,6 +5699,20 @@
       "title": "Shared Drive Folder Governance by Virtual Assistants",
       "path": "content/research/shared-drive-folder-governance.md",
       "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "subcontractor-disclosure-coverage",
+      "title": "Subcontractor disclosure coverage",
+      "path": "content/research/subcontractor-disclosure-coverage.mdx",
+      "featuredImage": "/blog/images/subcontractor-disclosure-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "tool-license-named-user-accuracy",
+      "title": "Tool license named-user accuracy",
+      "path": "content/research/tool-license-named-user-accuracy.mdx",
+      "featuredImage": "/blog/images/tool-license-named-user-accuracy.webp"
     },
     {
       "type": "research",
