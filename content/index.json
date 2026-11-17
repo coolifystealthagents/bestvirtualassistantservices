@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-client-onboarding-knowledge-transfer",
+      "title": "Audit a client onboarding knowledge transfer",
+      "path": "content/blog/audit-a-client-onboarding-knowledge-transfer.mdx",
+      "featuredImage": "/blog/images/audit-a-client-onboarding-knowledge-transfer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-handover-after-a-team-change",
+      "title": "Audit a provider handover after a team change",
+      "path": "content/blog/audit-a-provider-handover-after-a-team-change.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-handover-after-a-team-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-client-data-return-at-contract-end",
+      "title": "Control a client data return at contract end",
+      "path": "content/blog/control-a-client-data-return-at-contract-end.mdx",
+      "featuredImage": "/blog/images/control-a-client-data-return-at-contract-end.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-tool-access-review",
+      "title": "Control a provider tool access review",
+      "path": "content/blog/control-a-provider-tool-access-review.mdx",
+      "featuredImage": "/blog/images/control-a-provider-tool-access-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-monthly-service-summary-against-the-ticket-log",
+      "title": "Reconcile a monthly service summary against the ticket log",
+      "path": "content/blog/reconcile-a-monthly-service-summary-against-the-ticket-log.mdx",
+      "featuredImage": "/blog/images/reconcile-a-monthly-service-summary-against-the-ticket-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-performance-review-scorecard",
+      "title": "Reconcile a provider performance review scorecard",
+      "path": "content/blog/reconcile-a-provider-performance-review-scorecard.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-performance-review-scorecard.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-business-continuity-test",
+      "title": "Verify a provider business continuity test",
+      "path": "content/blog/verify-a-provider-business-continuity-test.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-business-continuity-test.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-service-credit-claim-after-a-missed-deliverable",
+      "title": "Verify a service credit claim after a missed deliverable",
+      "path": "content/blog/verify-a-service-credit-claim-after-a-missed-deliverable.mdx",
+      "featuredImage": "/blog/images/verify-a-service-credit-claim-after-a-missed-deliverable.webp"
+    },
+    {
+      "type": "blog",
       "slug": "audit-a-client-data-retention-schedule-for-assistant-files",
       "title": "Audit a client data retention schedule for assistant files",
       "path": "content/blog/audit-a-client-data-retention-schedule-for-assistant-files.mdx",
@@ -5345,6 +5401,20 @@
     },
     {
       "type": "research",
+      "slug": "client-data-return-sequencing",
+      "title": "client data return sequencing",
+      "path": "content/research/client-data-return-sequencing.mdx",
+      "featuredImage": "/blog/images/client-data-return-sequencing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "continuity-test-scenario-coverage",
+      "title": "continuity test scenario coverage",
+      "path": "content/research/continuity-test-scenario-coverage.mdx",
+      "featuredImage": "/blog/images/continuity-test-scenario-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "coverage-service-level-staffing-match",
       "title": "Coverage service level staffing match",
       "path": "content/research/coverage-service-level-staffing-match.mdx",
@@ -5604,6 +5674,13 @@
     },
     {
       "type": "research",
+      "slug": "knowledge-transfer-completion-before-start",
+      "title": "knowledge transfer completion before start",
+      "path": "content/research/knowledge-transfer-completion-before-start.mdx",
+      "featuredImage": "/blog/images/knowledge-transfer-completion-before-start.webp"
+    },
+    {
+      "type": "research",
       "slug": "managed-vs-direct-virtual-assistant-supervision-evidence",
       "title": "Managed vs Direct Virtual Assistant Supervision Evidence",
       "path": "content/research/managed-vs-direct-virtual-assistant-supervision-evidence.mdx",
@@ -5643,6 +5720,20 @@
       "title": "Product Catalog Attribute Review by Virtual Assistants",
       "path": "content/research/product-catalog-attribute-review.md",
       "featuredImage": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp"
+    },
+    {
+      "type": "research",
+      "slug": "provider-access-review-currency",
+      "title": "provider access review currency",
+      "path": "content/research/provider-access-review-currency.mdx",
+      "featuredImage": "/blog/images/provider-access-review-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "provider-handover-test-completion",
+      "title": "provider handover test completion",
+      "path": "content/research/provider-handover-test-completion.mdx",
+      "featuredImage": "/blog/images/provider-handover-test-completion.webp"
     },
     {
       "type": "research",
@@ -5688,10 +5779,24 @@
     },
     {
       "type": "research",
+      "slug": "service-credit-claim-evidence-coverage",
+      "title": "service credit claim evidence coverage",
+      "path": "content/research/service-credit-claim-evidence-coverage.mdx",
+      "featuredImage": "/blog/images/service-credit-claim-evidence-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "service-handoff-decision-log",
       "title": "Service Handoff Decision Logs by Virtual Assistants",
       "path": "content/research/service-handoff-decision-log.md",
       "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "service-summary-reconciliation-rate",
+      "title": "service summary reconciliation rate",
+      "path": "content/research/service-summary-reconciliation-rate.mdx",
+      "featuredImage": "/blog/images/service-summary-reconciliation-rate.webp"
     },
     {
       "type": "research",
