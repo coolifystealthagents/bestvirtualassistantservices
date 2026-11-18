@@ -136,7 +136,8 @@ test('ten service records expose complete deep-content fields and unique heroes'
   const servicesIndex = read('app/services/page.tsx');
   assert.doesNotMatch(servicesIndex, /padStart\(2\s*,\s*['"]0['"]\)/, 'service cards must not use decorative zero-padded numbering');
   assert.doesNotMatch(servicesIndex, /String\(i\s*\+\s*1\)/, 'service cards must not render decorative index labels');
-  assert.match(template, /service-longform/);
+  assert.match(template, /service-landing/);
+  assert.doesNotMatch(template, /service-article-nav|On this page|Read the operating guide/);
   assert.match(template, /service\.faq\.map/);
   assert.match(template, /['"]@type['"]:\s*['"]BreadcrumbList['"]/);
   assert.match(template, /['"]@type['"]:\s*['"]FAQPage['"]/);

@@ -1,5 +1,8 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
+import { TestimonialsRail } from '../../booking-components';
+import { ServiceMotion } from '../service-motion';
+import '../service-landing.css';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { CTA, Footer, Header, JsonLd } from '../../components';
@@ -33,12 +36,7 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
 }
 
 function DetailList({ title, items }: { title: string; items: readonly string[] }) {
-  return (
-    <section className="service-detail-card">
-      <h3>{title}</h3>
-      <ul>{items.map((item) => <li key={item}>{item}</li>)}</ul>
-    </section>
-  );
+  return <details className="sv-detail"><summary>{title}<span aria-hidden="true">+</span></summary><ul>{items.map(item=><li key={item}>{item}</li>)}</ul></details>;
 }
 
 export default async function ServicePage({ params }: ServicePageProps) {
@@ -71,7 +69,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
   return (
     <>
       <Header />
-      <main id="main-content" className="service-longform">
+      <main id="main-content" className="service-landing">
         <JsonLd data={{
           '@context': 'https://schema.org',
           '@type': 'Service',
@@ -85,126 +83,51 @@ export default async function ServicePage({ params }: ServicePageProps) {
         <JsonLd data={breadcrumbSchema} />
         <JsonLd data={faqSchema} />
 
-        <header className="service-article-hero">
-          <div className="container service-hero-grid">
-            <div className="service-hero-copy">
-              <nav className="service-breadcrumbs" aria-label="Breadcrumb">
-                <Link href="/services">Services</Link><span aria-hidden="true">/</span><span aria-current="page">{service.name}</span>
-              </nav>
-              <p className="eyebrow">Philippines-based virtual assistant support</p>
-              <h1>{service.name}</h1>
-              <p className="lead">{service.desc}</p>
-              <div className="service-hero-actions">
-                <Link className="btn primary" href="/contact-us">Discuss this service</Link>
-                <a className="service-jump-link" href="#service-overview">Read the operating guide</a>
-              </div>
-            </div>
-            <figure className="service-hero-figure">
-              <Image src={service.heroImage} alt={service.heroAlt} width={900} height={600} priority sizes="(max-width: 900px) 100vw, 44vw" />
-
-            </figure>
+        <ServiceMotion />
+        <header className="sv-hero">
+          <div className="container">
+            <Link className="sv-back" href="/services">← All services</Link>
+            <p className="eyebrow">Your next right hand</p>
+            <h1>{service.name}</h1>
+            <p className="sv-intro">{service.desc}</p>
+            <div className="sv-actions"><Link className="btn primary" href="/contact-us">Find my support ↗</Link><a className="btn ghost" href="#what-you-can-delegate">Explore the service</a></div>
           </div>
+          <figure className="sv-hero-image"><Image src={service.heroImage} alt={service.heroAlt} width={1800} height={1000} priority sizes="100vw"/><figcaption>{service.deliverables.join(' · ')}</figcaption></figure>
         </header>
 
-        <div className="container service-article-layout">
-          <aside className="service-article-nav" aria-label="On this page">
-            <strong>On this page</strong>
-            <a href="#service-overview">Overview</a>
-            <a href="#service-fit">Who it serves</a>
-            <a href="#service-operation">Operating scope</a>
-            <a href="#service-measurement">Measurement and risk</a>
-            <a href="#service-launch">Launch plan</a>
-            <a href="#service-faq">Common questions</a>
-          </aside>
+        <section className="container sv-section sv-intro-grid">
+          <div><p className="eyebrow">Less friction. More focus.</p><h2>Good support changes<br/>how the day feels.</h2></div>
+          <div><p className="sv-reveal">{service.problem}</p><p>Start with a clear role, a practical handoff, and an assistant who knows what needs your attention—and what can move forward.</p><Link className="sv-text-link" href="/contact-us">Let’s talk about your workflow ↗</Link></div>
+        </section>
 
-          <article className="service-article">
-            <section id="service-overview" className="service-copy-section">
-              <p className="service-section-label">Service overview</p>
-              <h2>A controlled operating model: {service.name}</h2>
-              <p className="service-problem"><strong>The operating problem:</strong> {service.problem}</p>
-              {service.body.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
-            </section>
+        <section className="sv-section sv-scope" id="what-you-can-delegate"><div className="container">
+          <div className="sv-section-heading"><div><p className="eyebrow">Support that fits your day</p><h2>Here’s what you<br/>can hand over.</h2></div><p>Choose the responsibilities that matter to your team. We’ll define the tools, handoffs, and approval points together.</p></div>
+          <div className="sv-responsibilities">{service.responsibilities.map((item,i)=><details key={item} className="sv-responsibility" open={i===0}><summary><span>{item}</span><b aria-hidden="true">↗</b></summary><div><p>{service.tasks[i] || service.desc}</p><small>What you’ll receive</small><strong>{service.deliverables[i % service.deliverables.length]}</strong></div></details>)}</div>
+          <div className="sv-tools"><span>Built around your workflow</span>{service.tools.map(tool=><strong key={tool}>{tool}</strong>)}</div>
+        </div></section>
 
-            <section id="service-fit" className="service-copy-section">
-              <p className="service-section-label">Fit and friction</p>
-              <h2>Where this service fits</h2>
-              <div className="service-two-column">
-                <DetailList title="Who this service is for" items={service.audience} />
-                <DetailList title="Problems it addresses" items={service.painPoints} />
-              </div>
-            </section>
+        <section className="container sv-section sv-outcomes"><div className="sv-section-heading"><h2>A clear handoff.<br/>Something tangible back.</h2><p>Know what the work produces and what stays in your hands.</p></div><div className="sv-deliverables">{service.deliverables.map((item,i)=><div key={item}><span className="sv-outcome-symbol" aria-hidden="true">{['↗','✓','↔'][i%3]}</span><h3>{item}</h3><p>{service.qualityControls[i % service.qualityControls.length]}</p></div>)}</div></section>
 
-            <section id="service-operation" className="service-copy-section">
-              <p className="service-section-label">Operating scope</p>
-              <h2>Responsibilities, inputs, and outputs</h2>
-              <div className="service-detail-grid">
-                <DetailList title="Responsibilities" items={service.responsibilities} />
-                <DetailList title="Tools and workspaces" items={service.tools} />
-                <DetailList title="Required inputs" items={service.inputs} />
-                <DetailList title="Workflow" items={service.workflow} />
-                <DetailList title="Deliverables" items={service.deliverables} />
-                <DetailList title="Authority boundaries" items={service.boundaries} />
-              </div>
-              <div className="service-scenario-box">
-                <h3>Situations the workflow should handle</h3>
-                <ul>{service.scenarios.map((scenario) => <li key={scenario}>{scenario}</li>)}</ul>
-              </div>
-            </section>
+        <section className="sv-process sv-section"><div className="container sv-process-grid"><div className="sv-process-title"><p className="eyebrow">A thoughtful start</p><h2>From a busy week<br/>to a working rhythm.</h2><p>Start with a focused scope. Review real work together. Build confidence before expanding the role.</p><Link className="btn primary" href="/contact-us">Plan my first handoff ↗</Link></div><div className="sv-steps">{service.firstWeek.map((step,i)=><div className="sv-step" key={step}><span>{['Define the role','Put it into practice','Review together'][i] || 'Keep improving'}</span><h3>{step}</h3><p>{service.workflow[i % service.workflow.length]}</p></div>)}</div></div></section>
 
-            <section id="service-measurement" className="service-copy-section">
-              <p className="service-section-label">Measurement and safeguards</p>
-              <h2>Observe the process without inventing outcomes</h2>
-              <div className="service-detail-grid service-detail-grid-three">
-                <DetailList title="Practical metrics" items={service.metrics} />
-                <DetailList title="Risks to manage" items={service.risks} />
-                <DetailList title="Quality controls" items={service.qualityControls} />
-              </div>
-            </section>
+        <section className="container sv-section sv-fit"><div><p className="eyebrow">The right fit matters</p><h2>Built for teams<br/>like yours.</h2></div><div>{service.audience.map(item=><p className="sv-fit-line" key={item}><span aria-hidden="true">↗</span>{item}</p>)}</div></section>
 
-            <section id="service-launch" className="service-copy-section">
-              <p className="service-section-label">Current scope and launch</p>
-              <h2>Start narrow, review the work, then expand</h2>
-              <div className="service-detail-grid service-detail-grid-three">
-                <DetailList title="Current tasks" items={service.tasks} />
-                <DetailList title="Controls to retain" items={service.controls} />
-                <DetailList title="First-week plan" items={service.firstWeek} />
-              </div>
-            </section>
+        <section className="sv-proof"><div className="container"><TestimonialsRail /></div></section>
 
-            <section id="service-faq" className="service-copy-section service-faq-block">
-              <p className="service-section-label">Common questions</p>
-              <h2>Frequently asked questions</h2>
-              <div className="service-faq-list">
-                {service.faq.map((item) => <article key={item.q}><h3>{item.q}</h3><p>{item.a}</p></article>)}
-              </div>
-            </section>
+        <section className="container sv-section sv-details-grid"><div><p className="eyebrow">Clear expectations, from day one</p><h2>The details that<br/>make it work.</h2><p>Explore the scope and safeguards before choosing your support.</p></div><div>
+          <DetailList title="The everyday work" items={service.tasks}/>
+          <DetailList title="What we’ll need from you" items={service.inputs}/>
+          <DetailList title="How the workflow runs" items={service.workflow}/>
+          <DetailList title="Decisions you keep" items={service.boundaries}/>
+          <DetailList title="Quality checks and progress" items={[...service.metrics,...service.qualityControls]}/>
+          <DetailList title="Risks and safeguards" items={[...service.risks,...service.controls]}/>
+          <DetailList title="Situations we’ll plan for" items={[...service.painPoints,...service.scenarios]}/>
+          <details className="sv-detail sv-context"><summary>More about this service<span aria-hidden="true">+</span></summary><div>{service.body.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</div></details>
+        </div></section>
 
-            <section className="service-related" aria-labelledby="related-services-heading">
-              <p className="service-section-label">Continue planning</p>
-              <h2 id="related-services-heading">Related service guides</h2>
-              <div>
-                {related.map((item) => (
-                  <Link key={item.slug} href={`/services/${item.slug}`}>
-                    <strong>{item.name}</strong>
-                    <span>{item.desc}</span>
-                  </Link>
-                ))}
-              </div>
-              <p className="service-all-link"><Link href="/services">View all virtual assistant services</Link></p>
-            </section>
+        <section className="sv-faq sv-section"><div className="container sv-details-grid"><h2>A few things<br/>worth asking.</h2><div>{service.faq.map(item=><details className="sv-detail" key={item.q}><summary>{item.q}<span aria-hidden="true">+</span></summary><p>{item.a}</p></details>)}</div></div></section>
 
-            <section className="service-contact-panel">
-              <div>
-                <p className="service-section-label">Define the handoff</p>
-                <h2>Discuss your workflow and control requirements</h2>
-              </div>
-              <div>
-                <p>Bring the tools, examples, approval limits, and recurring work you want to evaluate. The conversation can focus on a narrow, reviewable starting scope.</p>
-                <Link className="btn primary" href="/contact-us">Contact the team</Link>
-              </div>
-            </section>
-          </article>
-        </div>
+        <section className="container sv-section"><div className="sv-section-heading"><h2>A little more support.</h2><Link className="sv-text-link" href="/services">Explore every service ↗</Link></div><div className="sv-related">{related.map(item=><Link key={item.slug} href={`/services/${item.slug}`}><div><Image src={item.heroImage} alt={item.heroAlt} width={900} height={540} sizes="(max-width:700px) 100vw, 50vw"/></div><h3>{item.name}<span aria-hidden="true">↗</span></h3><p>{item.desc}</p></Link>)}</div></section>
         <CTA />
       </main>
       <Footer />
