@@ -36,3 +36,5 @@ body{background:var(--cream);color:var(--ink);font-family:var(--display);font-si
 .research-key-box{background:#dfe9d3;box-shadow:none;border-radius:14px}
 .research-toc,.alt-toc{top:112px}
 .research-copy-section,.alt-article>section{scroll-margin-top:112px}
+
+.compare-final-cta p,.compare-final-cta>div>p,.compare-final-cta .eyebrow{color:var(--muted)!important;letter-spacing:normal;text-transform:none}
