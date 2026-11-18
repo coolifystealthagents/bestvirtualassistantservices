@@ -1,0 +1,106 @@
+{
+  "renderedImageUrls": 642,
+  "missingLocalAssets": [],
+  "routes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/services",
+      "status": 200
+    },
+    {
+      "path": "/contact-us",
+      "status": 200
+    },
+    {
+      "path": "/blog",
+      "status": 200
+    },
+    {
+      "path": "/blog/page/2",
+      "status": 200
+    },
+    {
+      "path": "/research",
+      "status": 200
+    },
+    {
+      "path": "/compare",
+      "status": 200
+    },
+    {
+      "path": "/provider-vetting",
+      "status": 200
+    },
+    {
+      "path": "/privacy",
+      "status": 200
+    },
+    {
+      "path": "/terms",
+      "status": 200
+    },
+    {
+      "path": "/thank-you",
+      "status": 200
+    },
+    {
+      "path": "/thanks-whats-next",
+      "status": 200
+    },
+    {
+      "path": "/alternatives",
+      "status": 200
+    },
+    {
+      "path": "/non-competitor-alternatives",
+      "status": 200
+    },
+    {
+      "path": "/services/crm-administration",
+      "status": 200
+    },
+    {
+      "path": "/services/ecommerce-operations-assistance",
+      "status": 200
+    },
+    {
+      "path": "/services/sales-pipeline-support",
+      "status": 200
+    },
+    {
+      "path": "/services/executive-calendar-management",
+      "status": 200
+    },
+    {
+      "path": "/services/inbox-and-correspondence-support",
+      "status": 200
+    },
+    {
+      "path": "/services/legal-administrative-assistance",
+      "status": 200
+    },
+    {
+      "path": "/services/travel-planning-assistance",
+      "status": 200
+    },
+    {
+      "path": "/services/customer-inbox-support",
+      "status": 200
+    },
+    {
+      "path": "/services/real-estate-transaction-support",
+      "status": 200
+    },
+    {
+      "path": "/services/podcast-production-coordination",
+      "status": 200
+    },
+    {
+      "path": "/blog/audit-a-provider-invoice-dispute-record",
+      "status": 200
+    }
+  ]
+}

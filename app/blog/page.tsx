@@ -14,22 +14,13 @@ export default function Blog() {
   return (
     <>
       <Header />
-      <main>
-        <section className="fleet-hero variant-0">
-          <div className="container">
-            <p className="eyebrow">Blog</p>
-            <h1>Best Virtual Assistant Services guides</h1>
-            <p className="lead">
-              Practical planning for Philippines-based virtual assistant roles,
-              workflows, and manager handoffs.
-            </p>
-          </div>
-        </section>
+      <main className="bva-blog-index">
+        <section className="bva-directory-hero container"><div><p className="bva-overline">Blog</p><h1>A better way<br/>to delegate.</h1><p className="lead">Practical guides to choosing support, setting expectations, and making the first handoff work.</p><a className="bva-link" href="/research">Explore the research ↗</a></div><img src="/photos/blog.webp" alt="A fountain pen and handwritten notes" width="1200" height="900" fetchPriority="high"/></section>
         <section className="section">
           <div className="container fleet-service-grid">
             {posts.map((p) => (
               <a className="card" href={`/blog/${p.slug}`} key={p.slug}>
-                <img src={p.featuredImage} alt={`Illustration for ${p.title}`} width="1200" height="630" loading="lazy" />
+                <img src={p.featuredImage} alt={p.title} width="1200" height="675" loading="lazy" />
                 <h2>{p.title}</h2>
                 <p>{p.excerpt}</p>
                 {p.published ? (

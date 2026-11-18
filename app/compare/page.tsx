@@ -1,5 +1,5 @@
 import { Header, Footer, JsonLd } from '../components';
-import { comparisonRows, homepageImages, providerQuestions, reviewCriteria, site } from '../data';
+import { comparisonRows, providerQuestions, reviewCriteria, site } from '../data';
 
 export const metadata = {
   title: 'Compare the best virtual assistant services',
@@ -47,7 +47,7 @@ export default function ComparePage(){
         <div className="container compare-hero-grid">
           <div className="compare-hero-copy">
             <p className="compare-kicker"><span>2026 buyer&apos;s guide</span><span>4 service models</span></p>
-            <h1>Compare virtual assistant services without getting lost in the sales pitch.</h1>
+            <h1>Find your kind of support.</h1>
             <p>The right choice depends on the work and how much management you can provide. This guide puts four common service models on the same page.</p>
             <div className="compare-hero-actions">
               <a className="compare-primary" href="#comparison-board">See the comparison</a>
@@ -59,7 +59,7 @@ export default function ComparePage(){
             </div>
           </div>
           <figure className="compare-cover">
-            <img src={homepageImages.comparisonDesk.url} alt={homepageImages.comparisonDesk.alt}/>
+            <img src="/photos/sales.webp" alt="A team discussing its working arrangements" width="1200" height="900"/>
             <figcaption><span>Editor&apos;s desk</span><strong>Fit before terms</strong></figcaption>
           </figure>
         </div>
@@ -73,7 +73,7 @@ export default function ComparePage(){
           </div>
           <div className="model-review-grid">
             {comparisonRows.map((row, index) => <article className="model-review-card" key={row.option}>
-              <div className="model-review-top"><span>{String(index + 1).padStart(2, '0')}</span><b>{modelNotes[index].badge}</b></div>
+              <div className="model-review-top"><b>{modelNotes[index].badge}</b></div>
               <p className="model-award">{modelNotes[index].label}</p>
               <h3>{row.option}</h3>
               <div className="involvement-meter" aria-label={modelNotes[index].load}>

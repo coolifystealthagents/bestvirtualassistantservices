@@ -41,21 +41,13 @@ export default async function BlogPage({
   return (
     <>
       <Header />
-      <main>
-        <section className="fleet-hero">
-          <div className="container">
-            <p className="eyebrow">Blog page {n}</p>
-            <h1>{site.brand} guides</h1>
-            <p className="lead">
-              Browse Philippines-based staffing and workflow articles.
-            </p>
-          </div>
-        </section>
+      <main className="bva-blog-index">
+        <section className="bva-directory-hero container"><div><p className="bva-overline">Blog · Page {n}</p><h1>A better way<br/>to delegate.</h1><p className="lead">Practical guides to choosing support, setting expectations, and making the first handoff work.</p><a className="bva-link" href="/research">Explore the research ↗</a></div><img src="/photos/blog.webp" alt="A fountain pen and handwritten notes" width="1200" height="900" fetchPriority="high"/></section>
         <section className="section">
           <div className="container fleet-service-grid">
             {posts.map((p) => (
               <a className="card" href={`/blog/${p.slug}`} key={p.slug}>
-                <img src={p.featuredImage} alt={`Illustration for ${p.title}`} width="1200" height="630" loading="lazy" />
+                <img src={p.featuredImage} alt={p.title} width="1200" height="675" loading="lazy" />
                 <h2>{p.title}</h2>
                 <p>{p.excerpt}</p>
                 {p.published ? <time dateTime={p.published}>Published {new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).format(new Date(`${p.published}T00:00:00Z`))}</time> : null}

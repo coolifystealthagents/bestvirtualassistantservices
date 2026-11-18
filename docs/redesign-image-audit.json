@@ -1,0 +1,3149 @@
+{
+  "references": 628,
+  "decodedRasterImages": 628,
+  "newPhotos": 14,
+  "uniqueNewPhotos": 14,
+  "errors": [],
+  "images": [
+    {
+      "path": "/blog/images/audit-a-client-data-retention-schedule-for-assistant-files.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/audit-a-client-onboarding-knowledge-transfer.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/audit-a-monthly-service-review-pack.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/audit-a-provider-handover-after-a-team-change.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/audit-a-provider-invoice-dispute-record.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/audit-a-provider-security-attestation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/audit-a-virtual-assistant-seat-utilization-report.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/backup-coverage-test-completion.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-audit-the-client-intake-evidence-trail-before-the-next-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-audit-trail-completeness-for-the-service-agreement.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-build-an-exception-code-list-the-onboarding-plan-team-will-use-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-build-an-exception-code-list-the-onboarding-plan-team-will-use-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-build-an-exception-code-list-the-onboarding-plan-team-will-use-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-build-an-exception-code-list-the-onboarding-plan-team-will-use.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-can-the-quality-sample-report-be-reproduced-from-its-sources-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-can-the-quality-sample-report-be-reproduced-from-its-sources-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-can-the-quality-sample-report-be-reproduced-from-its-sources-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-can-the-quality-sample-report-be-reproduced-from-its-sources.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-coach-a-specialist-through-a-service-agreement-queue-near-miss-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-coach-a-specialist-through-a-service-agreement-queue-near-miss-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-coverage-risk-in-the-coverage-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-create-a-shared-status-language-for-the-coverage-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-cut-rework-at-the-service-agreement-handoff-with-a-two-field-check.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-decide-what-a-va-may-send-on-coverage-plan-queue-without-a-second-review-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-decide-what-a-va-may-send-on-coverage-plan-queue-without-a-second-review-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-document-the-role-scorecard-escalation-path.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-exception-aging-in-the-quality-sample.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-handoff-delay-patterns-in-the-onboarding-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-complete-is-the-evidence-in-the-client-intake-record-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-complete-is-the-evidence-in-the-client-intake-record-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-complete-is-the-evidence-in-the-client-intake-record-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-complete-is-the-evidence-in-the-client-intake-record.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-many-client-intake-queue-exceptions-lack-a-reversible-record-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-many-client-intake-queue-exceptions-lack-a-reversible-record.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-old-are-the-exceptions-in-the-service-agreement-queue-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-old-are-the-exceptions-in-the-service-agreement-queue-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-old-are-the-exceptions-in-the-service-agreement-queue-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-old-are-the-exceptions-in-the-service-agreement-queue.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-keep-client-intake-queue-evidence-durable-when-the-systems-change-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-keep-client-intake-queue-evidence-durable-when-the-systems-change-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-keep-client-intake-queue-evidence-durable-when-the-systems-change-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-keep-client-intake-queue-evidence-durable-when-the-systems-change.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-map-the-client-intake-decision-to-one-accountable-owner-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-map-the-client-intake-decision-to-one-accountable-owner-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-map-the-client-intake-decision-to-one-accountable-owner-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-map-the-client-intake-decision-to-one-accountable-owner.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-prepare-role-scorecard-queue-work-for-month-end-without-a-scramble.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-protect-onboarding-plan-queue-coverage-during-leave-and-turnover-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-protect-onboarding-plan-queue-coverage-during-leave-and-turnover-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-recover-a-stalled-service-agreement-handoff-without-rebuilding-the-case.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-report-trial-task-workload-with-defensible-counts.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-resolve-a-conflicting-coverage-plan-record-without-erasing-history-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-resolve-a-conflicting-coverage-plan-record-without-erasing-history-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-resolve-a-conflicting-coverage-plan-record-without-erasing-history-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-resolve-a-conflicting-coverage-plan-record-without-erasing-history.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-restrict-access-changes-around-the-quality-sample.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-run-a-monthly-evidence-review-of-the-vendor-packet.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-sample-quality-sample-quality-weekly-not-only-volume-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-sample-quality-sample-quality-weekly-not-only-volume-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-sample-quality-sample-quality-weekly-not-only-volume-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-sample-quality-sample-quality-weekly-not-only-volume.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-set-stop-rules-for-the-service-agreement-before-delegating-it.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-signal-quality-in-the-vendor-packet.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-test-the-onboarding-plan-record-with-a-deliberate-exception.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-train-a-new-specialist-on-the-client-intake-without-copying-shortcuts.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-triage-the-role-scorecard-queue-when-volume-doubles.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-turn-a-quality-sample-queue-backlog-into-a-dated-work-plan-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-turn-a-quality-sample-queue-backlog-into-a-dated-work-plan-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-what-happens-to-coverage-plan-coverage-when-the-owner-is-away-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-what-happens-to-coverage-plan-coverage-when-the-owner-is-away-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-what-happens-to-coverage-plan-coverage-when-the-owner-is-away-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-what-happens-to-coverage-plan-coverage-when-the-owner-is-away.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-where-does-delay-accumulate-in-the-role-scorecard-handoff-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-where-does-delay-accumulate-in-the-role-scorecard-handoff-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-where-does-delay-accumulate-in-the-role-scorecard-handoff-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-where-does-delay-accumulate-in-the-role-scorecard-handoff.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-write-a-reviewer-friendly-control-note-for-the-trial-task.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-write-the-role-scorecard-intake-note-that-survives-a-later-review-2026-11-01.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-write-the-role-scorecard-intake-note-that-survives-a-later-review-2026-11-02.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-write-the-role-scorecard-intake-note-that-survives-a-later-review-2026-11-03.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bestvirtualassistantservices-write-the-role-scorecard-intake-note-that-survives-a-later-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-a-coverage-plan-for-a-virtual-assistant-s-planned-leave.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-a-handover-checklist-for-a-planned-va-absence.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-a-trial-task-scorecard-that-separates-skill-from-coaching-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/build-an-exception-code-list-the-onboarding-plan-team-will-use-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-access-boundary.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-access-recertification.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-access-removal.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-aged-backlog-evidence.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-audit-pack.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-calendar-conflict-rules.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-capacity-error.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-capacity-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-cross-team-escalation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-cross-training-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-cross-training-map.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-customer-rep-handoff.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-decision-log.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-document-expiry-risk.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-document-expiry-watch.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-documentation-drift.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-duplicate-payment-prevention.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-duplicate-request-rate.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-duplicate-request-screen.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-escalation-log.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-escalation-wait.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-evidence-aged-backlog.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-exception-path.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-exception-trend-brief.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-handoff-completeness.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-handoff-record.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-intake-evidence-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-intake-reliability.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-meeting-followup.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-metric-definition.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-onboarding-packet.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-onboarding-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-quality-sample.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-queue-aging.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-queue-ownership.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-recurring-report-reconciliation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-retention-compliance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-retention-disposal.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-reviewer-agreement.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-risk-register.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-role-change-continuity.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-role-change-handover.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-sampling-ai-assisted.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-shared-inbox-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-shared-inbox-map.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-sla-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-source-map.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-tool-consolidation-access.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-vendor-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-vendor-onboarding-packet.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/bva-weekly-brief.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-a-va-replacement-handover-be-reconstructed-from-its-sources-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-a-va-trial-task-predict-performance-after-the-first-month.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-a-virtual-assistant-handoff-be-reconstructed-from-its-sources.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/can-the-quality-sample-report-be-reproduced-from-its-sources-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/client-data-retention-purge-accuracy.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/client-data-return-sequencing.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/continuity-test-scenario-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/contract-change-approval-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-client-data-return-at-contract-end.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-provider-contract-change-request.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-provider-onboarding-training-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-provider-tool-access-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-quality-sample-of-completed-client-work.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-rate-review-before-an-invoice-change.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/control-a-virtual-assistant-onboarding-access-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/coverage-service-level-staffing-match.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/cut-rework-at-the-service-agreement-handoff-with-a-two-field-check-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/decide-when-a-virtual-assistant-task-needs-a-second-reviewer-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/decide-when-a-virtual-assistant-task-needs-a-second-reviewer-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/decide-when-a-virtual-assistant-task-needs-a-second-reviewer.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/decide-which-va-tasks-need-a-second-reviewer-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/decide-which-va-tasks-need-a-second-reviewer.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/design-a-backup-coverage-plan-for-a-single-va-role.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/design-a-quality-sample-for-written-client-updates-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/do-written-client-updates-match-the-delivery-record-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/does-the-client-status-page-match-the-delivery-record-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-coverage-plan-for-a-planned-absence-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-coverage-plan-for-a-planned-absence.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-evidence-in-the-client-intake-record-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-evidence-in-the-client-intake-record-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-task-handover-record-at-the-end-of-a-shift.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-complete-is-the-trial-task-scorecard-before-a-placement-decision-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-consistent-is-the-second-reviewer-rule-across-tasks-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-consistent-is-the-second-reviewer-rule-across-tasks-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-consistent-is-the-second-reviewer-rule-across-tasks.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-many-client-intake-queue-exceptions-lack-a-reversible-record-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-many-va-tasks-bypass-the-second-reviewer-rule-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-much-of-a-va-handover-can-be-rebuilt-from-access-logs.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-often-do-scope-changes-lack-a-dated-approval-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-often-does-a-single-role-va-create-an-unplanned-coverage-gap.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-often-does-a-virtual-assistant-brief-name-the-first-deliverable.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-old-are-open-capacity-exceptions-in-a-managed-va-team-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-old-are-open-client-requests-at-week-end-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-old-are-open-client-requests-at-week-end-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-old-are-open-client-requests-at-week-end.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-old-are-the-exceptions-in-the-service-agreement-queue-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-reliable-is-a-client-task-list-as-a-measure-of-workload.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/how-reproducible-is-the-onboarding-plan-report-from-its-source-extracts-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/invoice-dispute-evidence-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-a-client-facing-status-page-tied-to-the-delivery-record-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-a-client-update-note-that-survives-a-shift-change-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-a-client-update-note-that-survives-a-shift-change-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-a-client-update-note-that-survives-a-shift-change.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-client-intake-queue-evidence-durable-when-the-systems-change-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/keep-meeting-notes-useful-after-the-va-changes.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/knowledge-transfer-completion-before-start.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/map-the-client-intake-decision-to-one-accountable-owner-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/map-the-client-intake-decision-to-one-accountable-owner-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/measure-va-response-time-without-rewarding-speed-alone.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/monthly-review-pack-completeness.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/onboarding-access-approval-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/onboarding-training-completion-before-client-work.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/prepare-a-virtual-assistant-onboarding-week-that-ends-in-a-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/prepare-role-scorecard-queue-work-for-month-end-without-a-scramble-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/provider-access-review-currency.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/provider-exit-plan-test-completion.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/provider-handover-test-completion.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/provider-invoice-rate-variance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/quality-sample-coverage-of-rework-types.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-monthly-service-summary-against-the-ticket-log.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-provider-invoice-against-the-service-agreement.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-provider-performance-review-scorecard.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-provider-reference-check-record.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-quarterly-provider-review-pack.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-service-agreement-against-the-approved-role-scope.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reconcile-a-tool-license-list-against-named-users.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/record-a-client-request-without-losing-the-original-scope-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/record-a-client-request-without-losing-the-original-scope-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/record-a-client-request-without-losing-the-original-scope.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/record-a-scope-change-without-rewriting-the-service-agreement-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/reference-check-completion-before-selection.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/renewal-review-completion-before-notice-deadline.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/resolve-a-conflicting-coverage-plan-record-without-erasing-history-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/review-a-provider-renewal-before-the-notice-deadline.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/sample-quality-sample-quality-weekly-not-only-volume-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/sample-quality-sample-quality-weekly-not-only-volume-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/scope-a-trial-project-that-tests-one-buyer-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/screen-a-virtual-assistant-with-a-paid-calendar-conflict-exercise.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/screen-a-virtual-assistant-with-a-written-handoff-exercise-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/screen-a-virtual-assistant-with-a-written-handoff-exercise-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/screen-a-virtual-assistant-with-a-written-handoff-exercise.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/seat-utilization-report-accuracy.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/security-attestation-currency.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/security-questionnaire-evidence-currency.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/service-agreement-scope-variance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/service-credit-claim-evidence-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/service-level-credit-evidence-rate.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/service-summary-reconciliation-rate.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/set-a-weekly-capacity-check-for-a-managed-va-team-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/set-a-weekly-check-in-that-reviews-work-not-activity-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/set-a-weekly-check-in-that-reviews-work-not-activity-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/set-a-weekly-check-in-that-reviews-work-not-activity.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/set-a-weekly-quality-sample-for-written-client-updates.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/subcontractor-disclosure-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/test-a-backup-coverage-plan-for-planned-leave.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/tool-license-named-user-accuracy.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/track-time-zone-coverage-without-overloading-one-assistant-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/trial-project-acceptance-evidence-rate.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-coverage-service-level-in-the-operating-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-provider-business-continuity-test.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-provider-exit-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-provider-s-security-questionnaire-answers.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-service-credit-claim-after-a-missed-deliverable.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-service-level-credit-claim.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-a-subcontractor-disclosure-in-the-service-agreement.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/verify-an-offboarding-handover-for-a-departing-assistant.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-control-audit.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-expiry-enforcement-completeness.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-removal-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-removal-completion-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-removal.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-request-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-review-cadence.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-review-evidence-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-access-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-accessibility-review-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-after-hours-incident-relay.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-agency-project-handoff.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-ai-output-quality-assurance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-ai-use-policy-handoffs.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-analytics-reporting.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-appointment-reminder-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-appointment-reminder-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-appointment-scheduling-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-appointment-setting-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-appointment-setting-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-accessibility-check.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-approval-record.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-approval-window.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-audience-evidence-fit.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-brief-scope-lock.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-escalation-ladder.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-metrics-review.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-owner-matrix.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-plain-language-pass.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-qa-evidence.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-quote-permission-check.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-reader-fit.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-reader-scenario-test.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-research-claim-triage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-review-sla.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-revision-brief.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-scope-drift-measure.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-search-snippet-review.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-source-boundary.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-update-evidence-threshold.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "/blog/images/virtual-assistant-article-version-handoff.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-backup-activation-latency-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-backup-coverage-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-backup-coverage-plan.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-billing-deliverable-reconciliation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-blog-brief-template.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-blog-claim-strength-ladder.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-blog-content-handoff.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-blog-coverage-gap-audit.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-blog-reference-snapshot.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-bookkeeping-support-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-business-continuity-coverage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-buffer-rule-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-capacity-planning.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-capacity-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-conflict-detection-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-conflict-resolution.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-conflict-triage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-delegation-boundaries.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-delegation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-calendar-management-rules.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-call-quality-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-capacity-planning.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-automation-kill-switch.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-feedback-analysis.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-intake-call-preparation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-intake-data-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-offboarding-access.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-onboarding-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-onboarding-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-onboarding-metrics.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-record-deletion-evidence.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-reporting-template.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-client-travel-handover.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-community-moderation-playbook.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-community-operations-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-complaint-evidence-envelope.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-approval-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-brief-approval.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-brief-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-brief-decision-owner.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-brief-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-brief-research-reproducibility.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-calendar-operations.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-calendar-sequence.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-calendar-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-claim-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-exception-log.webp",
+      "width": 1659,
+      "height": 948
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-fact-checking.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-fact-pattern.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-refresh-trigger.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-repurposing-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-repurposing-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-content-review-calendar.webp",
+      "width": 1693,
+      "height": 929
+    },
+    {
+      "path": "/blog/images/virtual-assistant-course-admin-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-coverage-hours-planning.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-credential-rotation-supervision.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-crm-cleanup-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-crm-contact-change.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-crm-data-entry-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-crm-data-hygiene.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-crm-field-completeness-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-crm-record-reconciliation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-cross-client-file-isolation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-cross-client-isolation-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-data-request.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-escalation-notes.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-feedback-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-feedback-summary.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-feedback-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-inbox-triage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-onboarding-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-onboarding-emails.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-refund-escalation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-success-handoffs.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-support-escalation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-support-quality-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-customer-support-queue-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-daily-article-intent-register.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-daily-article-source-freshness.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "/blog/images/virtual-assistant-daily-article-status.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-daily-content-retrospective.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-daily-publishing-recovery.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-data-cleanup-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-data-enrichment-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-data-entry-accuracy.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-data-entry-error-prevention.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-data-entry-quality-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-delegation-evidence-transfer.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-delegation-readiness.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-digital-accessibility-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-document-access-governance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-document-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-document-management-system.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-document-retention-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-document-review-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-document-version-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-donor-records-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-dst-calendar-check.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-ecommerce-customer-returns-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-ecommerce-order-escalation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-ecommerce-order-support.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-ecommerce-product-catalog.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-editorial-calendar-signal-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-editorial-quality-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-editorial-source-conflict-log.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "/blog/images/virtual-assistant-email-newsletter-operations.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-email-queue-prioritization.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-email-security-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-employee-onboarding-admin.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-escalation-receipt-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-escalation-severity.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-event-operations.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-exception-queue-reopening-measurement.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-executive-travel-risk-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-expense-receipt-organization.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-expense-report-preparation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-file-migration-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-file-naming-convention.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-file-sharing-permissions.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-handoff-acceptance-disagreement-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-handover-acceptance-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-healthcare-office-admin.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-healthcare-scheduling-boundaries.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-help-desk-routing.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-delegation-rules.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-escalation-matrix.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-misroute-detection-reliability.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-ownership-map.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-response-sampling-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-triage-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inbox-zero-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-instruction-ambiguity-burden-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-instruction-change-latency-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-intake-to-publish-control.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inventory-reorder-tracker.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-inventory-tracking-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-invoice-exception-routing.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-invoice-follow-up-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-invoice-follow-up.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-invoice-processing-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-keyword-research-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-knowledge-article-retirement-queue.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-knowledge-base-maintenance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-knowledge-base-search-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-knowledge-handoff-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-knowledge-transfer-handoffs.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-kpi-dashboard.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-lead-follow-up-notes.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-lead-follow-up-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-lead-handoff-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-lead-qualification-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-lead-response-time-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-legal-admin-task-list.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-legal-intake-admin-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-manager-article-queue.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-accessibility.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-action-acceptance-receipt.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-action-verification.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-agenda-design.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-agenda-operations.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-follow-up-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-note-retention.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-notes-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-meeting-preparation-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-monthly-client-report.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-monthly-operations-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-multilingual-customer-handoff.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-newsletter-list-hygiene.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-office-administration.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-operations-reporting.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-outsourcing-readiness-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-owner-review-scorecard.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-phone-answering-script.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-podcast-guest-brief.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-podcast-production-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-podcast-production-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-podcast-production-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-priority-override-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-procurement-coordination.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-project-coordination-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-project-intake-form.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-project-risk-register.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-project-status-reporting.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-provider-ai-tool-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-provider-escalation-receipt.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-provider-escalation-support-comparison.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-provider-reference-check-packet.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-provider-selection-scorecard.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-publishing-calendar-rules.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-publishing-exception-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-publishing-rollback-note.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-quality-scorecard.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-real-estate-admin-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-real-estate-lead-admin.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-real-estate-listing-prep.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-recruiting-coordination-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-recurring-report-assumption-register.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-recurring-work-backlog.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-redaction-completeness-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-redaction-request-route.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-remote-onboarding-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-remote-team-handoff-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-remote-work-continuity.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-report-delivery-evidence-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-report-recipient-verification.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-assistant-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-brief-evidence-ladder.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-briefs.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-claim-aging-map.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-image-rights-review.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-reviewer-calibration.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-source-freshness.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-research-source-log.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-review-sampling-bias-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sales-pipeline-handoffs.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sales-pipeline-hygiene.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-security-access-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-seo-publishing-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-seo-quality-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-service-change-freeze-window.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-service-cost-calculator.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-service-level-reporting.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-service-level-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-service-quality-assurance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-service-transition-acceptance.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-shadow-access-register.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-shared-inbox-auto-reply.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-shared-mailbox-sender-identity-audit.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-shift-overlap-reconciliation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-social-content-approval.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-social-media-approval.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-social-media-moderation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-social-media-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sop-audit-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sop-change-log.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sop-maintenance-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sop-retrieval-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-sop-writing-guide.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-source-method-fit-audit.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-spreadsheet-cleanup-workflow.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-spreadsheet-import-quarantine.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-subcontractor-onboarding-notice.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-survey-operations-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-survey-response-processing.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-task-brief-for-repeatable-delegation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-task-estimation-methods.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-task-exception-recurrence-study.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-task-retry-limit-definition.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-temporary-coverage-activation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-time-zone-handoff.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-travel-change-control.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-travel-expense-reconciliation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-travel-itinerary-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-travel-planning-brief.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-comparison-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-contact-change-verification.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-document-renewal.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-invoice-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-onboarding-controls.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-onboarding.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-renewal-calendar.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-renewal-tracking.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-research-process.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-vendor-risk-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-virtual-receptionist-routing.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-webinar-coordination-checklist.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-website-content-update.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-website-content-updates.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-website-update-request.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-weekly-operations-report.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-weekly-task-prioritization.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-work-intake-triage.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-work-sample-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/virtual-assistant-workflow-documentation.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-does-a-response-time-target-hide-about-queue-quality.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-happens-to-coverage-plan-coverage-when-the-owner-is-away-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-share-of-va-errors-are-caught-by-the-weekly-quality-sample.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-share-of-weekly-check-ins-produce-a-decision-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-share-of-weekly-check-ins-produce-a-decision-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/what-share-of-weekly-check-ins-produce-a-decision.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/where-does-delay-accumulate-in-a-virtual-assistant-request-in-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/where-does-delay-accumulate-in-a-virtual-assistant-request-in-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/where-does-delay-accumulate-in-a-virtual-assistant-request.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-a-task-intake-note-that-survives-a-shift-change.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-a-virtual-assistant-brief-that-names-the-first-deliverable-for-the-following-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-a-virtual-assistant-brief-that-names-the-first-deliverable-for-the-next-cycle.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-a-virtual-assistant-brief-that-names-the-first-deliverable.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-december-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-the-role-scorecard-intake-note-that-survives-a-later-review-for-the-november-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/blog/images/write-the-va-handover-note-that-survives-a-replacement-for-the-winter-planning-review.webp",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "/brand/stealth-agents-logo-black.png",
+      "width": 149,
+      "height": 50
+    },
+    {
+      "path": "/brand/stealth-agents-team-bacolod.png",
+      "width": 953,
+      "height": 540
+    },
+    {
+      "path": "/photos/blog.webp",
+      "width": 1800,
+      "height": 1352
+    },
+    {
+      "path": "/photos/calendar.webp",
+      "width": 1800,
+      "height": 1203
+    },
+    {
+      "path": "/photos/crm.webp",
+      "width": 1800,
+      "height": 1282
+    },
+    {
+      "path": "/photos/ecommerce.webp",
+      "width": 1800,
+      "height": 1201
+    },
+    {
+      "path": "/photos/hero.webp",
+      "width": 2000,
+      "height": 1333
+    },
+    {
+      "path": "/photos/inbox.webp",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "path": "/photos/legal.webp",
+      "width": 1800,
+      "height": 1201
+    },
+    {
+      "path": "/photos/podcast.webp",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "path": "/photos/real-estate.webp",
+      "width": 1800,
+      "height": 1352
+    },
+    {
+      "path": "/photos/research.webp",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "path": "/photos/sales.webp",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "path": "/photos/services.webp",
+      "width": 1800,
+      "height": 1201
+    },
+    {
+      "path": "/photos/support.webp",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "path": "/photos/travel.webp",
+      "width": 1800,
+      "height": 1196
+    }
+  ]
+}

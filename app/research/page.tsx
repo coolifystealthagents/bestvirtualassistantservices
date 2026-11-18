@@ -47,43 +47,12 @@ export default function Research() {
                 <span>Buyer controls</span>
               </div>
             </div>
-            <aside
-              className="research-hero-card"
-              aria-label="Research quality signals"
-            >
-              <div>
-                <span>Benchmarks and operating context</span>
-              </div>
-              <div>
-                <span>Practical screening questions</span>
-              </div>
-              <div>
-                <span>Implementation checks</span>
-              </div>
-            </aside>
+            <aside className="research-hero-card"><img src="/photos/research.webp" alt="Research notes and a laptop on a working desk" width="1200" height="800"/></aside>
           </div>
         </section>
         <section className="section research-library-section">
           <div className="container">
-            <nav
-              className="research-cluster-tabs"
-              aria-label="Research topic filters"
-            >
-              {clusters.map((cluster, i) => (
-                <a
-                  className={i === 0 ? "active" : ""}
-                  href="/research"
-                  key={cluster}
-                >
-                  {cluster}
-                  <small>
-                    {i === 0
-                      ? posts.length
-                      : Math.max(1, Math.ceil((posts.length || 1) / 3))}
-                  </small>
-                </a>
-              ))}
-            </nav>
+
             <div className="research-card-grid">
               {posts.length ? (
                 posts.map((p, i) => (
@@ -92,8 +61,8 @@ export default function Research() {
                     href={`/research/${p.slug}`}
                     key={p.slug}
                   >
-                    <span className="research-card-badge">
-                      {clusters[(i % 3) + 1]}
+                    <img src={p.thumbnail || "/photos/research.webp"} alt={p.title} width="1200" height="675" loading="lazy"/><span className="research-card-badge">
+                      Research
                     </span>
                     <h2>{p.title}</h2>
                     <p className="research-card-highlight">

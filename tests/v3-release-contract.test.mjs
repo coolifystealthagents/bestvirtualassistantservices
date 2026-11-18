@@ -111,7 +111,7 @@ test('ten service records expose complete deep-content fields and unique heroes'
     assert.ok(slug && metaTitle && heroPath, 'service record lacks slug, metaTitle, or heroImage');
     assert.ok(metaTitle.length <= 60, `${slug} metaTitle exceeds 60 characters`);
     metaTitles.push(metaTitle);
-    assert.match(heroPath, /^\/services\/[a-z0-9-]+\.svg$/);
+    assert.match(heroPath, /^\/photos\/[a-z0-9-]+\.webp$/);
     heroPaths.push(heroPath);
 
     const faqSource = record.match(/\n    faq:\s*\[([^]*?)\n    \],/)?.[1] || '';
@@ -126,10 +126,10 @@ test('ten service records expose complete deep-content fields and unique heroes'
   for (const heroPath of heroPaths) {
     const assetUrl = new URL(`../public${heroPath}`, import.meta.url);
     assert.ok(existsSync(assetUrl), `missing ${heroPath}`);
-    const svg = readFileSync(assetUrl, 'utf8');
-    assert.match(svg, /^\s*<svg\b/i, `${heroPath} must be a standalone SVG`);
-    assert.match(svg, /\bviewBox=["']0 0 1200 675["']/i, `${heroPath} has the wrong viewBox`);
-    assert.doesNotMatch(svg, /<script\b|\bon\w+\s*=|\b(?:href|xlink:href)\s*=\s*["'](?:https?:|\/\/|data:|javascript:)/i, `${heroPath} contains active or external content`);
+    const image = readFileSync(assetUrl);
+    assert.equal(image.toString('ascii', 0, 4), 'RIFF', `${heroPath} must be a valid WebP container`);
+    assert.equal(image.toString('ascii', 8, 12), 'WEBP', `${heroPath} must be a WebP image`);
+    assert.ok(image.length > 10000, `${heroPath} must contain a substantive image`);
   }
 
   const template = read('app/services/[slug]/page.tsx');

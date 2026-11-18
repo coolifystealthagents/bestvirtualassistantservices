@@ -1,165 +1,35 @@
 import type { Metadata } from 'next';
-import { Header, Footer, JsonLd } from './components';
-import { site, comparisonRows, reviewCriteria, vettingSteps, faqs, blogPosts } from './data';
-import { researchPosts } from './fleet-data';
+import { Header, Footer, JsonLd, CTA } from './components';
+import { site, comparisonRows, reviewCriteria, faqs } from './data';
+import { fleetServices } from './fleet-data';
+import { allBlogPosts } from './content-library';
+import { TestimonialsRail } from './booking-components';
+import { HomeMotion } from './redesign-motion';
 
-export const metadata: Metadata = {
-  title: 'Virtual Assistant Service Comparison Guide',
-  alternates: { canonical: '/' },
-};
-
-const modelLabel = (option: string) => option.replace(' virtual assistant', '').replace(' assistant', '');
-
+export const metadata: Metadata = { title: 'Virtual Assistant Service Comparison Guide', alternates: { canonical: '/' } };
 export default function Home() {
-  const schema = {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    name: site.brand,
-    url: site.url,
-    description: 'Guides for comparing Philippines-based virtual assistant services, support models, and provider fit.',
-  };
-
-  return <>
-    <Header />
-    <main className="research-home" data-design="comparison-desk-2026-07" data-gi-rollout="two-illustration-packs-one-icon-pack">
-      <JsonLd data={schema} />
-
-      <section className="research-hero">
-        <div className="hero-rule" aria-hidden="true" />
-        <div className="container research-hero-grid">
-          <div className="research-copy">
-            <p className="issue-label"><span>Virtual assistant buyer's guide</span><span>Philippines-only talent</span></p>
-            <h1>Compare Filipino virtual assistant services with a clearer scorecard.</h1>
-            <p className="research-lead">Start with the role, not a sales pitch. Use the same questions to compare managed services, specialist teams, and freelance Filipino assistants.</p>
-            <div className="actions">
-              <a className="btn primary" href="/contact-us">Build my Filipino VA shortlist</a>
-              <a className="text-action" href="/compare">Compare service models <span aria-hidden="true">↗</span></a>
-            </div>
-            <p className="cta-note">Every staffing path on this site recruits in the Philippines. Contact requests are shared with Stealth Agents, the staffing provider that powers this site, for follow up about the role, tools, schedule, and review needs.</p>
-            <div className="planning-notes" aria-label="Planning guidance">
-              <div><strong>PH</strong><span>only recruiting market</span></div>
-              <div><strong>4</strong><span>service models compared</span></div>
-              <div><strong>100</strong><span>points in the vetting scorecard</span></div>
-            </div>
-          </div>
-
-          <div className="editorial-visual">
-            <div className="image-frame">
-              <img src="/illustrations/getillustrations/goodle-business-illustrations-svg/va-service-comparison.svg" alt="Illustration of strategic planning for a Filipino virtual assistant service comparison" />
-              <span className="photo-index">Philippines review desk</span>
-            </div>
-            <aside className="quick-pick" aria-label="Management load by service model">
-              <p>Planning lens</p>
-              <h2>Management load by service model</h2>
-              <div><span>Less</span><b>Managed Filipino service</b></div>
-              <div><span>Some</span><b>Filipino specialist team</b></div>
-              <div><span>More</span><b>Freelance Filipino VA</b></div>
-            </aside>
-          </div>
-        </div>
-      </section>
-
-      <section className="signal-strip" aria-label="What this guide helps compare">
-        <div className="container">
-          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/screening-check.svg" alt="Screening check icon" width="28" height="28" /> Screening</span><i />
-          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/role-fit-target.svg" alt="Filipino role fit icon" width="28" height="28" /> Filipino role fit</span><i />
-          <span><img src="/icons/getillustrations/sharpie-business-icons-svg/review-scorecard.svg" alt="Management scorecard icon" width="28" height="28" /> Management</span><i />
-          <span>Backup</span><i />
-          <span>Security</span>
-        </div>
-      </section>
-
-      <section className="container editorial-section" id="models">
-        <div className="section-intro">
-          <div><p className="section-number">Service models</p><h2>Four ways to get help. Four very different jobs for you.</h2></div>
-          <p>The cheapest quote can still be the most work. Compare who screens, trains, reviews, and steps in when the first match falls through.</p>
-        </div>
-        <div className="model-list">
-          {comparisonRows.map((row, index) => <article className="model-row" key={row.option}>
-            <div className="model-name"><p>{index === 1 ? 'Lower owner load' : index === 2 ? 'Role-specific support' : index === 0 ? 'Direct management' : 'In-house context'}</p><h3>{modelLabel(row.option)}</h3></div>
-            <div className="model-fit"><span>Good fit when</span><p>{row.bestFor}</p></div>
-            <div className="model-question"><span>Ask before signing</span><p>{row.ask}</p></div>
-          </article>)}
-        </div>
-        <a className="inline-link" href="/compare">Read the full comparison <span>→</span></a>
-      </section>
-
-      <section className="scorecard-section">
-        <div className="container scorecard-grid">
-          <div className="scorecard-copy">
-            <p className="section-number light">Shortlist scorecard</p>
-            <h2>Make the provider earn the shortlist.</h2>
-            <p>Use the same questions in every call. A polished intro means less than clear answers about screening, supervision, access, and replacement support.</p>
-            <img src="/illustrations/getillustrations/goodle-team-illustrations-svg/provider-scorecard-review.svg" alt="Provider scorecard review workflow" style={{ width: '100%', maxWidth: 360, marginTop: '1.5rem' }} loading="lazy" />
-            <a className="btn paper-btn" href="/provider-vetting">Open the vetting guide</a>
-          </div>
-          <div className="score-sheet" aria-label="Provider review criteria">
-            <div className="score-sheet-head"><span>Review area</span><span>Weight</span></div>
-            {reviewCriteria.map((item) => <div className="score-line" key={item.label}>
-              <div><strong>{item.label}</strong><p>{item.note}</p></div>
-              <b>{item.score}</b>
-            </div>)}
-            <div className="total-line"><span>Total</span><strong>100%</strong></div>
-          </div>
-        </div>
-      </section>
-
-      <section className="container editorial-section launch-section">
-        <div className="section-intro compact">
-          <div><p className="section-number">First week</p><h2>Test the handoff with a small piece of real work.</h2></div>
-          <p>Use real work, keep access narrow, and review at the same time each day. You are testing the handoff as much as the assistant.</p>
-        </div>
-        <div className="steps-grid">
-          {vettingSteps.map((step, index) => <article key={step.title}>
-            <span>Step {index + 1}</span>
-            <h3>{step.title}</h3>
-            <p>{step.text}</p>
-          </article>)}
-        </div>
-      </section>
-
-      <section className="reading-room">
-        <div className="container">
-          <div className="reading-head"><div><p className="section-number light">Reading room</p><h2>Do the homework before the sales call.</h2></div><a href="/blog">Browse all guides →</a></div>
-          {researchPosts[0] ? <a className="featured-report" href={`/research/${researchPosts[0].slug}`}>
-            <div>
-              <span className="featured-report-label">New Philippines evidence report</span>
-              <h3>{researchPosts[0].title}</h3>
-              <p>{researchPosts[0].excerpt}</p>
-              <b>Read the sourced report →</b>
-            </div>
-            <dl aria-label="Report details">
-              <div><dt>Sources</dt><dd>{researchPosts[0].sources.length}</dd></div>
-              <div><dt>Buyer checks</dt><dd>{researchPosts[0].keyTakeaways.length}</dd></div>
-              <div><dt>Read time</dt><dd>{researchPosts[0].readingMinutes} min</dd></div>
-            </dl>
-          </a> : null}
-          <div className="article-grid">
-            {blogPosts.slice(0, 3).map((post, index) => <a href={`/blog/${post.slug}`} key={post.slug}>
-              <span>{post.minutes} min read</span>
-              <h3>{post.title}</h3>
-              <p>{post.excerpt}</p>
-              <b>Read guide ↗</b>
-            </a>)}
-          </div>
-        </div>
-      </section>
-
-      <section className="container faq-section">
-        <div><p className="section-number">Common questions</p><h2>Answers without the pitch.</h2></div>
-        <div className="faq-list">
-          {faqs.map((faq, index) => <details key={faq.q} open={index === 0}>
-            <summary>{faq.q}<span>+</span></summary>
-            <p>{faq.a}</p>
-          </details>)}
-        </div>
-      </section>
-
-      <section className="container shortlist-cta">
-        <div><p className="section-number">A useful next step</p><h2>Bring the task list. Leave with a sharper shortlist.</h2></div>
-        <div><p>Tell us what repeats, which tools are involved, and where mistakes would hurt. Stealth Agents, the staffing provider that powers this site, will follow up to discuss the service model before you start interviewing.</p><a className="btn primary" href="/contact-us">Build my shortlist</a></div>
-      </section>
-    </main>
-    <Footer />
-  </>;
+  return <><Header/><main id="main-content" className="bva-home" data-design="bva-editorial-2026-11">
+    <JsonLd data={{'@context':'https://schema.org','@type':'WebSite',name:site.brand,url:site.url,description:'Practical guidance and Philippines-based virtual assistant support.'}}/>
+    <HomeMotion/>
+    <section className="bva-hero">
+      <div className="container">
+        <h1>Your best work.<br/><span>A little more supported.</span></h1>
+        <p>Find the right Filipino virtual assistant for the work that fills your day. Clear roles, thoughtful comparisons, and a better way to hand things over.</p>
+        <div className="bva-actions"><a className="btn primary" href="/contact-us">Find my support <span aria-hidden="true">↗</span></a><a className="btn secondary" href="/services">Explore the services</a></div>
+      </div>
+      <figure className="bva-hero-photo"><img src="/photos/hero.webp" alt="A bright shared workspace with thoughtfully arranged desks" width="1800" height="1100" fetchPriority="high"/><figcaption>More room for the work only you can do.</figcaption></figure>
+      <div className="bva-disclosure container"><span>Philippines-based talent. Your priorities.</span><p>Powered by Stealth Agents. Contact requests go directly to its staffing team.</p></div>
+    </section>
+    <section className="bva-section container" id="services">
+      <div className="bva-section-head"><h2>Good support starts<br/>with the <span className="bva-inline-photo"><img src="/photos/calendar.webp" alt="A working calendar" width="160" height="90" loading="lazy"/></span> right role.</h2><div><p>From the first meeting to the last follow-up, give recurring work a clear owner and a reliable rhythm.</p><a className="bva-link" href="/services">Explore all services ↗</a></div></div>
+      <div className="bva-service-accordion">{fleetServices.slice(0,4).map(s=><a href={`/services/${s.slug}`} className="bva-service-slice" key={s.slug}><img src={s.heroImage} alt={s.heroAlt} width="900" height="600" loading="lazy"/><div><h3>{s.name}</h3><p>{s.desc}</p><span>Explore service ↗</span></div></a>)}</div>
+      <div className="bva-service-links">{fleetServices.slice(4).map(s=><a href={`/services/${s.slug}`} key={s.slug}>{s.name}<span aria-hidden="true">↗</span></a>)}</div>
+    </section>
+    <section className="bva-models" id="models"><div className="container bva-model-layout"><div className="bva-pin"><p className="bva-overline">A more thoughtful shortlist</p><h2>Choose the support.<br/>Know the trade-offs.</h2><p>A good match goes beyond an hourly rate. Compare the training, review time, and backup your team will actually need.</p><a className="btn secondary" href="/compare">Compare the models ↗</a></div><div className="bva-model-cards">{comparisonRows.map((row,i)=><article className="bva-stack-card" key={row.option}><span className="bva-model-symbol" aria-hidden="true">{['↗','✳','⌘','◇'][i]}</span><h3>{row.option}</h3><p>{row.bestFor}</p><div><strong>Ask before you commit</strong><p>{row.ask}</p></div></article>)}</div></div></section>
+    <section className="bva-section container bva-score"><div><p className="bva-overline">Make every conversation count</p><h2>A clearer scorecard.<br/>A more confident choice.</h2><p>Use the same questions with every provider. Look for evidence of the work, a named reviewer, and an honest answer when something goes wrong.</p><a className="bva-link" href="/provider-vetting">Get the provider vetting guide ↗</a></div><div className="bva-score-sheet">{reviewCriteria.map(item=><div key={item.label}><strong>{item.label}<small>{item.note}</small></strong><span>{item.score}</span></div>)}<p>Suggested weighting for your shortlist, not a provider rating.</p></div></section>
+    <section className="bva-reviews"><div className="container"><TestimonialsRail/></div></section>
+    <section className="bva-section container"><div className="bva-section-head"><h2>A little reading.<br/>A better first handoff.</h2><a className="bva-link" href="/blog">Visit the Blog ↗</a></div><div className="bva-blog-grid">{allBlogPosts.slice(0,3).map(post=><a className="bva-blog-card" href={`/blog/${post.slug}`} key={post.slug}><div className="bva-thumb"><img src={post.featuredImage} alt={post.title} width="1200" height="675" loading="lazy"/></div><span>{post.minutes} min read</span><h3>{post.title}</h3><p>{post.excerpt}</p><b>Read the guide ↗</b></a>)}</div></section>
+    <section className="bva-section container bva-faq"><h2>A few things<br/>worth asking.</h2><div>{faqs.map(f=><details key={f.q}><summary>{f.q}<span aria-hidden="true">+</span></summary><p>{f.a}</p></details>)}</div></section>
+    <CTA/>
+  </main><Footer/></>;
 }

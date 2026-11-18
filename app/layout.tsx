@@ -1,6 +1,8 @@
 import { AcrClient } from './acr-client';
 import Script from 'next/script';
 import './globals.css';
+import './font.css';
+import './redesign.css';
 import type { Metadata } from 'next';
 import { JsonLd } from './components';
 import { site } from './data';

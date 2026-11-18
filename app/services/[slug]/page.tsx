@@ -92,7 +92,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
                 <Link href="/services">Services</Link><span aria-hidden="true">/</span><span aria-current="page">{service.name}</span>
               </nav>
               <p className="eyebrow">Philippines-based virtual assistant support</p>
-              <h1>{service.title}</h1>
+              <h1>{service.name}</h1>
               <p className="lead">{service.desc}</p>
               <div className="service-hero-actions">
                 <Link className="btn primary" href="/contact-us">Discuss this service</Link>
@@ -101,7 +101,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
             </div>
             <figure className="service-hero-figure">
               <Image src={service.heroImage} alt={service.heroAlt} width={900} height={600} priority sizes="(max-width: 900px) 100vw, 44vw" />
-              <figcaption aria-hidden="true">Workflow illustration</figcaption>
+
             </figure>
           </div>
         </header>
