@@ -19,3 +19,20 @@ body{background:var(--cream);color:var(--ink);font-family:var(--display);font-si
 .contact-form .sa-form-card label{margin:0!important}.sa-testimonials{border-radius:0!important}.bva-disclosure p{font-size:13px!important}.bva-footer .logo-mark-wrap{align-items:flex-start}
 @media(max-width:700px){.bva-disclosure p{font-size:11px!important}.mobile-menu{top:83px!important}.mobile-menu nav{box-shadow:none;width:100%;padding:15px}.bva-hero>.container>p{line-height:1.55}.contact-form .sa-form-card .sa-grid{grid-template-columns:1fr!important}.contact-form .sa-form-card label{font-size:14px!important}.contact-form form{gap:14px!important}}
 @media(min-width:1000px){.contact-hero{padding:20px 0!important}.contact-form .sa-form-card{padding:20px 28px!important}.contact-form form{gap:8px!important}}
+
+.research-index-page .research-hero h1{color:var(--ink)!important}
+
+.compare-page{--compare-blue:#254e43;--compare-navy:#182a27;--compare-gold:#dce9c7;--compare-pale:#edf2e5;background:var(--cream);color:var(--ink)}
+.editorial-promise strong{color:var(--ink)}
+.compare-cover{box-shadow:none;border-radius:14px;min-height:0;padding:0;background:transparent}
+.compare-cover:before{display:none}
+.compare-cover img{border-radius:14px;height:410px}
+.compare-cover figcaption{position:static;padding:18px 0;background:none}
+.compare-cover figcaption strong{font-family:var(--display)}
+.research-report-hero,.alt-index-hero,.alt-hero{background:#edf2e5;color:var(--ink);border-bottom:1px solid var(--line)}
+.research-report-hero h1,.alt-index-hero h1,.alt-hero h1{color:var(--ink);font-weight:500;font-size:clamp(40px,4.7vw,68px);line-height:1.06}
+.research-report-lead,.research-breadcrumbs,.research-breadcrumbs span:last-child,.research-text-link,.research-report-meta span,.alt-index-hero p:last-child,.alt-hero .lead{color:var(--muted)}
+.research-report-meta span{border-color:var(--line)}
+.research-key-box{background:#dfe9d3;box-shadow:none;border-radius:14px}
+.research-toc,.alt-toc{top:112px}
+.research-copy-section,.alt-article>section{scroll-margin-top:112px}
