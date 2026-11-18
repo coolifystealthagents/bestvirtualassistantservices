@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-provider-invoice-dispute-record",
+      "title": "Audit a provider invoice dispute record",
+      "path": "content/blog/audit-a-provider-invoice-dispute-record.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-invoice-dispute-record.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-security-attestation",
+      "title": "Audit a provider security attestation",
+      "path": "content/blog/audit-a-provider-security-attestation.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-security-attestation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-contract-change-request",
+      "title": "Control a provider contract change request",
+      "path": "content/blog/control-a-provider-contract-change-request.mdx",
+      "featuredImage": "/blog/images/control-a-provider-contract-change-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-onboarding-training-plan",
+      "title": "Control a provider onboarding training plan",
+      "path": "content/blog/control-a-provider-onboarding-training-plan.mdx",
+      "featuredImage": "/blog/images/control-a-provider-onboarding-training-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-reference-check-record",
+      "title": "Reconcile a provider reference check record",
+      "path": "content/blog/reconcile-a-provider-reference-check-record.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-reference-check-record.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-quarterly-provider-review-pack",
+      "title": "Reconcile a quarterly provider review pack",
+      "path": "content/blog/reconcile-a-quarterly-provider-review-pack.mdx",
+      "featuredImage": "/blog/images/reconcile-a-quarterly-provider-review-pack.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-exit-plan",
+      "title": "Verify a provider exit plan",
+      "path": "content/blog/verify-a-provider-exit-plan.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-exit-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-service-level-credit-claim",
+      "title": "Verify a service level credit claim",
+      "path": "content/blog/verify-a-service-level-credit-claim.mdx",
+      "featuredImage": "/blog/images/verify-a-service-level-credit-claim.webp"
+    },
+    {
+      "type": "blog",
       "slug": "audit-a-client-onboarding-knowledge-transfer",
       "title": "Audit a client onboarding knowledge transfer",
       "path": "content/blog/audit-a-client-onboarding-knowledge-transfer.mdx",
@@ -5415,6 +5471,13 @@
     },
     {
       "type": "research",
+      "slug": "contract-change-approval-coverage",
+      "title": "Contract change approval coverage",
+      "path": "content/research/contract-change-approval-coverage.mdx",
+      "featuredImage": "/blog/images/contract-change-approval-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "coverage-service-level-staffing-match",
       "title": "Coverage service level staffing match",
       "path": "content/research/coverage-service-level-staffing-match.mdx",
@@ -5674,6 +5737,13 @@
     },
     {
       "type": "research",
+      "slug": "invoice-dispute-evidence-coverage",
+      "title": "Invoice dispute evidence coverage",
+      "path": "content/research/invoice-dispute-evidence-coverage.mdx",
+      "featuredImage": "/blog/images/invoice-dispute-evidence-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "knowledge-transfer-completion-before-start",
       "title": "knowledge transfer completion before start",
       "path": "content/research/knowledge-transfer-completion-before-start.mdx",
@@ -5709,6 +5779,13 @@
     },
     {
       "type": "research",
+      "slug": "onboarding-training-completion-before-client-work",
+      "title": "Onboarding training completion before client work",
+      "path": "content/research/onboarding-training-completion-before-client-work.mdx",
+      "featuredImage": "/blog/images/onboarding-training-completion-before-client-work.webp"
+    },
+    {
+      "type": "research",
       "slug": "philippines-virtual-assistant-data-access-governance-study",
       "title": "Philippines Virtual Assistant Data Access Governance Study",
       "path": "content/research/philippines-virtual-assistant-data-access-governance-study.mdx",
@@ -5727,6 +5804,13 @@
       "title": "provider access review currency",
       "path": "content/research/provider-access-review-currency.mdx",
       "featuredImage": "/blog/images/provider-access-review-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "provider-exit-plan-test-completion",
+      "title": "Provider exit plan test completion",
+      "path": "content/research/provider-exit-plan-test-completion.mdx",
+      "featuredImage": "/blog/images/provider-exit-plan-test-completion.webp"
     },
     {
       "type": "research",
@@ -5751,6 +5835,13 @@
     },
     {
       "type": "research",
+      "slug": "reference-check-completion-before-selection",
+      "title": "Reference check completion before selection",
+      "path": "content/research/reference-check-completion-before-selection.mdx",
+      "featuredImage": "/blog/images/reference-check-completion-before-selection.webp"
+    },
+    {
+      "type": "research",
       "slug": "renewal-review-completion-before-notice-deadline",
       "title": "Renewal review completion before notice deadline",
       "path": "content/research/renewal-review-completion-before-notice-deadline.mdx",
@@ -5762,6 +5853,13 @@
       "title": "Seat utilization report accuracy",
       "path": "content/research/seat-utilization-report-accuracy.mdx",
       "featuredImage": "/blog/images/seat-utilization-report-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "security-attestation-currency",
+      "title": "Security attestation currency",
+      "path": "content/research/security-attestation-currency.mdx",
+      "featuredImage": "/blog/images/security-attestation-currency.webp"
     },
     {
       "type": "research",
@@ -5790,6 +5888,13 @@
       "title": "Service Handoff Decision Logs by Virtual Assistants",
       "path": "content/research/service-handoff-decision-log.md",
       "featuredImage": "/blog/images/virtual-assistant-customer-success-handoffs.webp"
+    },
+    {
+      "type": "research",
+      "slug": "service-level-credit-evidence-rate",
+      "title": "Service level credit evidence rate",
+      "path": "content/research/service-level-credit-evidence-rate.mdx",
+      "featuredImage": "/blog/images/service-level-credit-evidence-rate.webp"
     },
     {
       "type": "research",
