@@ -7757,6 +7757,111 @@
       "title": "Where does delay accumulate in the role scorecard handoff? for the November review",
       "path": "content/research/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.mdx",
       "featuredImage": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-knowledge-article-decommission-notice",
+      "title": "Audit a provider knowledge article decommission notice",
+      "path": "content/blog/audit-a-provider-knowledge-article-decommission-notice.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-knowledge-article-decommission-notice.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-workspace-equipment-allowance-claim",
+      "title": "Audit a provider workspace equipment allowance claim",
+      "path": "content/blog/audit-a-provider-workspace-equipment-allowance-claim.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-workspace-equipment-allowance-claim.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-interpretation-support-request",
+      "title": "Control a provider interpretation support request",
+      "path": "content/blog/control-a-provider-interpretation-support-request.mdx",
+      "featuredImage": "/blog/images/control-a-provider-interpretation-support-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-shared-mailbox-rule-change",
+      "title": "Control a provider shared mailbox rule change",
+      "path": "content/blog/control-a-provider-shared-mailbox-rule-change.mdx",
+      "featuredImage": "/blog/images/control-a-provider-shared-mailbox-rule-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-annual-compliance-certificate",
+      "title": "Reconcile a provider annual compliance certificate",
+      "path": "content/blog/reconcile-a-provider-annual-compliance-certificate.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-annual-compliance-certificate.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-meeting-summary-distribution-list",
+      "title": "Reconcile a provider meeting summary distribution list",
+      "path": "content/blog/reconcile-a-provider-meeting-summary-distribution-list.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-meeting-summary-distribution-list.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-client-visit-security-briefing",
+      "title": "Verify a provider client visit security briefing",
+      "path": "content/blog/verify-a-provider-client-visit-security-briefing.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-client-visit-security-briefing.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-escalation-contact-card",
+      "title": "Verify a provider escalation contact card",
+      "path": "content/blog/verify-a-provider-escalation-contact-card.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-escalation-contact-card.webp"
+    },
+    {
+      "type": "research",
+      "slug": "client-visit-briefing-approval-coverage",
+      "title": "Client visit briefing approval coverage",
+      "path": "content/research/client-visit-briefing-approval-coverage.mdx",
+      "featuredImage": "/blog/images/client-visit-briefing-approval-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "compliance-certificate-renewal-currency",
+      "title": "Compliance certificate renewal currency",
+      "path": "content/research/compliance-certificate-renewal-currency.mdx",
+      "featuredImage": "/blog/images/compliance-certificate-renewal-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "decommission-notice-coverage",
+      "title": "Decommission notice coverage",
+      "path": "content/research/decommission-notice-coverage.mdx",
+      "featuredImage": "/blog/images/decommission-notice-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "equipment-allowance-claim-evidence-coverage",
+      "title": "Equipment allowance claim evidence coverage",
+      "path": "content/research/equipment-allowance-claim-evidence-coverage.mdx",
+      "featuredImage": "/blog/images/equipment-allowance-claim-evidence-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "escalation-contact-card-currency",
+      "title": "Escalation contact card currency",
+      "path": "content/research/escalation-contact-card-currency.mdx",
+      "featuredImage": "/blog/images/escalation-contact-card-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "interpretation-request-documentation-coverage",
+      "title": "Interpretation request documentation coverage",
+      "path": "content/research/interpretation-request-documentation-coverage.mdx",
+      "featuredImage": "/blog/images/interpretation-request-documentation-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "meeting-summary-distribution-accuracy",
+      "title": "Meeting summary distribution accuracy",
+      "path": "content/research/meeting-summary-distribution-accuracy.mdx",
+      "featuredImage": "/blog/images/meeting-summary-distribution-accuracy.webp"
     }
   ]
 }
