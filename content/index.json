@@ -7862,6 +7862,111 @@
       "title": "Meeting summary distribution accuracy",
       "path": "content/research/meeting-summary-distribution-accuracy.mdx",
       "featuredImage": "/blog/images/meeting-summary-distribution-accuracy.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-time-zone-overlap-promise",
+      "title": "Audit a VA time zone overlap promise",
+      "path": "content/blog/audit-a-va-time-zone-overlap-promise.mdx",
+      "featuredImage": "/blog/images/audit-a-va-time-zone-overlap-promise.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-trial-task-scorecard-retention",
+      "title": "Audit a VA trial task scorecard retention",
+      "path": "content/blog/audit-a-va-trial-task-scorecard-retention.mdx",
+      "featuredImage": "/blog/images/audit-a-va-trial-task-scorecard-retention.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-va-client-data-deletion-request",
+      "title": "Control a VA client data deletion request",
+      "path": "content/blog/control-a-va-client-data-deletion-request.mdx",
+      "featuredImage": "/blog/images/control-a-va-client-data-deletion-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-va-subcontractor-disclosure-update",
+      "title": "Control a VA subcontractor disclosure update",
+      "path": "content/blog/control-a-va-subcontractor-disclosure-update.mdx",
+      "featuredImage": "/blog/images/control-a-va-subcontractor-disclosure-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-onboarding-video-library-access",
+      "title": "Reconcile a VA onboarding video library access",
+      "path": "content/blog/reconcile-a-va-onboarding-video-library-access.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-onboarding-video-library-access.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-seat-license-transfer",
+      "title": "Reconcile a VA seat license transfer",
+      "path": "content/blog/reconcile-a-va-seat-license-transfer.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-seat-license-transfer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-backup-coverage-roster",
+      "title": "Verify a VA backup coverage roster",
+      "path": "content/blog/verify-a-va-backup-coverage-roster.mdx",
+      "featuredImage": "/blog/images/verify-a-va-backup-coverage-roster.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-quality-review-calibration-note",
+      "title": "Verify a VA quality review calibration note",
+      "path": "content/blog/verify-a-va-quality-review-calibration-note.mdx",
+      "featuredImage": "/blog/images/verify-a-va-quality-review-calibration-note.webp"
+    },
+    {
+      "type": "research",
+      "slug": "client-data-deletion-request-closure-evidence",
+      "title": "Client data deletion request closure evidence",
+      "path": "content/research/client-data-deletion-request-closure-evidence.mdx",
+      "featuredImage": "/blog/images/client-data-deletion-request-closure-evidence.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-backup-coverage-roster-skill-match",
+      "title": "VA backup coverage roster skill match",
+      "path": "content/research/va-backup-coverage-roster-skill-match.mdx",
+      "featuredImage": "/blog/images/va-backup-coverage-roster-skill-match.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-onboarding-video-access-removal-at-offboarding",
+      "title": "VA onboarding video access removal at offboarding",
+      "path": "content/research/va-onboarding-video-access-removal-at-offboarding.mdx",
+      "featuredImage": "/blog/images/va-onboarding-video-access-removal-at-offboarding.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-quality-calibration-note-consistency",
+      "title": "VA quality calibration note consistency",
+      "path": "content/research/va-quality-calibration-note-consistency.mdx",
+      "featuredImage": "/blog/images/va-quality-calibration-note-consistency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-seat-license-transfer-release-coverage",
+      "title": "VA seat license transfer release coverage",
+      "path": "content/research/va-seat-license-transfer-release-coverage.mdx",
+      "featuredImage": "/blog/images/va-seat-license-transfer-release-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-time-zone-overlap-promise-accuracy",
+      "title": "VA time zone overlap promise accuracy",
+      "path": "content/research/va-time-zone-overlap-promise-accuracy.mdx",
+      "featuredImage": "/blog/images/va-time-zone-overlap-promise-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-trial-scorecard-retention-before-first-billing",
+      "title": "VA trial scorecard retention before first billing",
+      "path": "content/research/va-trial-scorecard-retention-before-first-billing.mdx",
+      "featuredImage": "/blog/images/va-trial-scorecard-retention-before-first-billing.webp"
     }
   ]
 }
