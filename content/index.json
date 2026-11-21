@@ -7967,6 +7967,111 @@
       "title": "VA trial scorecard retention before first billing",
       "path": "content/research/va-trial-scorecard-retention-before-first-billing.mdx",
       "featuredImage": "/blog/images/va-trial-scorecard-retention-before-first-billing.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-communication-tone-guideline-update",
+      "title": "Audit a VA communication tone guideline update",
+      "path": "content/blog/audit-a-va-communication-tone-guideline-update.mdx",
+      "featuredImage": "/blog/images/audit-a-va-communication-tone-guideline-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-monthly-invoice-task-hours-reconciliation",
+      "title": "Audit a VA monthly invoice task-hours reconciliation",
+      "path": "content/blog/audit-a-va-monthly-invoice-task-hours-reconciliation.mdx",
+      "featuredImage": "/blog/images/audit-a-va-monthly-invoice-task-hours-reconciliation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-client-data-export-approval",
+      "title": "Control a client data export approval",
+      "path": "content/blog/control-a-client-data-export-approval.mdx",
+      "featuredImage": "/blog/images/control-a-client-data-export-approval.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-client-user-access-removal-at-offboarding",
+      "title": "Control a client user access removal at offboarding",
+      "path": "content/blog/control-a-client-user-access-removal-at-offboarding.mdx",
+      "featuredImage": "/blog/images/control-a-client-user-access-removal-at-offboarding.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-holiday-coverage-calendar",
+      "title": "Reconcile a provider holiday coverage calendar",
+      "path": "content/blog/reconcile-a-provider-holiday-coverage-calendar.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-holiday-coverage-calendar.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-service-credit-claim",
+      "title": "Reconcile a provider service credit claim",
+      "path": "content/blog/reconcile-a-provider-service-credit-claim.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-service-credit-claim.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-replacement-knowledge-transfer",
+      "title": "Verify a VA replacement knowledge transfer",
+      "path": "content/blog/verify-a-va-replacement-knowledge-transfer.mdx",
+      "featuredImage": "/blog/images/verify-a-va-replacement-knowledge-transfer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-work-sample-scoring-rubric-version",
+      "title": "Verify a VA work sample scoring rubric version",
+      "path": "content/blog/verify-a-va-work-sample-scoring-rubric-version.mdx",
+      "featuredImage": "/blog/images/verify-a-va-work-sample-scoring-rubric-version.webp"
+    },
+    {
+      "type": "research",
+      "slug": "data-export-approval-coverage",
+      "title": "Data export approval coverage",
+      "path": "content/research/data-export-approval-coverage.mdx",
+      "featuredImage": "/blog/images/data-export-approval-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "holiday-coverage-owner-coverage",
+      "title": "Holiday coverage owner coverage",
+      "path": "content/research/holiday-coverage-owner-coverage.mdx",
+      "featuredImage": "/blog/images/holiday-coverage-owner-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "offboarding-access-removal-coverage",
+      "title": "Offboarding access removal coverage",
+      "path": "content/research/offboarding-access-removal-coverage.mdx",
+      "featuredImage": "/blog/images/offboarding-access-removal-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "replacement-knowledge-transfer-coverage",
+      "title": "Replacement knowledge transfer coverage",
+      "path": "content/research/replacement-knowledge-transfer-coverage.mdx",
+      "featuredImage": "/blog/images/replacement-knowledge-transfer-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "tone-guideline-training-coverage",
+      "title": "Tone guideline training coverage",
+      "path": "content/research/tone-guideline-training-coverage.mdx",
+      "featuredImage": "/blog/images/tone-guideline-training-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-invoice-task-hour-support-rate",
+      "title": "VA invoice task-hour support rate",
+      "path": "content/research/va-invoice-task-hour-support-rate.mdx",
+      "featuredImage": "/blog/images/va-invoice-task-hour-support-rate.webp"
+    },
+    {
+      "type": "research",
+      "slug": "work-sample-rubric-currency",
+      "title": "Work sample rubric currency",
+      "path": "content/research/work-sample-rubric-currency.mdx",
+      "featuredImage": "/blog/images/work-sample-rubric-currency.webp"
     }
   ]
 }
