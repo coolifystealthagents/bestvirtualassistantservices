@@ -4,6 +4,230 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-recorded-meeting-consent-note",
+      "title": "Audit a recorded meeting consent note",
+      "path": "content/blog/audit-a-recorded-meeting-consent-note.mdx",
+      "featuredImage": "/blog/images/audit-a-recorded-meeting-consent-note.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-virtual-assistant-substitute-bench-availability-log",
+      "title": "Audit a virtual assistant substitute bench availability log",
+      "path": "content/blog/audit-a-virtual-assistant-substitute-bench-availability-log.mdx",
+      "featuredImage": "/blog/images/audit-a-virtual-assistant-substitute-bench-availability-log.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-time-zone-handoff-note",
+      "title": "Control a provider time zone handoff note",
+      "path": "content/blog/control-a-provider-time-zone-handoff-note.mdx",
+      "featuredImage": "/blog/images/control-a-provider-time-zone-handoff-note.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-virtual-assistant-travel-booking-limit",
+      "title": "Control a virtual assistant travel booking limit",
+      "path": "content/blog/control-a-virtual-assistant-travel-booking-limit.mdx",
+      "featuredImage": "/blog/images/control-a-virtual-assistant-travel-booking-limit.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-client-specific-acronym-glossary",
+      "title": "Reconcile a client-specific acronym glossary",
+      "path": "content/blog/reconcile-a-client-specific-acronym-glossary.mdx",
+      "featuredImage": "/blog/images/reconcile-a-client-specific-acronym-glossary.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-invoice-currency-conversion",
+      "title": "Reconcile a provider invoice currency conversion",
+      "path": "content/blog/reconcile-a-provider-invoice-currency-conversion.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-invoice-currency-conversion.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-device-replacement-handover",
+      "title": "Verify a provider device replacement handover",
+      "path": "content/blog/verify-a-provider-device-replacement-handover.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-device-replacement-handover.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-leave-coverage-plan",
+      "title": "Verify a provider leave coverage plan",
+      "path": "content/blog/verify-a-provider-leave-coverage-plan.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-leave-coverage-plan.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-communication-tone-guideline-update",
+      "title": "Audit a VA communication tone guideline update",
+      "path": "content/blog/audit-a-va-communication-tone-guideline-update.mdx",
+      "featuredImage": "/blog/images/audit-a-va-communication-tone-guideline-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-monthly-invoice-task-hours-reconciliation",
+      "title": "Audit a VA monthly invoice task-hours reconciliation",
+      "path": "content/blog/audit-a-va-monthly-invoice-task-hours-reconciliation.mdx",
+      "featuredImage": "/blog/images/audit-a-va-monthly-invoice-task-hours-reconciliation.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-client-data-export-approval",
+      "title": "Control a client data export approval",
+      "path": "content/blog/control-a-client-data-export-approval.mdx",
+      "featuredImage": "/blog/images/control-a-client-data-export-approval.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-client-user-access-removal-at-offboarding",
+      "title": "Control a client user access removal at offboarding",
+      "path": "content/blog/control-a-client-user-access-removal-at-offboarding.mdx",
+      "featuredImage": "/blog/images/control-a-client-user-access-removal-at-offboarding.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-holiday-coverage-calendar",
+      "title": "Reconcile a provider holiday coverage calendar",
+      "path": "content/blog/reconcile-a-provider-holiday-coverage-calendar.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-holiday-coverage-calendar.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-service-credit-claim",
+      "title": "Reconcile a provider service credit claim",
+      "path": "content/blog/reconcile-a-provider-service-credit-claim.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-service-credit-claim.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-replacement-knowledge-transfer",
+      "title": "Verify a VA replacement knowledge transfer",
+      "path": "content/blog/verify-a-va-replacement-knowledge-transfer.mdx",
+      "featuredImage": "/blog/images/verify-a-va-replacement-knowledge-transfer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-work-sample-scoring-rubric-version",
+      "title": "Verify a VA work sample scoring rubric version",
+      "path": "content/blog/verify-a-va-work-sample-scoring-rubric-version.mdx",
+      "featuredImage": "/blog/images/verify-a-va-work-sample-scoring-rubric-version.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-time-zone-overlap-promise",
+      "title": "Audit a VA time zone overlap promise",
+      "path": "content/blog/audit-a-va-time-zone-overlap-promise.mdx",
+      "featuredImage": "/blog/images/audit-a-va-time-zone-overlap-promise.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-trial-task-scorecard-retention",
+      "title": "Audit a VA trial task scorecard retention",
+      "path": "content/blog/audit-a-va-trial-task-scorecard-retention.mdx",
+      "featuredImage": "/blog/images/audit-a-va-trial-task-scorecard-retention.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-va-client-data-deletion-request",
+      "title": "Control a VA client data deletion request",
+      "path": "content/blog/control-a-va-client-data-deletion-request.mdx",
+      "featuredImage": "/blog/images/control-a-va-client-data-deletion-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-va-subcontractor-disclosure-update",
+      "title": "Control a VA subcontractor disclosure update",
+      "path": "content/blog/control-a-va-subcontractor-disclosure-update.mdx",
+      "featuredImage": "/blog/images/control-a-va-subcontractor-disclosure-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-onboarding-video-library-access",
+      "title": "Reconcile a VA onboarding video library access",
+      "path": "content/blog/reconcile-a-va-onboarding-video-library-access.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-onboarding-video-library-access.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-seat-license-transfer",
+      "title": "Reconcile a VA seat license transfer",
+      "path": "content/blog/reconcile-a-va-seat-license-transfer.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-seat-license-transfer.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-backup-coverage-roster",
+      "title": "Verify a VA backup coverage roster",
+      "path": "content/blog/verify-a-va-backup-coverage-roster.mdx",
+      "featuredImage": "/blog/images/verify-a-va-backup-coverage-roster.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-va-quality-review-calibration-note",
+      "title": "Verify a VA quality review calibration note",
+      "path": "content/blog/verify-a-va-quality-review-calibration-note.mdx",
+      "featuredImage": "/blog/images/verify-a-va-quality-review-calibration-note.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-knowledge-article-decommission-notice",
+      "title": "Audit a provider knowledge article decommission notice",
+      "path": "content/blog/audit-a-provider-knowledge-article-decommission-notice.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-knowledge-article-decommission-notice.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-workspace-equipment-allowance-claim",
+      "title": "Audit a provider workspace equipment allowance claim",
+      "path": "content/blog/audit-a-provider-workspace-equipment-allowance-claim.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-workspace-equipment-allowance-claim.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-interpretation-support-request",
+      "title": "Control a provider interpretation support request",
+      "path": "content/blog/control-a-provider-interpretation-support-request.mdx",
+      "featuredImage": "/blog/images/control-a-provider-interpretation-support-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-shared-mailbox-rule-change",
+      "title": "Control a provider shared mailbox rule change",
+      "path": "content/blog/control-a-provider-shared-mailbox-rule-change.mdx",
+      "featuredImage": "/blog/images/control-a-provider-shared-mailbox-rule-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-annual-compliance-certificate",
+      "title": "Reconcile a provider annual compliance certificate",
+      "path": "content/blog/reconcile-a-provider-annual-compliance-certificate.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-annual-compliance-certificate.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-provider-meeting-summary-distribution-list",
+      "title": "Reconcile a provider meeting summary distribution list",
+      "path": "content/blog/reconcile-a-provider-meeting-summary-distribution-list.mdx",
+      "featuredImage": "/blog/images/reconcile-a-provider-meeting-summary-distribution-list.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-client-visit-security-briefing",
+      "title": "Verify a provider client visit security briefing",
+      "path": "content/blog/verify-a-provider-client-visit-security-briefing.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-client-visit-security-briefing.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-provider-escalation-contact-card",
+      "title": "Verify a provider escalation contact card",
+      "path": "content/blog/verify-a-provider-escalation-contact-card.mdx",
+      "featuredImage": "/blog/images/verify-a-provider-escalation-contact-card.webp"
+    },
+    {
+      "type": "blog",
       "slug": "audit-a-provider-invoice-dispute-record",
       "title": "Audit a provider invoice dispute record",
       "path": "content/blog/audit-a-provider-invoice-dispute-record.mdx",
@@ -5450,6 +5674,20 @@
     },
     {
       "type": "research",
+      "slug": "client-acronym-glossary-currency",
+      "title": "Client acronym glossary currency",
+      "path": "content/research/client-acronym-glossary-currency.mdx",
+      "featuredImage": "/blog/images/client-acronym-glossary-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "client-data-deletion-request-closure-evidence",
+      "title": "Client data deletion request closure evidence",
+      "path": "content/research/client-data-deletion-request-closure-evidence.mdx",
+      "featuredImage": "/blog/images/client-data-deletion-request-closure-evidence.webp"
+    },
+    {
+      "type": "research",
       "slug": "client-data-retention-purge-accuracy",
       "title": "Client data retention purge accuracy",
       "path": "content/research/client-data-retention-purge-accuracy.mdx",
@@ -5461,6 +5699,20 @@
       "title": "client data return sequencing",
       "path": "content/research/client-data-return-sequencing.mdx",
       "featuredImage": "/blog/images/client-data-return-sequencing.webp"
+    },
+    {
+      "type": "research",
+      "slug": "client-visit-briefing-approval-coverage",
+      "title": "Client visit briefing approval coverage",
+      "path": "content/research/client-visit-briefing-approval-coverage.mdx",
+      "featuredImage": "/blog/images/client-visit-briefing-approval-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "compliance-certificate-renewal-currency",
+      "title": "Compliance certificate renewal currency",
+      "path": "content/research/compliance-certificate-renewal-currency.mdx",
+      "featuredImage": "/blog/images/compliance-certificate-renewal-currency.webp"
     },
     {
       "type": "research",
@@ -5492,6 +5744,27 @@
     },
     {
       "type": "research",
+      "slug": "data-export-approval-coverage",
+      "title": "Data export approval coverage",
+      "path": "content/research/data-export-approval-coverage.mdx",
+      "featuredImage": "/blog/images/data-export-approval-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "decommission-notice-coverage",
+      "title": "Decommission notice coverage",
+      "path": "content/research/decommission-notice-coverage.mdx",
+      "featuredImage": "/blog/images/decommission-notice-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "device-replacement-handover-completeness",
+      "title": "Device replacement handover completeness",
+      "path": "content/research/device-replacement-handover-completeness.mdx",
+      "featuredImage": "/blog/images/device-replacement-handover-completeness.webp"
+    },
+    {
+      "type": "research",
       "slug": "do-written-client-updates-match-the-delivery-record-for-the-winter-planning-review",
       "title": "Do written client updates match the delivery record? for the winter planning review",
       "path": "content/research/do-written-client-updates-match-the-delivery-record-for-the-winter-planning-review.mdx",
@@ -5503,6 +5776,20 @@
       "title": "Does the client status page match the delivery record? for the winter planning review",
       "path": "content/research/does-the-client-status-page-match-the-delivery-record-for-the-winter-planning-review.mdx",
       "featuredImage": "/blog/images/does-the-client-status-page-match-the-delivery-record-for-the-winter-planning-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "equipment-allowance-claim-evidence-coverage",
+      "title": "Equipment allowance claim evidence coverage",
+      "path": "content/research/equipment-allowance-claim-evidence-coverage.mdx",
+      "featuredImage": "/blog/images/equipment-allowance-claim-evidence-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "escalation-contact-card-currency",
+      "title": "Escalation contact card currency",
+      "path": "content/research/escalation-contact-card-currency.mdx",
+      "featuredImage": "/blog/images/escalation-contact-card-currency.webp"
     },
     {
       "type": "research",
@@ -5538,6 +5825,13 @@
       "title": "Grant Application Evidence Indexing by Virtual Assistants",
       "path": "content/research/grant-application-evidence-index.md",
       "featuredImage": "/blog/images/virtual-assistant-donor-records-controls.webp"
+    },
+    {
+      "type": "research",
+      "slug": "holiday-coverage-owner-coverage",
+      "title": "Holiday coverage owner coverage",
+      "path": "content/research/holiday-coverage-owner-coverage.mdx",
+      "featuredImage": "/blog/images/holiday-coverage-owner-coverage.webp"
     },
     {
       "type": "research",
@@ -5737,6 +6031,13 @@
     },
     {
       "type": "research",
+      "slug": "interpretation-request-documentation-coverage",
+      "title": "Interpretation request documentation coverage",
+      "path": "content/research/interpretation-request-documentation-coverage.mdx",
+      "featuredImage": "/blog/images/interpretation-request-documentation-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "invoice-dispute-evidence-coverage",
       "title": "Invoice dispute evidence coverage",
       "path": "content/research/invoice-dispute-evidence-coverage.mdx",
@@ -5751,10 +6052,24 @@
     },
     {
       "type": "research",
+      "slug": "leave-coverage-plan-readiness",
+      "title": "Leave coverage plan readiness",
+      "path": "content/research/leave-coverage-plan-readiness.mdx",
+      "featuredImage": "/blog/images/leave-coverage-plan-readiness.webp"
+    },
+    {
+      "type": "research",
       "slug": "managed-vs-direct-virtual-assistant-supervision-evidence",
       "title": "Managed vs Direct Virtual Assistant Supervision Evidence",
       "path": "content/research/managed-vs-direct-virtual-assistant-supervision-evidence.mdx",
       "featuredImage": "/blog/images/virtual-assistant-calendar-capacity-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "meeting-summary-distribution-accuracy",
+      "title": "Meeting summary distribution accuracy",
+      "path": "content/research/meeting-summary-distribution-accuracy.mdx",
+      "featuredImage": "/blog/images/meeting-summary-distribution-accuracy.webp"
     },
     {
       "type": "research",
@@ -5769,6 +6084,13 @@
       "title": "Newsletter Delivery Exception Review by Virtual Assistants",
       "path": "content/research/newsletter-delivery-exception-review.md",
       "featuredImage": "/blog/images/virtual-assistant-email-newsletter-operations.webp"
+    },
+    {
+      "type": "research",
+      "slug": "offboarding-access-removal-coverage",
+      "title": "Offboarding access removal coverage",
+      "path": "content/research/offboarding-access-removal-coverage.mdx",
+      "featuredImage": "/blog/images/offboarding-access-removal-coverage.webp"
     },
     {
       "type": "research",
@@ -5835,6 +6157,13 @@
     },
     {
       "type": "research",
+      "slug": "recorded-meeting-consent-capture-rate",
+      "title": "Recorded meeting consent capture rate",
+      "path": "content/research/recorded-meeting-consent-capture-rate.mdx",
+      "featuredImage": "/blog/images/recorded-meeting-consent-capture-rate.webp"
+    },
+    {
+      "type": "research",
       "slug": "reference-check-completion-before-selection",
       "title": "Reference check completion before selection",
       "path": "content/research/reference-check-completion-before-selection.mdx",
@@ -5846,6 +6175,13 @@
       "title": "Renewal review completion before notice deadline",
       "path": "content/research/renewal-review-completion-before-notice-deadline.mdx",
       "featuredImage": "/blog/images/renewal-review-completion-before-notice-deadline.webp"
+    },
+    {
+      "type": "research",
+      "slug": "replacement-knowledge-transfer-coverage",
+      "title": "Replacement knowledge transfer coverage",
+      "path": "content/research/replacement-knowledge-transfer-coverage.mdx",
+      "featuredImage": "/blog/images/replacement-knowledge-transfer-coverage.webp"
     },
     {
       "type": "research",
@@ -5919,10 +6255,38 @@
     },
     {
       "type": "research",
+      "slug": "substitute-bench-availability-coverage",
+      "title": "Substitute bench availability coverage",
+      "path": "content/research/substitute-bench-availability-coverage.mdx",
+      "featuredImage": "/blog/images/substitute-bench-availability-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "time-zone-handoff-note-accuracy",
+      "title": "Time zone handoff note accuracy",
+      "path": "content/research/time-zone-handoff-note-accuracy.mdx",
+      "featuredImage": "/blog/images/time-zone-handoff-note-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "tone-guideline-training-coverage",
+      "title": "Tone guideline training coverage",
+      "path": "content/research/tone-guideline-training-coverage.mdx",
+      "featuredImage": "/blog/images/tone-guideline-training-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "tool-license-named-user-accuracy",
       "title": "Tool license named-user accuracy",
       "path": "content/research/tool-license-named-user-accuracy.mdx",
       "featuredImage": "/blog/images/tool-license-named-user-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "travel-booking-approval-compliance",
+      "title": "Travel booking approval compliance",
+      "path": "content/research/travel-booking-approval-compliance.mdx",
+      "featuredImage": "/blog/images/travel-booking-approval-compliance.webp"
     },
     {
       "type": "research",
@@ -5937,6 +6301,55 @@
       "title": "trial project acceptance evidence rate",
       "path": "content/research/trial-project-acceptance-evidence-rate.mdx",
       "featuredImage": "/blog/images/trial-project-acceptance-evidence-rate.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-backup-coverage-roster-skill-match",
+      "title": "VA backup coverage roster skill match",
+      "path": "content/research/va-backup-coverage-roster-skill-match.mdx",
+      "featuredImage": "/blog/images/va-backup-coverage-roster-skill-match.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-invoice-task-hour-support-rate",
+      "title": "VA invoice task-hour support rate",
+      "path": "content/research/va-invoice-task-hour-support-rate.mdx",
+      "featuredImage": "/blog/images/va-invoice-task-hour-support-rate.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-onboarding-video-access-removal-at-offboarding",
+      "title": "VA onboarding video access removal at offboarding",
+      "path": "content/research/va-onboarding-video-access-removal-at-offboarding.mdx",
+      "featuredImage": "/blog/images/va-onboarding-video-access-removal-at-offboarding.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-quality-calibration-note-consistency",
+      "title": "VA quality calibration note consistency",
+      "path": "content/research/va-quality-calibration-note-consistency.mdx",
+      "featuredImage": "/blog/images/va-quality-calibration-note-consistency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-seat-license-transfer-release-coverage",
+      "title": "VA seat license transfer release coverage",
+      "path": "content/research/va-seat-license-transfer-release-coverage.mdx",
+      "featuredImage": "/blog/images/va-seat-license-transfer-release-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-time-zone-overlap-promise-accuracy",
+      "title": "VA time zone overlap promise accuracy",
+      "path": "content/research/va-time-zone-overlap-promise-accuracy.mdx",
+      "featuredImage": "/blog/images/va-time-zone-overlap-promise-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "va-trial-scorecard-retention-before-first-billing",
+      "title": "VA trial scorecard retention before first billing",
+      "path": "content/research/va-trial-scorecard-retention-before-first-billing.mdx",
+      "featuredImage": "/blog/images/va-trial-scorecard-retention-before-first-billing.webp"
     },
     {
       "type": "research",
@@ -7757,314 +8170,6 @@
       "title": "Where does delay accumulate in the role scorecard handoff? for the November review",
       "path": "content/research/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.mdx",
       "featuredImage": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "audit-a-provider-knowledge-article-decommission-notice",
-      "title": "Audit a provider knowledge article decommission notice",
-      "path": "content/blog/audit-a-provider-knowledge-article-decommission-notice.mdx",
-      "featuredImage": "/blog/images/audit-a-provider-knowledge-article-decommission-notice.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "audit-a-provider-workspace-equipment-allowance-claim",
-      "title": "Audit a provider workspace equipment allowance claim",
-      "path": "content/blog/audit-a-provider-workspace-equipment-allowance-claim.mdx",
-      "featuredImage": "/blog/images/audit-a-provider-workspace-equipment-allowance-claim.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "control-a-provider-interpretation-support-request",
-      "title": "Control a provider interpretation support request",
-      "path": "content/blog/control-a-provider-interpretation-support-request.mdx",
-      "featuredImage": "/blog/images/control-a-provider-interpretation-support-request.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "control-a-provider-shared-mailbox-rule-change",
-      "title": "Control a provider shared mailbox rule change",
-      "path": "content/blog/control-a-provider-shared-mailbox-rule-change.mdx",
-      "featuredImage": "/blog/images/control-a-provider-shared-mailbox-rule-change.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "reconcile-a-provider-annual-compliance-certificate",
-      "title": "Reconcile a provider annual compliance certificate",
-      "path": "content/blog/reconcile-a-provider-annual-compliance-certificate.mdx",
-      "featuredImage": "/blog/images/reconcile-a-provider-annual-compliance-certificate.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "reconcile-a-provider-meeting-summary-distribution-list",
-      "title": "Reconcile a provider meeting summary distribution list",
-      "path": "content/blog/reconcile-a-provider-meeting-summary-distribution-list.mdx",
-      "featuredImage": "/blog/images/reconcile-a-provider-meeting-summary-distribution-list.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "verify-a-provider-client-visit-security-briefing",
-      "title": "Verify a provider client visit security briefing",
-      "path": "content/blog/verify-a-provider-client-visit-security-briefing.mdx",
-      "featuredImage": "/blog/images/verify-a-provider-client-visit-security-briefing.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "verify-a-provider-escalation-contact-card",
-      "title": "Verify a provider escalation contact card",
-      "path": "content/blog/verify-a-provider-escalation-contact-card.mdx",
-      "featuredImage": "/blog/images/verify-a-provider-escalation-contact-card.webp"
-    },
-    {
-      "type": "research",
-      "slug": "client-visit-briefing-approval-coverage",
-      "title": "Client visit briefing approval coverage",
-      "path": "content/research/client-visit-briefing-approval-coverage.mdx",
-      "featuredImage": "/blog/images/client-visit-briefing-approval-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "compliance-certificate-renewal-currency",
-      "title": "Compliance certificate renewal currency",
-      "path": "content/research/compliance-certificate-renewal-currency.mdx",
-      "featuredImage": "/blog/images/compliance-certificate-renewal-currency.webp"
-    },
-    {
-      "type": "research",
-      "slug": "decommission-notice-coverage",
-      "title": "Decommission notice coverage",
-      "path": "content/research/decommission-notice-coverage.mdx",
-      "featuredImage": "/blog/images/decommission-notice-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "equipment-allowance-claim-evidence-coverage",
-      "title": "Equipment allowance claim evidence coverage",
-      "path": "content/research/equipment-allowance-claim-evidence-coverage.mdx",
-      "featuredImage": "/blog/images/equipment-allowance-claim-evidence-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "escalation-contact-card-currency",
-      "title": "Escalation contact card currency",
-      "path": "content/research/escalation-contact-card-currency.mdx",
-      "featuredImage": "/blog/images/escalation-contact-card-currency.webp"
-    },
-    {
-      "type": "research",
-      "slug": "interpretation-request-documentation-coverage",
-      "title": "Interpretation request documentation coverage",
-      "path": "content/research/interpretation-request-documentation-coverage.mdx",
-      "featuredImage": "/blog/images/interpretation-request-documentation-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "meeting-summary-distribution-accuracy",
-      "title": "Meeting summary distribution accuracy",
-      "path": "content/research/meeting-summary-distribution-accuracy.mdx",
-      "featuredImage": "/blog/images/meeting-summary-distribution-accuracy.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "audit-a-va-time-zone-overlap-promise",
-      "title": "Audit a VA time zone overlap promise",
-      "path": "content/blog/audit-a-va-time-zone-overlap-promise.mdx",
-      "featuredImage": "/blog/images/audit-a-va-time-zone-overlap-promise.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "audit-a-va-trial-task-scorecard-retention",
-      "title": "Audit a VA trial task scorecard retention",
-      "path": "content/blog/audit-a-va-trial-task-scorecard-retention.mdx",
-      "featuredImage": "/blog/images/audit-a-va-trial-task-scorecard-retention.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "control-a-va-client-data-deletion-request",
-      "title": "Control a VA client data deletion request",
-      "path": "content/blog/control-a-va-client-data-deletion-request.mdx",
-      "featuredImage": "/blog/images/control-a-va-client-data-deletion-request.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "control-a-va-subcontractor-disclosure-update",
-      "title": "Control a VA subcontractor disclosure update",
-      "path": "content/blog/control-a-va-subcontractor-disclosure-update.mdx",
-      "featuredImage": "/blog/images/control-a-va-subcontractor-disclosure-update.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "reconcile-a-va-onboarding-video-library-access",
-      "title": "Reconcile a VA onboarding video library access",
-      "path": "content/blog/reconcile-a-va-onboarding-video-library-access.mdx",
-      "featuredImage": "/blog/images/reconcile-a-va-onboarding-video-library-access.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "reconcile-a-va-seat-license-transfer",
-      "title": "Reconcile a VA seat license transfer",
-      "path": "content/blog/reconcile-a-va-seat-license-transfer.mdx",
-      "featuredImage": "/blog/images/reconcile-a-va-seat-license-transfer.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "verify-a-va-backup-coverage-roster",
-      "title": "Verify a VA backup coverage roster",
-      "path": "content/blog/verify-a-va-backup-coverage-roster.mdx",
-      "featuredImage": "/blog/images/verify-a-va-backup-coverage-roster.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "verify-a-va-quality-review-calibration-note",
-      "title": "Verify a VA quality review calibration note",
-      "path": "content/blog/verify-a-va-quality-review-calibration-note.mdx",
-      "featuredImage": "/blog/images/verify-a-va-quality-review-calibration-note.webp"
-    },
-    {
-      "type": "research",
-      "slug": "client-data-deletion-request-closure-evidence",
-      "title": "Client data deletion request closure evidence",
-      "path": "content/research/client-data-deletion-request-closure-evidence.mdx",
-      "featuredImage": "/blog/images/client-data-deletion-request-closure-evidence.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-backup-coverage-roster-skill-match",
-      "title": "VA backup coverage roster skill match",
-      "path": "content/research/va-backup-coverage-roster-skill-match.mdx",
-      "featuredImage": "/blog/images/va-backup-coverage-roster-skill-match.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-onboarding-video-access-removal-at-offboarding",
-      "title": "VA onboarding video access removal at offboarding",
-      "path": "content/research/va-onboarding-video-access-removal-at-offboarding.mdx",
-      "featuredImage": "/blog/images/va-onboarding-video-access-removal-at-offboarding.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-quality-calibration-note-consistency",
-      "title": "VA quality calibration note consistency",
-      "path": "content/research/va-quality-calibration-note-consistency.mdx",
-      "featuredImage": "/blog/images/va-quality-calibration-note-consistency.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-seat-license-transfer-release-coverage",
-      "title": "VA seat license transfer release coverage",
-      "path": "content/research/va-seat-license-transfer-release-coverage.mdx",
-      "featuredImage": "/blog/images/va-seat-license-transfer-release-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-time-zone-overlap-promise-accuracy",
-      "title": "VA time zone overlap promise accuracy",
-      "path": "content/research/va-time-zone-overlap-promise-accuracy.mdx",
-      "featuredImage": "/blog/images/va-time-zone-overlap-promise-accuracy.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-trial-scorecard-retention-before-first-billing",
-      "title": "VA trial scorecard retention before first billing",
-      "path": "content/research/va-trial-scorecard-retention-before-first-billing.mdx",
-      "featuredImage": "/blog/images/va-trial-scorecard-retention-before-first-billing.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "audit-a-va-communication-tone-guideline-update",
-      "title": "Audit a VA communication tone guideline update",
-      "path": "content/blog/audit-a-va-communication-tone-guideline-update.mdx",
-      "featuredImage": "/blog/images/audit-a-va-communication-tone-guideline-update.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "audit-a-va-monthly-invoice-task-hours-reconciliation",
-      "title": "Audit a VA monthly invoice task-hours reconciliation",
-      "path": "content/blog/audit-a-va-monthly-invoice-task-hours-reconciliation.mdx",
-      "featuredImage": "/blog/images/audit-a-va-monthly-invoice-task-hours-reconciliation.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "control-a-client-data-export-approval",
-      "title": "Control a client data export approval",
-      "path": "content/blog/control-a-client-data-export-approval.mdx",
-      "featuredImage": "/blog/images/control-a-client-data-export-approval.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "control-a-client-user-access-removal-at-offboarding",
-      "title": "Control a client user access removal at offboarding",
-      "path": "content/blog/control-a-client-user-access-removal-at-offboarding.mdx",
-      "featuredImage": "/blog/images/control-a-client-user-access-removal-at-offboarding.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "reconcile-a-provider-holiday-coverage-calendar",
-      "title": "Reconcile a provider holiday coverage calendar",
-      "path": "content/blog/reconcile-a-provider-holiday-coverage-calendar.mdx",
-      "featuredImage": "/blog/images/reconcile-a-provider-holiday-coverage-calendar.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "reconcile-a-provider-service-credit-claim",
-      "title": "Reconcile a provider service credit claim",
-      "path": "content/blog/reconcile-a-provider-service-credit-claim.mdx",
-      "featuredImage": "/blog/images/reconcile-a-provider-service-credit-claim.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "verify-a-va-replacement-knowledge-transfer",
-      "title": "Verify a VA replacement knowledge transfer",
-      "path": "content/blog/verify-a-va-replacement-knowledge-transfer.mdx",
-      "featuredImage": "/blog/images/verify-a-va-replacement-knowledge-transfer.webp"
-    },
-    {
-      "type": "blog",
-      "slug": "verify-a-va-work-sample-scoring-rubric-version",
-      "title": "Verify a VA work sample scoring rubric version",
-      "path": "content/blog/verify-a-va-work-sample-scoring-rubric-version.mdx",
-      "featuredImage": "/blog/images/verify-a-va-work-sample-scoring-rubric-version.webp"
-    },
-    {
-      "type": "research",
-      "slug": "data-export-approval-coverage",
-      "title": "Data export approval coverage",
-      "path": "content/research/data-export-approval-coverage.mdx",
-      "featuredImage": "/blog/images/data-export-approval-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "holiday-coverage-owner-coverage",
-      "title": "Holiday coverage owner coverage",
-      "path": "content/research/holiday-coverage-owner-coverage.mdx",
-      "featuredImage": "/blog/images/holiday-coverage-owner-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "offboarding-access-removal-coverage",
-      "title": "Offboarding access removal coverage",
-      "path": "content/research/offboarding-access-removal-coverage.mdx",
-      "featuredImage": "/blog/images/offboarding-access-removal-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "replacement-knowledge-transfer-coverage",
-      "title": "Replacement knowledge transfer coverage",
-      "path": "content/research/replacement-knowledge-transfer-coverage.mdx",
-      "featuredImage": "/blog/images/replacement-knowledge-transfer-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "tone-guideline-training-coverage",
-      "title": "Tone guideline training coverage",
-      "path": "content/research/tone-guideline-training-coverage.mdx",
-      "featuredImage": "/blog/images/tone-guideline-training-coverage.webp"
-    },
-    {
-      "type": "research",
-      "slug": "va-invoice-task-hour-support-rate",
-      "title": "VA invoice task-hour support rate",
-      "path": "content/research/va-invoice-task-hour-support-rate.mdx",
-      "featuredImage": "/blog/images/va-invoice-task-hour-support-rate.webp"
     },
     {
       "type": "research",
