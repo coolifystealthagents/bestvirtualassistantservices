@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-provider-security-questionnaire-response",
+      "title": "Audit a provider security questionnaire response",
+      "path": "content/blog/audit-a-provider-security-questionnaire-response.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-security-questionnaire-response.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-va-provider-invoice-approval-threshold",
+      "title": "Audit a VA provider invoice approval threshold",
+      "path": "content/blog/audit-a-va-provider-invoice-approval-threshold.mdx",
+      "featuredImage": "/blog/images/audit-a-va-provider-invoice-approval-threshold.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-quality-calibration-session",
+      "title": "Control a provider quality calibration session",
+      "path": "content/blog/control-a-provider-quality-calibration-session.mdx",
+      "featuredImage": "/blog/images/control-a-provider-quality-calibration-session.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-shift-coverage-exception",
+      "title": "Control a provider shift coverage exception",
+      "path": "content/blog/control-a-provider-shift-coverage-exception.mdx",
+      "featuredImage": "/blog/images/control-a-provider-shift-coverage-exception.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-seat-transfer-request",
+      "title": "Reconcile a VA seat transfer request",
+      "path": "content/blog/reconcile-a-va-seat-transfer-request.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-seat-transfer-request.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-work-sample-library-index",
+      "title": "Reconcile a VA work sample library index",
+      "path": "content/blog/reconcile-a-va-work-sample-library-index.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-work-sample-library-index.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-client-delegation-matrix-update",
+      "title": "Verify a client delegation matrix update",
+      "path": "content/blog/verify-a-client-delegation-matrix-update.mdx",
+      "featuredImage": "/blog/images/verify-a-client-delegation-matrix-update.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-client-onboarding-call-recording-archive",
+      "title": "Verify a client onboarding call recording archive",
+      "path": "content/blog/verify-a-client-onboarding-call-recording-archive.mdx",
+      "featuredImage": "/blog/images/verify-a-client-onboarding-call-recording-archive.webp"
+    },
+    {
+      "type": "blog",
       "slug": "audit-a-recorded-meeting-consent-note",
       "title": "Audit a recorded meeting consent note",
       "path": "content/blog/audit-a-recorded-meeting-consent-note.mdx",
@@ -5758,6 +5814,13 @@
     },
     {
       "type": "research",
+      "slug": "delegation-matrix-update-coverage",
+      "title": "Delegation matrix update coverage",
+      "path": "content/research/delegation-matrix-update-coverage.mdx",
+      "featuredImage": "/blog/images/delegation-matrix-update-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "device-replacement-handover-completeness",
       "title": "Device replacement handover completeness",
       "path": "content/research/device-replacement-handover-completeness.mdx",
@@ -6038,6 +6101,13 @@
     },
     {
       "type": "research",
+      "slug": "invoice-approval-threshold-coverage",
+      "title": "Invoice approval threshold coverage",
+      "path": "content/research/invoice-approval-threshold-coverage.mdx",
+      "featuredImage": "/blog/images/invoice-approval-threshold-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "invoice-dispute-evidence-coverage",
       "title": "Invoice dispute evidence coverage",
       "path": "content/research/invoice-dispute-evidence-coverage.mdx",
@@ -6150,6 +6220,13 @@
     },
     {
       "type": "research",
+      "slug": "quality-calibration-coverage",
+      "title": "Quality calibration coverage",
+      "path": "content/research/quality-calibration-coverage.mdx",
+      "featuredImage": "/blog/images/quality-calibration-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "quality-sample-coverage-of-rework-types",
       "title": "Quality sample coverage of rework types",
       "path": "content/research/quality-sample-coverage-of-rework-types.mdx",
@@ -6161,6 +6238,13 @@
       "title": "Recorded meeting consent capture rate",
       "path": "content/research/recorded-meeting-consent-capture-rate.mdx",
       "featuredImage": "/blog/images/recorded-meeting-consent-capture-rate.webp"
+    },
+    {
+      "type": "research",
+      "slug": "recording-archive-coverage",
+      "title": "Recording archive coverage",
+      "path": "content/research/recording-archive-coverage.mdx",
+      "featuredImage": "/blog/images/recording-archive-coverage.webp"
     },
     {
       "type": "research",
@@ -6196,6 +6280,13 @@
       "title": "Security attestation currency",
       "path": "content/research/security-attestation-currency.mdx",
       "featuredImage": "/blog/images/security-attestation-currency.webp"
+    },
+    {
+      "type": "research",
+      "slug": "security-questionnaire-coverage",
+      "title": "Security questionnaire coverage",
+      "path": "content/research/security-questionnaire-coverage.mdx",
+      "featuredImage": "/blog/images/security-questionnaire-coverage.webp"
     },
     {
       "type": "research",
@@ -6245,6 +6336,13 @@
       "title": "Shared Drive Folder Governance by Virtual Assistants",
       "path": "content/research/shared-drive-folder-governance.md",
       "featuredImage": "/blog/images/virtual-assistant-document-access-governance.webp"
+    },
+    {
+      "type": "research",
+      "slug": "shift-coverage-exception-coverage",
+      "title": "Shift coverage exception coverage",
+      "path": "content/research/shift-coverage-exception-coverage.mdx",
+      "featuredImage": "/blog/images/shift-coverage-exception-coverage.webp"
     },
     {
       "type": "research",
@@ -8170,6 +8268,13 @@
       "title": "Where does delay accumulate in the role scorecard handoff? for the November review",
       "path": "content/research/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.mdx",
       "featuredImage": "/blog/images/where-does-delay-accumulate-in-the-role-scorecard-handoff-for-the-november-review.webp"
+    },
+    {
+      "type": "research",
+      "slug": "work-sample-index-accuracy",
+      "title": "Work sample index accuracy",
+      "path": "content/research/work-sample-index-accuracy.mdx",
+      "featuredImage": "/blog/images/work-sample-index-accuracy.webp"
     },
     {
       "type": "research",
