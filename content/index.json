@@ -4,6 +4,62 @@
   "posts": [
     {
       "type": "blog",
+      "slug": "audit-a-provider-onboarding-document-expiry",
+      "title": "Audit a provider onboarding document expiry",
+      "path": "content/blog/audit-a-provider-onboarding-document-expiry.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-onboarding-document-expiry.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "audit-a-provider-subcontractor-roster",
+      "title": "Audit a provider subcontractor roster",
+      "path": "content/blog/audit-a-provider-subcontractor-roster.mdx",
+      "featuredImage": "/blog/images/audit-a-provider-subcontractor-roster.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-quality-sample-backlog",
+      "title": "Control a provider quality sample backlog",
+      "path": "content/blog/control-a-provider-quality-sample-backlog.mdx",
+      "featuredImage": "/blog/images/control-a-provider-quality-sample-backlog.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "control-a-provider-seat-utilization-exception",
+      "title": "Control a provider seat utilization exception",
+      "path": "content/blog/control-a-provider-seat-utilization-exception.mdx",
+      "featuredImage": "/blog/images/control-a-provider-seat-utilization-exception.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-role-transfer-handover",
+      "title": "Reconcile a VA role transfer handover",
+      "path": "content/blog/reconcile-a-va-role-transfer-handover.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-role-transfer-handover.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "reconcile-a-va-timesheet-rounding-rule",
+      "title": "Reconcile a VA timesheet rounding rule",
+      "path": "content/blog/reconcile-a-va-timesheet-rounding-rule.mdx",
+      "featuredImage": "/blog/images/reconcile-a-va-timesheet-rounding-rule.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-client-delegation-limit-change",
+      "title": "Verify a client delegation limit change",
+      "path": "content/blog/verify-a-client-delegation-limit-change.mdx",
+      "featuredImage": "/blog/images/verify-a-client-delegation-limit-change.webp"
+    },
+    {
+      "type": "blog",
+      "slug": "verify-a-client-meeting-recording-retention",
+      "title": "Verify a client meeting recording retention",
+      "path": "content/blog/verify-a-client-meeting-recording-retention.mdx",
+      "featuredImage": "/blog/images/verify-a-client-meeting-recording-retention.webp"
+    },
+    {
+      "type": "blog",
       "slug": "audit-a-provider-security-questionnaire-response",
       "title": "Audit a provider security questionnaire response",
       "path": "content/blog/audit-a-provider-security-questionnaire-response.mdx",
@@ -5814,6 +5870,13 @@
     },
     {
       "type": "research",
+      "slug": "delegation-limit-change-coverage",
+      "title": "Delegation limit change coverage",
+      "path": "content/research/delegation-limit-change-coverage.mdx",
+      "featuredImage": "/blog/images/delegation-limit-change-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "delegation-matrix-update-coverage",
       "title": "Delegation matrix update coverage",
       "path": "content/research/delegation-matrix-update-coverage.mdx",
@@ -6171,6 +6234,13 @@
     },
     {
       "type": "research",
+      "slug": "onboarding-document-expiry-coverage",
+      "title": "Onboarding document expiry coverage",
+      "path": "content/research/onboarding-document-expiry-coverage.mdx",
+      "featuredImage": "/blog/images/onboarding-document-expiry-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "onboarding-training-completion-before-client-work",
       "title": "Onboarding training completion before client work",
       "path": "content/research/onboarding-training-completion-before-client-work.mdx",
@@ -6227,6 +6297,13 @@
     },
     {
       "type": "research",
+      "slug": "quality-sample-backlog-coverage",
+      "title": "Quality sample backlog coverage",
+      "path": "content/research/quality-sample-backlog-coverage.mdx",
+      "featuredImage": "/blog/images/quality-sample-backlog-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "quality-sample-coverage-of-rework-types",
       "title": "Quality sample coverage of rework types",
       "path": "content/research/quality-sample-coverage-of-rework-types.mdx",
@@ -6248,6 +6325,13 @@
     },
     {
       "type": "research",
+      "slug": "recording-retention-coverage",
+      "title": "Recording retention coverage",
+      "path": "content/research/recording-retention-coverage.mdx",
+      "featuredImage": "/blog/images/recording-retention-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "reference-check-completion-before-selection",
       "title": "Reference check completion before selection",
       "path": "content/research/reference-check-completion-before-selection.mdx",
@@ -6266,6 +6350,13 @@
       "title": "Replacement knowledge transfer coverage",
       "path": "content/research/replacement-knowledge-transfer-coverage.mdx",
       "featuredImage": "/blog/images/replacement-knowledge-transfer-coverage.webp"
+    },
+    {
+      "type": "research",
+      "slug": "seat-exception-coverage",
+      "title": "Seat exception coverage",
+      "path": "content/research/seat-exception-coverage.mdx",
+      "featuredImage": "/blog/images/seat-exception-coverage.webp"
     },
     {
       "type": "research",
@@ -6353,6 +6444,13 @@
     },
     {
       "type": "research",
+      "slug": "subcontractor-roster-coverage",
+      "title": "Subcontractor roster coverage",
+      "path": "content/research/subcontractor-roster-coverage.mdx",
+      "featuredImage": "/blog/images/subcontractor-roster-coverage.webp"
+    },
+    {
+      "type": "research",
       "slug": "substitute-bench-availability-coverage",
       "title": "Substitute bench availability coverage",
       "path": "content/research/substitute-bench-availability-coverage.mdx",
@@ -6364,6 +6462,13 @@
       "title": "Time zone handoff note accuracy",
       "path": "content/research/time-zone-handoff-note-accuracy.mdx",
       "featuredImage": "/blog/images/time-zone-handoff-note-accuracy.webp"
+    },
+    {
+      "type": "research",
+      "slug": "timesheet-rounding-coverage",
+      "title": "Timesheet rounding coverage",
+      "path": "content/research/timesheet-rounding-coverage.mdx",
+      "featuredImage": "/blog/images/timesheet-rounding-coverage.webp"
     },
     {
       "type": "research",
