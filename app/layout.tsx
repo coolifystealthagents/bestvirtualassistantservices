@@ -8,6 +8,8 @@ import { JsonLd } from './components';
 import { site } from './data';
 import { VisiblePunctuationSanitizer } from './visible-punctuation-sanitizer';
 
+import "./site-chrome-fixes.css";
+
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: { default: 'Compare the Best Virtual Assistant Services', template: '%s | Best Virtual Assistant Services' },
