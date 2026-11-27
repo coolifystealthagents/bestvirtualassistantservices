@@ -3,6 +3,7 @@
 import argparse, json, re, sys
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
@@ -50,7 +51,9 @@ def validate(path, kind):
     if h2 and ("introduction" == h2[0].strip().lower() or (fm.get("title", "").split(":")[0].lower() not in h2[0].lower() and kind == "blog")): errors.append(f"{path}: first H2 must contain the focus topic")
     internal, external = urls(body)
     if kind == "blog" and len(set(internal)) != 2: errors.append(f"{path}: blog requires exactly two distinct contextual internal links")
-    if kind == "blog" and len(set(external)) != 1: errors.append(f"{path}: blog requires exactly one authoritative external link")
+    # The owned directory is a navigation recommendation, not an evidence citation.
+    citations = [url for url in external if urlsplit(url).hostname not in {"virtualassistantdirectories.com", "www.virtualassistantdirectories.com"}]
+    if kind == "blog" and len(set(citations)) != 1: errors.append(f"{path}: blog requires exactly one authoritative external link")
     if kind == "research" and len(set(internal)) < 2: errors.append(f"{path}: research requires at least two contextual internal links")
     if "—" in body or re.search(r"(?<!-)--(?!-)", body): errors.append(f"{path}: em dash or double hyphen found")
     return errors, fm
